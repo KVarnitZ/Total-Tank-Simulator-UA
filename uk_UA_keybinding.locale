@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>Space</key>
+      <context>keybinding</context>
+      <value>Space</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Quote</key>
+      <context>keybinding</context>
+      <value>Quote</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Backslash</key>
+      <context>keybinding</context>
+      <value>Backslash</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Period</key>
+      <context>keybinding</context>
+      <value>Period</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Slash</key>
+      <context>keybinding</context>
+      <value>Slash</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Left Shift</key>
+      <context>keybinding</context>
+      <value>Left Shift</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Semicolon</key>
+      <context>keybinding</context>
+      <value>Semicolon</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>End</key>
+      <context>keybinding</context>
+      <value>End</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Equals</key>
+      <context>keybinding</context>
+      <value>Equals</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Left Ctrl</key>
+      <context>keybinding</context>
+      <value>Left Ctrl</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Minus</key>
+      <context>keybinding</context>
+      <value>Minus</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Comma</key>
+      <context>keybinding</context>
+      <value>Comma</value>
+      <plurals />
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

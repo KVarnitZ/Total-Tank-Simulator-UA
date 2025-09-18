@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>No</key>
+      <value>Ні</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Play</key>
+      <value>Грати</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Begin act I</key>
+      <value>Почати Розділ I</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Apply</key>
+      <value>Примінити</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Quality</key>
+      <value>Якість</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CPU Quality</key>
+      <value>ЦП якість</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Do you want to delete profile</key>
+      <value>Ви хочете видалити профіль?</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0}% more money</key>
+      <value>На {0}% більше коштів</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0}% less money</key>
+      <value>На {0}% менше коштів</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SCENARIOS:</key>
+      <value>СЦЕНАРІЇ:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Artillery training</key>
+      <context>tutorial.scenario_name</context>
+      <value>Вишкіл артилеристів</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Battle - overview</key>
+      <context>tutorial.scenario_name</context>
+      <value>Огляд битви</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Deployment</key>
+      <context>tutorial.scenario_name</context>
+      <value>Розгортання</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Officers</key>
+      <context>tutorial.scenario_name</context>
+      <value>Офіцери</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unit control</key>
+      <context>tutorial.scenario_name</context>
+      <value>Керування одиницями</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Long village</key>
+      <value>Довге село</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Brown hillock</key>
+      <value>Бурий горб</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>River war</key>
+      <value>Річкова війна</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hill sanctuary</key>
+      <value>Святилище на пагорбі</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Twin hills</key>
+      <value>Пагорби-двійнята</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>British farm</key>
+      <value>Британська ферма</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dover coast</key>
+      <value>Узбережжя Дувра</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Agricultural dream</key>
+      <value>Аграрна мрія</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Frozen Fields</key>
+      <value>Мерзлі поля</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hoarfrost plains</key>
+      <value>Паморозь</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0}
+{1} - Act {2}</key>
+      <value>{0}
+{1} - Розділ {2}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Do you want to delete profile {0}?</key>
+      <value>Видалити профіль {0}?</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Exit campaign</key>
+      <value>Вийти з кампанії</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>EXIT CAMPAIGN?</key>
+      <value>ВИЙТИ З КАМПАНІЇ?</value>
+      <plurals />
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

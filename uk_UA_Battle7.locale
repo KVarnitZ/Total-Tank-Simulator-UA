@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>Building Armour</key>
+      <context>game.armour_type</context>
+      <value>Building Armor</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Car Armour</key>
+      <context>game.armour_type</context>
+      <value>Car Armor</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>No Armour</key>
+      <context>game.armour_type</context>
+      <value>No Armor</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Heavy Armour</key>
+      <context>game.armour_type</context>
+      <value>Heavy Armor</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Light Armour</key>
+      <context>game.armour_type</context>
+      <value>Light Armor</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Medium Armour</key>
+      <context>game.armour_type</context>
+      <value>Medium Armor</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Standard Armour</key>
+      <context>game.armour_type</context>
+      <value>Standard Armor</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>TD Armour</key>
+      <context>game.armour_type</context>
+      <value>TD Armor</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Anti Air Weapon</key>
+      <context>game.damage_type</context>
+      <value>Anti-Air Weapon</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Anti Infantry Weapon</key>
+      <context>game.damage_type</context>
+      <value>Anti-Infantry Weapon</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Artillery Weapon</key>
+      <context>game.damage_type</context>
+      <value>Artillery Weapon</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Blade</key>
+      <context>game.damage_type</context>
+      <value>Blade</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bomb</key>
+      <context>game.damage_type</context>
+      <value>Bomb</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Explosive</key>
+      <context>game.damage_type</context>
+      <value>Explosive</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flame</key>
+      <context>game.damage_type</context>
+      <value>Flame</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Force Field</key>
+      <context>game.damage_type</context>
+      <value>Force Field</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Heavy Weapon</key>
+      <context>game.damage_type</context>
+      <value>Heavy Weapon</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Light Weapon</key>
+      <context>game.damage_type</context>
+      <value>Light Weapon</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Medium Weapon</key>
+      <context>game.damage_type</context>
+      <value>Medium Weapon</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>TD Weapon</key>
+      <context>game.damage_type</context>
+      <value>TD Weapon</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Infantry Weapon</key>
+      <context>game.damage_type</context>
+      <value>Infantry Weapon</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Standard</key>
+      <context>game.damage_type</context>
+      <value>Standard</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rocket</key>
+      <context>game.damage_type</context>
+      <value>Rocket</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bomber Weapon</key>
+      <context>game.damage_type</context>
+      <value>Bomber Weapon</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Capturing</key>
+      <context>game.unitstate</context>
+      <value>Capturing</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Immobilized</key>
+      <context>game.unitstate</context>
+      <value>Immobilized</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drowning</key>
+      <context>game.unitstate</context>
+      <value>Drowning</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Burning</key>
+      <context>game.unitstate</context>
+      <value>Burning</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Paralysed</key>
+      <context>game.unitstate</context>
+      <value>Paralyzed</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Being repaired</key>
+      <context>game.unitstate</context>
+      <value>Being repaired</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Pirating</key>
+      <context>game.unitstate</context>
+      <value>Pirating</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Atomic bomb</key>
+      <context>game.unitstate</context>
+      <value>Atomic bomb</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0}s</key>
+      <value>{0}s</value>
+      <comment>s for seconds</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0}m</key>
+      <value>{0}m</value>
+      <comment>m for meters</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You can't spawn more units</key>
+      <value>You can't spawn more units</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Toggle units counturs</key>
+      <value>Toggle unit contours</value>
+      <comment>tooltip on a button to toggle unit contours</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Toggle filter view</key>
+      <value>Toggle filter view</value>
+      <comment>tooltip on a button to toggle filters</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Show movement directions</key>
+      <value>Show movement directions</value>
+      <comment>tooltip on a button to show units movement arrows</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Show explosive shells indicators</key>
+      <value>Show explosive shell indicators</value>
+      <comment>tooltip on a button to show unit bullet (explosives) indicators</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>HP bars</key>
+      <value>HP bars</value>
+      <comment>tooltip on a button to toggle health bars mode</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Don't draw health bars</key>
+      <value>Hide health bars</value>
+      <comment>tooltip on a button to disable drawing health bars</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Draw health bars for damaged units</key>
+      <value>Show health bars for damaged units</value>
+      <comment>tooltip on a button to draw health bars only for damaged units</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Always draw health bars</key>
+      <value>Show all health bars</value>
+      <comment>tooltip on a button to always draw unit health bars</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Filters</key>
+      <value>Filters</value>
+      <comment>tooltip on a button to toggle filters view</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Normal view</key>
+      <value>Normal view</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unit groups view</key>
+      <value>Unit groups view</value>
+      <comment>tooltip on a button to switch to unit groups view</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Military front lines view</key>
+      <value>Military front lines view</value>
+      <comment>tooltip on a button to show military front lines</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Toggle slow motion</key>
+      <value>Toggle slow motion</value>
+      <comment>tooltip on a button to toggle slow motion</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Press {0} to switch camera mode</key>
+      <value>Press {0} to toggle camera modes</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Toggle camera modes</key>
+      <value>Toggle camera modes</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Slow motion: on</key>
+      <value>Slow motion: on</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Slow motion: off</key>
+      <value>Slow motion: off</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unit contours: on</key>
+      <value>Unit contours: on</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unit contours: off</key>
+      <value>Unit contours: off</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Explosive shells indicators: on</key>
+      <value>Explosive shells indicators: on</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Explosive shells indicators: off</key>
+      <value>Explosive shells indicators: off</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Target arrows: on</key>
+      <value>Target arrows: on</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Target arrows: off</key>
+      <value>Target arrows: off</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Health bars: hidden</key>
+      <value>Health bars: hidden</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Health bars: hidden if full</key>
+      <value>Health bars: show for damaged</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Health bars: always shown</key>
+      <value>Health bars: always shown</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Filtered view: unit groups</key>
+      <value>Filtered view: unit groups</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Filtered view: military front lines</key>
+      <value>Filtered view: military front lines</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Comparing {0} against other enemy units</key>
+      <value>Comparing {0} against other enemy units</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Press {0} to unpause</key>
+      <value>Press {0} to resume</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hold any key to skip</key>
+      <value>Hold any key to skip</value>
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

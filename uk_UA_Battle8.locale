@@ -1,0 +1,795 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>Point of interest</key>
+      <value>Point of interest</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Point of interest is a place which units fight for.</key>
+      <value>Units will fight for points of interest</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>unit state</key>
+      <value>unit state</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>weapons</key>
+      <value>weapons</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Range</key>
+      <value>Range</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Survival time</key>
+      <value>Survival time</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hold {0} to remove units</key>
+      <value>Hold {0} to remove units</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You can't spawn on the enemy sides</key>
+      <value>You can't spawn on the enemy side</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You can't switch to the enemy side</key>
+      <value>You can't switch to the enemy side</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>action</key>
+      <value>action</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fuel</key>
+      <context>game.unitstate</context>
+      <value>Fuel</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Health points</key>
+      <context>game.unitstate</context>
+      <value>Health points</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Idle</key>
+      <context>game.ai_action</context>
+      <value>Idle</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Servicing</key>
+      <context>game.unitstate</context>
+      <value>Servicing</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bail out</key>
+      <context>game.ai_action</context>
+      <value>Bail out</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Return to airport</key>
+      <context>game.ai_action</context>
+      <value>Return to airport</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kamikaze attack</key>
+      <context>game.ai_action</context>
+      <value>Kamikaze attack</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Enter unit</key>
+      <context>game.ai_action</context>
+      <value>Enter unit</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Repair friendly unit</key>
+      <context>game.ai_action</context>
+      <value>Repair friendly unit</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Enter unit for transport</key>
+      <context>game.ai_action</context>
+      <value>Enter unit for transport</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Throw granade</key>
+      <context>game.ai_action</context>
+      <value>Throw grenade</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack</key>
+      <context>game.ai_action</context>
+      <value>Attack</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drop atomic bomb</key>
+      <context>game.ai_action</context>
+      <value>Drop atomic bomb</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack with ATR</key>
+      <context>game.ai_action</context>
+      <value>Attack with ATR</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flank</key>
+      <context>game.ai_action</context>
+      <value>Flank</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Surround</key>
+      <context>game.ai_action</context>
+      <value>Surround</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Run away</key>
+      <context>game.ai_action</context>
+      <value>Run away</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Back off</key>
+      <context>game.ai_action</context>
+      <value>Back off</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Find crew</key>
+      <context>game.ai_action</context>
+      <value>Find crew</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Find recovery vehicle</key>
+      <context>game.ai_action</context>
+      <value>Find recovery vehicle</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Find transport units</key>
+      <context>game.ai_action</context>
+      <value>Find transport units</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Capture spawner</key>
+      <context>game.ai_action</context>
+      <value>Capture spawner</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Chase target</key>
+      <context>game.ai_action</context>
+      <value>Chase target</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Defend spawner</key>
+      <context>game.ai_action</context>
+      <value>Defend spawner</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Defend cover</key>
+      <context>game.ai_action</context>
+      <value>Defend cover</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack nest</key>
+      <context>game.ai_action</context>
+      <value>Attack nest</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack spawner</key>
+      <context>game.ai_action</context>
+      <value>Attack spawner</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Enter transport unit</key>
+      <context>game.ai_action</context>
+      <value>Enter transport unit</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sneak out</key>
+      <context>game.ai_action</context>
+      <value>Sneak out</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack ground units</key>
+      <context>game.ai_action</context>
+      <value>Attack ground units</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Land on the enemy</key>
+      <context>game.ai_action</context>
+      <value>Land on the enemy</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Land on the ground</key>
+      <context>game.ai_action</context>
+      <value>Land on the ground</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Follow friendly unit</key>
+      <context>game.ai_action</context>
+      <value>Follow friendly unit</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack from a hideout</key>
+      <context>game.ai_action</context>
+      <value>Attack from a hideout</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack with knife</key>
+      <context>game.ai_action</context>
+      <value>Attack with knife</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sneak with knife</key>
+      <context>game.ai_action</context>
+      <value>Sneak with knife</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use medkit</key>
+      <context>game.ai_action</context>
+      <value>Use medkit</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Look for the enemy</key>
+      <context>game.ai_action</context>
+      <value>Look for the enemy</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move to the point of interest</key>
+      <context>game.ai_action</context>
+      <value>Move to the point of interest</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move to the cover</key>
+      <context>game.ai_action</context>
+      <value>Move to the cover</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use panzerfaust</key>
+      <context>game.ai_action</context>
+      <value>Use panzerfaust</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack with sniper rifle</key>
+      <context>game.ai_action</context>
+      <value>Attack with sniper rifle</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use supply box</key>
+      <context>game.ai_action</context>
+      <value>Use supply box</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Wait for the enemy</key>
+      <context>game.ai_action</context>
+      <value>Wait for the enemy</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use Molotov cocktail</key>
+      <context>game.ai_action</context>
+      <value>Use Molotov cocktail</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move towards enemy spawner</key>
+      <context>game.ai_action</context>
+      <value>Move towards enemy spawner</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Panic!</key>
+      <context>game.ai_action</context>
+      <value>Panic!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Capture enemy unit</key>
+      <context>game.ai_action</context>
+      <value>Capture enemy unit</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use pistol</key>
+      <context>game.ai_action</context>
+      <value>Use pistol</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ramming</key>
+      <context>game.ai_action</context>
+      <value>Ramming</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ramming enemy tanks</key>
+      <context>game.ai_action</context>
+      <value>Ramming enemy tanks</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Capture building</key>
+      <context>game.ai_action</context>
+      <value>Capture building</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move forward</key>
+      <context>game.ai_action</context>
+      <value>Move forward</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move to the center of map</key>
+      <context>game.ai_action</context>
+      <value>Move to the center of map</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move to the hill</key>
+      <context>game.ai_action</context>
+      <value>Move to the hill</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use rifle</key>
+      <context>game.ai_action</context>
+      <value>Use rifle</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Run away from the group</key>
+      <context>game.ai_action</context>
+      <value>Run away from the group</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack target in the building</key>
+      <context>game.ai_action</context>
+      <value>Attack target in the building</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use SMG</key>
+      <context>game.ai_action</context>
+      <value>Use SMG</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use smoke granade</key>
+      <context>game.ai_action</context>
+      <value>Use smoke grenade</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Snipe</key>
+      <context>game.ai_action</context>
+      <value>Snipe</value>
+      <comment>Not as a sniper infantry - it is used on tanks, which stay in place and shoot from distnce. Similar to sniper with sniper rifle, but it is not sniper rifle</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use sticky bomb</key>
+      <context>game.ai_action</context>
+      <value>Use sticky bomb</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Throw knife</key>
+      <context>game.ai_action</context>
+      <value>Throw knife</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bail out driver</key>
+      <context>game.ai_action</context>
+      <value>Bail out driver</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move to destination</key>
+      <context>game.ai_action</context>
+      <value>Move to destination</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move to infantry</key>
+      <context>game.ai_action</context>
+      <value>Move to infantry</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Land</key>
+      <context>game.ai_action</context>
+      <value>Land</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Return to the airport</key>
+      <context>game.ai_action</context>
+      <value>Return to the airport</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Load passengers</key>
+      <context>game.ai_action</context>
+      <value>Load passengers</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Try keep distance</key>
+      <context>game.ai_action</context>
+      <value>Try keep distance</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>(including crews)</key>
+      <value>(including crews)</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>HP/Armor: {0}/{1}</key>
+      <value>HP/Armor: {0}/{1}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DMG/s: {0}/{1}</key>
+      <value>DMG/s: {0}/{1}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Return to base</key>
+      <value>Return to base</value>
+      <comment>Message shown when player is low on fuel in an airplane</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Refueling...</key>
+      <value>Refueling...</value>
+      <comment>Message shown when player is refueling a plane at the airport</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Arming A-bomb...</key>
+      <value>Arming A-bomb...</value>
+      <comment>Message shown when player is steering an atomic bomber and atomic bomb is arming</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>A-bomb ready...</key>
+      <value>A-bomb ready...</value>
+      <comment>Message shown when player is steering an atomic bomber and the atomic bomb is ready to drop</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>A-bomb dropped...</key>
+      <value>A-bomb dropped...</value>
+      <comment>Message shown when player is steering an atomic bomber and the atomic bomb has been dropped already</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Return to 
+battle area!</key>
+      <value>Return to 
+battle area!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>On fire!</key>
+      <value>On fire!</value>
+      <comment>A message shown when player is burning</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Paralyzed!</key>
+      <value>Paralyzed!</value>
+      <comment>A message shown when player is paralysed by tesla radar</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>BEING
+REPAIRED</key>
+      <value>BEING
+REPAIRED</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>REARMING</key>
+      <value>REARMING</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Capturing</key>
+      <value>Capturing</value>
+      <comment>Shown when pirate tank is pirating another tank</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Current wave</key>
+      <value>Current wave</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>PROTECT VIPs</key>
+      <value>PROTECT VIPs</value>
+      <comment>The goal of protect the vip mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>NO OBJECTIVES</key>
+      <value>NO OBJECTIVES</value>
+      <comment>When playing sandbox there are no objectives</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Deploy Both Nations</key>
+      <value>Deploy Both Nations</value>
+      <comment>Header shown when player starts the first battle in shadow mode</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Battle #1</key>
+      <value>Battle #1</value>
+      <comment>Header shown when player starts the first battle in shadow mode</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>REDRAW</key>
+      <value>REDRAW</value>
+      <comment>After nation rulette, player can redraw to change the nation.</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Climb ladder</key>
+      <context>hint</context>
+      <value>Climb ladder</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Enter as passenger</key>
+      <value>Enter as passenger</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>NO</key>
+      <value>NO</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>YES</key>
+      <value>YES</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>last {0}</key>
+      <context>artillery</context>
+      <value>last {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Player</key>
+      <value>Player</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rearming...</key>
+      <value>Rearming...</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>EXPLODED</key>
+      <value>EXPLODED</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CRASHED</key>
+      <value>CRASHED</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>No weapon</key>
+      <context>battle.ui</context>
+      <value>No weapon</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Time {0}:{1}</key>
+      <context>game</context>
+      <value>Time {0}:{1}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SURRENDER</key>
+      <value>SURRENDER</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Surrender?</key>
+      <value>Surrender?</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Go back to menu?</key>
+      <value>Go back to menu?</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Reset Mission?</key>
+      <value>Reset Mission?</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hover enemy unit to compare strength</key>
+      <value>Hover enemy unit to compare strength</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Choose unit to deploy to compare strength</key>
+      <value>Choose unit to deploy to compare strength</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Switch to previous weapon</key>
+      <value>Switch to the previous weapon</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Switch to next weapon</key>
+      <value>Switch to the next weapon</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Empty spawners</key>
+      <context>game.alert.emptyspawners</context>
+      <value>Empty spawners</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>There are empty spawners, they will not produce anything.
+Click on a spawner to modify production queue.
+
+Are you sure you want to start the battle anyway?</key>
+      <context>game.alert.emptyspawners</context>
+      <value>There are empty spawners, they will not produce anything.
+Click on a spawner to set production queue.
+
+Are you sure you want to start the battle anyway?</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Filter mode</key>
+      <value>Filter mode</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Health bar mode</key>
+      <value>Health bar mode</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tactical view</key>
+      <value>Tactical view</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Cinematic view</key>
+      <value>Cinematic view</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Switch unit view</key>
+      <value>Switch unit view</value>
+      <ignored />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Switch unit</key>
+      <value>Switch unit</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Toggle: , and .</key>
+      <value>Toggle: , and .</value>
+      <ignored />
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Engage: I, Change speed: [ and ]</key>
+      <value>Engage: I, Change speed: [ and ]</value>
+      <ignored />
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Engage: {0}, speed up: {1}, slow down: {2}</key>
+      <context>battle.left_buttons</context>
+      <value>Engage: {0}, speed up: {1}, slow down: {2}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Toggle: {0}</key>
+      <context>battle.left_buttons</context>
+      <value>Toggle: {0}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Are you sure you want to clear all units?</key>
+      <value>Are you sure you want to clear all units?</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Are you sure you want to clear all units on the selected side?</key>
+      <value>Are you sure you want to clear all units on the selected side?</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Confirmation</key>
+      <value>Confirmation</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Timeout! No time left to finish the battle.</key>
+      <context>game.winning_condition</context>
+      <value>Timeout! No time left to finish the battle.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>All enemy VIPs are dead!</key>
+      <context>game.winning_condition</context>
+      <value>All enemy VIPs are dead!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>All enemy units are dead!</key>
+      <context>game.winning_condition</context>
+      <value>All enemy units are dead!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>All your units are dead!</key>
+      <context>game.winning_condition</context>
+      <value>All your units are dead!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Your your VIPs are dead!</key>
+      <context>game.winning_condition</context>
+      <value>All your VIPs are dead!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>All units are dead!</key>
+      <context>game.winning_condition</context>
+      <value>All units are dead!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You have survived all waves!</key>
+      <context>game.winning_condition</context>
+      <value>You survived all waves!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You haven't survived any wave!</key>
+      <context>game.winning_condition</context>
+      <value>You didn't survive any waves!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You have survived {0} out of {1} waves</key>
+      <context>game.winning_condition</context>
+      <value>You survived {0} out of {1} waves</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Repair Tool</key>
+      <value>Repair Tool</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Spawns vehicles.</key>
+      <value>Spawns vehicles.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Garage</key>
+      <value>Garage</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>No orders given yet</key>
+      <value>No orders given yet</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>No matching orders</key>
+      <value>No matching orders</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drag to select units, 
+SHIFT to add to selection, Ctrl to subtract</key>
+      <value>Drag to select units, 
+ SHIFT to add to selection, Ctrl to subtract</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Air to ground</key>
+      <value>Air to ground</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Artillery attack</key>
+      <value>Artillery attack</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack</key>
+      <value>Attack</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Defend</key>
+      <value>Defend</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flank left</key>
+      <value>Flank left</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flank right</key>
+      <value>Flank right</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Take cover</key>
+      <value>Take cover</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Give orders</key>
+      <value>Give orders</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hold and defend position</key>
+      <value>Hold and defend position</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>No resolutions</key>
+      <value>No resolutions</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flank from the right and attack</key>
+      <value>Flank from the right and attack</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move to target and attack</key>
+      <value>Move to target and attack</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Prioritize selected units</key>
+      <value>Prioritize selected units</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flank from the left and attack</key>
+      <value>Flank from the left and attack</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sniper tower</key>
+      <value>Sniper tower</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tower with snipers and riflemen.</key>
+      <value>Tower with snipers and riflemen.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Smoke bomb</key>
+      <context>game.ai_action</context>
+      <value>Smoke</value>
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

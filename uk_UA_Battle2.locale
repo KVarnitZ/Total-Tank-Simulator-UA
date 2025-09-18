@@ -1,0 +1,1875 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>Project Pegasus</key>
+      <value>Project Pegasus</value>
+      <plurals />
+      <comment>name of unit, usa clasified weapon </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>FrenchNest</key>
+      <value>French Nest</value>
+      <plurals />
+      <comment>name of unit, it is a machinegun placed inside a shelter looking like a bird nest </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>TK-3</key>
+      <value>TK-3</value>
+      <plurals />
+      <comment>name of unit, do not translate </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Vickers MK II</key>
+      <value>Vickers MK II</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>MK II</key>
+      <value>MK II</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>FCM 36</key>
+      <value>FCM 36</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mine Field</key>
+      <value>Mine Field</value>
+      <plurals />
+      <comment>name of unit, field filled with mines</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Die Ratte</key>
+      <value>Die Ratte</value>
+      <plurals />
+      <comment>name of german unit, do not translate </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Special Air Service</key>
+      <value>Special Air Service</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SAS</key>
+      <value>SAS</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>French Foreign Legion</key>
+      <value>French Foreign Legion</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>FFL</key>
+      <value>FFL</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Paratrooper</key>
+      <value>Paratrooper</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Silent Unseen</key>
+      <value>Silent Unseen</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Goliath Mine</key>
+      <value>Goliath Mine</value>
+      <plurals />
+      <comment>name of german unit, mine  </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Universal Carrier</key>
+      <value>Universal Carrier</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kangaroo APC</key>
+      <value>Kangaroo APC</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fiat_621_trn</key>
+      <value>Fiat_621_trn</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>m35a2</key>
+      <value>Mil 35 Transport</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Antonov A-40</key>
+      <value>Antonov A-40</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Su-76</key>
+      <value>Su-76</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SU100</key>
+      <value>SU100</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>GAZ-67</key>
+      <value>GAZ-67</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>T-28</key>
+      <value>T-28</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>T-34-85</key>
+      <value>T-34-85</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>T-35</key>
+      <value>T-35</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SMK</key>
+      <value>SMK</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SU-85</key>
+      <value>SU-85</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Katyusha multiple rocket launcher</key>
+      <value>Katyusha</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>45mm AT M-42</key>
+      <value>45mm AT M-42</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>76mm ZIS-2</key>
+      <value>76mm ZIS-2</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>100 mm field gun M1944 (BS-3)</key>
+      <value>100 mm field gun M1944 (BS-3)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>122 mm howitzer M1938 (M-30)</key>
+      <value>122 mm howitzer M1938 (M-30)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M1939 85mm</key>
+      <value>M1939 85mm</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M1914/15</key>
+      <value>M1914/15</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Su-14</key>
+      <value>Su-14</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>LA-7</key>
+      <value>LA-7</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tupolev Tu-2</key>
+      <value>Tupolev Tu-2</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Panzer VI Tiger I</key>
+      <value>Panzer VI Tiger I</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Panzer VI Tiger II</key>
+      <value>Panzer VI Tiger II</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Panzer VIII Maus</key>
+      <value>Panzer VIII Maus</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Panzer VII Löwe</key>
+      <value>Panzer VII Löwe</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Jagdpanzer IV</key>
+      <value>Jagdpanzer IV</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Panzer E-100</key>
+      <value>Panzer E-100</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Jagdpanzer 38</key>
+      <value>Jagdpanzer 38</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>8.8 cm Pak 43</key>
+      <value>8.8 cm Pak 43</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>German Artillery</key>
+      <value>German Artillery</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>8.8cm Flak</key>
+      <value>8.8cm Flak</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flakpanzer IV "Wirbelwind"</key>
+      <value>Flakpanzer IV Wirbelwind</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Panzerkampfwagen I B</key>
+      <value>Panzerkampfwagen I B</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Junkers Ju 87</key>
+      <value>Junkers Ju 87</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Junkers Ju 88</key>
+      <value>Junkers Ju 88</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Me 262</key>
+      <value>Me 262</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M3 Stuart</key>
+      <value>M3 Stuart</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M24 Chaffee</key>
+      <value>M24 Chaffee</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M4A3 Sherman</key>
+      <value>M4A3 Sherman</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M4A3E2 Jumbo</key>
+      <value>M4A3E2 Jumbo</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M1 Abrams</key>
+      <value>M1 Abrams</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M26 Pershing</key>
+      <value>M26 Pershing</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Heavy Tank T29</key>
+      <value>Heavy Tank T29</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M48A3 Patton</key>
+      <value>Mil 48 PttN</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M103 Heavy Tank</key>
+      <value>Mil 103 Heavy Tank</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M18 Hellcat</key>
+      <value>M18 Hellcat</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M10 Wolverine</key>
+      <value>M10 Wolverine</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Jeep Willys</key>
+      <value>Jeep Willys</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M3 Lee</key>
+      <value>M3 Lee</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lee</key>
+      <value>Lee</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M4A3E8 Fury</key>
+      <value>M4A3E8 Fury</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fury</key>
+      <value>Fury</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>T26E4 Super Pershing</key>
+      <value>T26E4 Super Pershing</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>S. Pershing</key>
+      <value>S. Pershing</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>T34B</key>
+      <value>T34B</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M3 Gun Motor Carriage</key>
+      <value>M3 Gun Motor Carriage</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M3 GMC</key>
+      <value>M3 GMC</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sherman Calliope</key>
+      <value>Sherman Calliope</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>T40 Whizbang</key>
+      <value>T40 Whizbang</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>105 mm M101A1 howitzer</key>
+      <value>105 mm M101A1 howitzer</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>3 inch Gun M5</key>
+      <value>3-inch Gun M5</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M45 Quadmount</key>
+      <value>M45 Quadmount</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bofors 40mm</key>
+      <value>Bofors 40mm</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M3 half-track</key>
+      <value>M3 half-track</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sherman M4E8</key>
+      <value>Sherman M4E8</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M7 Priest</key>
+      <value>M7 Priest</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M32 Tank Recovery Vehicle</key>
+      <value>M32 Tank Recovery Vehicle</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bedford QL</key>
+      <value>Bedford QL</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>T-20 Komsomolets</key>
+      <value>T-20 Komsomolets</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>T17E1 Staghound</key>
+      <value>T17E1 Staghound</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M8 Greyhound</key>
+      <value>M8 Greyhound</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>LAV-300</key>
+      <value>LAV-300</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sherman Crab</key>
+      <value>Sherman Crab</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>P40 Warhawk</key>
+      <value>P40 Warhawk</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>P38 Lightning</key>
+      <value>P38 Lightning</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>P-51 Mustang</key>
+      <value>P-51 Mustang</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>F-16</key>
+      <value>F-16</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Cromwell (A27M)</key>
+      <value>Cromwell A27M</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Black Prince (A43)</key>
+      <value>Black Prince A43</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hotchkiss H35</key>
+      <value>Hotchkiss H35</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ordnance QF 25-pounder</key>
+      <value>Ordnance QF 25-pounder</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Land Mattress</key>
+      <value>Land Mattress</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Canon de 194 mle GPF</key>
+      <value>Canon de 194 mle GPF</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>PZL P.7</key>
+      <value>PZL P.7</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>PZL.37 Łoś</key>
+      <value>PZL.37 Łoś</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Renault R35</key>
+      <value>Renault R35</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Char  D2</key>
+      <value>Char D2</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>A39 Tortoise</key>
+      <value>A39 Tortoise</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tortoise</key>
+      <value>Tortoise</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Canon de 75 CA</key>
+      <value>Canon de 75 CA</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Citroen 23R Canon de 75</key>
+      <value>Lemon 2R Canon de 75</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>A22 Churchill Mk IV</key>
+      <value>A22 Churchill Mk IV</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Panhard 178</key>
+      <value>Pan-H</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Somua S35</key>
+      <value>Somua S35</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Anti-air platform</key>
+      <value>Anti-air platform</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>AA platform</key>
+      <value>AA platform</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Wall</key>
+      <value>Wall</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dewotine D.520</key>
+      <value>Dewotine D.520</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lioré-et-Olivier LeO 45</key>
+      <value>Lioré-et-Olivier LeO 45</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Cruiser Tank Mk IV (A13 Mk II)</key>
+      <value>Cruiser Tank Mk IV A13 Mk II</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>A15 Crusader</key>
+      <value>A15 Crusader</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>A12 Matilda II</key>
+      <value>A12 Matilda II</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mk IV (A22) Churchill</key>
+      <value>Mk IV A22 Churchill</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>A33 (Excelsior)</key>
+      <value>A33 Excelsior</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>A30 Challenger</key>
+      <value>A30 Challenger</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>A13 Cruiser Mk III</key>
+      <value>A13 Cruiser Mk III</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mk III</key>
+      <value>Mk III</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Comet I (A34)</key>
+      <value>Comet I A34</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Comet</key>
+      <value>Comet</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>A41 (Centurion)</key>
+      <value>A41 CENT</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Centurion</key>
+      <value>CENT</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ordnance QF 2-pounder</key>
+      <value>Ordnance QF 2-pounder</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ordnance Quick-Firing 6-pounder 7 cwt</key>
+      <value>Ordnance QF 6-pounder 7 cwt</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Disrupt Radar</key>
+      <value>Tesla Radar</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bedford QLD</key>
+      <value>Bedford QLD</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Light Tank MK VI</key>
+      <value>Light Tank MK VI</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hawker Hurricane</key>
+      <value>Hawker Hurricane</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Supermarine Spitfire</key>
+      <value>Supermarine Spitfire</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bristol Type 156 Beaufighter</key>
+      <value>Bristol Type 156 Beaufighter</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hawker Typhoon</key>
+      <value>Hawker Typhoon</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>de Havilland Vampire</key>
+      <value>de Havilland Vampire</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Boulton Paul Defiant</key>
+      <value>Boulton Paul Defiant</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>B29 Bomber</key>
+      <value>B29 Bomber</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Avro Lancaster</key>
+      <value>Avro Lancaster</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Avro Lancaster Grand Slam</key>
+      <value>Avro Lancaster Grand Slam</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tupolev Ant-20</key>
+      <value>Tupolev Ant-20</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Douglas C47 Skytrain</key>
+      <value>Douglas C47 Skytrain</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Airspeed Horsa</key>
+      <value>Airspeed Horsa</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Horten Ho 229</key>
+      <value>Horten Ho 229</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Land mine</key>
+      <value>Land mine</value>
+      <plurals />
+      <comment>mine that is placed in the ground </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mine</key>
+      <value>Mine</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sherman Dozer</key>
+      <value>Sherman Dozer</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>AA gun</key>
+      <value>AA gun</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Cluster bomb</key>
+      <value>Cluster bomb</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Pirate hook</key>
+      <value>Pirate hook</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Atomic Bomb</key>
+      <value>Atomic Bomb</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mine spawner</key>
+      <value>Mine spawner</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Gewehr 43</key>
+      <value>Gewehr 43</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Luger</key>
+      <value>Luger</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Knife</key>
+      <value>Knife</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Stielhandgrenade</key>
+      <value>Stielhandgrenade</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Medic Kit</key>
+      <value>Medic Kit</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Molotov</key>
+      <value>Molotov</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SVT40</key>
+      <value>SVT40</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>NagantM1895</key>
+      <value>NagantM1895</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>NR 40</key>
+      <value>NR 40</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>F1</key>
+      <value>F1</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M1 Carabine</key>
+      <value>M1 Carabine</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>MK2</key>
+      <value>MK2</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kbsp 38M</key>
+      <value>Kbsp 38M</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>VIS 35</key>
+      <value>VIS 35</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>WZ33</key>
+      <value>WZ33</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>RSCM1917</key>
+      <value>RSCM1917</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>MAB</key>
+      <value>MAB</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Force Weapon</key>
+      <value>Force Weapon</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lee Enfield</key>
+      <value>Lee Enfield</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kukri</key>
+      <value>Kukri</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mills Bomb</key>
+      <value>Mills Bomb</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>STG44</key>
+      <value>STG44</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Panzerfaust</key>
+      <value>Panzerfaust</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hafthohlladung</key>
+      <value>Hafthohlladung</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Throwing Knife</key>
+      <value>Throwing knife</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>AS44</key>
+      <value>AS44</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M1 Bazooka</key>
+      <value>M1 Bazooka</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sticky Bomb</key>
+      <value>Sticky Bomb</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>PIAT</key>
+      <value>PIAT</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Cahuchat</key>
+      <value>Cahuchat</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Browning</key>
+      <value>Browning</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Thompson</key>
+      <value>Thompson</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Blyskawica</key>
+      <value>Blyskawica</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>MAS38</key>
+      <value>MAS38</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sten</key>
+      <value>Sten</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M2 Carabine</key>
+      <value>M2 Carabine</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>L42A1</key>
+      <value>L42A1</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>MAS36</key>
+      <value>MAS36</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Gewehr 98</key>
+      <value>Gewehr 98</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kbk Wz.29</key>
+      <value>Kbk Wz.29</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mosin Nagant</key>
+      <value>Mosin Nagant</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>TokarevTT</key>
+      <value>TokarevTT</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M1917 Enfield</key>
+      <value>M1917 Enfield</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Boys</key>
+      <value>Boys</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Panzerbuche 39</key>
+      <value>Panzerbuche 39</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Wz 35</key>
+      <value>Wz 35</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>PTR D41</key>
+      <value>PTR D41</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Winchester</key>
+      <value>Winchester</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lifebuoy</key>
+      <value>Lifebuoy</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flammenwerfer 37</key>
+      <value>Flammenwerfer 37</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ROKS</key>
+      <value>ROKS</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M2 Flame</key>
+      <value>M2 Flame</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>MP40</key>
+      <value>MP40</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>PPSh</key>
+      <value>PPSh</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kamikaze</key>
+      <value>Kamikaze</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Saber</key>
+      <value>Saber</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rocket launcher</key>
+      <value>Rocket launcher</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Artillery cannon</key>
+      <value>Artillery cannon</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Smoke</key>
+      <value>Smoke</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fire Art Cannon</key>
+      <value>Fire Art Cannon</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>M Art Cannon</key>
+      <value>M Art Cannon</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bomb</key>
+      <value>Bomb</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Little cannon</key>
+      <value>Little cannon</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Thunder</key>
+      <value>Thunder</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Chauchat</key>
+      <value>Chauchat</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Autoblinda Lince</key>
+      <value>Autoblinda Lince</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ansaldo MIAS/MORAS 1935</key>
+      <value>Ansaldo MIAS/MORAS 1935</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>MIAS/MORAS 1935</key>
+      <value>MIAS/MORAS 1935</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ansaldo Light Tractor</key>
+      <value>Ansaldo Light Tractor</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ansaldo LT</key>
+      <value>Ansaldo LT</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fiat BR.20</key>
+      <value>Ft BR.20</value>
+      <plurals />
+      <comment>name/short of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Caproni Campini N.1</key>
+      <value>Caproni Campini N.1</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Savoia-Marchetti SM.81</key>
+      <value>Savoia-Marchetti SM.81</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fiat 634</key>
+      <value>Ft 634</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>FIAT AB 611</key>
+      <value>Ft AB 611</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Armored Truck FIAT 626</key>
+      <value>Armored Truck  626</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>FIAT 626</key>
+      <value>Ft 626</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Autoblinda AB 40/41/43</key>
+      <value>Autoblinda AB 40/41/43</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>AB 40/41/43</key>
+      <value>AB 40/41/43</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Semovente da 90/53</key>
+      <value>Semovente da 90/53</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Semovente da 149/40</key>
+      <value>Semovente da 149/40</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fiat-Ansaldo CV.35</key>
+      <value>Ft-Ansaldo CV.35</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Semovente da 105/25 Bassotto</key>
+      <value>Semovente da 105/25 Bassotto</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Macchi C.202</key>
+      <value>Macchi C.202</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fiat G.50</key>
+      <value>Ft G.50</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Semovente da 75/34</key>
+      <value>Semovente da 75/34</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Semovente da 75</key>
+      <value>Semovente da 75</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Camionetta AS 42</key>
+      <value>Camionetta AS 42</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Breda Model 35</key>
+      <value>Breda Model 35</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Cannone da 90/53</key>
+      <value>Cannone da 90/53</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CANT Z.1007</key>
+      <value>CANT Z.1007</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Breda Ba.201</key>
+      <value>Breda Ba.201</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ba.201</key>
+      <value>Ba.201</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Cannone da 47/32</key>
+      <value>Cannone da 47/32</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Carro Armato P26/40</key>
+      <value>Carro Armato P26/40</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CA P26/40</key>
+      <value>CA P26/40</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Carro Armato M14/41</key>
+      <value>Carro Armato M14/41</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CA M14/41</key>
+      <value>CA M14/41</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Carro Armato M13/40</key>
+      <value>Carro Armato M13/40</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CA M13/40</key>
+      <value>CA M13/40</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Carro Armato L6/40</key>
+      <value>Carro Armato L6/40</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CA L6/40</key>
+      <value>CA L6/40</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Carro Veloce L3-33</key>
+      <value>Carro Veloce L3-33</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CV L3-33</key>
+      <value>CV L3-33</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 97</key>
+      <value>Type 97</value>
+      <comment>Grenade weapon</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Shuriken</key>
+      <value>Shuriken</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Katana</key>
+      <value>Katana</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Artifact Katana</key>
+      <value>Muramasa</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sumida M.2593</key>
+      <value>Sumida M.2593 (Type 91)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 91</key>
+      <value>Sumida</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>120mm AA Gun (Type 10)</key>
+      <value>120mm AA Gun (Type 10)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 10</key>
+      <value>Type 10</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 3 Ka-Chi</key>
+      <value>Ka-Chi (Type 3)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 3</key>
+      <value>Ka-Chi</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>75mm Field Gun (Type 90)</key>
+      <value>75mm Field Gun (Type 90)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 90</key>
+      <value>Type 90</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 93 (long)</key>
+      <value>Armoured Car (Type 93)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 93</key>
+      <value>Type 93</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 94 IJA Truck</key>
+      <value>IJA Truck (Type 94)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 94</key>
+      <value>IJA Truck</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>25mm AA Gun (Type 96)</key>
+      <value>25mm AA Gun (Type 96)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 96</key>
+      <value>Type 96</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 98 Ke-Ni</key>
+      <value>Ke-Ni (Type 98)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 98</key>
+      <value>Ke-Ni</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 95 Heavy Tank</key>
+      <value>Heavy Tank (Type 95)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 95</key>
+      <value>Type 95</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ninja</key>
+      <value>Ninja</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Soko Sagyo Ki</key>
+      <value>Soko Sagyo Ki</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SS-Ki</key>
+      <value>SS-Ki</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kawanishi Baika</key>
+      <value>Kawanishi Baika</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Baika</key>
+      <value>Baika</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 97 Chi Ha</key>
+      <value>Chi Ha (Type 97)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 97_chiha</key>
+      <value>Chi Ha</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 1 Ho-Ni</key>
+      <value>Ho-Ni (Type 1)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 1</key>
+      <value>Ho-Ni</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 97 Te-Ke</key>
+      <value>Te-Ke (Type 97)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 97_teke</key>
+      <value>Te-Ke</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Shi Ki (Type 97)</key>
+      <value>Shi Ki (Type 97)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Shi Ki</key>
+      <value>Shi Ki</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mitsubishi A6M Zero</key>
+      <value>Mitsubishi A6M Zero</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>A6M</key>
+      <value>A6M Zero</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Aichi D3A</key>
+      <value>Aichi D3a (Type 99)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>D3A</key>
+      <value>D3A Val</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mitsubishi Ki-57</key>
+      <value>Mitsubishi Ki-57</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ki-57</key>
+      <value>Ki-57</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Nakajima Kikka</key>
+      <value>Nakajima Kikka</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kikka</key>
+      <value>Kikka</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>O-I long</key>
+      <value>O-I Super Heavy tank</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>O-I</key>
+      <value>O-I</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 94 tankette long</key>
+      <value>Type 94 tankette</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 94 tankette</key>
+      <value>Type 94</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ho-Ro 4</key>
+      <value>Ho-Ro (Type 4)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ho-Ro</key>
+      <value>Ho-Ro</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 91 heavy long</key>
+      <value>Heavy tank (Type 91)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 91 heavy</key>
+      <value>Type 91</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ha-Go long</key>
+      <value>Ha-Go (Type 95)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ha-Go</key>
+      <value>Ha-Go</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 94 long with 10</key>
+      <value>IJA Truck (Type 94) with 120mm AA Gun (Type 10)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 94 with 10</key>
+      <value>Type 10 Truck</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 94 long with 96</key>
+      <value>IJA Truck (Type 94) with 25mm AA Gun (Type 96)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Type 94 with 96</key>
+      <value>Type 96 Truck</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Shisei long</key>
+      <value>Shisei 15cm Tarenso Rocket Launcher</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Shisei</key>
+      <value>Shisei</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Shi-Ki long</key>
+      <value>Shi-Ki (Type 97)</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Shi-Ki</key>
+      <value>Shi-Ki</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ki-21 long</key>
+      <value>Mitsubishi Ki-21</value>
+      <plurals />
+      <comment>name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ki-21</key>
+      <value>Ki-21</value>
+      <plurals />
+      <comment>short name of unit, do not translate</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Weapon_Type99_LMG</key>
+      <value>Type 99</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Weapon_Type99_Rifle</key>
+      <value>Type 99</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Weapon_Type100_Flamethrower</key>
+      <value>Type 93</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Weapon_Type100_SMG</key>
+      <value>Type 100</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Weapon_Type97_Sniper</key>
+      <value>Type 97</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Weapon_Nambu</key>
+      <value>Nambu</value>
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

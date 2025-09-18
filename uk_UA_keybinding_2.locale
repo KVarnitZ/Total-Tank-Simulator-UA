@@ -1,0 +1,1337 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>Debug</key>
+      <value>Debug</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x00060] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CheatWin</key>
+      <value>CheatWin</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Quote</key>
+      <value>Quote</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at BetterRx.BindingExtensions+&lt;&gt;c__DisplayClass2_0.&lt;BindText&gt;b__0 (System.String val) [0x00000] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ReactiveProperty`1[T].Subscribe (System.IObserver`1[T] observer) [0x0001b] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ObservableExtensions.Subscribe[T] (System.IObservable`1[T] source, System.Action`1[T] onNext) [0x00001] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at BetterRx.BindingExtensions.BindText (TMPro.TextMeshProUGUI that, System.IObservable`1[T] observable, System.Object[] args) [0x00015] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x0012d] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+      <comment>	-&gt; PUNCTUATION MARK</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CheatLose</key>
+      <value>CheatLose</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Backslash</key>
+      <value>Backslash</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at BetterRx.BindingExtensions+&lt;&gt;c__DisplayClass2_0.&lt;BindText&gt;b__0 (System.String val) [0x00000] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ReactiveProperty`1[T].Subscribe (System.IObserver`1[T] observer) [0x0001b] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ObservableExtensions.Subscribe[T] (System.IObservable`1[T] source, System.Action`1[T] onNext) [0x00001] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at BetterRx.BindingExtensions.BindText (TMPro.TextMeshProUGUI that, System.IObservable`1[T] observable, System.Object[] args) [0x00015] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x0012d] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+      <comment>	-&gt; PUNCTUATION MARK</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DebugSwitchNextHeatMap</key>
+      <value>DebugSwitchNextHeatMap</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+      <comment>	xxxx DO USUNIĘCIA</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DebugSpawnAllUnits</key>
+      <value>DebugSpawnAllUnits</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DebugClearAllSpawns</key>
+      <value>DebugClearAllSpawns</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+      <comment>xxxx DO USUNIĘCIA</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>NextPhaseDebug</key>
+      <value>NextPhaseDebug</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Space</key>
+      <value>Space</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at BetterRx.BindingExtensions+&lt;&gt;c__DisplayClass2_0.&lt;BindText&gt;b__0 (System.String val) [0x00000] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ReactiveProperty`1[T].Subscribe (System.IObserver`1[T] observer) [0x0001b] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ObservableExtensions.Subscribe[T] (System.IObservable`1[T] source, System.Action`1[T] onNext) [0x00001] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at BetterRx.BindingExtensions.BindText (TMPro.TextMeshProUGUI that, System.IObservable`1[T] observable, System.Object[] args) [0x00015] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x0012d] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+      <comment>-&gt; PUNCTUATION MARK</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DebugToggleShowCovers</key>
+      <value>DebugToggleShowCovers</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+      <comment>xxxx DO USUNIĘCIA</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Period</key>
+      <value>Period</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at BetterRx.BindingExtensions+&lt;&gt;c__DisplayClass2_0.&lt;BindText&gt;b__0 (System.String val) [0x00000] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ReactiveProperty`1[T].Subscribe (System.IObserver`1[T] observer) [0x0001b] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ObservableExtensions.Subscribe[T] (System.IObservable`1[T] source, System.Action`1[T] onNext) [0x00001] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at BetterRx.BindingExtensions.BindText (TMPro.TextMeshProUGUI that, System.IObservable`1[T] observable, System.Object[] args) [0x00015] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x0012d] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+      <comment>-&gt; PUNCTUATION MARK</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DebugToggleShowPOI</key>
+      <value>DebugToggleShowPOI</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Slash</key>
+      <value>Slash</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at BetterRx.BindingExtensions+&lt;&gt;c__DisplayClass2_0.&lt;BindText&gt;b__0 (System.String val) [0x00000] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ReactiveProperty`1[T].Subscribe (System.IObserver`1[T] observer) [0x0001b] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ObservableExtensions.Subscribe[T] (System.IObservable`1[T] source, System.Action`1[T] onNext) [0x00001] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at BetterRx.BindingExtensions.BindText (TMPro.TextMeshProUGUI that, System.IObservable`1[T] observable, System.Object[] args) [0x00015] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x0012d] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+      <comment>-&gt; PUNCTUATION MARK</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DebugToggleFoliage</key>
+      <value>DebugToggleFoliage</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DebugSelectPOI</key>
+      <value>DebugSelectPOI</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Semicolon</key>
+      <value>Semicolon</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at BetterRx.BindingExtensions+&lt;&gt;c__DisplayClass2_0.&lt;BindText&gt;b__0 (System.String val) [0x00000] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ReactiveProperty`1[T].Subscribe (System.IObserver`1[T] observer) [0x0001b] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ObservableExtensions.Subscribe[T] (System.IObservable`1[T] source, System.Action`1[T] onNext) [0x00001] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at BetterRx.BindingExtensions.BindText (TMPro.TextMeshProUGUI that, System.IObservable`1[T] observable, System.Object[] args) [0x00015] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x0012d] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+      <comment>-&gt; PUNCTUATION MARK</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DebugSavePOI</key>
+      <value>DebugSavePOI</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DebugToggleCameraSettingsPanel</key>
+      <value>DebugToggleCameraSettingsPanel</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ToggleProfiler</key>
+      <value>ToggleProfiler</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>End</key>
+      <value>End</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at BetterRx.BindingExtensions+&lt;&gt;c__DisplayClass2_0.&lt;BindText&gt;b__0 (System.String val) [0x00000] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ReactiveProperty`1[T].Subscribe (System.IObserver`1[T] observer) [0x0001b] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ObservableExtensions.Subscribe[T] (System.IObservable`1[T] source, System.Action`1[T] onNext) [0x00001] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at BetterRx.BindingExtensions.BindText (TMPro.TextMeshProUGUI that, System.IObservable`1[T] observable, System.Object[] args) [0x00015] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x0012d] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Infantry</key>
+      <value>Infantry</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x00060] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Jump</key>
+      <value>Jump</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sprint</key>
+      <value>Sprint</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Crouch</key>
+      <value>Crouch</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Crawl</key>
+      <value>Crawl</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>toggleCameras</key>
+      <value>toggleCameras</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Equals</key>
+      <value>Equals</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at BetterRx.BindingExtensions+&lt;&gt;c__DisplayClass2_0.&lt;BindText&gt;b__0 (System.String val) [0x00000] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ReactiveProperty`1[T].Subscribe (System.IObserver`1[T] observer) [0x0001b] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ObservableExtensions.Subscribe[T] (System.IObservable`1[T] source, System.Action`1[T] onNext) [0x00001] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at BetterRx.BindingExtensions.BindText (TMPro.TextMeshProUGUI that, System.IObservable`1[T] observable, System.Object[] args) [0x00015] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x0012d] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+      <comment>-&gt; PUNCTUATION MARK</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>zoomUp</key>
+      <value>Zoom In</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>zoomDown</key>
+      <value>Zoom Out</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>changeFireMode</key>
+      <value>Change Weapon Fire Mode</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>holdBreath</key>
+      <value>Hold Breath</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>throwThrowable</key>
+      <value>Throw Grenade/Knife</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>meleeAttack</key>
+      <value>Melee Attack</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SandboxGeneral</key>
+      <value>SandboxGeneral</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x00060] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>KillEnemy</key>
+      <value>KillEnemy</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ToggleFullscreen</key>
+      <value>Fullscreen</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>LockCursor</key>
+      <value>Lock Cursor</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SaveScreenshot</key>
+      <value>Screenshot</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ToggleModifiedSpeed</key>
+      <value>Toggle Slow Motion</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>TogglePause</key>
+      <value>Pause</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SpeedUpGameplay</key>
+      <value>Increase Game Speed</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SlowDownGameplay</key>
+      <value>Decrease Game Speed</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SwitchNextUnit</key>
+      <value>Switch to the Next Unit</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SwitchPrevUnit</key>
+      <value>Switch to the Previous Unit</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SwitchNextWeapon</key>
+      <value>Switch to the Next Weapon</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SwitchPrevWeapon</key>
+      <value>Switch to the Previous Weapon</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SwitchZoomLean</key>
+      <value>Close-Up</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SwitchFreeLookCursor</key>
+      <value>SwitchFreeLookCursor</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ResetCurrentCamera</key>
+      <value>ResetCurrentCamera</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SwitchZoom</key>
+      <value>Toggle Zoom</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SwitchMapMode</key>
+      <value>Toggle Artillery Mode</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SwitchMapZoom</key>
+      <value>Map Zoom</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ToggleUnitControlKey</key>
+      <value>Toggle Unit Control</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>FireKey</key>
+      <value>Fire</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ForceReloadKey</key>
+      <value>Reload</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Capture</key>
+      <value>Capture</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>MarkSelection</key>
+      <value>MarkSelection</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SwitchSelection</key>
+      <value>Unit Selection</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SwitchSelectionEngage</key>
+      <value>Select and Take Control</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Repair/Use MedKit</key>
+      <value>Repair/Use MedKit</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Action</key>
+      <value>Enter the Vehicle/Climb the Ladder</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SecondaryAction</key>
+      <value>Enter the Vehicle as Passenger</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>None</key>
+      <value>None</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x00060] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Name Not Set</key>
+      <value>Name Not Set</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Damage Ability</key>
+      <value>Damage Ability</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ScreenshotMapBackground</key>
+      <value>ScreenshotMapBackground</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Interface</key>
+      <value>Interface</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x00060] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Help</key>
+      <value>Help</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ToggleHUD</key>
+      <value>Toggle Camera View</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ToggleActionArrows</key>
+      <value>Show Action Arrows</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ToggleMemberArrows</key>
+      <value>Show Groups</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Overview</key>
+      <value>Overview</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SpawningPhase</key>
+      <value>Spawn Phase</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x00060] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SpawnRotateLeft</key>
+      <value>Rotate Spawning Cursor Left</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Comma</key>
+      <value>Comma</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at BetterRx.BindingExtensions+&lt;&gt;c__DisplayClass2_0.&lt;BindText&gt;b__0 (System.String val) [0x00000] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ReactiveProperty`1[T].Subscribe (System.IObserver`1[T] observer) [0x0001b] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at UniRx.ObservableExtensions.Subscribe[T] (System.IObservable`1[T] source, System.Action`1[T] onNext) [0x00001] in &lt;bd11620c153d4cf397e2897e68a42168&gt;:0 
+  at BetterRx.BindingExtensions.BindText (TMPro.TextMeshProUGUI that, System.IObservable`1[T] observable, System.Object[] args) [0x00015] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x0012d] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+      <comment>-&gt; PUNCTUATION MARK</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SpawnRotateRight</key>
+      <value>Rotate Spawning Cursor Right</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DeleteUnits</key>
+      <value>Delete Units</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SpawnInMatrix</key>
+      <value>SpawnInMatrix</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SpawnInLine</key>
+      <value>SpawnInLine</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>PlayPhase</key>
+      <value>Play Phase</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x00060] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SuperPower</key>
+      <value>SuperPower</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Transport</key>
+      <value>Transport</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x00060] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ToggleBailoutHopIn</key>
+      <value>Pick Up/Drop Off Passengers</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>GetOut</key>
+      <value>Exit Vehicle</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x00030] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000e2] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;a2aaeb0f1af24c4dab166a600adc62f4&gt;:0 
+  at OptionsView.Awake () [0x0019f] in &lt;d560ccc1efc4481b82e1b4692eb2091c&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

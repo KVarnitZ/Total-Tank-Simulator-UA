@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>Spider person</key>
+      <value>Spider person</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Jump on a ladder from the air</key>
+      <value>Jump on a ladder from the air</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Forgive me, Father!</key>
+      <value>Forgive me, Father!</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Approach a confessional with an infantry unit</key>
+      <value>Approach a confessional with an infantry unit</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Emergency Landing</key>
+      <value>Emergency Landing</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Land on an airport with close to 0% fuel</key>
+      <value>Land on an airport with close to 0% fuel</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Better Safe Than Sorry</key>
+      <value>Better Safe Than Sorry</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Force weapon reload after just one shot</key>
+      <value>Force weapon reload after just one shot</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Marksman</key>
+      <value>Marksman</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use a sniper rifle to kill an enemy at least 500 m away</key>
+      <value>Use a sniper rifle to kill an enemy at least 500 m away</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Outhouse massacre</key>
+      <value>Outhouse massacre</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drive over an outhouse with a vehicle</key>
+      <value>Drive over an outhouse with a vehicle</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Deserter</key>
+      <value>Deserter</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Escape from the battle arena with a ground vehicle</key>
+      <value>Escape from the battle arena with a ground vehicle</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dry eyelashes</key>
+      <value>Dry eyelashes</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Make an officer blink very fast</key>
+      <value>Make an officer blink very fast</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Remember, no preorders!</key>
+      <value>Remember, no preorders!</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hony Tawk</key>
+      <value>Hony Tawk</value>
+      <ignored />
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Get flipped on your back and die</key>
+      <value>Get flipped on your back and die</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Time to say goodbye</key>
+      <value>Time to say goodbye</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drop an atomic bomb</key>
+      <value>Drop an atomic bomb</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Brothers in arms</key>
+      <value>Brothers in arms</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hire two officers who are brothers</key>
+      <value>Hire two officers who are brothers</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Shut up, Rommel!</key>
+      <value>Shut up, Rommel!</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Interrupt Rommel while he speaks</key>
+      <value>Interrupt Rommel while he speaks</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Speed demon</key>
+      <value>Speed demon</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Reach 300 km/h in an airplane</key>
+      <value>Reach 300 km/h in an airplane</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Saving Captain Miller</key>
+      <value>Saving Captain Miller</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Destroy a tank with a pistol</key>
+      <value>As an American soldier destroy German heavy tank with a pistol</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Duck Shooting</key>
+      <value>Duck Shooting</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Destroy a plane with a pistol or a rifle</key>
+      <value>Destroy a plane with a pistol or a rifle</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Airplane!</key>
+      <value>Airplane!</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Eject from a flying plane as a lone pilot</key>
+      <value>Eject from a flying plane as a lone pilot</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Shadow Chancellor</key>
+      <value>Shadow Chancellor</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Reach 50 rounds in Shadow Mode</key>
+      <value>Reach 50 rounds in Shadow Mode</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>No winners in war</key>
+      <value>No winners in war</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Two sides lose their last unit at the same time</key>
+      <value>Two sides lose their last unit at the same time</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Complete German tech</key>
+      <value>Complete German tech</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unlock all units from the German tech tree</key>
+      <value>Unlock all units from the German tech tree</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Complete Polish tech</key>
+      <value>Complete Polish tech</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unlock all units from the Polish tech tree</key>
+      <value>Unlock all units from the Polish tech tree</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Complete French tech</key>
+      <value>Complete French tech</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unlock all units from the French tech tree</key>
+      <value>Unlock all units from the French tech tree</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Complete USA tech</key>
+      <value>Complete USA tech</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unlock all units from the American tech tree</key>
+      <value>Unlock all units from the American tech tree</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Complete UK tech</key>
+      <value>Complete UK tech</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unlock all units from the British tech tree</key>
+      <value>Unlock all units from the British tech tree</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Complete USSR tech</key>
+      <value>Complete USSR tech</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unlock all units from the Soviet tech tree</key>
+      <value>Unlock all units from the Soviet tech tree</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>USA campaign</key>
+      <value>USA campaign</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Complete the American campaign</key>
+      <value>Complete the American campaign</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>German campaign</key>
+      <value>German campaign</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Complete the German campaign</key>
+      <value>Complete the German campaign</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Soviet campaign</key>
+      <value>Soviet campaign</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Complete the Soviet campaign</key>
+      <value>Complete the Soviet campaign</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Polish campaign</key>
+      <value>Polish campaign</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Complete the Polish campaign</key>
+      <value>Complete the Polish campaign</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>French campaign</key>
+      <value>French campaign</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Complete the French campaign</key>
+      <value>Complete the French campaign</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>British campaign</key>
+      <value>British campaign</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Complete the British campaign</key>
+      <value>Complete the British campaign</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>All campaigns on hard</key>
+      <value>All campaigns on hard</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Complete all campaigns on hard difficulty level</key>
+      <value>Complete all campaigns on hard difficulty level</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>All campaigns on hard &amp; brilliant</key>
+      <value>All campaigns on hard &amp; brilliant</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Complete all acts of all campaigns with a brilliant victory on a hard difficulty level</key>
+      <value>Complete all acts of all campaigns with a brilliant victory on a hard difficulty level</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Beginner Driver</key>
+      <value>Beginner Driver</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drive for at least 1 km</key>
+      <value>Drive for at least 1 km</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Advanced driver</key>
+      <value>Advanced driver</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drive for at least 20 km</key>
+      <value>Drive for at least 20 km</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Master driver</key>
+      <value>Master driver</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drive for at least 1000 km</key>
+      <value>Drive for at least 1000 km</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Watch the road!</key>
+      <value>Watch the road!</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drive over enemy infantry</key>
+      <value>Drive over enemy infantry</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Really watch the road!</key>
+      <value>Really watch the road!</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Really really watch the road!</key>
+      <value>Really really watch the road!</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drive over 50 enemy infantry units</key>
+      <value>Drive over 50 enemy infantry units</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drive over 50 enemy infantry units</key>
+      <value>Drive over 50 enemy infantry units</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drive over 500 enemy infantry units</key>
+      <value>Drive over 500 enemy infantry units</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kills x 10</key>
+      <value>Kills x 10</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Get at least 10 kills in unit control</key>
+      <value>Get at least 10 kills in unit control</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Playing with knives</key>
+      <value>Playing with knives</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kill at least 10 enemy infrantry with a throwing knife</key>
+      <value>Kill at least 10 enemy infrantry with a throwing knife</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Band of brothers</key>
+      <value>Band of brothers</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Deploy 200 paratroopers</key>
+      <value>Deploy 200 paratroopers</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fire maniac</key>
+      <value>Fire maniac</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kill 5 enemy units using a flamethrower</key>
+      <value>Kill 5 enemy units using a flamethrower</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>It burns</key>
+      <value>It burns</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kill 100 enemy units with a flamethrower</key>
+      <value>Kill 100 enemy units with a flamethrower</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Pyromancer</key>
+      <value>Pyromancer</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kill 500 enemy units with a flamethrower</key>
+      <value>Kill 500 enemy units with a flamethrower</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The Jester of Tortuga</key>
+      <value>The Jester of Tortuga</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Capture 5 enemy units using a Pirate Tank</key>
+      <value>Capture 5 enemy units using a Pirate Tank</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The Engineer</key>
+      <value>The Engineer</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Repair 50 vehicles</key>
+      <value>Repair 50 vehicles</value>
+      <plurals />
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

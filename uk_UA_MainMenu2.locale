@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>UNIT CONTROL</key>
+      <value>КЕРУВАННЯ ОДИНИЦЯМИ</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CAMERA</key>
+      <value>КАМЕРА</value>
+      <plurals />
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

@@ -1,0 +1,1292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>FINAL: {0}</key>
+      <context>campaign.ui.final_mission</context>
+      <value>FINAL: {0}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Not enough research points</key>
+      <value>Not enough research points</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tech tree</key>
+      <value>Tech tree</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>French Tech Tree</key>
+      <context>factions.techtree_title</context>
+      <value>French Tech Tree</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Polish Tech Tree</key>
+      <context>factions.techtree_title</context>
+      <value>Polish Tech Tree</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>British Tech Tree</key>
+      <context>factions.techtree_title</context>
+      <value>British Tech Tree</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>German Tech Tree</key>
+      <context>factions.techtree_title</context>
+      <value>German Tech Tree</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Soviet Tech Tree</key>
+      <context>factions.techtree_title</context>
+      <value>Soviet Tech Tree</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>American Tech Tree</key>
+      <context>factions.techtree_title</context>
+      <value>American Tech Tree</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Officers</key>
+      <value>Officers</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Map</key>
+      <value>Map</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>UPGRADE</key>
+      <value>UPGRADE</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>VEHICLES</key>
+      <value>VEHICLES</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SELECTED</key>
+      <value>SELECTED</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>BUY OUT</key>
+      <value>BUY OUT</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>RECRUIT</key>
+      <value>RECRUIT</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>YOUR OFFICERS</key>
+      <value>YOUR OFFICERS</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>RECRUIT MORE OFFICERS</key>
+      <value>RECRUIT MORE OFFICERS</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>locked</key>
+      <value>locked</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>AIR</key>
+      <value>AIR</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>infantry</key>
+      <value>infantry</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>GROUND</key>
+      <value>GROUND</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>MAX SPEED:</key>
+      <value>MAX SPEED:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Prize:</key>
+      <value>Prize:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Reject</key>
+      <value>Reject</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Restrictions:</key>
+      <value>Restrictions:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mission not yet available</key>
+      <value>Mission not yet available</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CASH LIMIT:</key>
+      <value>CASH LIMIT:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Enemies:</key>
+      <value>Enemies:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DEFEAT</key>
+      <value>DEFEAT</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>LOAD PROFILE</key>
+      <value>LOAD PROFILE</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CHOOSE PROFILE TO LOAD</key>
+      <value>CHOOSE A PROFILE TO LOAD</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0} ACT {1}</key>
+      <value>{0} ACT {1}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>reward</key>
+      <value>reward</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>spent</key>
+      <value>spent</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>outcome</key>
+      <value>outcome</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Research points:</key>
+      <value>Research points:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>OK</key>
+      <value>OK</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Promotion</key>
+      <value>Promotion</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>VERSUS</key>
+      <value>VERSUS</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>RETRY</key>
+      <value>RETRY</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>now playing:</key>
+      <value>now playing:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>LOCKED</key>
+      <value>LOCKED</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>RESET ACT</key>
+      <value>RESET ACT</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Act {0}</key>
+      <value>Act {0}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unit class</key>
+      <value>Unit class</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>AVAILABLE IN ACT {0}</key>
+      <value>AVAILABLE IN ACT {0}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>UNLOCK</key>
+      <value>UNLOCK</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Deathmatch</key>
+      <value>Deathmatch</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kill the VIP</key>
+      <value>Kill the VIP</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bonus damage</key>
+      <value>Bonus damage</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unknown mission</key>
+      <value>Unknown mission</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Our intelligence has not yet found out what awaits us during this battle. Play more missions to find out.</key>
+      <value>There are no intelligence reports concerning enemy units in this mission. Play though more missions to find out more.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Start battle to see the outcome</key>
+      <value>Start a battle to see the outcome</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>This is a defensive act. The goal is to win final missions. However, the more missions you win, the better. You can skip and reject missions (other than final), but this will count as lost battle. However, you will not spend your money on units.</key>
+      <value>The primary goal is to win the final mission or missions. However, the more missions you win, the better. You can reject non-final missions which will then count as a loss. The rejected missions, nevertheless, do not require you to spend money on units to deploy.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0} final battle won: {1} victory</key>
+      <value>{0} final battle won: {1} victory</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0} final battle + {1} other battles won: {2} victory</key>
+      <value>{0} final battle + {1} other battles won: {2} victory</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Final battle</key>
+      <value>Final battle</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Current research points</key>
+      <value>Current research points</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You can spend research points on unlocking new units in the tech tree. You gain research points for winning battles.</key>
+      <value>You can spend research points on unlocking new units in the tech tree. You gain research points for winning battles.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Current money</key>
+      <value>Current money</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You can spend money on deploying units and buying officers. You gain money for winning battles.</key>
+      <value>You can spend money on deploying units and buying officers. You gain money for winning battles.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mission difficulty</key>
+      <value>Mission difficulty</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The more skulls, the harder mission is.</key>
+      <value>The more skulls, the harder the mission.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Money limit</key>
+      <value>Money limit</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Maximum amount of cash, you can spend during deployment phase in the mission.</key>
+      <value>The maximum amount of money you can spend during deployment phase in the mission.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Research points reward</key>
+      <value>Research points reward</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Amount of research points, you get for winning the mission.</key>
+      <value>Amount of research points awarded for winning the mission.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Money reward</key>
+      <value>Money reward</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Amount of money, you get for winning the mission.</key>
+      <value>Amount of money awarded for winning the mission.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unit health points</key>
+      <value>Unit health points</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unit armour</key>
+      <value>Unit armor</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rounds Per Minute</key>
+      <value>Rounds Per Minute</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>How fast the weapon shoot per minute bullets from a single magazine.</key>
+      <value>How many times the weapon fires per minute.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Weapon damage</key>
+      <value>Weapon damage</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The amount of damage, each shot will take from HP.</key>
+      <value>The amount of damage each shot will take from HP.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Reload time in seconds</key>
+      <value>Reloading time in seconds</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Time between reloading subsequent magazines.</key>
+      <value>The time between reloading subsequent magazines.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Special tanks</key>
+      <value>Special tanks</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Upg.</key>
+      <value>Upg.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tanks</key>
+      <value>Tanks</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Damage Bonus</key>
+      <value>Damage Bonus</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bonus</key>
+      <value>Bonus</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The officer gives periodically bonus to the nearby units.</key>
+      <value>The officer periodically casts a bonus on the nearby ally units.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The bonus increases nearby friendly units damage.</key>
+      <value>This bonus increases nearby friendly units damage output.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Damage Reduce Bonus</key>
+      <value>Damage Reduce Bonus</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The bonus reduces received damage of nearby friendly units.</key>
+      <value>The bonus reduces the damage the enemy units inflict on the nearby friendly units.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>RPM Bonus</key>
+      <value>RPM Bonus</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The bonus increases RPM of nearby friendly units.</key>
+      <value>The bonus increases RPM of nearby friendly units.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Empty officer slot</key>
+      <value>No officer in this slot</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You have to unlock the vehicle first in tech tree.</key>
+      <value>You have to unlock this vehicle in the tech tree.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>NO VEHICLE</key>
+      <value>NO VEHICLE</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Officer is held captive, that means you can not deploy him during the battle until you buy out him.</key>
+      <value>Officer is held captive. That means he cannot be deployed in battles until he is bought out.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Victory!</key>
+      <value>Victory!</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Protect VIP</key>
+      <value>Protect VIP</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Reject the mission</key>
+      <value>Reject the mission</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You can reject the mission, this will automatically mark the battle as lost, but you will keep your money and research points.</key>
+      <value>Rejecting a mission will automatically mark the battle as lost. Your money and research points will remain unchanged.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Go to next act</key>
+      <value>Go to next act</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0} victory</key>
+      <value>{0} victory</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>This is an offensive act. The less battles you start, the better. However, you have to win missions. If you fail at some point, you can repeat the mission or choose another path. Though remember, each started battle counts.</key>
+      <value>This is an offensive act. The goal is to reach and complete the final mission. The fewer moves, the better. Each won mission will unlock all the missions that are connected to it. If you fail a mission, you can retry it; however, this still counts as a used up move.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0} battles started: {1} victory</key>
+      <value>{0} battles started: {1} victory</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Played battle</key>
+      <value>Played battle</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mission attempted and failed</key>
+      <value>Mission attempted and failed</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You are going to reset campaign state to act {0}? All progress until the beginning of the act {0} will be lost.</key>
+      <value>You are about to reset the campaign state to act {0}. All progress made after the beginning of act {0} will be lost.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Enemy secret weapons</key>
+      <value>Enemy secret weapons</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lost battle</key>
+      <value>Battle lost</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Won battle</key>
+      <value>Battle won</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mission completed</key>
+      <value>Mission completed</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Not enough money</key>
+      <value>Not enough money</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unlock {0} {1}</key>
+      <context>campaign.command</context>
+      <value>Unlock {0} {1}</value>
+      <plurals />
+      <comment>text on a button to unlock unit in techtree (command)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>BUY OUT ({0} {1})</key>
+      <value>BUY OUT ({0} {1})</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>RECRUIT ({0} {1})</key>
+      <value>RECRUIT ({0} {1})</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mission not yet available.</key>
+      <value>Mission not yet available.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You have already maximum number of alive officers.</key>
+      <value>You've already recruited the maximum number of officers.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mission attempted and failed.</key>
+      <value>Mission attempted and failed.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Enemy secret weapons.</key>
+      <value>Enemy secret weapons.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>PASSENGER SEATS:</key>
+      <value>PASSENGER SEATS:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Go to next act</key>
+      <context>campaign.action</context>
+      <value>Go to next act</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Finish Campaign</key>
+      <context>campaign.action</context>
+      <value>Finish Campaign</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Exit</key>
+      <context>campaign.action</context>
+      <value>Exit</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>INVENTORY</key>
+      <value>INVENTORY</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Crew {0}</key>
+      <value>Crew {0}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Passengers {0}</key>
+      <value>Passengers {0}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unit class: {0}</key>
+      <value>Unit class: {0}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>HEALTH POINTS: {0}</key>
+      <value>HEALTH POINTS: {0}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>MAXIMUM SPEED: {0} KM/H</key>
+      <value>MAXIMUM SPEED: {0} KM/H</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>VEHICLE CAPACITY: {0}</key>
+      <value>VEHICLE CREW AND PASSENGER CAPACITY: {0}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0} km/h</key>
+      <value>{0} km/h</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>INCREASED DAMAGE TO:</key>
+      <value>INCREASED DAMAGE AGAINST:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>NEUTRAL DAMAGE TO:</key>
+      <value>STANDARD DAMAGE AGAINST:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DECREASED DAMAGE TO:</key>
+      <value>DECREASED DAMAGE AGAINST:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>INCREASED RESISTANCE TO:</key>
+      <value>INCREASED RESISTANCE AGAINST:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>NEUTRAL RESISTANCE TO:</key>
+      <value>STANDARD RESISTANCE AGAINST:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DECREASED RESISTANCE TO:</key>
+      <value>DECREASED RESISTANCE AGAINST:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SHOTS PER MINUTE</key>
+      <value>SHOTS PER MINUTE</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DAMAGE</key>
+      <value>DAMAGE</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>RELOAD TIME</key>
+      <value>RELOAD TIME</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>RADIUS</key>
+      <value>RADIUS</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>RANGE</key>
+      <value>RANGE</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>MAX MINES COUNT</key>
+      <value>MAX MINES COUNT</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ROCKET CAPACITY</key>
+      <value>ROCKET CAPACITY</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>PLAY DUCKS ABILITY</key>
+      <value>STONE SKIPPING BOMB</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>GRAND SLAM</key>
+      <value>GRAND SLAM</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>IMMOBILIZE TIME</key>
+      <value>IMMOBILIZE TIME</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>how many rounds from a single magazine can the weapon shoot per minute</key>
+      <value>The number of rounds shot per minute</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>amount of damage each shot causes</key>
+      <value>The damage inflicted by each shot.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>time it takes to reload one magazine</key>
+      <value>The time it takes to reload one magazine</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Nothing</key>
+      <value>Nothing</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>amount of damage given during self destruction</key>
+      <value>The damage inflicted by self-destruction</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>explosion radius</key>
+      <value>explosion radius</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>mine explosion radius</key>
+      <value>mine explosion radius</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>weapon range</key>
+      <value>weapon range</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ABORDAGE</key>
+      <value>ABORDAGE</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ABORDAGE TIME</key>
+      <value>ABORDAGE TIME</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Pirate tank task is to capture enemy unit</key>
+      <value>Pirate tank is designed to capture enemy units.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>After successful capture, pirate self-destruct</key>
+      <value>After an enemy unit is successfully captured, the pirate tank self-destructs.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>If pirate is destroyed while capturing, caught unit gets released</key>
+      <value>When a pirate tank is destroyed while a capture is underway, the enemy unit gets released.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Enemy unit hit by its hook gets paralyzed and can be released only when someone else destroys pirate tank</key>
+      <value>The enemy unit hit with an abordage hook becomes paralyzed. It can only get released when the capturing pirate is destroyed.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Crew of the captured unit jumps out of it</key>
+      <value>Upon a successful capture, the crew of the captured unit will flee the unit.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>number of units pirate tank can capture</key>
+      <value>The number of units that a pirate tank can capture.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>time required to capture enemy unit</key>
+      <value>The time required to capture an enemy unit.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>all crew slots are fullfiled when spawned</key>
+      <value>When a unit is spawned all its crew slots are filled in.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>when entering the vehicle, AI by default takes empty crew seats</key>
+      <value>Ally soldiers will first fill in all the empty crew seats.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>passengers are not part of the crew - they can neither operate vehicles nor use its weapons</key>
+      <value>Passengers are not part of the crew - they can neither operate vehicles nor use its weapons.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>infantry might be carried by most of the units</key>
+      <value>Infantry can be carried by most of the ground vehicles.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>health points denotes unit health</key>
+      <value>Unit health points</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>the more health points, the longer unit lifetime</key>
+      <value>The more health points, the more damage a unit can withstand.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>armour must be taken down in order to begin dealing damage to health points</key>
+      <value>The damage is first reducing armor points. When armor is down, health points are reduced.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>when unit lose its armour, it gets immobilized for a moment</key>
+      <value>When a unit loses all its armor it becomes immobilized for a short time.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>health points and armour may be restored in factory repair point or by recover vehicle on the battlefield</key>
+      <value>Health and armor points can be restored in a factory repair point, by a nearby recovery vehicle or in first person mode by pressing a repair button. </value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>maximum speed the unit can achieve</key>
+      <value>Maximum speed the unit can reach.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>B-29 Atomic is spawned by dedicated airfield</key>
+      <value>B-29 Atomic is spawned by its own dedicated airfield.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Atomic bomb may be armed only in the air</key>
+      <value>Atomic bomb may only be armed while the bomber is in the air.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Airfield may be captured by enemy, who gains access to atomic bomb in the result</key>
+      <value>If the enemy captures an airfield it will begin to spawn hostile atomic bombers.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>If your B-29 is shot down, another one will take off from airfield. Beware though, the bomb arming time will be reset</key>
+      <value>If a B-29 is shot down another one will be spawned at the airfield. Bomb arming will have to start from the beginning.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>amount of damage caused every second</key>
+      <value>The amount of damage inflicted every second</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>time the fire burns on unit set on fire</key>
+      <value>The duration a unit burns after it's set on fire.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>number of shots per minute</key>
+      <value>The number of shots per minute</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>damage dealt by single explosive</key>
+      <value>The damage dealt by each explosive</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>damage dealt by explosive submunitions</key>
+      <value>The damage dealt by explosive submunitions.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>maximum amount of mines spawned at the same time - only when one explodes, the next one is spawned</key>
+      <value>When the mine spawning limit is reached, further mines will only be spawned when one of the currently active ones explodes.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>damage dealt by single mine</key>
+      <value>The damage dealt by a single mine.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>damage dealt by single rocket</key>
+      <value>The damage dealt by a single rocket.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>number of rockets the unit is equipped with</key>
+      <value>The number of rockets the unit is equipped with.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>radius covered by smoke</key>
+      <value>The radius covered by smoke.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>maximum bounce count</key>
+      <value>The maximum number of bounces</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DAMAGE PER SECOND</key>
+      <value>DAMAGE PER SECOND</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>BURNING TIME</key>
+      <value>BURNING TIME</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DUCKS AND DRAKES</key>
+      <value>DUCKS AND DRAKES</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>single bounce damage</key>
+      <value>Single bomb bounce damage</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>after bomb drop, it must be rearmed on the airfield</key>
+      <value>After the bomb is dropped the airplane must be rearmed on an airfield.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>time enemy unit is immobilized</key>
+      <value>The duration the enemy unit is paralyzed.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>impulse reload time</key>
+      <value>impulse reload time</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ARM TIME</key>
+      <value>ARM TIME</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>time unit requires to arm nuclear weapon</key>
+      <value>time unit requires to arm nuclear weapon</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>amount of damage decreases as distance to the source increases</key>
+      <value>The damage decreases the wider the pulse of energy.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>impulse operating radius</key>
+      <value>Pulse operating radius</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flame deals damage over time, burning torched units for a few seconds. Fire spreads widely on the earth or sets on fire single unit.</key>
+      <context>tech_tree.details_text</context>
+      <value>A flamethrower can set fire to the ground or to enemy units. Torched enemy units will receive damage over time.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Explodes ending up dead but deals powerful damage to units around</key>
+      <context>tech_tree.details_text</context>
+      <value>Deals damage to nearby units with a self-destructive explosion.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Spawns self-propelled tracked mines</key>
+      <context>tech_tree.details_text</context>
+      <value>Spawns self-propelled tracked mines</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>During the explosion, the main projectile ejects several smaller ones, significantly increasing the radius and damage of a single shot</key>
+      <context>tech_tree.details_text</context>
+      <value>When a cluster shell explodes it ejects several smaller projectiles. This significantly increases the radius and the damage dealt.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Far stronger than standard cannon in terms of damage yet equipped with less ammunition</key>
+      <context>tech_tree.details_text</context>
+      <value>Deals far more damage than a standard cannon. It is however equipped with less ammunition</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Releases smoke that covers field of view of units. Smoke must be placed before enemy unit, not on it</key>
+      <context>tech_tree.details_text</context>
+      <value>Releases smoke that obscures a unit’s field of view. To be effective smoke shells must be fired in front of the enemy targets, not into them.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The largest air missile in history - does not explode immediately, but deals damage bouncing off the ground</key>
+      <context>tech_tree.details_text</context>
+      <value>The largest conventional bomb in history. Bounces of the ground multiple times. Deals damage with each bounce.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Powerful electromagnetic ray that jams flight instruments of airplanes, paralyzing them for a few seconds</key>
+      <context>tech_tree.details_text</context>
+      <value>Powerful electromagnetic ray that jams airplane flight instruments, paralyzing them for a few seconds.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Creates a powerful shockwave that repels and damages enemy units</key>
+      <context>tech_tree.details_text</context>
+      <value>Creates a powerful shockwave that repels and damages enemy units</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Instantly kills enemy soldiers</key>
+      <value>Instantly kills enemy soldiers</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Must be used at a very close range</key>
+      <value>Must be used at a very close range</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Cannot pierce armor of units other than infantry</key>
+      <value>Cannot pierce armor of units other than infantry</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>reload duration</key>
+      <value>reload duration</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>the time required for a full repair of an allied unit</key>
+      <value>the time required for a full repair of an allied unit</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>REPAIR TIME</key>
+      <value>REPAIR TIME</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>repair tool range</key>
+      <value>repair tool range</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Repairs allied units</key>
+      <value>Repairs allied units</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Does not deal any damage</key>
+      <value>Does not deal any damage</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Used by infantry units to heal themselves</key>
+      <value>Used by infantry units to heal themselves</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Restores full health and full armor</key>
+      <value>Restores full health and full armor</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Works immediately</key>
+      <value>Works immediately</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The officer gives periodically bonus to the friendly nearby units.</key>
+      <value>Every couple of seconds the officer casts a bonus on the nearby friendly units.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Damage</key>
+      <context>campaign.bonus_short_name</context>
+      <value>Damage</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Damage reduce</key>
+      <context>campaign.bonus_short_name</context>
+      <value>Damage reduce</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>RPM</key>
+      <context>campaign.bonus_short_name</context>
+      <value>RPM</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The bonus increases inflicted damage.</key>
+      <context>campaign.bonus_short_description</context>
+      <value>The bonus increases inflicted damage.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The bonus reduces received damage</key>
+      <context>campaign.bonus_short_description</context>
+      <value>The bonus reduces received damage.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The bonus increases RPM</key>
+      <context>campaign.bonus_short_description</context>
+      <value>The bonus increases RPM.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Win in max {0} moves</key>
+      <context>campaign</context>
+      <value>Win in max {0} moves</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0} missions left</key>
+      <context>campaign</context>
+      <value>{0} missions left</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Win key missions + {0} extra</key>
+      <context>campaign</context>
+      <value>Win key missions + {0} extra</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Win key missions only</key>
+      <context>campaign</context>
+      <value>Win key missions only</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0} key missions + {1} extra left</key>
+      <context>campaign</context>
+      <value>{0} key missions + {1} extra left</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0} key missions left</key>
+      <context>campaign</context>
+      <value>{0} key missions left</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Not achievable</key>
+      <value>Not achievable</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Applicants</key>
+      <value>Applicants</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Buy out</key>
+      <value>Buy out</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dismiss</key>
+      <value>Dismiss</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Cadre</key>
+      <value>Cadre</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The officer can have multiple vehicles, but during the battle he has only the chosen one.</key>
+      <value>The officer can have multiple vehicles, but during the battle he has only the chosen one.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You have to unlock the vehicle in the tech tree first.</key>
+      <value>You have to unlock the vehicle in the tech tree first.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You have to buy the vehicle to use one.</key>
+      <value>You have to buy the vehicle to use one.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You can select any bought vehicle before mission.</key>
+      <value>You can select any bought vehicle before mission.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Information</key>
+      <value>Information</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>campaign.max.level</key>
+      <value>MAX</value>
+      <comment>text shown on a button to indicate player has max level of the bonus</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SKIP CUTSCENE</key>
+      <value>SKIP CUTSCENE</value>
+      <comment>in the campaign, during the dialogue cutscene</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Estimated number of enemy units</key>
+      <value>Estimated number of enemy units</value>
+      <comment>A tooltip shown over an icon denoting how difficult is the mission in campaign</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Replay cutscene</key>
+      <value>Replay cutscene</value>
+      <comment>in the campaign, about the dialogue cutscene</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ACT {0}</key>
+      <value>ACT {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Offensive</key>
+      <context>campaign.act_type</context>
+      <value>Offensive</value>
+      <comment>in term Offensive Act</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Defensive</key>
+      <context>campaign.act_type</context>
+      <value>Defensive</value>
+      <comment>in term Defensive Act</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DEPLOYMENT COST</key>
+      <value>DEPLOYMENT COST</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>For officer use only</key>
+      <value>For officer's use only</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Only the officers can use this vehicle. After unlocking it in the tech tree, it is available for purchase in the 'Officers' tab for each of your officers separately.</key>
+      <value>Only the officers can use this vehicle. After unlocking it in the tech tree, it is available for purchase in the 'Officers' tab for each of your officers separately.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Go to the 'Officers' tab</key>
+      <value>Go to the 'Officers' tab</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Reject mission</key>
+      <context>campaign.messagebox.title</context>
+      <value>Reject mission</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Are you sure you want to reject the mission? You will keep all your funds, but it will count as a lost battle.</key>
+      <context>campaign.messagebox.text</context>
+      <value>Are you sure you want to reject the mission? You will keep all your funds, but it will count as a lost battle.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>This is defensive act. During each phase you try to defend from invading forces, while retreating.</key>
+      <value>This is a defensive act. During each phase you try to defend from invading forces, while retreating.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>This is offensive act. You start here. Your mission is to finish it in the least moves possible.</key>
+      <value>This is an offensive act. You start here. Your goal is to finish in as few moves as possible.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Final phase</key>
+      <value>Final phase</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Final mission</key>
+      <value>Final mission</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>This is the final mission. Winning it in specified time wins the act.</key>
+      <value>This is the final mission. You have to reach it and win it in a specified numer of moves in order to win the entire act.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>This is the final missions. You can loose or skip other missions, but this missions you have to win.</key>
+      <value>These are the final missions. You have to complete all of them in order to win the entire act.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Phase {0}</key>
+      <value>Phase {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>This phase can be fought or skipped</key>
+      <value>This phase can be fought or skipped</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Effective against most targets</key>
+      <context>tech_tree.details_text</context>
+      <value>Effective against most targets</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Japanese Tech Tree</key>
+      <context>factions.techtree_title</context>
+      <value>Japanese Tech Tree</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Throws a smoke bomb, creating an area that obscures the field of view of units aiming through.</key>
+      <context>tech_tree.details_text</context>
+      <value>Throws a smoke bomb, creating an area that obscures the field of view of units aiming through.</value>
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>Alexei Smirnov</key>
+      <context>campaign.officer_name</context>
+      <value>Alexei Smirnov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Anatoly Vasilev</key>
+      <context>campaign.officer_name</context>
+      <value>Anatoly Vasilev</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Andrei Petrov</key>
+      <context>campaign.officer_name</context>
+      <value>Andrei Petrov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Artyom Kyznetsov</key>
+      <context>campaign.officer_name</context>
+      <value>Artyom Kyznetsov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bogdan Fedorov</key>
+      <context>campaign.officer_name</context>
+      <value>Bogdan Fedorov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Boris Mikhailov</key>
+      <context>campaign.officer_name</context>
+      <value>Boris Mikhailov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Vadim Sokolov</key>
+      <context>campaign.officer_name</context>
+      <value>Vadim Sokolov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Viktor Pavlov</key>
+      <context>campaign.officer_name</context>
+      <value>Viktor Pavlov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Vlad Semenov</key>
+      <context>campaign.officer_name</context>
+      <value>Vlad Semenov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Vladimir Stepanov</key>
+      <context>campaign.officer_name</context>
+      <value>Vladimir Stepanov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Vladislav Egorov</key>
+      <context>campaign.officer_name</context>
+      <value>Vladislav Egorov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Vyacheslav Nikolaev</key>
+      <context>campaign.officer_name</context>
+      <value>Vyacheslav Nikolaev</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Georgy Kozlov</key>
+      <context>campaign.officer_name</context>
+      <value>Georgy Kozlov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Gleb Popov</key>
+      <context>campaign.officer_name</context>
+      <value>Gleb Popov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Grigory Lebedev</key>
+      <context>campaign.officer_name</context>
+      <value>Grigory Lebedev</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dmitry Yakovlev</key>
+      <context>campaign.officer_name</context>
+      <value>Dmitry Yakovlev</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Evgeny Kozlov</key>
+      <context>campaign.officer_name</context>
+      <value>Evgeny Kozlov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ivan Grigorev</key>
+      <context>campaign.officer_name</context>
+      <value>Ivan Grigorev</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Illarion Morozov</key>
+      <context>campaign.officer_name</context>
+      <value>Illarion Morozov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Iosif Novikov</key>
+      <context>campaign.officer_name</context>
+      <value>Iosif Novikov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Leonid Nikitin</key>
+      <context>campaign.officer_name</context>
+      <value>Leonid Nikitin</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mikhail Dmitriev</key>
+      <context>campaign.officer_name</context>
+      <value>Mikhail Dmitriev</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Nikita Kuzmin</key>
+      <context>campaign.officer_name</context>
+      <value>Nikita Kuzmin</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Oleg Aleksandrov</key>
+      <context>campaign.officer_name</context>
+      <value>Oleg Aleksandrov</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ruslan Zaitsev</key>
+      <context>campaign.officer_name</context>
+      <value>Ruslan Zaitsev</value>
+      <comment>DO NOT TRANSLATE. This is only translated into Russian for Russians. But is should be already translated</comment>
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

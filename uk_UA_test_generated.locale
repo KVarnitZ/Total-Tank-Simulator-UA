@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>Select</key>
+      <value>Вибрати</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Select object</key>
+      <value>Вибрати об'єкт</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Placeholder
+</key>
+      <value>Змінна
+</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Element</key>
+      <value>Елемент</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Retry mission</key>
+      <value>Переграти місію</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>all your units are dead</key>
+      <value>усі ваші одиниці померли</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Next mission</key>
+      <value>Наступна місія</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>next mission</key>
+      <value>наступна місія</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>20 allies vs 30 enemies
+phase 1 of 2: reducing enemy influence</key>
+      <value>20 союзників vs 30 ворогів
+фаза 1 з 2: зменшення ворожого впливу</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>65s</key>
+      <value>65с</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>20 allies vs 30 enemies</key>
+      <value>20 союзників проти 30 ворогів</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Manage enemy waves</key>
+      <value>Редагувати ворожі хвилі</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Show help</key>
+      <value>Показати допомогу</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Save deployment</key>
+      <value>Зберегти розгортку</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Undo all changes in deployment</key>
+      <value>Відкатити усі зміни в розгортуванні</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>1</key>
+      <value>1</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Switch to testing</key>
+      <value>Повернутися до тестування</value>
+      <plurals />
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>TD</key>
+      <context>shortUnitTypeName</context>
+      <value>TD</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Die Glocke</key>
+      <context>unitTypeName</context>
+      <value>Die Glocke</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Die Glocke</key>
+      <context>shortUnitTypeName</context>
+      <value>Die Glocke</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bear</key>
+      <context>unitTypeName</context>
+      <value>Bear</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Infantry</key>
+      <context>unitTypeName</context>
+      <value>Infantry</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Infantry</key>
+      <context>shortUnitTypeName</context>
+      <value>Infantry</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dog</key>
+      <context>unitTypeName</context>
+      <value>Dog</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Recovery vehicle</key>
+      <context>unitTypeName</context>
+      <value>Recovery vehicle</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Recovery vehicle</key>
+      <context>shortUnitTypeName</context>
+      <value>Recovery vehicle</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Minefield</key>
+      <context>shortUnitTypeName</context>
+      <value>Minefield</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Officer {0}</key>
+      <context>unitTypeNames.officer.adj</context>
+      <value>Officer {0}</value>
+      <comment>As adjective, for example `officer light tank`</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Upg. {0}</key>
+      <context>unitTypeNames.upgraded</context>
+      <value>Upg. {0}</value>
+      <comment>`upgraded` as adjective, for example `upgraded light tank`</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>inf</key>
+      <value>inf</value>
+      <plurals />
+      <comment>as infinity</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Wave mission</key>
+      <context>game.mission_type</context>
+      <value>Wave mission</value>
+      <comment>Mission type, player is attacked by multiple waves of enemies</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kill VIPs</key>
+      <context>game.mission_type</context>
+      <value>Kill VIPs</value>
+      <comment>Mission type, the goal is to kill few special units - VIPs</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Protect VIPs</key>
+      <context>game.mission_type</context>
+      <value>Protect VIPs</value>
+      <comment>Mission type, the goal is to protect special units - VIPs. When any of them is killed, player loses game</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Team Deathmatch</key>
+      <context>game.mission_type</context>
+      <value>Team Deathmatch</value>
+      <comment>Mission type</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>At least one VIP must survive to win the battle!</key>
+      <context>game.mission_type_description</context>
+      <value>You will win the battle if at least one of your VIPs survives!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kill all the VIPs to win the battle!</key>
+      <context>game.mission_type_description</context>
+      <value>Kill all the enemy VIPs to win the battle!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Survive all waves to win the battle! You can only see enemy wave number 1 now!</key>
+      <context>game.mission_type_description</context>
+      <value>Survive all waves to win the battle! You can only see the first enemy wave right now.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>In this battle deploy both factions. In the next battle you will fight against the winner army.</key>
+      <context>game.mission_type_description</context>
+      <value>In the first battle you deploy both factions. In the next battle you will fight against the victorious army.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You can now see the winner army from the previous battle. This time it is your enemy. Deploy an army that will beat the opponent to win the game!</key>
+      <context>game.mission_type_description</context>
+      <value>You can now see the winner army from the previous battle. This time you will fight against it. Deploy an army that will beat it and win the game!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kill all the enemy to win the battle!</key>
+      <context>game.mission_type_description</context>
+      <value>Kill all the enemies to win the battle!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Shadow</key>
+      <context>game.mission_type</context>
+      <value>Shadow</value>
+      <comment>Mission type, where player fights against his previous units</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Shadow fight</key>
+      <context>game.mission_type</context>
+      <value>Shadow fight</value>
+      <comment>Mission type, where player fights against his previous units</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sandbox</key>
+      <context>game.mission_type</context>
+      <value>Sandbox</value>
+      <comment>Mission type, where player deploys both sides of conflict</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Health points: {0}</key>
+      <value>Health points: {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Armour points: {0}</key>
+      <value>Armor points: {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Air</key>
+      <context>game.units_category</context>
+      <value>Air</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Anti Air</key>
+      <context>game.units_category</context>
+      <value>Anti-Air</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Artillery</key>
+      <context>game.units_category</context>
+      <value>Artillery</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>AT &amp; TD</key>
+      <context>game.units_category</context>
+      <value>AT &amp; TD</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bases</key>
+      <context>game.units_category</context>
+      <value>Bases</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Default</key>
+      <context>game.units_category</context>
+      <value>Default</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dev tools</key>
+      <context>game.units_category</context>
+      <value>Dev tools</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Infantry</key>
+      <context>game.units_category</context>
+      <value>Infantry</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Officers</key>
+      <context>game.units_category</context>
+      <value>Officers</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rocket</key>
+      <context>game.units_category</context>
+      <value>Rocket</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Classified</key>
+      <context>game.units_category</context>
+      <value>Classified</value>
+      <comment>in context: Classified information</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mobile Artillery</key>
+      <context>game.units_category</context>
+      <value>Mobile Artillery</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Special tanks</key>
+      <context>game.units_category</context>
+      <value>Special tanks</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Support</key>
+      <context>game.units_category</context>
+      <value>Support</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tanks</key>
+      <context>game.units_category</context>
+      <value>Tanks</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>V.I.P.</key>
+      <context>game.units_category</context>
+      <value>V.I.P.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Wunderwaffe</key>
+      <context>game.units_category</context>
+      <value>Wunderwaffe</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Cannot switch to the enemy team</key>
+      <value>Cannot switch to the enemy team</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Game paused</key>
+      <value>Game paused</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Time: </key>
+      <value>Time:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Deploy ally units</key>
+      <context>game.ui</context>
+      <value>Deploy ally units</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Deploy enemy units</key>
+      <context>game.ui</context>
+      <value>Deploy enemy units</value>
+      <plurals />
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

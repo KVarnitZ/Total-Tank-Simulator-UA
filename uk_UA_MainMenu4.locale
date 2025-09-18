@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>match.win</key>
+      <context>mainmenu.highscore</context>
+      <value>ПЕРЕМОГА</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>match.lost</key>
+      <context>mainmenu.highscore</context>
+      <value>ПОРАЗКА</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>match.unit.count</key>
+      <context>mainmenu.highscore</context>
+      <value>ОДИНИЦЬ: {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>profile.anonymous</key>
+      <context>mainmenu.highscore</context>
+      <value>Неназваний</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.next</key>
+      <context>mainmenu.highscore</context>
+      <value>Наступна битва</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.start</key>
+      <context>mainmenu.highscore</context>
+      <value>Почати</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.retry</key>
+      <context>mainmenu.highscore</context>
+      <value>Повторити</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.detailed</key>
+      <context>mainmenu.highscore</context>
+      <value>Детальний звіт</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.exit</key>
+      <context>mainmenu.highscore</context>
+      <value>Вийти</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.saveexit</key>
+      <context>mainmenu.highscore</context>
+      <value>Зберегти та вийти</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.title.victory</key>
+      <context>mainmenu.highscore</context>
+      <value>ПЕРЕМОГА</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.title.defeat</key>
+      <context>mainmenu.highscore</context>
+      <value>ПОРАЗКА</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.title.gameover</key>
+      <context>mainmenu.highscore</context>
+      <value>ГРУ СКІНЧЕНО</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.title.surrender</key>
+      <context>mainmenu.highscore</context>
+      <value>ЗДАТИСЯ? ПОДУМАЙ!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.title.detailed</key>
+      <context>mainmenu.highscore</context>
+      <value>ДЕТАЛЬНИЙ ЗВІТ</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.title.record</key>
+      <context>mainmenu.highscore</context>
+      <value>НОВИЙ ЗАПИС</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>unit.cost</key>
+      <context>mainmenu.highscore</context>
+      <value>{0} &lt;cash&gt;</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>menu.hide</key>
+      <context>mainmenu.highscore</context>
+      <value>Приховати</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>menu.show</key>
+      <context>mainmenu.highscore</context>
+      <value>Показати</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.yes</key>
+      <context>mainmenu.highscore</context>
+      <value>Так</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.no</key>
+      <context>mainmenu.highscore</context>
+      <value>Ні</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.summary.nameinput</key>
+      <value>Вкажість своє ім'я:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.summary.factionrandom</key>
+      <value>ВАША НАСТУПНА ФРАКЦІЯ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.summary.livesleft</key>
+      <value>ЗАЛИШИЛОСЯ ЖИТТІВ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.summary.ranks</key>
+      <value>РЕЙТИНГ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.battlewon</key>
+      <value>ПЕРЕМОЖНИХ БИТВ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.enemy.killed</key>
+      <value>ВБИТО ВОРОЖИХ ОДИНИЦЬ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.enemy.value</key>
+      <value>ЗАГАЛЬНА КОШТОВНІСТЬ ВИНИЩЕНИХ ВОРОГІВ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.ally.spent</key>
+      <value>УСЬОГО ВИТРАЧЕНО КОШТІВ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.favourite</key>
+      <value>УЛЮБЛЕНИЙ ТИП ОДИНИЦІ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.highestrank</key>
+      <value>НАЙВИЩИЙ РЕЙТИНГ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.general</key>
+      <value>Загально:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.rankssummary</key>
+      <value>ЗВІТ ПО РЕЙТИНГУ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.matchhistory</key>
+      <value>ІСТОРІЯ МАТЧУ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.unitsbytype</key>
+      <value>ОДИНИЦІ ЗА ТИПОМ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.rankbyfaction</key>
+      <value>НАЙВИЩИЙ РАХУНОК ПО ФРАКЦІЯМ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.unitbytype.allydeployed</key>
+      <value>Одиниць розгорнуто</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.unitbytype.enemykilled</key>
+      <value>Ворогів винищено</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.scoreboard</key>
+      <value>РАХУНОК</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.tab.battlewon</key>
+      <value>Переможних битв</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.tab.valuekilled</key>
+      <value>Загальна коштовність винищених ворогів</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.details</key>
+      <value>ДЕТАЛІ</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.advanced</key>
+      <value>ПОВНИЙ ЗВІТ</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.mapplayed</key>
+      <value>МАПУ ЗІГРАНО:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.fundslimit</key>
+      <value>ОБМЕЖЕННЯ КОШТІВ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.ally.deployed</key>
+      <value>ЗАГАЛЬНО ОДИНИЦЬ РОЗГОРНУТО:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Random</key>
+      <context>factions.shortname</context>
+      <value>Випадково</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Neutral</key>
+      <context>factions.shortname</context>
+      <value>Нейтральні</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>UK</key>
+      <context>factions.shortname</context>
+      <value>Британія</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>France</key>
+      <context>factions.shortname</context>
+      <value>Франція</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Germany</key>
+      <context>factions.shortname</context>
+      <value>Німеччина</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Poland</key>
+      <context>factions.shortname</context>
+      <value>Польща</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>USSR</key>
+      <context>factions.shortname</context>
+      <value>СРСР</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>USA</key>
+      <context>factions.shortname</context>
+      <value>США</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Random</key>
+      <context>factions.fullname</context>
+      <value>Випадково</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Neutral</key>
+      <context>factions.fullname</context>
+      <value>Нейтральні</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Britain</key>
+      <context>factions.fullname</context>
+      <value>Великобританія</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>France</key>
+      <context>factions.fullname</context>
+      <value>Франція</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Germany</key>
+      <context>factions.fullname</context>
+      <value>Німеччина</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Poland</key>
+      <context>factions.fullname</context>
+      <value>Польща</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Soviet Union</key>
+      <context>factions.fullname</context>
+      <value>Радянський Союз</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>USA</key>
+      <context>factions.fullname</context>
+      <value>США</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Italy</key>
+      <context>factions.fullname</context>
+      <value>Італія</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>British {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Британці перемогли! {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>French {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Французи перемогли! {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Germans {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Німці перемогли! {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Polish {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Поляки перемогли! {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Soviets {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Радянці перемогли! {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Americans {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Американці перемогли! {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>No scores yet</key>
+      <value>Донині очків немає</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>&lt;cash&gt; Enemies Killed</key>
+      <value>Винищено ворогів: &lt;cash&gt;</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hide</key>
+      <value>Приховати</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Press a key</key>
+      <value>Натисність клавішу</value>
+      <comment>text shown when player is setting up key binding</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Reset keyboard bindings to defaults?</key>
+      <value>Відновити призначення клавіш до початкових?</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>This mod contains content from DLCs {0} which are missing. Buy missing DLC and install them in order to use this mod.</key>
+      <value>This mod contains content from DLCs {0} which are missing. Buy missing DLC and install them in order to use this mod.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Buy DLC</key>
+      <value>Buy DLC</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>This mod contains content from DLCs {0} which are missing. Exit the game and install them in order to use this mod.</key>
+      <value>Ця модифікація має вміст з відсутнього доповнення {0} . Вийдість з гри та встановість доповнення, щоби використовувати модифікацію.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mod {0} has dependency errors! Leave recommended actions or tweak them if you know what you are doing.</key>
+      <value>Модифікація {0} має помилки залежностей! Залиште рекомендовані дії або змініть їх, якщо ви таке розумне.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fix dependencies</key>
+      <value>Виправити залежності</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DLC dependency error</key>
+      <value>Помилка залежностей доповнення</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mod dependency error</key>
+      <value>Помилка залежностей модифікацій</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mod dependency error</key>
+      <value>Помилка залежностей модифікацій</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>join.discord</key>
+      <context>mainmenu</context>
+      <value>Доєднуйтесь до нашого Discord</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Scenarios</key>
+      <context />
+      <value>Сценарії</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Workshop</key>
+      <context />
+      <value>Майстерня</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Japan</key>
+      <context>factions.fullname</context>
+      <value>Японія</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Japanese {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Японці перемогли! {0}</value>
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

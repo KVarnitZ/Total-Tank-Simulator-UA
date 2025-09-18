@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>PRODUCTION QUEUE:</key>
+      <value>PRODUCTION QUEUE:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Exit vehicle</key>
+      <value>Exit vehicle</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>BEAR</key>
+      <value>BEAR</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CAPTURING!</key>
+      <value>CAPTURING!</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0}s</key>
+      <context>unitCapturing</context>
+      <value>{0}s</value>
+      <comment>Time left to capture a building (seconds)</comment>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Capturing!</key>
+      <context>unitCapturing</context>
+      <value>Capturing!</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Defending!</key>
+      <context>unitCapturing</context>
+      <value>Defending!</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tie!</key>
+      <context>unitCapturing</context>
+      <value>Tie!</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0} allies vs {1} enemies</key>
+      <context>unitCapturing</context>
+      <value>{0} allies vs {1} enemies</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>phase 1 of 2: reducing enemy influence</key>
+      <context>unitCapturing</context>
+      <value>phase 1 of 2: reducing enemy influence</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>phase 2 of 2: increasing allied influence</key>
+      <context>unitCapturing</context>
+      <value>phase 2 of 2: increasing allied influence</value>
+      <plurals />
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

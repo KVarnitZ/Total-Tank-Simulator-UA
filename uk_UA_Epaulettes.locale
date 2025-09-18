@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>First Lieutenant</key>
+      <context>epaulette.name</context>
+      <value>First Lieutenant</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Captain</key>
+      <context>epaulette.name</context>
+      <value>Captain</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Major</key>
+      <context>epaulette.name</context>
+      <value>Major</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lieutenant colonel</key>
+      <context>epaulette.name</context>
+      <value>Lieutenant colonel</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Colonel</key>
+      <context>epaulette.name</context>
+      <value>Colonel</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Brigadier general</key>
+      <context>epaulette.name</context>
+      <value>Brigadier general</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Major General</key>
+      <context>epaulette.name</context>
+      <value>Major General</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lieutenant General</key>
+      <context>epaulette.name</context>
+      <value>Lieutenant General</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>General</key>
+      <context>epaulette.name</context>
+      <value>General</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Field Marshal</key>
+      <context>epaulette.name</context>
+      <value>Field Marshal</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>General of the Armies</key>
+      <context>epaulette.name</context>
+      <value>General of the Armies</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sub-lieutenant</key>
+      <context>epaulette.name</context>
+      <value>Sub-lieutenant</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Marshal of the branch</key>
+      <context>epaulette.name</context>
+      <value>Marshal of the branch</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Chief Marshal of the branch</key>
+      <context>epaulette.name</context>
+      <value>Chief Marshal of the branch</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Generalissimus</key>
+      <context>epaulette.name</context>
+      <value>Generalissimus</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lieutenant</key>
+      <context>epaulette.name</context>
+      <value>Lieutenant</value>
+      <plurals />
+      <comment>Epaulette</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Second Lieutenant</key>
+      <context>epaulette.name</context>
+      <value>Second Lieutenant</value>
+      <plurals />
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>
