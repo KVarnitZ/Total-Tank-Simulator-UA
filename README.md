@@ -59,3 +59,5 @@ en_US_Achievement.locale - не перекладено
 ## Totallytank.TMPro.dll
 - Додана змінна в GameLocale uk_UA = 170, яка якраз таки береться самою локалізацією;
 - Додане значення в GameLocaleExtensions української мови як ще однієї мови гри.
+
+![Contribution guidelines for this project](/TTS2.png)
