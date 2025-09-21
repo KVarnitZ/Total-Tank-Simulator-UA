@@ -5,43 +5,43 @@
     <GameLocalizationEntry>
       <key>Space</key>
       <context>keybinding</context>
-      <value>Space</value>
+      <value>Пробіл</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Quote</key>
       <context>keybinding</context>
-      <value>Quote</value>
+      <value>Апостроф</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Backslash</key>
       <context>keybinding</context>
-      <value>Backslash</value>
+      <value>Зв. скісна риска</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Period</key>
       <context>keybinding</context>
-      <value>Period</value>
+      <value>Крапка</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Slash</key>
       <context>keybinding</context>
-      <value>Slash</value>
+      <value>Скісна риска</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Left Shift</key>
       <context>keybinding</context>
-      <value>Left Shift</value>
+      <value>Лівий Shift</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Semicolon</key>
       <context>keybinding</context>
-      <value>Semicolon</value>
+      <value>Крапка з комою</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -53,25 +53,25 @@
     <GameLocalizationEntry>
       <key>Equals</key>
       <context>keybinding</context>
-      <value>Equals</value>
+      <value>Дорівнює</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Left Ctrl</key>
       <context>keybinding</context>
-      <value>Left Ctrl</value>
+      <value>Лівий Ctrl</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Minus</key>
       <context>keybinding</context>
-      <value>Minus</value>
+      <value>Мінус</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Comma</key>
       <context>keybinding</context>
-      <value>Comma</value>
+      <value>Кома</value>
       <plurals />
     </GameLocalizationEntry>
   </entries>

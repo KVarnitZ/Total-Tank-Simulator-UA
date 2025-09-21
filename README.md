@@ -34,13 +34,13 @@ en_US_Achievement.locale - не перекладено
 
 - [ ] en_US_DO_NOT_TRANSLATE.locale - напевно і не потрібно перекладати
 
-- [ ] en_US_Epaulettes.locale - не перекладено
+- [ ] en_US_Epaulettes.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
-- [ ] en_US_keybinding.locale - не перекладено
+- [ ] en_US_keybinding.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
-- [ ] en_US_keybinding_2.locale - не перекладено
+- [ ] en_US_keybinding_2.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
-- [ ] en_US_keybinding_generated.locale - не перекладено
+- [x] en_US_keybinding_generated.locale - **перекладено та перевірено**
 
 - [x] en_US_MainMenu.locale - **перекладено та перевірено**
 
