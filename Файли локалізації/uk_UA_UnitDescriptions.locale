@@ -70,7 +70,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The vehicle could carry gun crews of up to 12 men in theatre-type seats.</key>
-      <value>Перевозить піхоту</value>
+      <value>Перевозить до 12 піхотинців</value>
       <plurals />
       <comment>Unit description: sdkfz7</comment>
     </GameLocalizationEntry>

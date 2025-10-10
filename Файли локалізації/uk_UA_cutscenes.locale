@@ -4,374 +4,374 @@
   <entries>
     <GameLocalizationEntry>
       <key>USSR_Act1_Introduction</key>
-      <value>This treacherous German attack took us by surprise! The Nazis broke through our borders and are racing for our capital. We cannot let them reach Moscow! You must buy us more time and allow us to build up our strength, no matter what the expense.</value>
+      <value>Ця підступна німецька атака застала нас зненацька! Ми зазвичай так само робимо, але це наша тактика, а вони її нагло ском... сконацистили? Фріци прорвали наші кордони і мчать до нашої столиці. Ми не можемо дозволити їм дістатися Москви! Ви повинні виграти для нас час і дати нам можливість зміцнити свої сили, незважаючи на витрати.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR_Act1_Win</key>
-      <value>Good job, Comrade! The German generals will find their retreat hard to explain away to the Chancellor. I have a feeling that certain heads will... roll.</value>
+      <value>Молодець, товаришу! Німецьким генералам буде важко пояснити канцлеру своє відступлення. Маю відчуття, що деякі голови... полетять.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR_Act2_Introduction</key>
-      <value>The Germans made a mistake when they allowed an element of their army to get cut off at Stalingrad. Let us see how well they teach survival skills in the Wehrmacht! Comrade, you may lead the glorious charge!</value>
+      <value>Німці зробили помилку, коли дозволили частині своєї армії опинитися в оточенні під Сталінградом. Подивимося, як добре навчають навичкам виживання у Вермахті! Товаришу, ви можете очолити славну атаку!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR_Act2_Win</key>
-      <value>The enemies were accustomed to easy victories - Blitzkrieg they called it. Not so "blitz" anymore. You showed them what the Red Army is made of: unity, courage and sacrifice.</value>
+      <value>Вороги звикли до легких перемог - вони називали це «Бліцкригом». Тепер це вже бліцкрик. Ви показали їм, з чого складається Червона Армія: з єдності, мужності та самопожертви.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR_Act3_Introduction</key>
-      <value>Those pesky Brits think they can dictate terms to the Soviet Union. Nobody will tell us where our borders should lie. If we say that Iran belongs to the Soviet Union then it means it has always been rightfully ours.</value>
+      <value>Ці набридливі британці думають, що можуть диктувати умови Радянському Союзу. Ніхто не сміє нам вказувати, де повинні пролягати наші кордони. Якщо ми говоримо, що Іран належить Радянському Союзу, то це означає, що він завжди був нашою законною власністю.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR_Act3_Win</key>
-      <value>No need to get dramatic. Nobody's declaring war here. Iran has always been rightfully ours. You showed the British their mistake, Comrade. This is nothing more than a misunderstanding between friends.</value>
+      <value>Не треба драматизувати. Ніхто тут не оголошує війну. Іран завжди був нашим. Ви показали британцям їхню помилку, товаришу. Це не більше ніж непорозуміння між друзями.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR_Act4_Introduction</key>
-      <value>Germany is a dead man walking, they just don't know it yet. We will drive them out to the West. We will take away their breathing space bit by bit until there is nothing left. And then we will take Berlin before the Allies get there!</value>
+      <value>Німеччина приречена, просто вони ще цього не знають. Ми виженемо їх на захід, будемо потроху забирати у них простір для дихання, поки вони не задохнуться. Потім ми захопимо Берлін, перш ніж туди дістануться союзники. На Берлін!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR_Act4_Win</key>
-      <value>We did it, Comrade! Today Soviet soldiers put a red flag on the Reichstag building... It was so beautiful. To think that just a few years back it was the Nazis who wanted to conquer Moscow.</value>
+      <value>Ми це зробили, товаришу! Сьогодні радянські солдати підняли червоний прапор над Рейхстагом... Це було так красиво. Хоча ще кілька років тому нацисти хотіли завоювати Москву.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR_Act5_Introduction</key>
-      <value>So this is how the Allies express their gratitude for our help? They think the losses we incurred defeating the Germans somehow weakened us? No, Comrade! They made us stronger than ever before and they shall find that out very soon.</value>
+      <value>Ось так союзники висловлюють свою вдячність за нашу допомогу? Вони вважають, що втрати, яких ми зазнали, перемагаючи німців, якось нас послабили? Ні, товаришу! Вони зробили нас сильнішими, ніж будь-коли раніше, і вони дуже скоро це зрозуміють.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR_Act5_Win</key>
-      <value>Your troops were the only barrier between Moscow and the enemy... I have to confess, Comrade, in a moment of weakness, I doubted the invincibility of the Red Army. What a fool I was. Never doubt Soviet military might! Long live the Soviet Union!</value>
+      <value>Ваші війська були єдиною перешкодою між Москвою і ворогом... Мушу зізнатися, товаришу, в момент слабкості я засумнівався в непереможності Червоної армії. Який же я був дурний. Ніколи не сумнівайтеся в військовій могутності Радянського Союзу! Хай живе Радянський Союз!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR_Loose_1</key>
-      <value>You think you have a right to give up? You do not! When the Nazis attack, you defend! And then tear them to shreds!</value>
+      <value>Ви думаєте, що маєте право здатися? Ні, не маєте! Коли нацисти атакують, ви захищаєтеся, розриваючи їх на шматки!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR_Loose_2</key>
-      <value>The Soviet Union held all the necessary strength to fight off this attack. But you, Comrade, you didn't know how to make use of it!</value>
+      <value>Радянський Союз мав усі необхідні сили, щоб відбити цю атаку. Але ви, товаришу, не знали, як ними скористатися!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR_Loose_3</key>
-      <value>It is not how I imagined the might of the Red Army under your command, Comrade.</value>
+      <value>Я не так уявляв собі могутність Червоної армії під вашим командуванням, товаришу.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR_Loose_4</key>
-      <value>Without proper leadership, disorder takes over. Chaos! Without your involvement, all our battles will end in failure – just like this one!</value>
+      <value>Без належного керівництва настає безлад. Хаос! Свинець завжди знає як навчити дисципліні. Ви можете стати прикладом для інших, чи все ж таки почнете перемагати?!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PL_Akt1_Przegrana</key>
-      <value>The German troops have just entered Warsaw. Do you realize what that means for us? This outcome is a disaster. It is the end of the world as we know it!</value>
+      <value>Німецькі війська щойно увійшли до Варшави. Ви розумієте, що це для нас означає? Цей результат — катастрофа. Це кінець світу, яким ми його знаємо!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>US_Act1_Introduction</key>
-      <value>We land in Africa on the 8th of November. When you are on the desert, attack! Keep on advancing until you get shot at. Is that clear?!</value>
+      <value>Ми висадимося в Африці 8 листопада. Коли ви будете в пустелі, атакуйте! Просувайтеся вперед, допоки по вас не почнуть стріляти. Все зрозуміло?!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>US_Act1_Win</key>
-      <value>You see that, Commander? This victory was an important lesson. You better remember it when we land in Germany.</value>
+      <value>Бачите, командире? Ця перемога стала важливим уроком. Згадайте його, коли ми висадимося в Німеччині.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>US_Act2_Introduction</key>
-      <value>The Germans strike back! They aren't afraid of the cold, but they sure as hell are afraid of us! Show them what their nightmare is made of.</value>
+      <value>Німці завдають удар у відповідь! Вони не бояться холоду, але вони, безсумнівно, злякаються нас! Покажіть їм, з чого складається їхній кошмар.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>US_Act2_Win</key>
-      <value>Now, I don't say this every day but that was the most brilliant operation we have thus far performed! An outstanding achievement of this war.</value>
+      <value>Я не кажу цього щодня, але це була найгеніальніша операція, яку ми дотепер проводили! Видатне досягнення цієї війни.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>US_Act3_Introduction</key>
-      <value>Now it's our turn to stop the Communists. Give them bullets - to each according to his needs.</value>
+      <value>Тепер наша черга зупинити комуністів. Дайте їм кулі - кожному відповідну.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>US_Act3_Win</key>
-      <value>That's a day to remember, Commander. Perhaps our greatest achievement - we liberated Europe from communism. Oh, and I've got myself a brand-new destination to go on R&amp;R.</value>
+      <value>Це день, який варто запам'ятати, командире. Мабуть, наше найбільше досягнення — ми звільнили Європу від комунізму. О, і я знайшов собі нове місце, де можна відпочити.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>US_Loose_1</key>
-      <value>No, no, no you forgot what I taught you! A good plan, violently executed now, is better than a perfect plan next week. Get out of my sight!</value>
+      <value>Ні, ні, ні, ви забули, чого я вас навчив! Хороший план, реалізований зараз, краще, ніж ідеальний план на наступний тиждень. Забирайся з моїх очей!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>US_Loose_2</key>
-      <value>You got lost in your tactics? Forgot what we're here for? If you're not sure what to do, then attack!</value>
+      <value>Ви заплуталися у своїх тактиках? Забули, для чого ми тут? Якщо не знаєте, що робити, то атакуйте!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>US_Loose_3</key>
-      <value>I don't want to hear your excuses! I don't want to hear of any soldier under my command captured unless he has been hit. And even if you get hit, you can still fight back.</value>
+      <value>Не хочу чути ваших виправдань! Не хочу чути про жодного солдата під моїм командуванням, який потрапив у полон, якщо він не був поранений. Навіть якщо ви поранені, ви все одно можете давати відсіч.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PL_Akt1_Wstep</key>
-      <value>The German army has crossed our borders. We are forced to defend this holy motherland. We shall carry out our defence in four phases. In each, you will be able to decide to take on a mission or to retreat. Your highest priority must remain winning the final battle. A lesser-skilled commander could secure us a minor victory – only the final mission is required for that. However, you are not a lesser commander, are you? Winning four battles would be a major victory for us. Win all the battles and we shall have a brilliant victory.</value>
+      <value>Німецька армія перетнула наші кордони. Ми змушені захищати цю святу батьківщину. Ми будемо проводити нашу оборону в чотири етапи. На кожному з них ви зможете вирішити, чи взяти участь у місії, чи відступити. Вашим найвищим пріоритетом має залишатися перемога в остаточній битві. Менш досвідчений командир міг би забезпечити нам незначну перемогу – для цього потрібна лише остання місія. Однак ви не є менш досвідченим командиром, чи не так? Перемога в чотирьох битвах буде для нас великою перемогою. Виграйте всі битви, і ми отримаємо блискучу перемогу.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PL_Akt1_Zwyciestwo</key>
-      <value>No words can express our gratitude for the sacrifice of your soldiers. They didn't tremble when the Nazis crossed our borders. They didn't tremble when they had to fight the Germans. A magnificent show of fighting spirit!</value>
+      <value>Жодні слова не можуть виразити нашу вдячність за жертву ваших солдатів батьківщині. Вони не тремтіли, коли нацисти перетнули наші кордони. Вони не тремтіли, коли їм довелося воювати з німцями. Чудова демонстрація бойового духу!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PL_Akt2_Przegrana</key>
-      <value>Our soldiers fought for the freedom of our nation. But because of our incompetence, this freedom is now lost! What shall we commanders say to our peoples and families back home...?</value>
+      <value>Наші солдати боролися за свободу нашої нації. Але через нашу некомпетентність ця свобода тепер втрачена! Що ми, командири, скажемо нашим людям і родинам, коли повернемось...?</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PL_Akt2_Wstep</key>
-      <value>Poland will never settle for a life under oppression. Against all odds, we have to counter-attack. Yes, we have an offensive campaign ahead of us. You can achieve victory in different ways, but the number of missions played is key: no more than six. Within that many moves, you have to reach and win the final mission. Every battle, no matter if it ends in victory or defeat, counts as one turn. If you use all your moves, you will be awarded a minor victory. A major victory if you succeed in four moves. A brilliant victory if you use only three.</value>
+      <value>Польща ніколи не погодиться на життя в гніті. Незважаючи на всі труднощі, ми маємо контратакувати. Так, попереду нас чекає наступальна кампанія. Перемогу можна здобути різними способами, але ключовим є кількість виконаних місій: не більше шести. За цю кількість ходів ви повинні дістатися до фінальної місії і виграти її. Кожна битва, незалежно від того, чи закінчилася вона перемогою чи поразкою, вважається одним ходом. Якщо ви використаєте всі свої ходи, ви отримаєте невелику перемогу. Велику перемогу, якщо вам вдасться виконати чотири ходи. Блискучу перемогу, якщо ви використаєте лише три.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PL_Akt2_Zwyciestwo</key>
-      <value>This is a solemn moment for me, Commander. But at the same time it's the beginning of something larger. This war has only just begun. All the sacrifice we had to suffer will not be in vain! We shall support our allies in the West and one day soon punish our oppressors for what they did.</value>
+      <value>Для мене це урочистий момент, командире. Але водночас це початок чогось більшого. Ця війна тільки-но розпочалася. Всі жертви, яких ми зазнали, не будуть марними! Ми підтримаємо наших союзників на Заході і незабаром покараємо наших гнобителів за те, що вони зробили.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UK_Act1_Introduction</key>
-      <value>The British Empire lasted for centuries. You commander don't want to be the one to witness its demise, do you? We lost London due to shortsighted political decisions. The Battle for England was a disaster for us. And don't even get me started on Dunkirk. But until the day I die, we will never surrender!</value>
+      <value>Британська імперія проіснувала століттями. Ви ж не хочете, командире, стати свідком її занепаду, чи не так? Ми втратили Лондон через недалекоглядні політичні рішення. Битва за Англію стала для нас катастрофою, а про Дюнкерк я взагалі мовчу. У будь якому разі, я не здамся до самої смерті!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UK_Act1_Win</key>
-      <value>Today you've really shown us something, commander. You play the resource management game well. All our troops in exactly the right spot to put Nazis in their place.</value>
+      <value>Сьогодні ви нам дійсно продемонстрували свої здібності, командире. Ви добре граєте в гру з управління ресурсами. Всі наші війська знаходяться саме там, де потрібно, щоб поставити нацистів на місце.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UK_Act2_Introduction</key>
-      <value>The Americans land in Tunisia in November and we shall join them there. It would be quite impolite of us to arrive late. Our friends over the pond observed enough of those sterile ministerial discussions in London, let us make a proper impression on them this time.</value>
+      <value>Американці прибудуть до Тунісу в листопаді, і ми приєднаємося до них там. Було б дуже нечемно з нашого боку запізнитися. Наші друзі з-за океану вже надивилися на безплідні міністерські дискусії в Лондоні, тож давайте цього разу справимо на них належне враження.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UK_Act2_Win</key>
-      <value>This battle will remain a symbol of the British resistance for a long time to come. We are ready to go to Tunisia. And then come back to Europe to finish the job.</value>
+      <value>Ця битва ще довго залишатиметься символом британського опору. Ми готові вирушити до Тунісу, а потім повернутися до Європи, щоб завершити справу.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UK_Act3_Introduction</key>
-      <value>I told them once, I told them twice, this man is not to be trusted. The ministers told me to endure Stalin's insults, now they too cannot let them go unanswered. The talks have failed, time to defend what should remain in our hands.</value>
+      <value>Я казав їм раз, казав їм двічі, цій людині не можна довіряти. Міністри казали мені терпіти образи Сталіна, тепер і вони не можуть залишити їх без відповіді. Переговори провалилися, час захищати те, що має залишитися в наших руках.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UK_Act3_Win</key>
-      <value>Officially, what happened in Iran was not a war. What was it then? I'm sure the ministers will come up with some perfectly appropriate name. What matters is that now everyone knows the Soviets can be defeated.</value>
+      <value>Офіційно те, що сталося в Ірані, не було війною. То що ж це було? Я впевнений, що міністри придумають для цього якусь цілком відповідну назву. Наприклад «Ескалація». Важливо те, що тепер знають усі: радянські війська можна перемогти.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UK_Act4_Introduction</key>
-      <value>The ministers call it "Operation Unthinkable" even though I've been thinking about it for a long time. Stalin has already shown us in Iran what he thinks about our alliance. We've beaten the Soviets once, this time however will be much, much harder.</value>
+      <value>Міністри називають це «Операція Немислима», хоча Ескалація більш пасує їх стилю. Сталін уже показав нам в Ірані, що він думає про наш союз. Ми вже раз перемогли радянців, але цього разу буде набагато, набагато важче.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UK_Act4_Win</key>
-      <value>We've achieved more than anyone expected. More than even I thought possible. We showed our allies we would never leave them in need. Now it's time for the Americans to follow our example.</value>
+      <value>Ми досягли більше, ніж хто-небудь очікував. Більше, ніж я вважав можливим. Ми показали нашим союзникам, що ніколи не залишимо їх у скруті. Тепер настав час американцям наслідувати наш приклад.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UK_Loose_1</key>
-      <value>Lack of character, imagination, drive, and leadership power... Should I go on?</value>
+      <value>Безхарактерність, відстуність уяви, енергії та лідерських якостей... Продовжувати?</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UK_Loose_2</key>
-      <value>It's been a long time since I've witnessed such a humiliating defeat. Your army drifts like a rudderless ship.</value>
+      <value>Давно я не бачив такої принизливої поразки. Ваша армія дрейфує, як корабель без керма.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UK_Loose_3</key>
-      <value>We missed our chance and completed only half the job. We have failed our allies. The world will remain divided for decades if not centuries to come.</value>
+      <value>Ми втратили свій шанс і виконали лише половину роботи. Ми підвели своїх союзників. Світ залишатиметься розділеним протягом десятиліть, а то й століть.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UK_Loose_4</key>
-      <value>An absolutely dreadful exhibition of amateur strategy! One of the most nerve-wracking things while watching an operation unroll itself is the intimate knowledge of the commander engaged.</value>
+      <value>Абсолютно жахлива демонстрація дилетантської стратегії! Одне з найбільш нервових відчуттів під час спостереження за розгортанням операції — це глибоке знання командира, який бере в ній участь.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Act1_Introduction</key>
-      <value>And so the war begins. You see, we really had no choice. We asked the Poles nicely, but they rejected our conditions. We had to defend ourselves... I mean, we shot first, but... they shot back, so what were we supposed to do...? Okay, now go and find something to kill.</value>
+      <value>І так починається війна. Розумієте, у нас дійсно не було вибору. Ми ввічливо попросили поляків, але вони відхилили наші умови. Ми мусили захищатися... Тобто, ми стріляли першими, але... вони відповіли вогнем, то що нам залишалося робити...? Гаразд, а тепер йдіть і знайдіть когось, кого можна вбити.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Act1_Win</key>
-      <value>Well, well... this is quite agreeable, sehr gut even. But do not let this victory go to your head. There are still many battles to come!</value>
+      <value>Ну що ж... це цілком прийнятно, навіть дуже добре. Але не дозволяйте цій перемозі запаморочити вам розум. Попереду ще багато битв!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Act2_Introduction</key>
-      <value>Let me tell you a joke. Here it comes: the Maginot Line. The French really think that we will engage in this silly positional war. Oh no, we have something much better in mind: we'll go around that stupid wall and then get on with our Blitzkrieg!</value>
+      <value>Дозвольте розповісти вам анекдот. Ось він: лінія Мажино. Лягушатники справді вважають, що ми вступимо в цю безглузду позиційну війну. О ні, у нас на думці є щось набагато краще: ми обійдемо цю дурну стіну і продовжимо наш бліцкриг!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Act2_Win</key>
-      <value>See, Commander? With this sweeping victory we have now sent an unmistakable message to the entire world: the Reich is unbeatable. And to think that the HQ is giving me a hard time about a lack of communication.</value>
+      <value>Бачите, командире? Цією переконлтвою перемогою ми надіслали чіткий сигнал усьому світу: Рейх непереможний. А ще штаб дорікає мені за брак комунікації.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Act3_Introduction</key>
-      <value>Our colleagues from the Luftwaffe did an admirable job in the Battle of England. They turned most of London into a nice pile of rubble. Now let us finish the job. We must suck out the last of what remains of the lifeblood of the British Empire.</value>
+      <value>Наші колеги з Люфтваффе провели чудову роботу в битві за Англію. Вони перетворили більшу частину Лондона на гарну купу уламків. Тепер давайте закінчимо цю роботу. Ми повинні висмоктати останні залишки життєвої сили Британської імперії.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Act3_Win</key>
-      <value>The time has finally come for the sun to set on the British Empire. Just as our Chancellor had predicted. We've conquered Europe, now it is time to conquer the entire world!</value>
+      <value>Нарешті настав час, коли Томмі більше не бачать сонця. Як і передбачав наш канцлер. Ми завоювали Європу, тепер настав час завоювати весь світ!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Act4_Introduction</key>
-      <value>Let me tell you what will happen: before the winter comes, our troops will have entered Moscow. You know how I know this? I've made sure of it. I've only equipped our troops with summer uniforms so that they stay properly motivated.</value>
+      <value>Дозвольте мені розповісти вам, що буде: до настання зими наші війська увійдуть до Москви. Ви знаєте, звідки я це знаю? Я подбав про це. Я екіпірував наші війська лише літніми уніформами, щоб вони залишалися мотивованими.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Act4_Win</key>
-      <value>See, I told you it would work out. The Soviets became so focused on denying us access to their factories and cities that they practically destroyed their own country for us.</value>
+      <value>Бачите, я ж казав, що все вийде. Радянський Союз так зосередився на тому, щоб не допустити нас до своїх заводів і міст, що практично знищив свою країну заради нас.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Act5_Introduction</key>
-      <value>You'd think that after we took the British Isles, the colonies in Africa would show some good 'old English common sense and join our cause. But no, they keep on fighting, like a chicken without a head.</value>
+      <value>Можна було б подумати, що після того, як ми захопили Острівну Мавпу, колонії в Африці продемонструють старий добрий англійський здоровий глузд і приєднаються до нашої справи. Але ні, вони продовжують боротися, як курка без голови.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Act5_Win</key>
-      <value>Nicely done. The pyramids are but a mere 100 miles from where our troops stand. Such a pity that I've never had a chance to take a proper tour. But orders are orders.</value>
+      <value>Молодець. Піраміди знаходяться всього в 100 милях від місця дислокації наших військ. Шкода, що я ніколи не мав можливості відвідати їх, але наказ є наказ.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Act6_Introduction</key>
-      <value>We are going to heal this poor country from its delusional communist ideas. Well, it's not all bad, at least there's none of that democracy nonsense. The Soviets have one last counter-offensive left in them. Let's get on with it.</value>
+      <value>Ми вилікуємо цю бідну країну від її марення про комуністичні ідеї. Ну, не все так погано, принаймні немає ніякої демократичної нісенітниці. Івани мають в запасі останню контрнаступальну операцію. Давайте приступимо до справи.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Loose_1</key>
-      <value>Did you run out of ammunition? Or was it imagination and common sense?</value>
+      <value>У вас закінчилися боєприпаси? Може уява та здоровий глузд?!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Loose_2</key>
-      <value>What a terrifying lack of efficiency! I think your real tanks shot down fewer enemies than their imaginary ones.</value>
+      <value>Яка жахлива неефективність! Навіть палиця раз у рік стріляє, але не ваші танки.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Loose_3</key>
-      <value>You spoiled it! Everything was planned so beautifully, with such masterful precision. None of the victories matter now. Get out!</value>
+      <value>Ви все зіпсували! Все було так чудово сплановано, з такою майстерною точністю. Тепер жодні перемоги не мають значення. Забирайтесь!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Loose_4</key>
-      <value>I will see to it that the Oberkommando hears about your failings. You let your troops freeze to death. Let's see what the Chancellor has in mind for you...</value>
+      <value>Я подбаю про те, щоб Оберкомандо дізналося про ваші провали. Ви дозволили своїм військам замерзнути на смерть. Побачимо, що канцлер для вас приготував...</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>FR_Act1_Introduction</key>
-      <value>So it was supposed to go like this. The Germans attack us. Oh no, but what's that? It's the impenetrable Maginot Line. The Germans can't get through. Curtain! Instead they go around, through the Low Countries. Now we'll have to improvise.</value>
+      <value>Отже, все мало бути так. Німці нападають на нас. О ні, але що це? Це непробивна лінія Мажино. Боши не можуть прорватися. Завіса! Замість цього вони обходять її, проходячи через Нідерланди. Тепер нам доведеться імпровізувати.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>FR_Act1_Win</key>
-      <value>The Germans have always believed in following a perfectly orchestrated, brilliant plan. Turns out there's only so much a plan can do for you. Now that the plan is off, they are lost and it is we who dictate the terms.</value>
+      <value>Німці завжди вірили в дотримання ідеально спланованого, геніального плану. Виявляється, план може зробити для них не так вже й багато. Тепер, коли план провалився, вони розгублені, і саме ми диктуємо умови.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>FR_Act2_Introduction</key>
-      <value>Funny how the tables have turned. War is always a gamble. The Germans thought they had this game under control but they overplayed their hand. Now it's the French Republic that holds the winning combination. We just need to apply the right amount of pressure.</value>
+      <value>Цікаво, як ситуація змінилася. Війна завжди є азартною грою. Боши думали, що контролюють ситуацію, але переоцінили свої сили. Тепер переможну комбінацію має Французька Республіка. Нам потрібно лише чинити відповідний тиск.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>FR_Act2_Win</key>
-      <value>The German military machine has run out of steam. They cannot afford to lose, but at this point they cannot afford to win, either. We'll drag this positional war out a little bit longer, and it'll be over. The Republic is saved!</value>
+      <value>Німецька військова машина вичерпала свої сили. Вони не можуть собі дозволити програти, але на даний момент вони не можуть собі дозволити і перемогти. Ми ще трохи затягнемо цю позиційну війну, і все закінчиться. Республіка врятована!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>FR_Loose_1</key>
-      <value>We were prepared. We were ready. Just one minor detail was missing: we didn't know what we were preparing for. Napoleon will be turning in his grave, no doubt...</value>
+      <value>Ми були впевнені, ми були готові. Бракувало лише однієї дрібниці: ми не знали, до чого готувалися. Наполеон, без сумніву, перевертається в могилі...</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>FR_Loose_2</key>
-      <value>This is a truly sad day for France. Our planning does not amount to much when it is divorced from reality. And the reality is our efforts fell short...</value>
+      <value>Це справді сумний день для Франції. Наші плани не мають великого значення, коли вони відірвані від реальності, а реальність така, що наших зусиль виявилося недостатньо...</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR_Loose_5</key>
-      <value>You let the enemy take our capital! The Soviet Union without Moscow is like a chicken without a head! We're done - best case scenario, we'll rot in Allies prison, worst - we'll get shot by the NKVD.</value>
+      <value>Ви дозволили ворогу захопити нашу столицю! Радянський Союз без Москви — це як курка без голови! Нам кінець — у кращому випадку ми згниємо у в'язниці союзників, у гіршому — нас розстріляють в НКВС.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Act5_Loose</key>
-      <value>You've become complacent, Commander! We defeated the Brits in London but somehow their colonies are giving us a hard time. Unacceptable!</value>
+      <value>Ви стали самовпевненим, командире! Ми перемогли Томмі у Лондоні, але їхні колонії чомусь дають нам відпір. Це неприпустимо!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Act6_Loose</key>
-      <value>A commander is only as good as his last battle! And your last battle, Commander, was an unmitigated disaster! I relieve you of your duty!</value>
+      <value>Командир хороший настільки, наскільки хороша його остання битва! А ваша остання битва, командире, була суцільною катастрофою! Я звільняю вас від обов'язків!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GER_2_Act6_Win</key>
-      <value>Another day, another empire turned into dust. You know, people make fun of us Germans for planning everything extensively. But I don't see them laughing now. Besides, our secret police makes sure of that, hahaha...</value>
+      <value>Ще один день, ще одна імперія перетворилася на пил. Знаєте, люди сміються з нас, німців, за те, що ми все ретельно плануємо. Але я не бачу, щоб вони зараз сміялися. До того ж, наша таємна поліція про це подбає, ха-ха-ха...</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ITA_Act1_Introduction</key>
-      <value>Our forces reached far into the northern African front but Brits counterattacked. We are left with close to nothing! People at the top must be insane to send our men to certain death with no chance of winning. We need to hold the British offensive for as long as possible. Stakes are high and chances close to nonexistent.</value>
+      <value>Наші війська просунулися далеко вглиб північноафриканського фронту, але британці контратакували. Ми залишилися майже ні з чим! Люди на верхівці, мабуть, збожеволіли, коли відправили наших солдатів на вірну смерть, не маючи жодних шансів на перемогу. Ми повинні стримувати британську наступальну операцію якомога довше. Ставки високі, а шанси майже відсутні.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ITA_Act1_Win</key>
-      <value>A stunning victory! We had no army to speak of but now it is them who are left with nothing! Except for their allies, who have just landed in western Africa. We need to retreat.</value>
+      <value>Вражаюча перемога! У нас не було армії, про яку можна було б говорити, але тепер це їх проблема! За винятком їхніх союзників, які щойно висадилися в Західній Африці. Нам потрібно відступити.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ITA_Act2_Introduction</key>
-      <value>For Armeegruppe Afrika to surrender one day after my promotion? It sounds like a joke but this is the reality. Forget about Africa. Allies landed in Sicily. They are no peaceloving tourists either. We shall greet them with everything that we have in our arsenal.</value>
+      <value>Армійська група «Африка» капітулювала через день після мого підвищення? Це звучить як жарт, але це реальність. Забудьте про Африку. Союзники висадилися на Сицилії. Вони теж не є миролюбними туристами. Ми зустрінемо їх усім, що є в нашому арсеналі.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ITA_Act2_Win</key>
-      <value>Allied forces attacked in such numbers that they started daydreaming about the conquest of Italy. And this is how much is left of their plans! With this victory, you sealed their fate. Now, we can enter the occupied areas as if they were our own.</value>
+      <value>Союзні війська атакували в такій кількості, що почали мріяти про завоювання Італії. І ось що залишилося від їхніх планів! Ця перемога вирішила їхню долю. Тепер ми можемо входити в окуповані території, як у свої.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ITA_Loose_1</key>
-      <value>Did I really demand the impossible? Yes, but it does not explain the catastrophe you lead us into.</value>
+      <value>Чи справді я вимагав неможливого? Так, але це не пояснює катастрофи, в яку ви нас втягнули.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ITA_Loose_2</key>
-      <value>It seems like the time has come for Italy to change sides in this conflict. This war isn't going too well for us.</value>
+      <value>Схоже, настав час Італії змінити сторону в цьому конфлікті. Ця війна для нас складається не надто добре.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>JAP_Act1_Introduction</key>
-      <value>Unbelievable! While we were busy fighting in the Pacific, the Soviets suddenly attacked us from the north. They have already forgotten that 40 years ago we had defeated the Russians. Commander, stand up and serve the invaders another Tsushima!</value>
+      <value>Неймовірно! Поки ми були зайняті боями на Тихому океані, радянські війська раптово атакували нас з півночі. Вони вже забули, що 40 років тому ми перемогли росіян. Командире, встаньте і подайте загарбникам ще одну Цусіму!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>JAP_Act1_Win</key>
-      <value>Great job, commander! Thanks to your skills we have pushed away the enemy attack. I’m sure your achievements will be glorified in songs, books…and probably anime</value>
+      <value>Відмінна робота, командире! Завдяки вашим навичкам ми відбили атаку Ака-Ґе. Я впевнений, що ваші досягнення будуть оспівані в піснях, книгах... і, можливо, аніме.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>JAP_Loose_1</key>
-      <value>Some of our mentors say that the greatest defeats are also the most valuable lessons. Nonetheless, I would prefer you had gone truant this time…</value>
+      <value>Деякі з наших наставників кажуть, що найбільші поразки є також найціннішими уроками. Проте я б волів, щоб ви цього разу прогуляли заняття...</value>
       <plurals />
     </GameLocalizationEntry>
   </entries>

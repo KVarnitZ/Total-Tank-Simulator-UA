@@ -22,6 +22,10 @@
 
 - [ ] en_US_Battle6.locale - не перекладено
 
+- [ ] en_US_Battle7.locale - не перекладено
+
+- [ ] en_US_Battle8.locale - не перекладено
+
 - [ ] en_US_campaign.locale - не перекладено
 
 - [ ] en_US_campaign2.locale - не перекладено
@@ -30,9 +34,11 @@
 
 - [ ] en_US_CampaignMainMenu.locale - не перекладено
 
-- [ ] en_US_Descriptions.locale - не перекладено
+- [ ] en_US_cutscenes.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
-- [ ] en_US_DO_NOT_TRANSLATE.locale - напевно і не потрібно перекладати
+- [ ] en_US_Descriptions.locale - **перекладено та <ins>НЕ</ins> перевірено**
+
+- [x] en_US_DO_NOT_TRANSLATE.locale - **не потрібно перекладати**
 
 - [ ] en_US_Epaulettes.locale - **перекладено та <ins>НЕ</ins> перевірено**
 

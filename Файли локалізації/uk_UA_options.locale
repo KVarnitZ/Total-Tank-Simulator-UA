@@ -149,7 +149,7 @@ Are you sure you want to do it?</key>
     <GameLocalizationEntry>
       <key>Russian</key>
       <context>options.languageName</context>
-      <value>Свинособача</value>
+      <value>Російська</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>German</key>

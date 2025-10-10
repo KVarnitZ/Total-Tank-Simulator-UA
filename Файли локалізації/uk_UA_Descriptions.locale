@@ -4,272 +4,272 @@
   <entries>
     <GameLocalizationEntry>
       <key>Fast and effective against stationary units.</key>
-      <value>Fast and effective against stationary units.</value>
+      <value>Швидка та ефективна одиниця проти нерухомих ворогів.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Causes more damage than a regular light tank.</key>
-      <value>Causes more damage than a regular light tank.</value>
+      <value>Завдає більше шкоди ніж звичайний легкий танк.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Designed to hunt for tank destoryers.</key>
-      <value>Designed to hunt for tank destroyers.</value>
+      <value>Створений полювати на винищувачі танків.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Causes more damage than a regular medium tank.</key>
-      <value>Causes more damage than a regular medium tank.</value>
+      <value>Завдає більше шкоди ніж звичайний середній танк.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Really good at destroying smaller tanks.</key>
-      <value>Excellent at destroying smaller tanks.</value>
+      <value>Відмінно винищує малі танки.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Causes more damage than a regular heavy tank.</key>
-      <value>Causes more damage than a regular heavy tank.</value>
+      <value>Завдає більше шкоди ніж звичайний тяжкий танк.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Heavier than heavy. Effective against everything.</key>
-      <value>Heavier than a heavy tank. Effective against everything.</value>
+      <value>Важче тяжкого танку. Ефективний проти всього.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Targets and eliminates other planes.</key>
-      <value>Targets and eliminates other planes.</value>
+      <value>Переслідує та винищує інші літаки.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Dives and drops bombs directly on targets. Very effective against tanks.</key>
-      <value>Dives and drops bombs directly on targets. Very effective against tanks.</value>
+      <value>Пікірує та скидає бомби безпосередньо на цілі. Дуже ефективний проти танків.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Dive bomber that can protect itself.</key>
-      <value>A dive bomber that can protect itself.</value>
+      <value>Пікіруючий бомбардувальник, здатний захищати себе.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Drops a series of bombs, a real spawner killer. </key>
-      <value>Drops a series of bombs, a real spawner killer.</value>
+      <value>Скидає серію з бомб. Справжній знищувач створювачів</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Large plane with paratroopers on board.</key>
-      <value>A large plane that can deploy paratroopers.</value>
+      <value>Десантний транспортний літак.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>A really fast fighter with rocket launchers.</key>
-      <value>A really fast fighter with rocket launchers.</value>
+      <value>Дуже швидкий винищувач з ракетними установками.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Randomly gives nearby units one of three boosts: taken damage reduction, damage boost or rate of fire boost.</key>
-      <value>Randomly gives nearby units one of three boosts: taken damage reduction, damage boost or rate of fire boost.</value>
+      <value>Випадково надає сусіднім одиницям одне з трьох посилень: зменшення отриманої шкоди, посилення шкоди або посилення швидкості вогню.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Specializes in destroying heavy tanks.</key>
-      <value>Specializes in destroying heavy tanks.</value>
+      <value>Спеціалізується на винищенні тяжких танків</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Better at destroying heavy tanks than regular tank destroyers.</key>
-      <value>Better at destroying heavy tanks than regular tank destroyers.</value>
+      <value>Ліпший у винищуванні тяжких танків за звичайний винищувач танків.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Damage similar to a regular artillery, it is also able to move.</key>
-      <value>Damage similar to a regular artillery. It is a mobile unit.</value>
+      <value>Завдає шкоди, схожої на звичайну артилерію. Є мобільною одиницею.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Armed with a small cannon or a machine gun, effective against stationary units.</key>
-      <value>Armed with a small cannon or a machine gun; effective against stationary units.</value>
+      <value>Озброєний невеликою гарматою або кулеметом. Ефективний проти нерухомих одиниць.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Finds and repairs damaged vehicles.</key>
-      <value>Finds and repairs damaged vehicles.</value>
+      <value>Знаходить і лагодить пошкоджені транспортні засоби.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Transports infantry across battlefield.</key>
-      <value>Transports infantry units across the battlefield.</value>
+      <value>Перевозить піхоту по полю бою.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>A bit harder to destroy than regular transporter units.</key>
-      <value>A bit harder to destroy than regular transporter units.</value>
+      <value>Дещо складніше знищити ніж звичайний транспортник.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Made to deal with smaller enemy aircrafts. It is able to move.</key>
-      <value>Designed to deal with smaller enemy aircrafts. It is a mobile unit.</value>
+      <value>Призначений для боротьби з невеликими ворожими літаками. Є мобільною одиницею.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Immobile and unarmored but has a very lorg shooting range. </key>
-      <value>Static and unarmored but has a very long shooting range.</value>
+      <value>Нерухомий та неброньований, але має величезну дальність стрільби.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Immobile and unarmored; has a smaller range than a regular artillery but is effective against tanks.</key>
-      <value>Static and unarmored; has a smaller range than a regular artillery but is effective against tanks.</value>
+      <value>Нерухомий, неброньований, має меншу дальність стрільби, ніж звичайна артилерія, але ефективна проти танків</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Armed with an explosive shell, perfect against bombers.</key>
-      <value>Armed with an explosive shell, perfect against bombers.</value>
+      <value>Озброєний вибуховим снарядом, ідеальним проти бомбардувальників.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Made to deal with smaller enemy aircrafts. </key>
-      <value>Designed to deal with smaller enemy aircrafts.</value>
+      <value>Призначений для боротьби з невеликими ворожими літаками.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Explode upon being driven on.</key>
-      <value>Mines explode on contact with a vehicle.</value>
+      <value>Міни вибухають при контакті з транспортним засобом.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>A tank that has a flamethrower instead of a cannon. </key>
-      <value>A tank that has a flamethrower instead of a cannon.</value>
+      <value>Танк з вогнеметом замість гармати.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Explodes upon approaching enemy units.</key>
-      <value>Approaches groups of enemy units and self-destructs.</value>
+      <value>Наближається до груп ворожих одиниць і самознищується.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Takes over enemy units with a pirate hook.</key>
-      <value>Takes over enemy units with a pirate hook.</value>
+      <value>Захоплює ворожі одиниці піратським гаком.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>A truck with rockets that causes massive damage to structures and unarmored units.</key>
-      <value>A truck with rockets that causes massive damage to structures and unarmored units.</value>
+      <value>Вантажівка з ракетами, який завдає величезної шкоди спорудам та неброньованим одиницям.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>It is able to launch powerful rockets, capable of easily destroying bunkers.</key>
-      <value>Launches powerful rockets capable of easily destroying bunkers.</value>
+      <value>Запускає потужні ракети, здатні легко знищити бункери.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Spawns mobile mines. </key>
-      <value>Spawns mobile mines.</value>
+      <value>Створює самохідні міни.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Seeks enemy units, explodes on impact.</key>
-      <value>Seeks enemy units, explodes on impact.</value>
+      <value>Переслідує ворожі одиниці та вибухає при зіткенні.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rockets deal massive damage to structures and unarmored units.</key>
-      <value>Rockets deal massive damage to structures and unarmored units.</value>
+      <value>Ракети завдають величезної шкоди спорудам і неброньованим одиницям.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Uses ammunition that sets ground on fire. Units on fire take damage over time.</key>
-      <value>Uses ammunition that sets ground on fire. Units on fire take damage over time.</value>
+      <value>Використовує запалювальні боєприпаси. Горящі одиниці отримують шкоду.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Creates smoke screens and obscures view.</key>
-      <value>Creates smoke screens and obscures the view.</value>
+      <value>Створює димові завіси, які затуляють огляд.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Uses ammunition that releases smaller subammunitions. Deals a lot of damage.</key>
-      <value>Uses ammunition that releases smaller submunitions. Deals a lot of damage.</value>
+      <value>Використовує вибухові боєприпаси. Завдає великої шкоди.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Bunker that provides cover for infantry. A cannon is placed inside.</key>
-      <value>A bunker equipped with a cannon which provides cover for infantry.</value>
+      <value>Бункер, оснащений гарматою, в якому може ховатися піхота.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Small bunker for infantry with a mounted machine gun.</key>
-      <value>A small bunker for infantry with a mounted machine gun.</value>
+      <value>Невеликий бункер для піхоти з встановленим кулеметом.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Small circle made from sanbags that contains mounted machine gun and provides cover.</key>
-      <value>A pit with a machine gun surrounded by sandbags.</value>
+      <value>Яма з кулеметом, оточена мішками з піском.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Spawns vehicles.</key>
-      <value>Spawns vehicles.</value>
+      <value>Створює транспорт.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Spawns infantry.</key>
-      <value>Spawns infantry.</value>
+      <value>Створює піхоту.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Spawns aircrafts.</key>
-      <value>Spawns aircrafts.</value>
+      <value>Створює літаки.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Creates a powerful shockwave that repels and damages enemy units.</key>
-      <value>Creates a powerful shockwave that repels and damages enemy units.</value>
+      <value>Створює потужну ударну хвилю, яка відштовхує і пошкоджує ворожі одиниці.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The biggest and most powerful tank ever created.</key>
-      <value>The biggest and most powerful tank ever created.</value>
+      <value>Найбільший і найпотужніший танк за всю історію.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Atomic bomb. Charges during battle, then explodes and instantly ends game.</key>
-      <value>A bomber carrying an atomic bomb. Dropping the device will instantly end the game.</value>
+      <value>Атомний бомбардувальник, що несе атомну бомбу, падіння якої миттєво закінчить гру.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Special Spawner, randomly spawns one out of three special units from modern era.</key>
-      <value>Randomly spawns one out of three special units from the modern era.</value>
+      <value>Випадково генерує одну з трьох спеціальних одиниць сучасної епохи.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Big bear with a tank turret on its back.</key>
-      <value>A big bear with a tank turret mounted on its back.</value>
+      <value>Великий ведмідь з танковою баштою на спині.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Dog with a special bomb, explodes upon contact with enemy units.</key>
-      <value>A dog with an attached explosive. Operates like a mobile mine.</value>
+      <value>Собака з прикріпленим вибуховим пристроєм. Діє як мобільна міна. Жалко собачок :(</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Glider tank being deployed in the air, that will operate upon landing.</key>
-      <value>A glider tank deployed in the air. Steers toward the rear of the enemy and activates upon landing.</value>
+      <value>Повітряний танк-планер. Направляється до тилу ворога і активується після приземлення.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Gigantic super heavy Soviet tank that spawns antitank dogs.</key>
-      <value>A gigantic super heavy Soviet tank that spawns anti-tank dogs.</value>
+      <value>Велитенський надважкий радянський танк, який випускає протитанкових собак. Жалко собачок :(</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Shoots enemy planes with singular powerful EMP blasts and immobilizes them. </key>
-      <value>Shoots enemy planes with powerful EMP blasts and immobilizes them.</value>
+      <value>Збиває ворожі літаки потужними електромагнітними імпульсами та знерухомлює їх.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>British special forces.</key>
-      <value>British special forces.</value>
+      <value>Британські спеціальні сили.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -279,32 +279,32 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>German fighter concept. Shoots enemy with singilar powerful EMP blasts and immobilizes them. </key>
-      <value>A German fighter concept. Shoots enemy with singular powerful EMP blasts and immobilizes them.</value>
+      <value>Німецька концепція винищувача. Стріляє у ворога потужними одинарними електромагнітними імпульсами та знерухомлює його.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Powerful fighter and tactical bomber at the same time.</key>
-      <value>A powerful fighter and a tactical bomber in one.</value>
+      <value>Потужний винищувач і тактичний бомбардувальник в одному.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Big Glider, used for transporting paratroppers.</key>
-      <value>A big glider used for transporting paratroopers.</value>
+      <value>Великий планер для транспортування десантників.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Powerful defensive fortification.</key>
-      <value>A strong defensive fortification.</value>
+      <value>Міцне оборонне укріплення.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>French special forces infantry.</key>
-      <value>French special forces infantry.</value>
+      <value>Французькі спеціальні сили піхоти.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Polish elite special-operations paratroopers.</key>
-      <value>Polish elite special-operations paratroopers.</value>
+      <value>Польські елітні десантники спеціального призначення.</value>
       <plurals />
     </GameLocalizationEntry>
   </entries>
