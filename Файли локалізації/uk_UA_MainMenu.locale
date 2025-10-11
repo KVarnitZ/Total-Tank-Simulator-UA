@@ -84,7 +84,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Shadow</key>
-      <value>Тінь</value>
+      <value>Бій з Тінню</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -269,7 +269,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SHADOW</key>
-      <value>ТІНЬ</value>
+      <value>БІЙ З ТІННЮ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -420,7 +420,7 @@ Confirm to continue.</key>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>In shadow mode you fight against your army from the previous battle in each subsequent battle</key>
-      <value>У режимі «Тінь» ви б'єтеся проти армії з минулої битви</value>
+      <value>У режимі «Бій з Тінню» ви б'єтеся проти армії з минулої битви</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -795,7 +795,7 @@ Confirm to continue.</key>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SANDBOX (VIP)</key>
-      <value>ПІСОЧНИЦЯ (ОСОБЛИВА)</value>
+      <value>ПІСОЧНИЦЯ (ОСОБЛИВА ЦІЛЬ)</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -870,7 +870,7 @@ Confirm to continue.</key>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DLC0 map 102</key>
-      <value>Салернський пляж</value>
+      <value>Пляж Салерно</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1006,17 +1006,17 @@ Confirm to continue.</key>
     <GameLocalizationEntry>
       <key>Manage mods</key>
       <context>mainmenu.workshop</context>
-      <value>Керувати модифікаціями</value>
+      <value>Модифікації</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Edit scenarios</key>
       <context>mainmenu.workshop</context>
-      <value>Редагувати сценарії</value>
+      <value>Сценарії</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Edit units</key>
       <context>mainmenu.workshop</context>
-      <value>Редагувати одиниці</value>
+      <value>Одиниці</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UNIT PACKS</key>

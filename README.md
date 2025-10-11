@@ -32,7 +32,7 @@
 
 - [ ] en_US_campaign3.locale - не перекладено
 
-- [ ] en_US_CampaignMainMenu.locale - не перекладено
+- [ ] en_US_CampaignMainMenu.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
 - [ ] en_US_cutscenes.locale - **перекладено та <ins>НЕ</ins> перевірено**
 

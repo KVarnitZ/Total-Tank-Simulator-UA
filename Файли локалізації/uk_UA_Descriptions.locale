@@ -189,7 +189,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Uses ammunition that releases smaller subammunitions. Deals a lot of damage.</key>
-      <value>Використовує вибухові боєприпаси. Завдає великої шкоди.</value>
+      <value>Використовує боєприпаси, які розпадаються на менші частини. Завдає великої шкоди.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
