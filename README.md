@@ -71,4 +71,4 @@
 - Додана змінна в GameLocale uk_UA = 170, яка якраз таки береться самою локалізацією;
 - Додане значення в GameLocaleExtensions української мови як ще однієї мови гри.
 
-![Contribution guidelines for this project](/TTS2.png)
+![Contribution guidelines for this project](/TTS.png)
