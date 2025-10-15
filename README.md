@@ -26,11 +26,11 @@
 
 - [ ] en_US_Battle8.locale - не перекладено
 
-- [ ] en_US_campaign.locale - не перекладено
+- [ ] en_US_campaign.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
-- [ ] en_US_campaign2.locale - не перекладено
+- [ ] en_US_campaign2.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
-- [ ] en_US_campaign3.locale - не перекладено
+- [ ] en_US_campaign3.locale - **не потрібно перекладати**
 
 - [ ] en_US_CampaignMainMenu.locale - **перекладено та <ins>НЕ</ins> перевірено**
 

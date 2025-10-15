@@ -9,93 +9,93 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>VEHICLE CAPACITY: {0}/{1}</key>
-      <value>VEHICLE CAPACITY: {0}/{1}</value>
+      <value>МІСТКІСТЬ ТРАНСПОРТУ: {0}/{1}</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>New vehicle</key>
       <context>campaign.officers</context>
-      <value>New vehicle</value>
+      <value>Новий транспорт</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Do you want to buy {0} for the officer?</key>
       <context>campaign.officers</context>
-      <value>Do you want to buy {0} for the officer?</value>
+      <value>Ви точно хочете купити для офіцера: {0}?</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Officer recruitment</key>
       <context>campaign.officers</context>
-      <value>Officer recruitment</value>
+      <value>Найняти офіцера</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Do you want to recruit the officer for {0} &lt;cash&gt;?</key>
       <context>campaign.officers</context>
-      <value>Do you want to recruit the officer for {0} &lt;cash&gt;?</value>
+      <value>Ви хочете найняти офіцера за {0} &lt;cash&gt;?</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Officer buyout</key>
       <context>campaign.officers</context>
-      <value>Officer buyout</value>
+      <value>Викуп офіцера</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Do you want to buy out the capture officer for {0} &lt;cash&gt;?</key>
       <context>campaign.officers</context>
-      <value>Do you want to buy out the capture officer for {0} &lt;cash&gt;?</value>
+      <value>Ви хочете викупити захопленого офіцера за {0} &lt;cash&gt;?</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Officer dismiss</key>
       <context>campaign.officers</context>
-      <value>Officer dismiss</value>
+      <value>Звільніти офіцера</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Do you want to dismiss the officer? He will lost his all bonuses and cars.</key>
       <context>campaign.officers</context>
-      <value>Do you want to dismiss the officer? He will lose his all bonuses and cars.</value>
+      <value>Ви хочете звільнити офіцера? Він втратить усі бонуси та транспорт.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You cannot dismiss captured officer!</key>
-      <value>You cannot dismiss captured officer!</value>
+      <value>Ви не можете звільнити захопленого офіцера!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Defeat</key>
-      <value>Defeat</value>
+      <value>Поразка</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>In offensive act, the less battles you start, the better.</key>
-      <value>In offensive act, the less battles you start, the better.</value>
+      <value>У наступальних операціях немає сенсу починати зайві битви.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>In defensive act, the more battles you win, the better. Rejected missions count as lost ones.</key>
-      <value>In defensive act, the more battles you win, the better. Rejected missions count as lost ones.</value>
+      <value>В обороні важлива кількість переможних битв. Відхилені місії вважаються програними.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Locked</key>
-      <value>Locked</value>
+      <value>Заблоковано</value>
       <comment>In tech tree, it is locked vehicle and cannot be unlocked</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Empty slot</key>
-      <value>Empty slot</value>
+      <value>Пуста комірка</value>
       <comment>In officers panel, denotes no officer</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>On foot</key>
       <context>campaign.officers</context>
-      <value>On foot</value>
+      <value>Пішки</value>
       <comment>In officer panel, in a sentence: "officer goes on foot" (no vehicle)</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The officer currently goes on foot.</key>
       <context>campaign.officers</context>
-      <value>The officer currently goes on foot.</value>
+      <value>Офіцер пересувається пішки.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The officer currently moves with {0}.</key>
       <context>campaign.officers</context>
-      <value>The officer currently moves with {0}.</value>
+      <value>Засіб пересування офіцеру: {0}.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Max level</key>
-      <value>Max level</value>
+      <value>Макс. рівень</value>
     </GameLocalizationEntry>
   </entries>
 </GameLocalization>

@@ -4,1036 +4,1036 @@
   <entries>
     <GameLocalizationEntry>
       <key>Offensive act</key>
-      <value>Offensive act</value>
+      <value>Наступ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Defensive act</key>
-      <value>Defensive act</value>
+      <value>Оборона</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Darkest Hour</key>
       <context>campaign.act_title</context>
-      <value>Darkest Hour</value>
+      <value>Темні часи</value>
       <plurals />
       <comment>UK act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>After losing the Battle of Britain, the British are trying to take London back from the Nazi hands.</key>
       <context>campaign.act_description</context>
-      <value>After losing the Battle of Britain the British are trying to take London back from the Nazi forces.</value>
+      <value>Після поразки в битві за Британію, британці намагаються відбити Лондон у нацистських військ.</value>
       <plurals />
       <comment>UK act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>North Africa's defense strategy</key>
       <context>campaign.act_title</context>
-      <value>North Africa's defense strategy</value>
+      <value>Північноафриканська стратегія оборони</value>
       <plurals />
       <comment>UK act II</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The repulsion of German offensive in North Africa ends with a heroic defence of Tobruk and El Alamein.</key>
       <context>campaign.act_description</context>
-      <value>The repulsion of the German offensive in North Africa ends with a heroic defence of Tobruk and El Alamein.</value>
+      <value>Відбиття німецького наступу в Північній Африці закінчується героїчною обороною Тобрука та Ель-Аламейна.</value>
       <plurals />
       <comment>UK act II</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Broken Tehran</key>
       <context>campaign.act_title</context>
-      <value>Broken Tehran</value>
+      <value>Зруйнований Тегеран</value>
       <plurals />
       <comment>UK act III</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unsuccessful diplomatic talks lead to a conflict over demarcating the border in Iran.</key>
       <context>campaign.act_description</context>
-      <value>Unsuccessful diplomatic talks lead to a conflict over demarcating the border through Iran's territory.</value>
+      <value>Невдалі дипломатичні переговори призводять до конфлікту щодо визначення кордону на території Ірану.</value>
       <plurals />
       <comment>UK act III</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Operation Unthinkable</key>
       <context>campaign.act_title</context>
-      <value>Operation Unthinkable</value>
+      <value>Операція «Немислима»</value>
       <plurals />
       <comment>UK act IV</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Winston Churchill declares war on the communists to free allies in Eastern Europe.</key>
       <context>campaign.act_description</context>
-      <value>Winston Churchill declares war on the communists to free allies in Eastern Europe.</value>
+      <value>Вінстон Черчилль оголошує війну комуністам, щоб звільнити союзників у Східній Європі.</value>
       <plurals />
       <comment>UK act IV</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Dyle Plan</key>
       <context>campaign.act_title</context>
-      <value>Dyle Plan</value>
+      <value>План «Діль»</value>
       <plurals />
       <comment>France act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Germans launch their aggression against France through "low countries" and thus they bypass the Maginot Line. The French try to stop the offensive on the Dyle River.</key>
       <context>campaign.act_description</context>
-      <value>Germans launch their aggression against France through Low Countries and thus they bypass the Maginot Line. The French try to stop the offensive on the Dyle River.</value>
+      <value>Німці розпочинають наступ на Францію через Нідерланди, обходячи лінію Мажино. Французи намагаються зупинити наступ на річці Діл.</value>
       <plurals />
       <comment>France act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Plan East</key>
       <context>campaign.act_title</context>
-      <value>Plan East</value>
+      <value>План «Схід»</value>
       <plurals />
       <comment>France act II</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The French army is regrouping its forces and starting a war against the German occupation.</key>
       <context>campaign.act_description</context>
-      <value>The French army is regrouping its forces and starting a war against the German occupation.</value>
+      <value>Французька армія перегруповує свої сили і починає війну проти німецької окупації.</value>
       <plurals />
       <comment>France act II</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Desert Fox's offensive</key>
       <context>campaign.act_title</context>
-      <value>Desert Fox's offensive</value>
+      <value>Наступ Пустельного Лиса</value>
       <plurals />
       <comment>Germany act V</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Erwin Rommel is attacking the British army in North Africa.</key>
       <context>campaign.act_description</context>
-      <value>Erwin Rommel is attacking the British army in North Africa.</value>
+      <value>Ервін Роммель атакує британську армію в Північній Африці.</value>
       <plurals />
       <comment>Germany act V</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Case White</key>
       <context>campaign.act_title</context>
-      <value>Case White</value>
+      <value>Операція «Вайс»</value>
       <plurals />
       <comment>Germany act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>German invasion of Poland begins WWII.</key>
       <context>campaign.act_description</context>
-      <value>German invasion of Poland begins WWII.</value>
+      <value>Німецьке вторгнення у Польщу починає Другу Світову Війну.</value>
       <plurals />
       <comment>Germany act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Operation Barbarossa</key>
       <context>campaign.act_title</context>
-      <value>Operation Barbarossa</value>
+      <value>Операція «Барбаросса»</value>
       <plurals />
       <comment>Germany act IV</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The biggest military operation of all time.</key>
       <context>campaign.act_description</context>
-      <value>The biggest military operation of all time.</value>
+      <value>Найбільша військова операція всіх часів.</value>
       <plurals />
       <comment>Germany act IV</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Case Yellow</key>
       <context>campaign.act_title</context>
-      <value>Case Yellow</value>
+      <value>План «Ґельб»</value>
       <plurals />
       <comment>Germany act II</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Blitzkrieg in France.</key>
       <context>campaign.act_description</context>
-      <value>Blitzkrieg in France</value>
+      <value>Бліцкриг во Франції</value>
       <plurals />
       <comment>Germany act II</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Operation Winter Storm</key>
       <context>campaign.act_title</context>
-      <value>Operation Winter Storm</value>
+      <value>Операція «Вінтергевіттер»</value>
       <plurals />
       <comment>Germany act VI</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The Soviets are grouping together at Stalingrad to make the last attempt to take Moscow back from German hands.</key>
       <context>campaign.act_description</context>
-      <value>The Soviets are grouping at Stalingrad to make the last attempt to take Moscow back from German forces.</value>
+      <value>Радянські війська групуються в Сталінграді, щоб зробити останню спробу відбити Москву.</value>
       <plurals />
       <comment>Germany act VI</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Beyond Sea Lion</key>
       <context>campaign.act_title</context>
-      <value>Beyond Sea Lion</value>
+      <value>Операція «Морський Лев»</value>
       <plurals />
       <comment>Germany act III</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>After capturing London, Germans must fight off the last counteroffensive from the British.</key>
       <context>campaign.act_description</context>
-      <value>After capturing London, Germans must fight off the last counteroffensive from the British.</value>
+      <value>Після захоплення Лондона німці повинні відбити останню контрнаступальну операцію британців.</value>
       <plurals />
       <comment>Germany act III</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Invasion of Poland</key>
       <context>campaign.act_title</context>
-      <value>Invasion of Poland</value>
+      <value>Вторгнення до Польщі</value>
       <plurals />
       <comment>Poland act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The Poles are defending their territory against attack from Nazi Germany.</key>
       <context>campaign.act_description</context>
-      <value>The Poles are defending their territory against attack from Nazi Germany.</value>
+      <value>Поляки захищають свою територію від нападу нацистської Німеччини.</value>
       <plurals />
       <comment>Poland act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Plan West</key>
       <context>campaign.act_title</context>
-      <value>Plan West</value>
+      <value>План «Захід»</value>
       <plurals />
       <comment>Poland act II</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>After stopping the German offensive, the Poles move on to the counterattack.</key>
       <context>campaign.act_description</context>
-      <value>After stopping the German offensive, the Poles move on to the counterattack.</value>
+      <value>Зупинивши німецький наступ, поляки переходять до контрнаступу.</value>
       <plurals />
       <comment>Poland act II</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Great Patriotic War</key>
       <context>campaign.act_title</context>
-      <value>Great Patriotic War</value>
+      <value>Східний Фронт</value>
       <plurals />
       <comment>USSR act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The Red Army opposes the German invasion of the Soviet Union.</key>
       <context>campaign.act_description</context>
-      <value>The Red Army opposes the German invasion of the Soviet Union.</value>
+      <value>Червона армія протистоїть німецькому вторгненню в Радянський Союз.</value>
       <plurals />
       <comment>USSR act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Operation Little Saturn</key>
       <context>campaign.act_title</context>
-      <value>Operation Little Saturn</value>
+      <value>Операція «Маленький Сатурн»</value>
       <plurals />
       <comment>USSR act II</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The Soviets cut off a part of the German army near Stalingrad and proceed to the offensive towards Ukraine.</key>
       <context>campaign.act_description</context>
-      <value>The Soviets cut off a part of the German army near Stalingrad and proceed to the offensive towards Ukraine.</value>
+      <value>Радянські війська відрізали частину німецької армії поблизу Сталінграда і перейшли в наступ на Україну.</value>
       <plurals />
       <comment>USSR act II</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Operation Westa</key>
       <context>campaign.act_title</context>
-      <value>Operation Westa</value>
+      <value>Операція «Захід»</value>
       <plurals />
       <comment>USSR act III</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The Soviet Union doesn't accept the conditions set in Tehran to delineate the border in Iran.</key>
       <context>campaign.act_description</context>
-      <value>The Soviet Union doesn't accept the conditions set in Tehran to delineate the border through Iran's territory.</value>
+      <value>Радянський Союз не приймає умови, висунуті в Тегерані щодо визначення кордону через територію Ірану.</value>
       <plurals />
       <comment>USSR act III</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Vistula–Oder Offensive</key>
       <context>campaign.act_title</context>
-      <value>Vistula–Oder Offensive</value>
+      <value>Вісло-Одерська операція</value>
       <plurals />
       <comment>USSR act IV</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The Red Army is going west to liberate the countries of Eastern Europe from Nazism and to reach Berlin before the allies.</key>
       <context>campaign.act_description</context>
-      <value>The Red Army is heading west to liberate the countries of Eastern Europe from Nazism and to reach Berlin before The Allies.</value>
+      <value>Червона армія рухається на захід, щоб звільнити країни Східної Європи від нацизму і дістатися Берліна раніше за союзників.</value>
       <plurals />
       <comment>USSR act IV</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Treason of the West</key>
       <context>campaign.act_title</context>
-      <value>Treason of the West</value>
+      <value>Зрада Заходу</value>
       <plurals />
       <comment>USSR act V</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Western Bloc countries betray their ally and invade the Soviet Union.</key>
       <context>campaign.act_description</context>
-      <value>Western Bloc countries betray their ally and invade the Soviet Union.</value>
+      <value>Країни Західного блоку зраджують свого союзника і вторгуються на територію Радянського Союзу.</value>
       <plurals />
       <comment>USSR act V</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Operation Torch</key>
       <context>campaign.act_title</context>
-      <value>Operation Torch</value>
+      <value>Операція «Смолоскип»</value>
       <plurals />
       <comment>USA act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>American troops are landing in North Africa.</key>
       <context>campaign.act_description</context>
-      <value>American troops are landing in North Africa.</value>
+      <value>Американські війська висаджуються в Північній Африці.</value>
       <plurals />
       <comment>USA act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Battle of the Bulge</key>
       <context>campaign.act_title</context>
-      <value>Battle of the Bulge</value>
+      <value>Битва за Арденни</value>
       <plurals />
       <comment>USA act II</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The last German assault during the war.</key>
       <context>campaign.act_description</context>
-      <value>The last German assault during the war.</value>
+      <value>Останній німецький наступ під час війни.</value>
       <plurals />
       <comment>USA act II</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Long wished deliverance</key>
       <context>campaign.act_title</context>
-      <value>Long-wished liberation</value>
+      <value>Довгоочікуване звільнення</value>
       <plurals />
       <comment>USA act III</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>American troops join Churchill in his war against communism.</key>
       <context>campaign.act_description</context>
-      <value>American troops join Churchill in his war against communism.</value>
+      <value>Американські війська приєднуються до Черчилля у його війні проти комунізму.</value>
       <plurals />
       <comment>USA act III</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DLC Description</key>
       <context>campaign.description</context>
-      <value>Italian army defends against a British attack in northern Africa.</value>
+      <value>Італійська армія захищається від британської атаки в Північній Африці.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DLC Campaign</key>
       <context>campaign.name</context>
-      <value>Italian campaign</value>
+      <value>Італійська кампанія</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>dlc0.act1</key>
       <context>campaign.act_title</context>
-      <value>The battle of Marmarica</value>
+      <value>Операція «Компас»</value>
       <plurals />
       <comment>Italian act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>dlc0.act1</key>
       <context>campaign.act_description</context>
-      <value>Italian army defends against a British attack in northern Africa.</value>
+      <value>Італійська армія захищається від британської атаки в Північній Африці.</value>
       <plurals />
       <comment>Italian act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>dlc0.act2</key>
       <context>campaign.act_title</context>
-      <value>Allied invasion of Italy</value>
+      <value>Операція «Хаскі»</value>
       <plurals />
       <comment>Italian act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>dlc0.act2</key>
       <context>campaign.act_description</context>
-      <value>After pushing Axis' army out of Africa, Allies begin their invasion of Italy.</value>
+      <value>Витіснивши армію Осі з Африки, союзники починають вторгнення в Італію.</value>
       <plurals />
       <comment>Italian act 2</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>dlc0.m1_1</key>
       <context>campaign.mission_name</context>
-      <value>Sidi Barani</value>
+      <value>Сіді-Барані</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>dlc0.m1_2</key>
       <context>campaign.mission_name</context>
-      <value>Bardia</value>
+      <value>Бардія</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>dlc0.m1_3</key>
       <context>campaign.mission_name</context>
-      <value>Tobruk</value>
+      <value>Тобрук</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>dlc0.m1_4</key>
       <context>campaign.mission_name</context>
-      <value>Beda Fomm</value>
+      <value>Беда-Фом</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>dlc0.m2_1</key>
       <context>campaign.mission_name</context>
-      <value>Palermo</value>
+      <value>Палермо</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>dlc0.m2_2</key>
       <context>campaign.mission_name</context>
-      <value>Messina</value>
+      <value>Месіна</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>dlc0.m2_3</key>
       <context>campaign.mission_name</context>
-      <value>Reggio Calabria</value>
+      <value>Реджо-Калабрія</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>dlc0.m2_4</key>
       <context>campaign.mission_name</context>
-      <value>Taranto</value>
+      <value>Таранто</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>dlc0.m2_5</key>
       <context>campaign.mission_name</context>
-      <value>Salerno</value>
+      <value>Салерно</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Nottingham</key>
       <context>campaign.mission_name</context>
-      <value>Nottingham</value>
+      <value>Нотінґем</value>
       <plurals />
       <comment>UK act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Oxford</key>
       <context>campaign.mission_name</context>
-      <value>Oxford</value>
+      <value>Оксфорд</value>
       <plurals />
       <comment>UK act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Colchester</key>
       <context>campaign.mission_name</context>
-      <value>Colchester</value>
+      <value>Колчестер</value>
       <plurals />
       <comment>UK act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Winchester</key>
       <context>campaign.mission_name</context>
-      <value>Winchester</value>
+      <value>Вінчестер</value>
       <plurals />
       <comment>UK act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Dover</key>
       <context>campaign.mission_name</context>
-      <value>Dover</value>
+      <value>Дувр</value>
       <plurals />
       <comment>UK act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>El Agheilar</key>
       <context>campaign.mission_name</context>
-      <value>El Agheila</value>
+      <value>Ель-Агейла</value>
       <plurals />
       <comment>UK act 2 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Benghazi</key>
       <context>campaign.mission_name</context>
-      <value>Benghazi</value>
+      <value>Бенгазі</value>
       <plurals />
       <comment>UK act 2 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Gialo Oasis</key>
       <context>campaign.mission_name</context>
-      <value>Gialo Oasis</value>
+      <value>Джало Оазіс</value>
       <plurals />
       <comment>UK act 2 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Tobruk</key>
       <context>campaign.mission_name</context>
-      <value>Tobruk</value>
+      <value>Тобрук</value>
       <plurals />
       <comment>UK act 2 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Giarabub</key>
       <context>campaign.mission_name</context>
-      <value>Giarabub</value>
+      <value>Джарабуб</value>
       <plurals />
       <comment>UK act 2 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>El Alamein</key>
       <context>campaign.mission_name</context>
-      <value>El Alamein</value>
+      <value>Ель-Аламейн</value>
       <plurals />
       <comment>UK act 2 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Teheran</key>
       <context>campaign.mission_name</context>
-      <value>Tehran</value>
+      <value>Тегеран</value>
       <plurals />
       <comment>UK act 3 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Arak</key>
       <context>campaign.mission_name</context>
-      <value>Arak</value>
+      <value>Ерак</value>
       <plurals />
       <comment>UK act 3 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Ishafan</key>
       <context>campaign.mission_name</context>
-      <value>Isfahan</value>
+      <value>Ісфаган</value>
       <plurals />
       <comment>UK act 3 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Abadan</key>
       <context>campaign.mission_name</context>
-      <value>Abadan</value>
+      <value>Абадан</value>
       <plurals />
       <comment>UK act 3 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Szczecin</key>
       <context>campaign.mission_name</context>
-      <value>Szczecin</value>
+      <value>Щецин</value>
       <plurals />
       <comment>UK act 4 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Bydgoszcz</key>
       <context>campaign.mission_name</context>
-      <value>Bydgoszcz</value>
+      <value>Бидгощ</value>
       <plurals />
       <comment>UK act 4 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Katowice</key>
       <context>campaign.mission_name</context>
-      <value>Katowice</value>
+      <value>Катовіце</value>
       <plurals />
       <comment>UK act 4 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kielce</key>
       <context>campaign.mission_name</context>
-      <value>Kielce</value>
+      <value>Кельце</value>
       <plurals />
       <comment>UK act 4 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Lublin</key>
       <context>campaign.mission_name</context>
-      <value>Lublin</value>
+      <value>Люблін</value>
       <plurals />
       <comment>UK act 4 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Liege</key>
       <context>campaign.mission_name</context>
-      <value>Liege</value>
+      <value>Льєж</value>
       <plurals />
       <comment>France act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Lille</key>
       <context>campaign.mission_name</context>
-      <value>Lille</value>
+      <value>Ліль</value>
       <plurals />
       <comment>France act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Amiens</key>
       <context>campaign.mission_name</context>
-      <value>Amiens</value>
+      <value>Ам'єн</value>
       <plurals />
       <comment>France act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Reims</key>
       <context>campaign.mission_name</context>
-      <value>Reims</value>
+      <value>Реймс</value>
       <plurals />
       <comment>France act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Nancy</key>
       <context>campaign.mission_name</context>
-      <value>Nancy</value>
+      <value>Нансі</value>
       <plurals />
       <comment>France act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Paris</key>
       <context>campaign.mission_name</context>
-      <value>Paris</value>
+      <value>Париж</value>
       <plurals />
       <comment>France act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Gdansk</key>
       <context>campaign.mission_name</context>
-      <value>Gdansk</value>
+      <value>Ґданськ</value>
       <plurals />
       <comment>Germany act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Poznan</key>
       <context>campaign.mission_name</context>
-      <value>Poznan</value>
+      <value>Познань</value>
       <plurals />
       <comment>Germany act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Torun</key>
       <context>campaign.mission_name</context>
-      <value>Torun</value>
+      <value>Торунь</value>
       <plurals />
       <comment>Germany act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Lodz</key>
       <context>campaign.mission_name</context>
-      <value>Lodz</value>
+      <value>Лодзь</value>
       <plurals />
       <comment>Germany act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Modlin</key>
       <context>campaign.mission_name</context>
-      <value>Modlin</value>
+      <value>Модлин</value>
       <plurals />
       <comment>Germany act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Lomza</key>
       <context>campaign.mission_name</context>
-      <value>Lomza</value>
+      <value>Ломжа</value>
       <plurals />
       <comment>Germany act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rzew</key>
       <context>campaign.mission_name</context>
-      <value>Rzew</value>
+      <value>Ржев</value>
       <plurals />
       <comment>Germany act 4 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Briansk</key>
       <context>campaign.mission_name</context>
-      <value>Briansk</value>
+      <value>Брянськ</value>
       <plurals />
       <comment>Germany act 4 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mozajsk</key>
       <context>campaign.mission_name</context>
-      <value>Mozajsk</value>
+      <value>Можайськ</value>
       <plurals />
       <comment>Germany act 4 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Orzel</key>
       <context>campaign.mission_name</context>
-      <value>Orel</value>
+      <value>Орел</value>
       <plurals />
       <comment>Germany act 4 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Tula</key>
       <context>campaign.mission_name</context>
-      <value>Tula</value>
+      <value>Тула</value>
       <plurals />
       <comment>Germany act 4 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Elista</key>
       <context>campaign.mission_name</context>
-      <value>Elista</value>
+      <value>Еліста</value>
       <plurals />
       <comment>Germany act 6 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Krasnodar</key>
       <context>campaign.mission_name</context>
-      <value>Krasnodar</value>
+      <value>Краснодар</value>
       <plurals />
       <comment>Germany act 6 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rostov</key>
       <context>campaign.mission_name</context>
-      <value>Rostov</value>
+      <value>Ростов</value>
       <plurals />
       <comment>Germany act 6 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kharkov</key>
       <context>campaign.mission_name</context>
-      <value>Kharkov</value>
+      <value>Харків</value>
       <plurals />
       <comment>Germany act 6 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Brzesc</key>
       <context>campaign.mission_name</context>
-      <value>Brest</value>
+      <value>Брест</value>
       <plurals />
       <comment>Poland act 2 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Wielun</key>
       <context>campaign.mission_name</context>
-      <value>Wielun</value>
+      <value>Велюнь</value>
       <plurals />
       <comment>Poland act 2 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mlawa</key>
       <context>campaign.mission_name</context>
-      <value>Mlawa</value>
+      <value>Млава</value>
       <plurals />
       <comment>Poland act 2 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Gniezno</key>
       <context>campaign.mission_name</context>
-      <value>Gniezno</value>
+      <value>Гнєзно</value>
       <plurals />
       <comment>Poland act 2 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Chojnice</key>
       <context>campaign.mission_name</context>
-      <value>Chojnice</value>
+      <value>Хойниці</value>
       <plurals />
       <comment>USSR act 4 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Safi</key>
       <context>campaign.mission_name</context>
-      <value>Safi</value>
+      <value>Сафі</value>
       <plurals />
       <comment>USA act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Casablanca</key>
       <context>campaign.mission_name</context>
-      <value>Casablanca</value>
+      <value>Касабланка</value>
       <plurals />
       <comment>USA act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Marrakesh</key>
       <context>campaign.mission_name</context>
-      <value>Marrakesh</value>
+      <value>Маракеш</value>
       <plurals />
       <comment>USA act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Oran</key>
       <context>campaign.mission_name</context>
-      <value>Oran</value>
+      <value>Оран</value>
       <plurals />
       <comment>USA act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Biskra</key>
       <context>campaign.mission_name</context>
-      <value>Biskra</value>
+      <value>Біскра</value>
       <plurals />
       <comment>USA act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Tunis</key>
       <context>campaign.mission_name</context>
-      <value>Tunis</value>
+      <value>Туніс</value>
       <plurals />
       <comment>USA act 1 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>St. Vith</key>
       <context>campaign.mission_name</context>
-      <value>St. Vith</value>
+      <value>Санкт-Віт</value>
       <plurals />
       <comment>USA act 2 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Houffalize</key>
       <context>campaign.mission_name</context>
-      <value>Houffalize</value>
+      <value>Уфаліз</value>
       <plurals />
       <comment>USA act 2 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Bastogne</key>
       <context>campaign.mission_name</context>
-      <value>Bastogne</value>
+      <value>Бастонь</value>
       <plurals />
       <comment>USA act 2 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Marche</key>
       <context>campaign.mission_name</context>
-      <value>Marche</value>
+      <value>Марке</value>
       <plurals />
       <comment>USA act 2 mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Easy</key>
       <context>campaign.difficulty_level</context>
-      <value>Easy</value>
+      <value>Легко</value>
       <plurals />
       <comment />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Hard</key>
       <context>campaign.difficulty_level</context>
-      <value>Hard</value>
+      <value>Складно</value>
       <plurals />
       <comment />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Normal</key>
       <context>campaign.difficulty_level</context>
-      <value>Normal</value>
+      <value>Нормально</value>
       <plurals />
       <comment />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Iron Man</key>
       <context>campaign.save_mode</context>
-      <value>Iron Man</value>
+      <value>Залізний дух</value>
       <plurals />
       <comment />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Normal</key>
       <context>campaign.save_mode</context>
-      <value>Normal</value>
+      <value>Звичайний</value>
       <plurals />
       <comment />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>No saving in the middle of an act</key>
       <context />
-      <value>No saving in the middle of an act</value>
+      <value>Протягом розділу не можна зберігатися</value>
       <plurals />
       <comment />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Play this mission without infantry</key>
       <context>campaign.mission_restriction</context>
-      <value>Complete without using infantry</value>
+      <value>Пройдіть цю місію без піхоти</value>
       <plurals />
       <comment />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Play this mission without airplanes!</key>
       <context>campaign.mission_restriction</context>
-      <value>Complete without using airplanes</value>
+      <value>Пройдіть цю місію без літаків</value>
       <plurals />
       <comment />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Play this mission without tanks!</key>
       <context>campaign.mission_restriction</context>
-      <value>Complete without using any tanks</value>
+      <value>Пройдіть цю місію без танків</value>
       <plurals />
       <comment />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Play this mission using only infantry</key>
       <context>campaign.mission_restriction</context>
-      <value>Complete using infantry only</value>
+      <value>Пройдіть цю місію тільки з піхотою</value>
       <plurals />
       <comment />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Play this mission using only tanks</key>
       <context>campaign.mission_restriction</context>
-      <value>Complete using tanks only</value>
+      <value>Пройдіть цю місію тільки з танками</value>
       <plurals />
       <comment />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Brilliant</key>
       <context>campaign.victory_type</context>
-      <value>Brilliant</value>
+      <value>Беззаперечна</value>
       <plurals />
       <comment />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Major</key>
       <context>campaign.victory_type</context>
-      <value>Major</value>
+      <value>Значна</value>
       <plurals />
       <comment />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Minor</key>
       <context>campaign.victory_type</context>
-      <value>Minor</value>
+      <value>Мала</value>
       <plurals />
       <comment />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UK is an air-defensive faction. They are focused on air domination by producing strong fighter planes on less expensive airport.</key>
       <context>campaign.description</context>
-      <value>The UK is an air-defensive faction focusing on aerial domination. Their fighter planes are strong and airports cost less to deploy.</value>
+      <value>Об'єднане Королівство — фракція, що спеціалізується на повітряній обороні та домінуванні в повітрі. Їхні винищувачі потужні, а авіабази коштують дешевше.</value>
       <plurals />
       <comment>UK campaign</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>British</key>
       <context>campaign.name</context>
-      <value>British</value>
+      <value>Британці</value>
       <plurals />
       <comment>UK campaign</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>France is a land-defensive faction. They are focused on military fortifications such as bunkers, pillboxes. They have cheaper and more powerful artillery and anti-tank cannons.</key>
       <context>campaign.description</context>
-      <value>France is a land-defensive faction. They are focused on military fortifications such as bunkers, pillboxes, etc. They also have cheaper and more powerful artillery and anti-tank cannons.</value>
+      <value>Франція — наземна оборонна фракція. Вони зосереджені на військових укріпленнях, таких як бункери, доти, тощо. Вони також мають дешевшу та потужнішу артилерію та протитанкові гармати.</value>
       <plurals />
       <comment>France campaign</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>French</key>
       <context>campaign.name</context>
-      <value>French</value>
+      <value>Франція</value>
       <plurals />
       <comment>France campaign</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Germany is a land-offensive faction. They are focused on advanced tanks that are also more expensive.</key>
       <context>campaign.description</context>
-      <value>Germany is a land-offensive faction. They are focused on advanced tanks that are also more expensive.</value>
+      <value>Німеччина — наземна наступальна фракція. Вона зосереджена на сучасних танках, які також є більш дорогими.</value>
       <plurals />
       <comment>Germany campaign</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>German</key>
       <context>campaign.name</context>
-      <value>German</value>
+      <value>Німеччина</value>
       <plurals />
       <comment>Germany campaign</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Poland is a land-defensive faction. They focus on infantry, which is more powerful and numerous.</key>
       <context>campaign.description</context>
-      <value>Poland is a land-defensive faction. They focus on using many powerful infantry units.</value>
+      <value>Польща — наземна оборонна фракція. Вони зосереджуються на використанні багатьох потужних піхотних підрозділів.</value>
       <plurals />
       <comment>Poland campaign</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Polish</key>
       <context>campaign.name</context>
-      <value>Polish</value>
+      <value>Польща</value>
       <plurals />
       <comment>Poland campaign</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Soviets are a land-offensive faction. Their strategy lies in mass production. They outnumber the enemy with cheaper but also less deadly tanks.</key>
       <context>campaign.description</context>
-      <value>The Soviets are a land-offensive faction; Their strategy lies in mass production. They outnumber the enemy with cheaper albeit weaker tanks.</value>
+      <value>СРСР - наземна наступальна фракція. Їхня стратегія полягає у масовому виробництві. Вони переважають ворога кількістю дешевших, хоча і слабших танків.</value>
       <plurals />
       <comment>USSR campaign</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR</key>
       <context>campaign.name</context>
-      <value>USSR</value>
+      <value>СРСР</value>
       <plurals />
       <comment>USSR campaign</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>US is an air-offensive faction. They are focused on heavy bombardment of the enemy. Airport is cheaper and more efficient, producing stronger bombers.</key>
       <context>campaign.description</context>
-      <value>US is an air-offensive faction. Theirs airports are cheaper and produce more bombers.</value>
+      <value>США - повітрна наступальна фракція. Їхні авіабази дешевші і виробляють більше бомбардувальників.</value>
       <plurals />
       <comment>USA campaign</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USA</key>
       <context>campaign.name</context>
-      <value>USA</value>
+      <value>США</value>
       <plurals />
       <comment>USA campaign</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UK</key>
       <context>campaign.nation_name</context>
-      <value>UK</value>
+      <value>Британія</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>France</key>
       <context>campaign.nation_name</context>
-      <value>France</value>
+      <value>Франція</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Germany</key>
       <context>campaign.nation_name</context>
-      <value>Germany</value>
+      <value>Німеччина</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR</key>
       <context>campaign.nation_name</context>
-      <value>USSR</value>
+      <value>СРСР</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USA</key>
       <context>campaign.nation_name</context>
-      <value>USA</value>
+      <value>США</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Poland</key>
       <context>campaign.nation_name</context>
-      <value>Poland</value>
+      <value>Польща</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>nation.italy</key>
       <context>campaign.nation_name</context>
-      <value>Italy</value>
+      <value>Італія</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>NO VEHICLE</key>
       <context>campaign.officer</context>
-      <value>NO VEHICLE</value>
+      <value>НЕМАЄ ТРАНСПОРТУ</value>
       <plurals />
       <comment>In campaign in officers pane, shown to denote the officer doesn't have any vehicle, that means he will go on foot.</comment>
     </GameLocalizationEntry>
@@ -1536,51 +1536,51 @@
     <GameLocalizationEntry>
       <key>nation.japan</key>
       <context>campaign.nation_name</context>
-      <value>Japan</value>
+      <value>Японія</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Japan Description</key>
       <context>campaign.description</context>
-      <value>Japan is a land-offensive faction. They focus on powerful and durable infantry. They are also able to surprise enemies with special air units.</value>
+      <value>Японія — наземна наступальна фракція. Вона зосереджується на потужній і витривалій піхоті. Також вона здатна здивувати ворогів спеціальними повітряними підрозділами.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>japan.act1</key>
       <context>campaign.act_title</context>
-      <value>Battle of Sakhalin</value>
+      <value>Битва за Сахалін</value>
       <plurals />
       <comment>Japanese act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>japan.act1</key>
       <context>campaign.act_description</context>
-      <value>Soviet forces invade the southern part of Sakhalin Island and attempt to prepare an invasion of Hokkaido.</value>
+      <value>Радянські війська вторглися в південну частину острова Сахалін і намагалися підготуватися до вторгнення на острів Хокайдо.</value>
       <plurals />
       <comment>Japanese act I</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>japan.m1_1</key>
       <context>campaign.mission_name</context>
-      <value>Karafuto Line</value>
+      <value>Лінія Карафуто</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>japan.m1_2</key>
       <context>campaign.mission_name</context>
-      <value>Toro</value>
+      <value>Торо</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>japan.m1_3</key>
       <context>campaign.mission_name</context>
-      <value>Kuril Islands</value>
+      <value>Курильські острови</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>japan.m1_4</key>
       <context>campaign.mission_name</context>
-      <value>Maoka</value>
+      <value>Маока</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
