@@ -248,6 +248,11 @@
       <value>США</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
+      <key>Italy</key>
+      <context>factions.shortname</context>
+      <value>Італія</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
       <key>Random</key>
       <context>factions.fullname</context>
       <value>Випадково</value>
@@ -291,6 +296,11 @@
       <key>Italy</key>
       <context>factions.fullname</context>
       <value>Італія</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Italians {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Італійці перемогли! {0}</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>British {0}won</key>

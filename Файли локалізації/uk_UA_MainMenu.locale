@@ -353,6 +353,16 @@
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
+      <key>Sicily</key>
+      <value>Італія</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Japan</key>
+      <value>Азія</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
       <key>Town</key>
       <value>Місто</value>
       <plurals />

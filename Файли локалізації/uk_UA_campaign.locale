@@ -78,7 +78,7 @@
     <GameLocalizationEntry>
       <key>Germans launch their aggression against France through "low countries" and thus they bypass the Maginot Line. The French try to stop the offensive on the Dyle River.</key>
       <context>campaign.act_description</context>
-      <value>Німці розпочинають наступ на Францію через Нідерланди, обходячи лінію Мажино. Французи намагаються зупинити наступ на річці Діл.</value>
+      <value>Німці розпочинають наступ на Францію через Нідерланди, обходячи лінію Мажино. Французи намагаються зупинити наступ на річці Діль.</value>
       <plurals />
       <comment>France act I</comment>
     </GameLocalizationEntry>
@@ -323,7 +323,7 @@
     <GameLocalizationEntry>
       <key>DLC Description</key>
       <context>campaign.description</context>
-      <value>Італійська армія захищається від британської атаки в Північній Африці.</value>
+      <value>Італія - додаткова універсальна фракція. Має деяку німецьку техніку, непогану авіацію, артилерію та загалом середню бойову силу.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -921,7 +921,7 @@
     <GameLocalizationEntry>
       <key>France is a land-defensive faction. They are focused on military fortifications such as bunkers, pillboxes. They have cheaper and more powerful artillery and anti-tank cannons.</key>
       <context>campaign.description</context>
-      <value>Франція — наземна оборонна фракція. Вони зосереджені на військових укріпленнях, таких як бункери, доти, тощо. Вони також мають дешевшу та потужнішу артилерію та протитанкові гармати.</value>
+      <value>Франція — наземна оборонна фракція. Вони зосереджені на військових укріпленнях, таких як бункери, доти, тощо. Вони також мають дешевшу потужну артилерію та протитанкові гармати.</value>
       <plurals />
       <comment>France campaign</comment>
     </GameLocalizationEntry>
@@ -977,7 +977,7 @@
     <GameLocalizationEntry>
       <key>US is an air-offensive faction. They are focused on heavy bombardment of the enemy. Airport is cheaper and more efficient, producing stronger bombers.</key>
       <context>campaign.description</context>
-      <value>США - повітрна наступальна фракція. Їхні авіабази дешевші і виробляють більше бомбардувальників.</value>
+      <value>США - повітряна наступальна фракція. Їхні авіабази дешевші і виробляють більше бомбардувальників.</value>
       <plurals />
       <comment>USA campaign</comment>
     </GameLocalizationEntry>
