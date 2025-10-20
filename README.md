@@ -10,9 +10,9 @@
 # На даний момент такий прогрес:
 - [ ] en_US_Achievement.locale - не перекладено
 
-- [ ] en_US_Battle.locale - не перекладено
+- [ ] en_US_Battle.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
-- [ ] en_US_Battle2.locale - не перекладено
+- [ ] en_US_Battle2.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
 - [ ] en_US_Battle3.locale - не перекладено
 
