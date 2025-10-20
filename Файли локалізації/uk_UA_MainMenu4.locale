@@ -300,7 +300,7 @@
     <GameLocalizationEntry>
       <key>Italians {0}won</key>
       <context>factions.victory_text</context>
-      <value>Італійці перемогли! {0}</value>
+      <value>Італьянці перемогли! {0}</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>British {0}won</key>
