@@ -4,212 +4,212 @@
   <entries>
     <GameLocalizationEntry>
       <key>Light Tank</key>
-      <value>Light Tank</value>
+      <value>Легкий танк</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Upgraded Light Tank</key>
-      <value>Upgraded Light Tank</value>
+      <value>Покращений легкий танк</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Medium Tank</key>
-      <value>Medium Tank</value>
+      <value>Середній танк</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Upgraded Medium Tank</key>
-      <value>Upgraded Medium Tank</value>
+      <value>Покращений середній танк</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Heavy Tank</key>
-      <value>Heavy Tank</value>
+      <value>Важкий танк</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Upgraded Heavy Tank</key>
-      <value>Upgraded Heavy Tank</value>
+      <value>Покращений важкий танк</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Super Heavy Tank</key>
-      <value>Super Heavy Tank</value>
+      <value>Надважкий танк</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Dive Bomber</key>
-      <value>Dive Bomber</value>
+      <value>Пікіруючий бомбардувальник</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fighter Bomber</key>
-      <value>Fighter Bomber</value>
+      <value>Винищувач-бомбардувальник</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Tactical Bomber</key>
-      <value>Tactical Bomber</value>
+      <value>Тактичний бомбардувальний</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Transport Plane</key>
-      <value>Transport Plane</value>
+      <value>Транспортний літак</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Jet Fighter </key>
-      <value>Jet Fighter</value>
+      <value>Реактивний винищувач</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Officer Light Tank</key>
-      <value>Officer Light Tank</value>
+      <value>Офіцерський легкий танк</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Officer Medium Tank</key>
-      <value>Officer Medium Tank</value>
+      <value>Офіцерський середній танк</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Officer Heavy Tank</key>
-      <value>Officer Heavy Tank</value>
+      <value>Офіцерський важкий танк</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Officer Super Heavy Tank</key>
-      <value>Officer Super Heavy Tank</value>
+      <value>Офіцерський надважкий танк</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Officer Tank Destroyer</key>
-      <value>Officer Tank Destroyer</value>
+      <value>Офіцерський винищувач танків</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Officer Heavy Tank Destroyer</key>
-      <value>Officer Heavy Tank Destroyer</value>
+      <value>Офіцерський важкий винищучач танків</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Tank Destroyer</key>
-      <value>Tank Destroyer</value>
+      <value>Винищувач танків</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Heavy Tank Destroyer</key>
-      <value>Heavy Tank Destroyer</value>
+      <value>Важкий винищувач танків</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mobile Artillery</key>
-      <value>Mobile Artillery</value>
+      <value>Самохідна артилерія</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Armored Car</key>
-      <value>Armored Car</value>
+      <value>Бронемашина</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Recovery Vehicle</key>
-      <value>Recovery Vehicle</value>
+      <value>Ремонтна машина</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Transporter</key>
-      <value>Transporter</value>
+      <value>Транспортер</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Armored Transporter</key>
-      <value>Armored Transporter</value>
+      <value>Бронетранспортер</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mobile Anti-Air Gun</key>
-      <value>Mobile Anti-Air Gun</value>
+      <value>ЗСУ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Anti-Tank Cannon</key>
-      <value>Anti-Tank Cannon</value>
+      <value>Протитанкова гармата</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Anti-Air Cannon</key>
-      <value>Anti-Air Cannon</value>
+      <value>Зенітна гармата</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Anti-Air Gun</key>
-      <value>Anti-Air Gun</value>
+      <value>Зенітка</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fire Tank</key>
-      <value>Fire Tank</value>
+      <value>Вогнеметний танк</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kamikaze Tank</key>
-      <value>Kamikaze Tank</value>
+      <value>Танк-камікадзе</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Pirate Tank</key>
-      <value>Pirate Tank</value>
+      <value>Піратський танк</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rocket mobile</key>
-      <value>Rocket mobile</value>
+      <value>Самохідна РСЗВ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mobile Mine Spawner</key>
-      <value>Mobile Mine Spawner</value>
+      <value>Самохідний створювач мін</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mobile Mine </key>
-      <value>Mobile Mine</value>
+      <value>Самохідна міна</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rocket Launcher</key>
-      <value>Rocket Launcher</value>
+      <value>Гранатомет</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fire Artillery </key>
-      <value>Fire Artillery</value>
+      <value>Запалювальна артилерія</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Smoke Artillery </key>
-      <value>Smoke Artillery</value>
+      <value>Димова артилерія</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Cluster Artillery </key>
-      <value>Cluster Artillery</value>
+      <value>Касетна артилерія</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Machine Gun Nest</key>
-      <value>Machine Gun Nest</value>
+      <value>Кулеметне гніздо</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>A-bomb</key>
-      <value>A-bomb</value>
+      <value>Атомна бомба</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Ab tank prototype</key>
-      <value>Ab tank prototype</value>
+      <value>Прототип танку "Abrams"</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -219,22 +219,22 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Light Reinforced Vehicle Prototype</key>
-      <value>Light Reinforced Vehicle Prototype</value>
+      <value>Прототип легкої бронемашини</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Anti Tank Dog</key>
-      <value>Anti-Tank Dog</value>
+      <value>Протитанкова собака</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Flying Tank A-40</key>
-      <value>Flying Tank A-40</value>
+      <value>Літаючий танк А-40</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Tesla - Radar</key>
-      <value>Tesla Radar</value>
+      <value>Радар Tesla</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -244,102 +244,102 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Maginot Line</key>
-      <value>Maginot Line</value>
+      <value>Лінія Мажино</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Foreign Legion</key>
-      <value>Foreign Legion</value>
+      <value>Іноземний легіон</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Submachine gun</key>
-      <value>Submachine gun</value>
+      <value>Пістолет-кулемет</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mobile artillery cannon</key>
-      <value>Mobile artillery cannon</value>
+      <value>Самохідна артилерійська гармата</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Force weapon</key>
-      <value>Force weapon</value>
+      <value>Силова зброя</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Explosive</key>
-      <value>Explosive</value>
+      <value>Вибухівка</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Grenade</key>
-      <value>Grenade</value>
+      <value>Граната</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sticky bomb</key>
-      <value>Sticky bomb</value>
+      <value>Липка граната</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Throwing knife</key>
-      <value>Throwing knife</value>
+      <value>Метальний ніж</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Blade</key>
-      <value>Blade</value>
+      <value>Клинок</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rifle</key>
-      <value>Rifle</value>
+      <value>Гвинтівка</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fire artillery cannon</key>
-      <value>Fire artillery cannon</value>
+      <value>Запалювальна артилерійська гармата</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Pistol</key>
-      <value>Pistol</value>
+      <value>Пістолет</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Assault rifle</key>
-      <value>Assault rifle</value>
+      <value>Штурмова гвинтівка</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sniper rifle</key>
-      <value>Sniper rifle</value>
+      <value>Снайперська гвинтівка</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Anti-tank rifle</key>
-      <value>Anti-tank rifle</value>
+      <value>Протитанкова рушниця</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Shotgun</key>
-      <value>Shotgun</value>
+      <value>Дробовик</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>MedKit</key>
-      <value>Medkit</value>
+      <value>Аптечка</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Supply box</key>
-      <value>Supply box</value>
+      <value>Ящик припасів</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Driver</key>
-      <value>Driver</value>
+      <value>Водій</value>
       <plurals />
     </GameLocalizationEntry>
   </entries>

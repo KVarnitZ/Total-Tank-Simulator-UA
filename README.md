@@ -14,17 +14,17 @@
 
 - [ ] en_US_Battle2.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
-- [ ] en_US_Battle3.locale - не перекладено
+- [ ] en_US_Battle3.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
-- [ ] en_US_Battle4.locale - не перекладено
+- [ ] en_US_Battle4.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
-- [ ] en_US_Battle5.locale - не перекладено
+- [ ] en_US_Battle5.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
-- [ ] en_US_Battle6.locale - не перекладено
+- [ ] en_US_Battle6.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
-- [ ] en_US_Battle7.locale - не перекладено
+- [ ] en_US_Battle7.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
-- [ ] en_US_Battle8.locale - не перекладено
+- [ ] en_US_Battle8.locale - **перекладено та <ins>НЕ</ins> перевірено**
 
 - [ ] en_US_campaign.locale - **перекладено та <ins>НЕ</ins> перевірено**
 

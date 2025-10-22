@@ -4,65 +4,65 @@
   <entries>
     <GameLocalizationEntry>
       <key>PRODUCTION QUEUE:</key>
-      <value>PRODUCTION QUEUE:</value>
+      <value>ЧЕРГА СТВОРЕННЯ:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Exit vehicle</key>
-      <value>Exit vehicle</value>
+      <value>Вийти</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BEAR</key>
-      <value>BEAR</value>
+      <value>ВЕДМІДЬ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>CAPTURING!</key>
-      <value>CAPTURING!</value>
+      <value>ЗАХОПЛЕННЯ!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{0}s</key>
       <context>unitCapturing</context>
-      <value>{0}s</value>
+      <value>{0} сек.</value>
       <comment>Time left to capture a building (seconds)</comment>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Capturing!</key>
       <context>unitCapturing</context>
-      <value>Capturing!</value>
+      <value>Захоплення!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Defending!</key>
       <context>unitCapturing</context>
-      <value>Defending!</value>
+      <value>Захист!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Tie!</key>
       <context>unitCapturing</context>
-      <value>Tie!</value>
+      <value>Нічия!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{0} allies vs {1} enemies</key>
       <context>unitCapturing</context>
-      <value>{0} allies vs {1} enemies</value>
+      <value>Союзники: {0} проти Вороги: {1}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>phase 1 of 2: reducing enemy influence</key>
       <context>unitCapturing</context>
-      <value>phase 1 of 2: reducing enemy influence</value>
+      <value>фаза 1 з 2: зниження впливу ворогів</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>phase 2 of 2: increasing allied influence</key>
       <context>unitCapturing</context>
-      <value>phase 2 of 2: increasing allied influence</value>
+      <value>фаза 2 з 2: підвищення впливу ворогів</value>
       <plurals />
     </GameLocalizationEntry>
   </entries>

@@ -4,576 +4,576 @@
   <entries>
     <GameLocalizationEntry>
       <key>Point of interest</key>
-      <value>Point of interest</value>
+      <value>Точка інтересу</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Point of interest is a place which units fight for.</key>
-      <value>Units will fight for points of interest</value>
+      <value>Одиниці б'ються за точки інтересу</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>unit state</key>
-      <value>unit state</value>
+      <value>стан одиниці</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>weapons</key>
-      <value>weapons</value>
+      <value>зброя</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Range</key>
-      <value>Range</value>
+      <value>Дальність</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Survival time</key>
-      <value>Survival time</value>
+      <value>Час виживання</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Hold {0} to remove units</key>
-      <value>Hold {0} to remove units</value>
+      <value>Утримуйте {0} для видалення одиниць</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You can't spawn on the enemy sides</key>
-      <value>You can't spawn on the enemy side</value>
+      <value>Неможна розташовувати одиниці на стороні противника</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You can't switch to the enemy side</key>
-      <value>You can't switch to the enemy side</value>
+      <value>Неможна перейти на сторону противника</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>action</key>
-      <value>action</value>
+      <value>дія</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fuel</key>
       <context>game.unitstate</context>
-      <value>Fuel</value>
+      <value>Паливо</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Health points</key>
       <context>game.unitstate</context>
-      <value>Health points</value>
+      <value>Очки здоров'я</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Idle</key>
       <context>game.ai_action</context>
-      <value>Idle</value>
+      <value>Бездіяльність</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Servicing</key>
       <context>game.unitstate</context>
-      <value>Servicing</value>
+      <value>Обслуговування</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Bail out</key>
       <context>game.ai_action</context>
-      <value>Bail out</value>
+      <value>Вистрибнути</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Return to airport</key>
       <context>game.ai_action</context>
-      <value>Return to airport</value>
+      <value>Повернутися до авіабази</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kamikaze attack</key>
       <context>game.ai_action</context>
-      <value>Kamikaze attack</value>
+      <value>Камікадзе атака</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Enter unit</key>
       <context>game.ai_action</context>
-      <value>Enter unit</value>
+      <value>Погрузитися</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Repair friendly unit</key>
       <context>game.ai_action</context>
-      <value>Repair friendly unit</value>
+      <value>Ремонтувати союзника</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Enter unit for transport</key>
       <context>game.ai_action</context>
-      <value>Enter unit for transport</value>
+      <value>Погрузитися для транспортування</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Throw granade</key>
       <context>game.ai_action</context>
-      <value>Throw grenade</value>
+      <value>Кинути гранату</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Attack</key>
       <context>game.ai_action</context>
-      <value>Attack</value>
+      <value>Атакувати</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Drop atomic bomb</key>
       <context>game.ai_action</context>
-      <value>Drop atomic bomb</value>
+      <value>Скинути атомну бомбу</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Attack with ATR</key>
       <context>game.ai_action</context>
-      <value>Attack with ATR</value>
+      <value>Атакувати з ПТР</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Flank</key>
       <context>game.ai_action</context>
-      <value>Flank</value>
+      <value>З флангу</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Surround</key>
       <context>game.ai_action</context>
-      <value>Surround</value>
+      <value>Оточити</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Run away</key>
       <context>game.ai_action</context>
-      <value>Run away</value>
+      <value>Тікати</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Back off</key>
       <context>game.ai_action</context>
-      <value>Back off</value>
+      <value>Відступати</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Find crew</key>
       <context>game.ai_action</context>
-      <value>Find crew</value>
+      <value>Знайти екіпаж</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Find recovery vehicle</key>
       <context>game.ai_action</context>
-      <value>Find recovery vehicle</value>
+      <value>Знайти ремонтника</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Find transport units</key>
       <context>game.ai_action</context>
-      <value>Find transport units</value>
+      <value>Знайти транспортник</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Capture spawner</key>
       <context>game.ai_action</context>
-      <value>Capture spawner</value>
+      <value>Захопити створювач</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Chase target</key>
       <context>game.ai_action</context>
-      <value>Chase target</value>
+      <value>Переслідувати ціль</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Defend spawner</key>
       <context>game.ai_action</context>
-      <value>Defend spawner</value>
+      <value>Захищати створювач</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Defend cover</key>
       <context>game.ai_action</context>
-      <value>Defend cover</value>
+      <value>Захищати укриття</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Attack nest</key>
       <context>game.ai_action</context>
-      <value>Attack nest</value>
+      <value>Атакувати гніздо</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Attack spawner</key>
       <context>game.ai_action</context>
-      <value>Attack spawner</value>
+      <value>Атакувати створювач</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Enter transport unit</key>
       <context>game.ai_action</context>
-      <value>Enter transport unit</value>
+      <value>Погрузитися в транспортник</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sneak out</key>
       <context>game.ai_action</context>
-      <value>Sneak out</value>
+      <value>Вилізти</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Attack ground units</key>
       <context>game.ai_action</context>
-      <value>Attack ground units</value>
+      <value>Атакувати наземні одиниці</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Land on the enemy</key>
       <context>game.ai_action</context>
-      <value>Land on the enemy</value>
+      <value>Посадка на ворожу тер.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Land on the ground</key>
       <context>game.ai_action</context>
-      <value>Land on the ground</value>
+      <value>Екстренна посадка</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Follow friendly unit</key>
       <context>game.ai_action</context>
-      <value>Follow friendly unit</value>
+      <value>Слідувати за союзником</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Attack from a hideout</key>
       <context>game.ai_action</context>
-      <value>Attack from a hideout</value>
+      <value>Атакувати з укриття</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Attack with knife</key>
       <context>game.ai_action</context>
-      <value>Attack with knife</value>
+      <value>Атакувати з ножем</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sneak with knife</key>
       <context>game.ai_action</context>
-      <value>Sneak with knife</value>
+      <value>Скритно атакувати з ножем</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Use medkit</key>
       <context>game.ai_action</context>
-      <value>Use medkit</value>
+      <value>Використати аптечку</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Look for the enemy</key>
       <context>game.ai_action</context>
-      <value>Look for the enemy</value>
+      <value>Шукати ворога</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Move to the point of interest</key>
       <context>game.ai_action</context>
-      <value>Move to the point of interest</value>
+      <value>Рухатися до точки інтересу</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Move to the cover</key>
       <context>game.ai_action</context>
-      <value>Move to the cover</value>
+      <value>Рухатися в укриття</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Use panzerfaust</key>
       <context>game.ai_action</context>
-      <value>Use panzerfaust</value>
+      <value>Використати Panzerfaust</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Attack with sniper rifle</key>
       <context>game.ai_action</context>
-      <value>Attack with sniper rifle</value>
+      <value>Атакувати з снайперки</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Use supply box</key>
       <context>game.ai_action</context>
-      <value>Use supply box</value>
+      <value>Використати ящик припасів</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Wait for the enemy</key>
       <context>game.ai_action</context>
-      <value>Wait for the enemy</value>
+      <value>Чекати на ворога</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Use Molotov cocktail</key>
       <context>game.ai_action</context>
-      <value>Use Molotov cocktail</value>
+      <value>Використати молотов</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Move towards enemy spawner</key>
       <context>game.ai_action</context>
-      <value>Move towards enemy spawner</value>
+      <value>Рухатися до ворога</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Panic!</key>
       <context>game.ai_action</context>
-      <value>Panic!</value>
+      <value>Паніка!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Capture enemy unit</key>
       <context>game.ai_action</context>
-      <value>Capture enemy unit</value>
+      <value>Захопити ворожу одиницю</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Use pistol</key>
       <context>game.ai_action</context>
-      <value>Use pistol</value>
+      <value>Використати пістолет</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Ramming</key>
       <context>game.ai_action</context>
-      <value>Ramming</value>
+      <value>Таранити</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Ramming enemy tanks</key>
       <context>game.ai_action</context>
-      <value>Ramming enemy tanks</value>
+      <value>Таранити ворожі танки</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Capture building</key>
       <context>game.ai_action</context>
-      <value>Capture building</value>
+      <value>Захопити будівлю</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Move forward</key>
       <context>game.ai_action</context>
-      <value>Move forward</value>
+      <value>Рухатися вперед</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Move to the center of map</key>
       <context>game.ai_action</context>
-      <value>Move to the center of map</value>
+      <value>Рухатися до центру мапи</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Move to the hill</key>
       <context>game.ai_action</context>
-      <value>Move to the hill</value>
+      <value>Рухатися до пагорбу</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Use rifle</key>
       <context>game.ai_action</context>
-      <value>Use rifle</value>
+      <value>Використати гвинтівку</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Run away from the group</key>
       <context>game.ai_action</context>
-      <value>Run away from the group</value>
+      <value>Тікати від групи</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Attack target in the building</key>
       <context>game.ai_action</context>
-      <value>Attack target in the building</value>
+      <value>Атакувати ціль у будівлі</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Use SMG</key>
       <context>game.ai_action</context>
-      <value>Use SMG</value>
+      <value>Використати ПК</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Use smoke granade</key>
       <context>game.ai_action</context>
-      <value>Use smoke grenade</value>
+      <value>Використати димову гранату</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Snipe</key>
       <context>game.ai_action</context>
-      <value>Snipe</value>
+      <value>Танковий снайпер</value>
       <comment>Not as a sniper infantry - it is used on tanks, which stay in place and shoot from distnce. Similar to sniper with sniper rifle, but it is not sniper rifle</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Use sticky bomb</key>
       <context>game.ai_action</context>
-      <value>Use sticky bomb</value>
+      <value>Використати липку гранату</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Throw knife</key>
       <context>game.ai_action</context>
-      <value>Throw knife</value>
+      <value>Кинути ніж</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Bail out driver</key>
       <context>game.ai_action</context>
-      <value>Bail out driver</value>
+      <value>Викинути водія</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Move to destination</key>
       <context>game.ai_action</context>
-      <value>Move to destination</value>
+      <value>Рухатися до місця</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Move to infantry</key>
       <context>game.ai_action</context>
-      <value>Move to infantry</value>
+      <value>Рухатися до піхоти</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Land</key>
       <context>game.ai_action</context>
-      <value>Land</value>
+      <value>Посадка</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Return to the airport</key>
       <context>game.ai_action</context>
-      <value>Return to the airport</value>
+      <value>Повернутися до авіабази</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Load passengers</key>
       <context>game.ai_action</context>
-      <value>Load passengers</value>
+      <value>Завантажити пасажирів</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Try keep distance</key>
       <context>game.ai_action</context>
-      <value>Try keep distance</value>
+      <value>Намагатися тримати дистанцію</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>(including crews)</key>
-      <value>(including crews)</value>
+      <value>(включ. екіпажи)</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>HP/Armor: {0}/{1}</key>
-      <value>HP/Armor: {0}/{1}</value>
+      <value>ОЗ/Броня: {0}/{1}</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DMG/s: {0}/{1}</key>
-      <value>DMG/s: {0}/{1}</value>
+      <value>Шкода/сек: {0}/{1}</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Return to base</key>
-      <value>Return to base</value>
+      <value>Повернутися до бази</value>
       <comment>Message shown when player is low on fuel in an airplane</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Refueling...</key>
-      <value>Refueling...</value>
+      <value>Заправка...</value>
       <comment>Message shown when player is refueling a plane at the airport</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Arming A-bomb...</key>
-      <value>Arming A-bomb...</value>
+      <value>Підготовка атомної бомби...</value>
       <comment>Message shown when player is steering an atomic bomber and atomic bomb is arming</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>A-bomb ready...</key>
-      <value>A-bomb ready...</value>
+      <value>Атомна бомба готова...</value>
       <comment>Message shown when player is steering an atomic bomber and the atomic bomb is ready to drop</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>A-bomb dropped...</key>
-      <value>A-bomb dropped...</value>
+      <value>Атомна бомба скинута...</value>
       <comment>Message shown when player is steering an atomic bomber and the atomic bomb has been dropped already</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Return to 
 battle area!</key>
-      <value>Return to 
-battle area!</value>
+      <value>Поверніться до
+зони бойових дій!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>On fire!</key>
-      <value>On fire!</value>
+      <value>У вогні!</value>
       <comment>A message shown when player is burning</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Paralyzed!</key>
-      <value>Paralyzed!</value>
+      <value>Паралізований!</value>
       <comment>A message shown when player is paralysed by tesla radar</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BEING
 REPAIRED</key>
-      <value>BEING
-REPAIRED</value>
+      <value>ТРИВАЄ
+РЕМОНТ</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>REARMING</key>
-      <value>REARMING</value>
+      <value>ПЕРЕЗАРЯДКА</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Capturing</key>
-      <value>Capturing</value>
+      <value>Захоплює</value>
       <comment>Shown when pirate tank is pirating another tank</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
-      <key>Current wave</key>
-      <value>Current wave</value>
+      <key>Поточна хвиля</key>
+      <value></value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PROTECT VIPs</key>
-      <value>PROTECT VIPs</value>
+      <value>ЗАХИЩАЙТЕ ОСОБЛИВІ ЦІЛІ</value>
       <comment>The goal of protect the vip mission</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>NO OBJECTIVES</key>
-      <value>NO OBJECTIVES</value>
+      <value>НЕМАЄ ЦІЛІ</value>
       <comment>When playing sandbox there are no objectives</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Deploy Both Nations</key>
-      <value>Deploy Both Nations</value>
+      <value>Розташування обох націй</value>
       <comment>Header shown when player starts the first battle in shadow mode</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Battle #1</key>
-      <value>Battle #1</value>
+      <value>Битва 1</value>
       <comment>Header shown when player starts the first battle in shadow mode</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>REDRAW</key>
-      <value>REDRAW</value>
+      <value>НОВА СПРОБА</value>
       <comment>After nation rulette, player can redraw to change the nation.</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Climb ladder</key>
       <context>hint</context>
-      <value>Climb ladder</value>
+      <value>Лізти</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Enter as passenger</key>
-      <value>Enter as passenger</value>
+      <value>Увійти як пасажир</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>NO</key>
-      <value>NO</value>
+      <value>НІ</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>YES</key>
-      <value>YES</value>
+      <value>ТАК</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>last {0}</key>
       <context>artillery</context>
-      <value>last {0}</value>
+      <value>зал. {0}</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Player</key>
-      <value>Player</value>
+      <value>Гравець</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rearming...</key>
-      <value>Rearming...</value>
+      <value>Перезарядка...</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>EXPLODED</key>
-      <value>EXPLODED</value>
+      <value>ВИБУХ</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>CRASHED</key>
-      <value>CRASHED</value>
+      <value>ЗНИЩЕНО</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>No weapon</key>
       <context>battle.ui</context>
-      <value>No weapon</value>
+      <value>Немає зброї</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Time {0}:{1}</key>
       <context>game</context>
-      <value>Time {0}:{1}</value>
+      <value>Час {0}:{1}</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SURRENDER</key>
-      <value>SURRENDER</value>
+      <value>ЗДАТИСЯ</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Surrender?</key>
-      <value>Surrender?</value>
+      <value>Здатися?</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Go back to menu?</key>
-      <value>Go back to menu?</value>
+      <value>Повернутися до меню?</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Reset Mission?</key>
-      <value>Reset Mission?</value>
+      <value>Скинути місію?</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Hover enemy unit to compare strength</key>
-      <value>Hover enemy unit to compare strength</value>
+      <value>Наведіть на одиницю ворога для порівняння сили</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Choose unit to deploy to compare strength</key>
-      <value>Choose unit to deploy to compare strength</value>
+      <value>Оберіть одиницю для порівняння сили</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Switch to previous weapon</key>
-      <value>Switch to the previous weapon</value>
+      <value>Перемкнутися на минулу зброю</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Switch to next weapon</key>
-      <value>Switch to the next weapon</value>
+      <value>Перемкнутися на наступну зброю</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Empty spawners</key>
       <context>game.alert.emptyspawners</context>
-      <value>Empty spawners</value>
+      <value>Пусті створювачі</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>There are empty spawners, they will not produce anything.
@@ -581,35 +581,35 @@ Click on a spawner to modify production queue.
 
 Are you sure you want to start the battle anyway?</key>
       <context>game.alert.emptyspawners</context>
-      <value>There are empty spawners, they will not produce anything.
-Click on a spawner to set production queue.
+      <value>Є порожні створювачі, які нічого не створюють.
+Натисніть на створювач для встановлення черги створення.
 
-Are you sure you want to start the battle anyway?</value>
+Ви впевнені, що все одно хочете розпочати битву?</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Filter mode</key>
-      <value>Filter mode</value>
+      <value>Режим фільтра</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Health bar mode</key>
-      <value>Health bar mode</value>
+      <value>Режим шкали здоров'я</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Tactical view</key>
-      <value>Tactical view</value>
+      <value>Тактичний режим</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Cinematic view</key>
-      <value>Cinematic view</value>
+      <value>Кінематографічний режим</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Switch unit view</key>
-      <value>Switch unit view</value>
+      <value>Змінити режим вигляду одиниці</value>
       <ignored />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Switch unit</key>
-      <value>Switch unit</value>
+      <value>Змінити одиницю</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -627,169 +627,169 @@ Are you sure you want to start the battle anyway?</value>
     <GameLocalizationEntry>
       <key>Engage: {0}, speed up: {1}, slow down: {2}</key>
       <context>battle.left_buttons</context>
-      <value>Engage: {0}, speed up: {1}, slow down: {2}</value>
+      <value>Увімкнути: {0}, пришвидшення: {1}, сповільнення: {2}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Toggle: {0}</key>
       <context>battle.left_buttons</context>
-      <value>Toggle: {0}</value>
+      <value>Перемкн.: {0}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Are you sure you want to clear all units?</key>
-      <value>Are you sure you want to clear all units?</value>
+      <value>Ви впевнені, що хочете видалити всі одиниці?</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Are you sure you want to clear all units on the selected side?</key>
-      <value>Are you sure you want to clear all units on the selected side?</value>
+      <value>Ви впевнені, що хочете видалити всі одиниці вибраної сторони?</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Confirmation</key>
-      <value>Confirmation</value>
+      <value>Підтвердити</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Timeout! No time left to finish the battle.</key>
       <context>game.winning_condition</context>
-      <value>Timeout! No time left to finish the battle.</value>
+      <value>Час вийшов! Не вийшло закінчити битву.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>All enemy VIPs are dead!</key>
       <context>game.winning_condition</context>
-      <value>All enemy VIPs are dead!</value>
+      <value>Усі особливі цілі ворога знищені!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>All enemy units are dead!</key>
       <context>game.winning_condition</context>
-      <value>All enemy units are dead!</value>
+      <value>Усі ворожі одиниці знищені!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>All your units are dead!</key>
       <context>game.winning_condition</context>
-      <value>All your units are dead!</value>
+      <value>Усі ваші одиниці знищені!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Your your VIPs are dead!</key>
       <context>game.winning_condition</context>
-      <value>All your VIPs are dead!</value>
+      <value>Усі ваші особливі цілі знищені!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>All units are dead!</key>
       <context>game.winning_condition</context>
-      <value>All units are dead!</value>
+      <value>Усі ваші одиниці знищені!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You have survived all waves!</key>
       <context>game.winning_condition</context>
-      <value>You survived all waves!</value>
+      <value>Ви пережили всі хвилі!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You haven't survived any wave!</key>
       <context>game.winning_condition</context>
-      <value>You didn't survive any waves!</value>
+      <value>Ви не пережили ні однієї хвилі!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You have survived {0} out of {1} waves</key>
       <context>game.winning_condition</context>
-      <value>You survived {0} out of {1} waves</value>
+      <value>Ви пережили {0} з {1} хвиль</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Repair Tool</key>
-      <value>Repair Tool</value>
+      <value>Ремонтний інструмент</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Spawns vehicles.</key>
-      <value>Spawns vehicles.</value>
+      <value>Створює транспорт.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Garage</key>
-      <value>Garage</value>
+      <value>Гараж</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>No orders given yet</key>
-      <value>No orders given yet</value>
+      <value>Прикази не віддані</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>No matching orders</key>
-      <value>No matching orders</value>
+      <value>Немає співпадаючих приказів</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Drag to select units, 
 SHIFT to add to selection, Ctrl to subtract</key>
-      <value>Drag to select units, 
- SHIFT to add to selection, Ctrl to subtract</value>
+      <value>Перетягніть, щоби вибрати одиниці 
+Натисніть SHIFT, щоби додати до вибраних, Ctrl щоби відняти</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Air to ground</key>
-      <value>Air to ground</value>
+      <value>Повітря-земля</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Artillery attack</key>
-      <value>Artillery attack</value>
+      <value>Артилерійський обстріл</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Attack</key>
-      <value>Attack</value>
+      <value>Атака</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Defend</key>
-      <value>Defend</value>
+      <value>Захист</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Flank left</key>
-      <value>Flank left</value>
+      <value>Зайти зліва</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Flank right</key>
-      <value>Flank right</value>
+      <value>Зайти справа</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Take cover</key>
-      <value>Take cover</value>
+      <value>Сховатися</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Give orders</key>
-      <value>Give orders</value>
+      <value>Віддати прикази</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Hold and defend position</key>
-      <value>Hold and defend position</value>
+      <value>Утримувати та обороняти позицію</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>No resolutions</key>
-      <value>No resolutions</value>
+      <value>Немає дозволів</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Flank from the right and attack</key>
-      <value>Flank from the right and attack</value>
+      <value>Зайти справа й атакувати</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Move to target and attack</key>
-      <value>Move to target and attack</value>
+      <value>Рухатися до цілі й атакувати</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Prioritize selected units</key>
-      <value>Prioritize selected units</value>
+      <value>Приорітет обраним одиницям</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Flank from the left and attack</key>
-      <value>Flank from the left and attack</value>
+      <value>Зайти зліва й атакувати</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sniper tower</key>
-      <value>Sniper tower</value>
+      <value>Снайперська вежа</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Tower with snipers and riflemen.</key>
-      <value>Tower with snipers and riflemen.</value>
+      <value>Вежа зі снайперами та стрільцями.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Smoke bomb</key>
       <context>game.ai_action</context>
-      <value>Smoke</value>
+      <value>Дим</value>
     </GameLocalizationEntry>
   </entries>
 </GameLocalization>
