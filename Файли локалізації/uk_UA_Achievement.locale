@@ -425,7 +425,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kill 5 enemy units using a flamethrower</key>
-      <value>Убити 5 ворожиз одиниць з вогнемета.</value>
+      <value>Убити 5 ворожих одиниць з вогнемета.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -455,7 +455,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Capture 5 enemy units using a Pirate Tank</key>
-      <value>Захопити 5 вородих одиниць, використовуючи піратський танк.</value>
+      <value>Захопити 5 ворожих одиниць, використовуючи піратський танк.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>

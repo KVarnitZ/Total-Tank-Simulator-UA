@@ -60,7 +60,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UPGRADE</key>
-      <value>ПОКРАЩИТИ</value>
+      <value>ПОКРАЩ.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -215,7 +215,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>LOCKED</key>
-      <value>ЗАБЛОКОВАНО</value>
+      <value>ЗАБЛОКОВ.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1097,17 +1097,17 @@
     <GameLocalizationEntry>
       <key>The bonus increases inflicted damage.</key>
       <context>campaign.bonus_short_description</context>
-      <value>Цей бонус збільшує завдану шкоду.</value>
+      <value>Збільшує завдану шкоду.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The bonus reduces received damage</key>
       <context>campaign.bonus_short_description</context>
-      <value>Цей бонус зменшує отриману шкоду.</value>
+      <value>Зменшує отриману шкоду.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The bonus increases RPM</key>
       <context>campaign.bonus_short_description</context>
-      <value>Цей бонус підвищує шкидкострільність.</value>
+      <value>Підвищує шкидкострільність.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Win in max {0} moves</key>
