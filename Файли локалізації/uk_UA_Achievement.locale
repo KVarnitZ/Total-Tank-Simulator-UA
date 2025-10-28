@@ -4,473 +4,468 @@
   <entries>
     <GameLocalizationEntry>
       <key>Spider person</key>
-      <value>Spider person</value>
+      <value>Павуча особа</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Jump on a ladder from the air</key>
-      <value>Jump on a ladder from the air</value>
+      <value>Приземлитися на драбину з повітря</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Forgive me, Father!</key>
-      <value>Forgive me, Father!</value>
+      <value>Пробачте мене, отче!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Approach a confessional with an infantry unit</key>
-      <value>Approach a confessional with an infantry unit</value>
+      <value>Підвести піхотну одиницю до сповідальні.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Emergency Landing</key>
-      <value>Emergency Landing</value>
+      <value>Аварійна посадка</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Land on an airport with close to 0% fuel</key>
-      <value>Land on an airport with close to 0% fuel</value>
+      <value>Приземлитися на авіабазу з мінімальним залишком палива.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Better Safe Than Sorry</key>
-      <value>Better Safe Than Sorry</value>
+      <value>Береженого бог береже</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Force weapon reload after just one shot</key>
-      <value>Force weapon reload after just one shot</value>
+      <value>Перезарядити зброя після першого пострілу.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Marksman</key>
-      <value>Marksman</value>
+      <value>Снайпер</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Use a sniper rifle to kill an enemy at least 500 m away</key>
-      <value>Use a sniper rifle to kill an enemy at least 500 m away</value>
+      <value>Убити ворога зі снайперської гвинтівки на відстані не менше 500 м.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Outhouse massacre</key>
-      <value>Outhouse massacre</value>
+      <value>Туалетна різанина</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Drive over an outhouse with a vehicle</key>
-      <value>Drive over an outhouse with a vehicle</value>
+      <value>Переїхати транспортом вуличний туалет.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Deserter</key>
-      <value>Deserter</value>
+      <value>Дезертир</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Escape from the battle arena with a ground vehicle</key>
-      <value>Escape from the battle arena with a ground vehicle</value>
+      <value>Виїхати з бойової арени на наземному транспорті.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Dry eyelashes</key>
-      <value>Dry eyelashes</value>
+      <value>Сухі вії</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Make an officer blink very fast</key>
-      <value>Make an officer blink very fast</value>
+      <value>Змусити офіцера дуже швидко блимати.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Remember, no preorders!</key>
-      <value>Remember, no preorders!</value>
+      <value>Ніяких предзамовлень!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Hony Tawk</key>
-      <value>Hony Tawk</value>
+      <value>Хоні Товк</value>
       <ignored />
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Get flipped on your back and die</key>
-      <value>Get flipped on your back and die</value>
+      <value>Перевернутися на спину і померти.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Time to say goodbye</key>
-      <value>Time to say goodbye</value>
+      <value>Час прощатися</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Drop an atomic bomb</key>
-      <value>Drop an atomic bomb</value>
+      <value>Скинути атомну бомбу.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Brothers in arms</key>
-      <value>Brothers in arms</value>
+      <value>Браття по зброї</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Hire two officers who are brothers</key>
-      <value>Hire two officers who are brothers</value>
+      <value>Найняти двох офіцерів братів</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Shut up, Rommel!</key>
-      <value>Shut up, Rommel!</value>
+      <value>Стулися, Ромель!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Interrupt Rommel while he speaks</key>
-      <value>Interrupt Rommel while he speaks</value>
+      <value>Перервати Ромеля, коли він говорить</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Speed demon</key>
-      <value>Speed demon</value>
+      <value>Демон швидкості</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Reach 300 km/h in an airplane</key>
-      <value>Reach 300 km/h in an airplane</value>
+      <value>Досягнути швидкості 300 км/г на літаку.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Saving Captain Miller</key>
-      <value>Saving Captain Miller</value>
+      <value>Врятувати капітана Мілера</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Destroy a tank with a pistol</key>
-      <value>As an American soldier destroy German heavy tank with a pistol</value>
+      <value>За американського солдата знищити німецький важкий танк з пістолета.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Duck Shooting</key>
-      <value>Duck Shooting</value>
+      <value>Полювання на качок</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Destroy a plane with a pistol or a rifle</key>
-      <value>Destroy a plane with a pistol or a rifle</value>
+      <value>Знищити літак з пістолета чи гвинтівки.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Airplane!</key>
-      <value>Airplane!</value>
+      <value>Літак!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Eject from a flying plane as a lone pilot</key>
-      <value>Eject from a flying plane as a lone pilot</value>
+      <value>Вистрибнути з літака як єдиний пілот.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Shadow Chancellor</key>
-      <value>Shadow Chancellor</value>
+      <value>Тіньовий канцлер</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Reach 50 rounds in Shadow Mode</key>
-      <value>Reach 50 rounds in Shadow Mode</value>
+      <value>Досягнути 50-го раунда в режимі «Бій з Тінню».</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>No winners in war</key>
-      <value>No winners in war</value>
+      <value>У війні немає переможців</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Two sides lose their last unit at the same time</key>
-      <value>Two sides lose their last unit at the same time</value>
+      <value>Обидві сторони мають втратити останні одиниці одночасно.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Complete German tech</key>
-      <value>Complete German tech</value>
+      <value>Виконати німецьки технології</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unlock all units from the German tech tree</key>
-      <value>Unlock all units from the German tech tree</value>
+      <value>Розблокувати всі одиниці з німецького древа технологій.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Complete Polish tech</key>
-      <value>Complete Polish tech</value>
+      <value>Виконати польські технології</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unlock all units from the Polish tech tree</key>
-      <value>Unlock all units from the Polish tech tree</value>
+      <value>Розблокувати всі одиниці з польського древа технологій.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Complete French tech</key>
-      <value>Complete French tech</value>
+      <value>Виконати французькі технології</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unlock all units from the French tech tree</key>
-      <value>Unlock all units from the French tech tree</value>
+      <value>Розблокувати всі одиниці з французького древа технологій.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Complete USA tech</key>
-      <value>Complete USA tech</value>
+      <value>Виконати американські технології</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unlock all units from the American tech tree</key>
-      <value>Unlock all units from the American tech tree</value>
+      <value>Розблокувати всі одиниці з американського древа технологій.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Complete UK tech</key>
-      <value>Complete UK tech</value>
+      <value>Виконати британські технології</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unlock all units from the British tech tree</key>
-      <value>Unlock all units from the British tech tree</value>
+      <value>Розблокувати всі одиниці з британського древа технологій.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Complete USSR tech</key>
-      <value>Complete USSR tech</value>
+      <value>Виконати радянські технології</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unlock all units from the Soviet tech tree</key>
-      <value>Unlock all units from the Soviet tech tree</value>
+      <value>Розблокувати всі одиниці з радянського древа технологій.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USA campaign</key>
-      <value>USA campaign</value>
+      <value>Кампанія США</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Complete the American campaign</key>
-      <value>Complete the American campaign</value>
+      <value>Пройти кампанію за Сполучені Штати.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>German campaign</key>
-      <value>German campaign</value>
+      <value>Кампанія Німеччини</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Complete the German campaign</key>
-      <value>Complete the German campaign</value>
+      <value>Пройти кампанію за Німеччину.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Soviet campaign</key>
-      <value>Soviet campaign</value>
+      <value>Кампанія СРСР</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Complete the Soviet campaign</key>
-      <value>Complete the Soviet campaign</value>
+      <value>Пройти кампанію за Радянський Союз.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Polish campaign</key>
-      <value>Polish campaign</value>
+      <value>Кампанія Польщі</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Complete the Polish campaign</key>
-      <value>Complete the Polish campaign</value>
+      <value>Пройти кампанію за Польщу.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>French campaign</key>
-      <value>French campaign</value>
+      <value>Кампанія Франції</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Complete the French campaign</key>
-      <value>Complete the French campaign</value>
+      <value>Пройти кампанію за Францію.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>British campaign</key>
-      <value>British campaign</value>
+      <value>Кампанія Британії</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Complete the British campaign</key>
-      <value>Complete the British campaign</value>
+      <value>Пройти кампанію за Великобританію.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>All campaigns on hard</key>
-      <value>All campaigns on hard</value>
+      <value>Усі кампанії на складному рівні</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Complete all campaigns on hard difficulty level</key>
-      <value>Complete all campaigns on hard difficulty level</value>
+      <value>Пройти всі кампанії на максимальному рівні складності.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>All campaigns on hard &amp; brilliant</key>
-      <value>All campaigns on hard &amp; brilliant</value>
+      <value>Усі кампанії на складному рівні з відзнакою</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Complete all acts of all campaigns with a brilliant victory on a hard difficulty level</key>
-      <value>Complete all acts of all campaigns with a brilliant victory on a hard difficulty level</value>
+      <value>Пройти всі розділи всіх кампаній на максимальному рівні складності, одержуючи виключно блискучі перемоги.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Beginner Driver</key>
-      <value>Beginner Driver</value>
+      <value>Початковий водій</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Drive for at least 1 km</key>
-      <value>Drive for at least 1 km</value>
+      <value>Проїхати мінімум 1 км.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Advanced driver</key>
-      <value>Advanced driver</value>
+      <value>Просунутий водій</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Drive for at least 20 km</key>
-      <value>Drive for at least 20 km</value>
+      <value>Проїхати мінімум 20 км.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Master driver</key>
-      <value>Master driver</value>
+      <value>Майстерний водій</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Drive for at least 1000 km</key>
-      <value>Drive for at least 1000 km</value>
+      <value>Проїхати мінімум 1000 км.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Watch the road!</key>
-      <value>Watch the road!</value>
+      <value>Слідкуй за дорогою!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Drive over enemy infantry</key>
-      <value>Drive over enemy infantry</value>
+      <value>Переїхати ворожого піхотинця.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Really watch the road!</key>
-      <value>Really watch the road!</value>
+      <value>Серйозно, слідкуй за дорогою!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Really really watch the road!</key>
-      <value>Really really watch the road!</value>
+      <value>Благаю, слідкуй за дорогою!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Drive over 50 enemy infantry units</key>
-      <value>Drive over 50 enemy infantry units</value>
-      <plurals />
-    </GameLocalizationEntry>
-    <GameLocalizationEntry>
-      <key>Drive over 50 enemy infantry units</key>
-      <value>Drive over 50 enemy infantry units</value>
+      <value>Переїхати більше 50 ворожих піхотинців.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Drive over 500 enemy infantry units</key>
-      <value>Drive over 500 enemy infantry units</value>
+      <value>Переїхати більше 500 ворожих піхотинців.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kills x 10</key>
-      <value>Kills x 10</value>
+      <value>10 вбивств</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Get at least 10 kills in unit control</key>
-      <value>Get at least 10 kills in unit control</value>
+      <value>Здійснити мінімум 10 вбивств, керуючи одиницею.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Playing with knives</key>
-      <value>Playing with knives</value>
+      <value>Гра з ножами</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kill at least 10 enemy infrantry with a throwing knife</key>
-      <value>Kill at least 10 enemy infrantry with a throwing knife</value>
+      <value>Убити як мінімум 10 ворожих піхотинців метальними ножами.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Band of brothers</key>
-      <value>Band of brothers</value>
+      <value>Банда братів</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Deploy 200 paratroopers</key>
-      <value>Deploy 200 paratroopers</value>
+      <value>Розмістити 200 парашутистів.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fire maniac</key>
-      <value>Fire maniac</value>
+      <value>Підпалювач</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kill 5 enemy units using a flamethrower</key>
-      <value>Kill 5 enemy units using a flamethrower</value>
+      <value>Убити 5 ворожиз одиниць з вогнемета.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>It burns</key>
-      <value>It burns</value>
+      <value>Пече!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kill 100 enemy units with a flamethrower</key>
-      <value>Kill 100 enemy units with a flamethrower</value>
+      <value>Убити 100 ворожих одиниць з вогнемета.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Pyromancer</key>
-      <value>Pyromancer</value>
+      <value>Піроманіяк</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kill 500 enemy units with a flamethrower</key>
-      <value>Kill 500 enemy units with a flamethrower</value>
+      <value>Убити 500 ворожих одиниць з вогнемета</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The Jester of Tortuga</key>
-      <value>The Jester of Tortuga</value>
+      <value>Блазень з Тортуги</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Capture 5 enemy units using a Pirate Tank</key>
-      <value>Capture 5 enemy units using a Pirate Tank</value>
+      <value>Захопити 5 вородих одиниць, використовуючи піратський танк.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The Engineer</key>
-      <value>The Engineer</value>
+      <value>Інженер</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Repair 50 vehicles</key>
-      <value>Repair 50 vehicles</value>
+      <value>Відремонтувати 50 машин.</value>
       <plurals />
     </GameLocalizationEntry>
   </entries>
