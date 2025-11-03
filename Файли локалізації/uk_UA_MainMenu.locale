@@ -383,12 +383,12 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ACT</key>
-      <value>РОЗДІЛ</value>
+      <value>АКТ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Act</key>
-      <value>Розділ</value>
+      <value>Акт</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Are you sure?</key>

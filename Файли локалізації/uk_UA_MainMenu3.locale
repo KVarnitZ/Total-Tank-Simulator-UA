@@ -14,7 +14,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Begin act I</key>
-      <value>Почати Розділ I</value>
+      <value>Почати Акт I</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -146,7 +146,7 @@
       <key>{0}
 {1} - Act {2}</key>
       <value>{0}
-{1} - Розділ {2}</value>
+{1} - Акт {2}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>

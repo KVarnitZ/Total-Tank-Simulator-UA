@@ -9,7 +9,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Jump on a ladder from the air</key>
-      <value>Приземлитися на драбину з повітря</value>
+      <value>Приземлитися на драбину з повітря.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -39,7 +39,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Force weapon reload after just one shot</key>
-      <value>Перезарядити зброя після першого пострілу.</value>
+      <value>Перезарядити зброю після першого пострілу.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -115,7 +115,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Hire two officers who are brothers</key>
-      <value>Найняти двох офіцерів братів</value>
+      <value>Найняти двох офіцерів братів.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -125,7 +125,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Interrupt Rommel while he speaks</key>
-      <value>Перервати Ромеля, коли він говорить</value>
+      <value>Перервати Ромеля, коли він говорить.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -325,7 +325,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Complete all acts of all campaigns with a brilliant victory on a hard difficulty level</key>
-      <value>Пройти всі розділи всіх кампаній на максимальному рівні складності, одержуючи виключно блискучі перемоги.</value>
+      <value>Пройти всі акти всіх кампаній на максимальному рівні складності, одержуючи виключно блискучі перемоги.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>

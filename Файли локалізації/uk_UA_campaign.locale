@@ -844,7 +844,7 @@
     <GameLocalizationEntry>
       <key>No saving in the middle of an act</key>
       <context />
-      <value>Протягом розділу не можна зберігатися</value>
+      <value>Протягом акту не можна зберігатися</value>
       <plurals />
       <comment />
     </GameLocalizationEntry>
@@ -1003,7 +1003,7 @@
     <GameLocalizationEntry>
       <key>Germany</key>
       <context>campaign.nation_name</context>
-      <value>Німеччина</value>
+      <value>Німці</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>

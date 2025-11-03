@@ -165,7 +165,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{0} ACT {1}</key>
-      <value>{0} РОЗДІЛ {1}</value>
+      <value>{0} АКТ {1}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -220,12 +220,12 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>RESET ACT</key>
-      <value>СКИНУТИ РОЗДІЛ</value>
+      <value>СКИНУТИ АКТ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Act {0}</key>
-      <value>Розділ {0}</value>
+      <value>Акт {0}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -235,7 +235,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>AVAILABLE IN ACT {0}</key>
-      <value>ДОСТУПНО В РОЗДІЛІ {0}</value>
+      <value>ДОСТУПНО В АКТІ {0}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -261,7 +261,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Our intelligence has not yet found out what awaits us during this battle. Play more missions to find out.</key>
-      <value>У нашої роздіки недостатньо інформації про ворожі підрозділи. Пройдіть більше місій, щоб дізнатися більше.</value>
+      <value>У нашої розвідки недостатньо інформації про ворожі підрозділи. Пройдіть більше місій, щоб дізнатися більше.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Start battle to see the outcome</key>
@@ -485,7 +485,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Go to next act</key>
-      <value>Перейти до наступного розділу</value>
+      <value>Перейти до наступного акту</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -515,7 +515,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You are going to reset campaign state to act {0}? All progress until the beginning of the act {0} will be lost.</key>
-      <value>Ви бажаєте скинути кампанію до {0} розділу? Весь прогрес після початку {0} розділу буде втрачено.</value>
+      <value>Ви бажаєте скинути кампанію до {0} акту? Весь прогрес після початку {0} акту буде втрачено.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Enemy secret weapons</key>
@@ -587,7 +587,7 @@
     <GameLocalizationEntry>
       <key>Go to next act</key>
       <context>campaign.action</context>
-      <value>Перейти до наступного розділу</value>
+      <value>Перейти до наступного акту</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1201,7 +1201,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ACT {0}</key>
-      <value>РОЗДІЛ {0}</value>
+      <value>АКТ {0}</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Offensive</key>
@@ -1259,11 +1259,11 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>This is the final mission. Winning it in specified time wins the act.</key>
-      <value>Це фінальна місія. Ви повинні дійти до неї за певну кількість ходів і виконати її, щоб виграти весь розділ.</value>
+      <value>Це фінальна місія. Ви повинні дійти до неї за певну кількість ходів і виконати її, щоб виграти весь акт.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>This is the final missions. You can loose or skip other missions, but this missions you have to win.</key>
-      <value>Це фінальні місії. Ви повинні виконати їх усі, щоб виграти весь розділ.</value>
+      <value>Це фінальні місії. Ви повинні виконати їх усі, щоб виграти весь акт.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Phase {0}</key>

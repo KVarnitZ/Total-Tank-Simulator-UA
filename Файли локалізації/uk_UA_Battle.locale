@@ -561,7 +561,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Dive bomber</key>
-      <value>Пікіруючий бомбардувальний</value>
+      <value>Пікіруючий бомбардувальник</value>
       <plurals />
       <comment>type of unit, it is plane that dives to throw bomb on sth </comment>
     </GameLocalizationEntry>
@@ -823,7 +823,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Clear all units</key>
-      <value>Очистити всі одиинці</value>
+      <value>Очистити всі одиниці</value>
       <plurals />
       <comment>button that clear all deployed units, on both sides of the conflict </comment>
     </GameLocalizationEntry>
@@ -1079,7 +1079,7 @@
     <GameLocalizationEntry>
       <key>Robot mine</key>
       <context>shortUnitTypeName</context>
-      <value>Самохідна мина</value>
+      <value>Самохідна міна</value>
       <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
   at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
   at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
