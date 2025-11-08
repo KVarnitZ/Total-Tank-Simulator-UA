@@ -1,69 +1,18 @@
 # Total Tank Simulator Ukrainian Localization
 Українізатор TTS, який повноцінно додає мову як окрему (перекладено з англійської та польської). Також шрифт адаптований під українську.
-# Переклад триває
-Я зайнявся перекладом цієї гри, бо просто хочу пограти в неї українською. Розробники анонсували другу частину, тож я хочу, щоби перед виходом, можна було пограти в першу частину українською. Локалізація створюється таким чином, що розробник зможе її додати в гру використавши ctrl+c та ctrl+v.
+# Про переклад
+Я переклав цю гру, бо просто хочу пограти в неї українською. Розробники анонсували другу частину, тож я хочу, щоби перед виходом, можна було пограти в першу частину українською. Локалізація зроблена таким чином, що розробник зможе її додати в гру використавши ctrl+c та ctrl+v.
+
+![Contribution guidelines for this project](/TTS2.png)
+![Contribution guidelines for this project](/TTS3.png)
+![Contribution guidelines for this project](/TTS4.png)
+![Contribution guidelines for this project](/TTS5.png)
 # Як завантажити
 Усе НЕЙМОВІРНО ПРОСТО!
 1. Вантажите мій [останній](https://github.com/KVarnitZ/Total-Tank-Simulator-UA/releases/latest/download/TTS_UA.zip) випуск.
 2. Відкриваєте локальні файли гри та закидуєте туди ```TotalTankSim_Data``` з заміною (замінюються тільки технічні файли).
 3. Змінюєте мову в налаштуваннях на українську.
 4. Гарно так тріпетесь!
-# На даний момент такий прогрес:
-- [x] en_US_Achievement.locale - **перекладено та перевірено**
-
-- [x] en_US_Battle.locale - **перекладено та перевірено**
-
-- [x] en_US_Battle2.locale - **перекладено та перевірено**
-
-- [x] en_US_Battle3.locale - **перекладено та перевірено**
-
-- [x] en_US_Battle4.locale - **перекладено та перевірено**
-
-- [x] en_US_Battle5.locale - **перекладено та перевірено**
-
-- [x] en_US_Battle6.locale - **перекладено та перевірено**
-
-- [x] en_US_Battle7.locale - **перекладено та перевірено**
-
-- [x] en_US_Battle8.locale - **перекладено та перевірено**
-
-- [x] en_US_campaign.locale - **перекладено та перевірено**
-
-- [x] en_US_campaign2.locale - **перекладено та перевірено**
-
-- [x] en_US_campaign3.locale - **не потрібно перекладати**
-
-- [x] en_US_CampaignMainMenu.locale - **перекладено та перевірено**
-
-- [x] en_US_cutscenes.locale - **перекладено та перевірено**
-
-- [x] en_US_Descriptions.locale - **перекладено та перевірено**
-
-- [x] en_US_DO_NOT_TRANSLATE.locale - **не потрібно перекладати**
-
-- [x] en_US_Epaulettes.locale - **перекладено та перевірено**
-
-- [x] en_US_keybinding.locale - **перекладено та перевірено**
-
-- [x] en_US_keybinding_2.locale - **перекладено та перевірено**
-
-- [x] en_US_keybinding_generated.locale - **перекладено та перевірено**
-
-- [x] en_US_MainMenu.locale - **перекладено та перевірено**
-
-- [x] en_US_MainMenu2.locale - **перекладено та перевірено**
-
-- [x] en_US_MainMenu3.locale - **перекладено та перевірено**
-
-- [x] en_US_MainMenu4.locale - **перекладено та перевірено**
-
-- [x] en_US_options.locale - **перекладено та перевірено**
-
-- [x] en_US_test_generated.locale - **перекладено та перевірено**
-
-- [x] en_US_tutorial_texts.locale - **перекладено та перевірено**
-
-- [x] en_US_UnitDescriptions.locale - **перекладено та перевірено**
 # Опис технічних файлів
 ## resources.assets
 - Усередині файлу доданий ассет uk_UA - MonoBehaviour - Path ID/22140, який встановлює переміну 170 українській локалізації (бо найбільша в китайської, 160);
