@@ -213,7 +213,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>LA-7</key>
-      <value>Ла-7</value>
+      <value>ЛА-7</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>

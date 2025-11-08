@@ -119,7 +119,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Immobile and unarmored; has a smaller range than a regular artillery but is effective against tanks.</key>
-      <value>Нерухомий, неброньований, має меншу дальність стрільби, ніж звичайна артилерія, але ефективна проти танків</value>
+      <value>Нерухомий, неброньований, має меншу дальність стрільби, ніж звичайна артилерія, але ефективний проти танків</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -274,7 +274,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Biggest aerial non-atomic bomb.</key>
-      <value>The biggest aerial non-atomic bomb.</value>
+      <value>Найбільша повітряна неатомна бомба.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>

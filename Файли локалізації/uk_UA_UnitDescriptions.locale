@@ -46,7 +46,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Infantry equipped with powerful sniper rifle.</key>
-      <value>Піхотинець, оснащений потіжною снайперською гвинтівкою.</value>
+      <value>Піхотинець, оснащений потужною снайперською гвинтівкою.</value>
       <plurals />
       <comment>Unit description: BritishSoldier_Sniper</comment>
     </GameLocalizationEntry>

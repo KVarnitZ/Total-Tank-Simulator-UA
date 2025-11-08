@@ -789,7 +789,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ResetCurrentCamera</key>
-      <value>Зкинути камеру</value>
+      <value>Скинути камеру</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 

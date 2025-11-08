@@ -203,7 +203,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Don't draw health bars</key>
-      <value>Приховує шкалу злоров'я</value>
+      <value>Приховує шкалу здоров'я</value>
       <comment>tooltip on a button to disable drawing health bars</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>

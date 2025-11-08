@@ -556,7 +556,7 @@ REPAIRED</key>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Hover enemy unit to compare strength</key>
-      <value>Наведіть на одиницю ворога для порівняння сили</value>
+      <value>Наведіться на одиницю ворога для порівняння сили</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Choose unit to deploy to compare strength</key>

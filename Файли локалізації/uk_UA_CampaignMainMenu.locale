@@ -26,7 +26,7 @@
     <GameLocalizationEntry>
       <key>Polish Tech Tree</key>
       <context>factions.techtree_title</context>
-      <value>Польске древо технологій</value>
+      <value>Польське древо технологій</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>British Tech Tree</key>
@@ -345,7 +345,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Amount of money, you get for winning the mission.</key>
-      <value>Кілкість коштів за виконання місії</value>
+      <value>Кількість коштів за виконання місії</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -375,7 +375,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The amount of damage, each shot will take from HP.</key>
-      <value>Кількість ОЗ, яке відмінімає постріл</value>
+      <value>Кількість ОЗ, яке віднімає постріл</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -420,7 +420,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The bonus increases nearby friendly units damage.</key>
-      <value>Цей бонус збільшує шкоду, завдану дружніми одиницями.</value>
+      <value>Бонус збільшує шкоду, завдану дружніми одиницями.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -440,7 +440,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The bonus increases RPM of nearby friendly units.</key>
-      <value>Бонус підвищує швидкострільність найближчих дружніх одиниць</value>
+      <value>Бонус підвищує швидкострільність найближчих дружніх одиниць.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -460,7 +460,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Officer is held captive, that means you can not deploy him during the battle until you buy out him.</key>
-      <value>Офіцер перебуває в полоні. Це означає, що його не можна використовувати в боях, поки ви його не викупите.</value>
+      <value>Офіцер перебуває у полоні. Це означає, що його не можна використовувати у боях, поки ви його не викупите.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -561,7 +561,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mission not yet available.</key>
-      <value>Завдання ще не доступно.</value>
+      <value>Завдання ще недоступне.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -854,7 +854,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>B-29 Atomic is spawned by dedicated airfield</key>
-      <value>Атомний бомбардувальник B-29 виробляється на окремому аеродромі.</value>
+      <value>Атомний бомбардувальник B-29 виробляється на окремій авіабазі.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -864,12 +864,12 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Airfield may be captured by enemy, who gains access to atomic bomb in the result</key>
-      <value>Якщо ворог захопить аеродром, він почне створювати ворожі атомні бомбардувальники.</value>
+      <value>Якщо ворог захопить авіабазу, він почне створювати ворожі атомні бомбардувальники.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>If your B-29 is shot down, another one will take off from airfield. Beware though, the bomb arming time will be reset</key>
-      <value>Якщо B-29 буде збитий, на аеродромі з'явиться інший. Активацію бомби доведеться починати спочатку.</value>
+      <value>Якщо B-29 буде збитий, на авіабазі з'явиться інший. Активацію бомби доведеться починати спочатку.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -949,7 +949,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>after bomb drop, it must be rearmed on the airfield</key>
-      <value>Після скидання бомби, потрібно переозброєтись на аеродромі.</value>
+      <value>Після скидання бомби, потрібно переозброїтись на авіабазі.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1005,17 +1005,17 @@
     <GameLocalizationEntry>
       <key>Far stronger than standard cannon in terms of damage yet equipped with less ammunition</key>
       <context>tech_tree.details_text</context>
-      <value>Завдає набагато більше шкоди, ніж стандартна гармата. Однак вона оснащена меншою кількістю боєприпасів.</value>
+      <value>Завдає набагато більше шкоди, ніж стандартна гармата, однак вона оснащена меншою кількістю боєприпасів.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Releases smoke that covers field of view of units. Smoke must be placed before enemy unit, not on it</key>
       <context>tech_tree.details_text</context>
-      <value>Випускає дим, який затуляє поле зору одиниці. Для ефективності димові снаряди повинні вистрілюватися перед ворогом, а в нього.</value>
+      <value>Випускає дим, який затуляє поле зору одиниці. Для ефективності димові снаряди повинні вистрілюватися перед ворогом, а не в нього.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The largest air missile in history - does not explode immediately, but deals damage bouncing off the ground</key>
       <context>tech_tree.details_text</context>
-      <value>Найбільша звичайна бомба в історії. Кілька разів відскакує від землі. Завдає шкоди з кожним відскоком.</value>
+      <value>Найбільша бомба в історії. Кілька разів відскакує від землі. Завдає шкоди з кожним відскоком.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Powerful electromagnetic ray that jams flight instruments of airplanes, paralyzing them for a few seconds</key>
@@ -1077,7 +1077,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The officer gives periodically bonus to the friendly nearby units.</key>
-      <value>Кожні кілька секунд офіцер накладає бонус на сусідні дружні юніти.</value>
+      <value>Кожні кілька секунд офіцер накладає бонус на сусідні дружні одиниці.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Damage</key>

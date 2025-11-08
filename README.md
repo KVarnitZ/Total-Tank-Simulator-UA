@@ -13,39 +13,39 @@
 
 - [x] en_US_Battle.locale - **перекладено та перевірено**
 
-- [ ] en_US_Battle2.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_Battle2.locale - **перекладено та перевірено**
 
-- [ ] en_US_Battle3.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_Battle3.locale - **перекладено та перевірено**
 
-- [ ] en_US_Battle4.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_Battle4.locale - **перекладено та перевірено**
 
-- [ ] en_US_Battle5.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_Battle5.locale - **перекладено та перевірено**
 
-- [ ] en_US_Battle6.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_Battle6.locale - **перекладено та перевірено**
 
-- [ ] en_US_Battle7.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_Battle7.locale - **перекладено та перевірено**
 
-- [ ] en_US_Battle8.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_Battle8.locale - **перекладено та перевірено**
 
-- [ ] en_US_campaign.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_campaign.locale - **перекладено та перевірено**
 
-- [ ] en_US_campaign2.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_campaign2.locale - **перекладено та перевірено**
 
-- [ ] en_US_campaign3.locale - **не потрібно перекладати**
+- [x] en_US_campaign3.locale - **не потрібно перекладати**
 
-- [ ] en_US_CampaignMainMenu.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_CampaignMainMenu.locale - **перекладено та перевірено**
 
-- [ ] en_US_cutscenes.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_cutscenes.locale - **перекладено та перевірено**
 
-- [ ] en_US_Descriptions.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_Descriptions.locale - **перекладено та перевірено**
 
 - [x] en_US_DO_NOT_TRANSLATE.locale - **не потрібно перекладати**
 
-- [ ] en_US_Epaulettes.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_Epaulettes.locale - **перекладено та перевірено**
 
-- [ ] en_US_keybinding.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_keybinding.locale - **перекладено та перевірено**
 
-- [ ] en_US_keybinding_2.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_keybinding_2.locale - **перекладено та перевірено**
 
 - [x] en_US_keybinding_generated.locale - **перекладено та перевірено**
 
@@ -59,11 +59,11 @@
 
 - [x] en_US_options.locale - **перекладено та перевірено**
 
-- [ ] en_US_test_generated.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_test_generated.locale - **перекладено та перевірено**
 
-- [ ] en_US_tutorial_texts.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_tutorial_texts.locale - **перекладено та перевірено**
 
-- [ ] en_US_UnitDescriptions.locale - **перекладено та <ins>НЕ</ins> перевірено**
+- [x] en_US_UnitDescriptions.locale - **перекладено та перевірено**
 # Опис технічних файлів
 ## resources.assets
 - Усередині файлу доданий ассет uk_UA - MonoBehaviour - Path ID/22140, який встановлює переміну 170 українській локалізації (бо найбільша в китайської, 160);

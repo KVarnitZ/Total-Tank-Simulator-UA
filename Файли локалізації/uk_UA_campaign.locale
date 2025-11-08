@@ -64,7 +64,7 @@
     <GameLocalizationEntry>
       <key>Winston Churchill declares war on the communists to free allies in Eastern Europe.</key>
       <context>campaign.act_description</context>
-      <value>Вінстон Черчилль оголошує війну комуністам, щоб звільнити союзників у Східній Європі.</value>
+      <value>Вінстон Черчиль оголошує війну комуністам, щоб звільнити союзників у Східній Європі.</value>
       <plurals />
       <comment>UK act IV</comment>
     </GameLocalizationEntry>
@@ -106,7 +106,7 @@
     <GameLocalizationEntry>
       <key>Erwin Rommel is attacking the British army in North Africa.</key>
       <context>campaign.act_description</context>
-      <value>Ервін Роммель атакує британську армію в Північній Африці.</value>
+      <value>Ервін Ромель атакує британську армію в Північній Африці.</value>
       <plurals />
       <comment>Germany act V</comment>
     </GameLocalizationEntry>
@@ -127,7 +127,7 @@
     <GameLocalizationEntry>
       <key>Operation Barbarossa</key>
       <context>campaign.act_title</context>
-      <value>Операція «Барбаросса»</value>
+      <value>Операція «Барбароса»</value>
       <plurals />
       <comment>Germany act IV</comment>
     </GameLocalizationEntry>
@@ -155,7 +155,7 @@
     <GameLocalizationEntry>
       <key>Operation Winter Storm</key>
       <context>campaign.act_title</context>
-      <value>Операція «Вінтергевіттер»</value>
+      <value>Операція «Вінтергевітер»</value>
       <plurals />
       <comment>Germany act VI</comment>
     </GameLocalizationEntry>
@@ -274,7 +274,7 @@
     <GameLocalizationEntry>
       <key>Western Bloc countries betray their ally and invade the Soviet Union.</key>
       <context>campaign.act_description</context>
-      <value>Країни Західного блоку зраджують свого союзника і вторгуються на територію Радянського Союзу.</value>
+      <value>Країни Західного блоку зраджують свого союзника і вторгаються на територію Радянського Союзу.</value>
       <plurals />
       <comment>USSR act V</comment>
     </GameLocalizationEntry>
@@ -295,7 +295,7 @@
     <GameLocalizationEntry>
       <key>Battle of the Bulge</key>
       <context>campaign.act_title</context>
-      <value>Битва за Арденни</value>
+      <value>Битва за Ардени</value>
       <plurals />
       <comment>USA act II</comment>
     </GameLocalizationEntry>
@@ -316,7 +316,7 @@
     <GameLocalizationEntry>
       <key>American troops join Churchill in his war against communism.</key>
       <context>campaign.act_description</context>
-      <value>Американські війська приєднуються до Черчилля у його війні проти комунізму.</value>
+      <value>Американські війська приєднуються до Черчиля у його війні проти комунізму.</value>
       <plurals />
       <comment>USA act III</comment>
     </GameLocalizationEntry>

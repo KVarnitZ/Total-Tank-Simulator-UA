@@ -50,7 +50,7 @@
     <GameLocalizationEntry>
       <key>{0} allies vs {1} enemies</key>
       <context>unitCapturing</context>
-      <value>Союзники: {0} проти Вороги: {1}</value>
+      <value>Союзники: {0} проти Ворогів: {1}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>

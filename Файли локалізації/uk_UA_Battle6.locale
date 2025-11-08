@@ -65,7 +65,7 @@
     <GameLocalizationEntry>
       <key>Officer {0}</key>
       <context>unitTypeNames.officer.adj</context>
-      <value>Офіцерськ {0}</value>
+      <value>Офіцерськ. {0}</value>
       <comment>As adjective, for example `officer light tank`</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>

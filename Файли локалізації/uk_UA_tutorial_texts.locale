@@ -110,7 +110,7 @@
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.Target.HitSomething</key>
       <context>tutorial.texts</context>
-      <value>Влучити в щось</value>
+      <value>Влучити у щось</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.Target.ExitTheVehicle</key>
@@ -140,7 +140,7 @@
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.Target.UseKnife</key>
       <context>tutorial.texts</context>
-      <value>Use your knife</value>
+      <value>Використати ніж</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.State.ForThisTutorial</key>
@@ -165,7 +165,7 @@
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.State.MiniMap</key>
       <context>tutorial.texts</context>
-      <value>У правому верхньому куті екрана знаходиться міні-мапа, яка показує положення ближніх одиниць.</value>
+      <value>У правому верхньому куті екрану знаходиться міні-мапа, яка показує положення ближніх одиниць.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.State.CurrentWeapon</key>
@@ -370,7 +370,7 @@
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.SwitchTheUnit</key>
       <context>tutorial.texts</context>
-      <value>Ви можете слідкувати за конкретними одиницями та переключати камеру між ними, натискаючи TAB.</value>
+      <value>Ви можете слідкувати за конкретними одиницями та перемикати камеру між ними, натискаючи TAB.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.Zoom</key>
@@ -520,7 +520,7 @@
     <GameLocalizationEntry>
       <key>Go to main menu</key>
       <context>tutorial.button</context>
-      <value>Повернутися до меню</value>
+      <value>До меню</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Watch the game</key>
@@ -540,7 +540,7 @@
     <GameLocalizationEntry>
       <key>Back to game</key>
       <context>tutorial.button</context>
-      <value>Повернутися до гри</value>
+      <value>До гри</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DEPLOYMENT TUTORIAL FINISHED</key>
