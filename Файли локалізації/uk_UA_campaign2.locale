@@ -74,7 +74,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Empty slot</key>
-      <value>Пуста комірка</value>
+      <value>Порожня комірка</value>
       <comment>In officers panel, denotes no officer</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>

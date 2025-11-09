@@ -916,7 +916,7 @@ Confirm to continue.</key>
     <GameLocalizationEntry>
       <key>Check out our new game</key>
       <context>mainmenu</context>
-      <value>Зацініть нашу нову гру</value>
+      <value>Оцініть нашу нову гру</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>All Available Mods</key>

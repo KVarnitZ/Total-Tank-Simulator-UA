@@ -710,11 +710,11 @@ Are you sure you want to start the battle anyway?</key>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>No orders given yet</key>
-      <value>Прикази не віддані</value>
+      <value>Накази не віддані</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>No matching orders</key>
-      <value>Немає співпадаючих приказів</value>
+      <value>Немає співпадаючих наказів</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Drag to select units, 
@@ -752,7 +752,7 @@ SHIFT to add to selection, Ctrl to subtract</key>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Give orders</key>
-      <value>Віддати прикази</value>
+      <value>Віддати накази</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Hold and defend position</key>

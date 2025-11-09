@@ -467,7 +467,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Deploying now</key>
-      <value>Триває розгортування</value>
+      <value>Триває розгортання</value>
       <plurals />
       <comment>popup showing which side of conflict is deploying units at the momment</comment>
     </GameLocalizationEntry>
@@ -1443,7 +1443,7 @@
     <GameLocalizationEntry>
       <key>Light fire tank</key>
       <context>unitTypeName</context>
-      <value>Легкий вогеметний танк</value>
+      <value>Легкий вогнеметний танк</value>
       <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
   at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
   at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 

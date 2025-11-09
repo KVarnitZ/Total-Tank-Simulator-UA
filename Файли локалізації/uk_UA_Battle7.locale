@@ -306,11 +306,11 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Press {0} to unpause</key>
-      <value>Натисніть {0} для продовження</value>
+      <value>Натисніть {0} аби продовжити</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Hold any key to skip</key>
-      <value>Утримуйте будь-яку клавішу для пропуску</value>
+      <value>Утримуйте будь-яку клавішу аби пропустити</value>
     </GameLocalizationEntry>
   </entries>
 </GameLocalization>
