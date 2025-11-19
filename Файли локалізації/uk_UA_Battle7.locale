@@ -123,6 +123,11 @@
       <value>Зброя бомбард.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
+      <key>Machinegun</key>
+      <context>game.damage_type</context>
+      <value>Кулемет</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
       <key>Capturing</key>
       <context>game.unitstate</context>
       <value>Захоплює</value>
@@ -178,22 +183,22 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Toggle units counturs</key>
-      <value>Перемикає відображення контурів одиниць.</value>
+      <value>Перемикає відображення контурів одиниць</value>
       <comment>tooltip on a button to toggle unit contours</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Toggle filter view</key>
-      <value>Перемикає фільтри.</value>
+      <value>Перемикає фільтри</value>
       <comment>tooltip on a button to toggle filters</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Show movement directions</key>
-      <value>Показує напрямок руху.</value>
+      <value>Показує напрямок руху</value>
       <comment>tooltip on a button to show units movement arrows</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Show explosive shells indicators</key>
-      <value>Показує індикатор снарядів.</value>
+      <value>Показує індикатор снарядів</value>
       <comment>tooltip on a button to show unit bullet (explosives) indicators</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>

@@ -103,6 +103,21 @@
       <value>Атакувати</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
+      <key>Attack order</key>
+      <context>game.ai_action</context>
+      <value>Наказ атакувати</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Defend order</key>
+      <context>game.ai_action</context>
+      <value>Наказ захищатися</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Take cover order</key>
+      <context>game.ai_action</context>
+      <value>Наказ сховатися</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
       <key>Drop atomic bomb</key>
       <context>game.ai_action</context>
       <value>Скинути атомну бомбу</value>
@@ -777,6 +792,10 @@ SHIFT to add to selection, Ctrl to subtract</key>
     <GameLocalizationEntry>
       <key>Flank from the left and attack</key>
       <value>Зайти зліва й атакувати</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hold and defend position in cover</key>
+      <value>Утримувати та захищати позицію в укритті</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sniper tower</key>

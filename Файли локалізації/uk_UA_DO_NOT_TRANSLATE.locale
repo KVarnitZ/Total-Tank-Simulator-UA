@@ -42,7 +42,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>min</key>
-      <value>min</value>
+      <value>хв</value>
       <ignored />
       <plurals />
     </GameLocalizationEntry>
@@ -375,7 +375,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SMG</key>
-      <value>SMG</value>
+      <value>ПК</value>
       <ignored />
       <plurals />
     </GameLocalizationEntry>
@@ -495,7 +495,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ATR</key>
-      <value>ATR</value>
+      <value>ПТР</value>
       <ignored />
       <plurals />
     </GameLocalizationEntry>
@@ -1377,7 +1377,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{0} sec</key>
-      <value>{0} sec</value>
+      <value>{0} сек.</value>
       <ignored />
       <plurals />
     </GameLocalizationEntry>
@@ -1389,7 +1389,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{value} km/h</key>
-      <value>{value} km/h</value>
+      <value>{value} км/г</value>
       <ignored />
       <plurals />
     </GameLocalizationEntry>

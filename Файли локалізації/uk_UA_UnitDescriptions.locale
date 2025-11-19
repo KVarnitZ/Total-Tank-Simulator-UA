@@ -10,7 +10,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Immobile and unarmored but has a very long shooting range.</key>
-      <value>Статична і неброньована одиниця з великою дальністю стрільби.</value>
+      <value>Нерухома і неброньована одиниця з великою дальністю стрільби.</value>
       <plurals />
       <comment>Unit description: BritishArtillery</comment>
     </GameLocalizationEntry>

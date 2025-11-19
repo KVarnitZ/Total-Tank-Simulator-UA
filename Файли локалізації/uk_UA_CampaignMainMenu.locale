@@ -315,7 +315,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The more skulls, the harder mission is.</key>
-      <value>Чим більше черепів, тим складніше завдання.</value>
+      <value>Чим більше черепів, тим складніше місія.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -561,7 +561,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mission not yet available.</key>
-      <value>Завдання ще недоступне.</value>
+      <value>Місія ще не розблокована.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
