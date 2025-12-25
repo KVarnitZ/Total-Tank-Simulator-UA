@@ -44,7 +44,7 @@ jobs:
       - name: Commit to Latyn Branch
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "style: auto-transliteration (latyn) [skip ci]"
+          commit_message: "avtomatyčna transliteracija"
           branch: latyn
           create_branch: true
           push_options: '--force'
