@@ -1,0 +1,50 @@
+name: "DSTU 9112:2021 Translit"
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  transliterate:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Run Translit
+        run: |
+          chmod +x .github/bin/dstu9112
+          
+          echo "Processing file contents..."
+          find . -type f -not -path '*/.*' \
+          \( -name "*.csv" -o -name "*.xml" -o -name "*.txt" -o -name "*.lua" -o -name "*.md" -o -name "*.json" -o -name "*.locale" \) \
+          ! -name "dstu9112" | while read file; do
+            ./.github/bin/dstu9112 < "$file" > "${file}.tmp" && mv "${file}.tmp" "$file"
+          done
+
+          echo "Renaming files and directories..."
+          find . -depth -not -path '*/.*' ! -name "dstu9112" ! -name "." | while read path; do
+            dir=$(dirname "$path")
+            base=$(basename "$path")
+            
+            new_base=$(echo -n "$base" | ./.github/bin/dstu9112)
+            
+            if [ "$base" != "$new_base" ]; then
+              mv "$path" "$dir/$new_base"
+              echo "Renamed: $path -> $dir/$new_base"
+            fi
+          done
+
+      - name: Commit to Latyn Branch
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "style: auto-transliteration (latyn) [skip ci]"
+          branch: latyn
+          create_branch: true
+          push_options: '--force'
