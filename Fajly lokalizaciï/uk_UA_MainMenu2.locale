@@ -4,12 +4,12 @@
   <entries>
     <GameLocalizationEntry>
       <key>UNIT CONTROL</key>
-      <value>КЕРУВАННЯ ОДИНИЦЯМИ</value>
+      <value>KERUVANNJA ODYNYCJAMY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>CAMERA</key>
-      <value>КАМЕРА</value>
+      <value>KAMERA</value>
       <plurals />
     </GameLocalizationEntry>
   </entries>

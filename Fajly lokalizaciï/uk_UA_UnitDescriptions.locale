@@ -4,97 +4,97 @@
   <entries>
     <GameLocalizationEntry>
       <key>Designed to hunt for tank destroyers.</key>
-      <value>Призначений для полювання на винищувачі танків.</value>
+      <value>Pryznačenyj dlja poljuvannja na vynyŝuvači tankiv.</value>
       <plurals />
       <comment>Unit description: A12 Matilda II</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Immobile and unarmored but has a very long shooting range.</key>
-      <value>Нерухома і неброньована одиниця з великою дальністю стрільби.</value>
+      <value>Neruxoma i nebronjovana odynycja z velykoju daljnistju striljby.</value>
       <plurals />
       <comment>Unit description: BritishArtillery</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Strongest infantry unit.</key>
-      <value>Найсильніша піхотна одиниця.</value>
+      <value>Najsyljniša pixotna odynycja.</value>
       <plurals />
       <comment>Unit description: BritishSoldier_Assault</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Infantry equipped with anti-tank rifle.</key>
-      <value>Піхотинець, оснащений протитанковою рушницею.</value>
+      <value>Pixotynecj, osnaŝenyj protytankovoju rušnyceju.</value>
       <plurals />
       <comment>Unit description: BritishSoldier_ATR</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Infantry equipped with flame-thrower.</key>
-      <value>Піхотинець, оснащений вогнеметом.</value>
+      <value>Pixotynecj, osnaŝenyj voğnemetom.</value>
       <plurals />
       <comment>Unit description: BritishSoldier_Flamethrower</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Weakest infantry unit.</key>
-      <value>Найслабша одиниця піхоти.</value>
+      <value>Najslabša odynycja pixoty.</value>
       <plurals />
       <comment>Unit description: BritishSoldier_Rifleman</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Infantry equipped with SMG.</key>
-      <value>Піхотинець, оснащений пістолетом-кулеметом.</value>
+      <value>Pixotynecj, osnaŝenyj pistoletom-kulemetom.</value>
       <plurals />
       <comment>Unit description: BritishSoldier_SMG</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Infantry equipped with powerful sniper rifle.</key>
-      <value>Піхотинець, оснащений потужною снайперською гвинтівкою.</value>
+      <value>Pixotynecj, osnaŝenyj potužnoju snajpersjkoju ğvyntivkoju.</value>
       <plurals />
       <comment>Unit description: BritishSoldier_Sniper</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Was one of the most recognized German weapons of that conflict. Development of the original model led to a wide variety of guns.</key>
-      <value>Стріляє вибуховими зенітними снарядами</value>
+      <value>Striljaje vybuxovymy zenitnymy snarjadamy</value>
       <plurals />
       <comment>Unit description: GermanAntiAirCannon</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Infantry jumping from parachute planes.</key>
-      <value>Десант з транспортного літака</value>
+      <value>Desant z transportnoğo litaka</value>
       <plurals />
       <comment>Unit description: GermanSoldier_Paratrooper</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>As the body was not a load-bearing part of the structure of the vehicle, it could easily be modified to special purposes.</key>
-      <value>Неброньована офіцерська машина.</value>
+      <value>Nebronjovana oficersjka mašyna.</value>
       <plurals />
       <comment>Unit description: Kubelwagen</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The vehicle could carry gun crews of up to 12 men in theatre-type seats.</key>
-      <value>Перевозить до 12 піхотинців</value>
+      <value>Perevozytj do 12 pixotynciv</value>
       <plurals />
       <comment>Unit description: sdkfz7</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>German fighter concept. Shoots enemy with singular powerful EMP blasts and immobilizes them. </key>
-      <value>Німецький прототип винищувача. Стріляє по ворогах потужними електромагнітними імпульсами та знерухомлює їх.</value>
+      <value>Nimecjkyj prototyp vynyŝuvača. Striljaje po voroğax potužnymy elektromağnitnymy impuljsamy ta zneruxomljuje ïx.</value>
       <plurals />
       <comment>Unit description: Triebflugel</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The combination of armor and rapid fire from the four guns of the Wirbelwind made it very effective against lightly armoured ground targets such as trucks armored truck and inanfry</key>
-      <value>Мобільна ППО.</value>
+      <value>Mobiljna PPO.</value>
       <plurals />
       <comment>Unit description: WirbelwindAAg</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unit description ninja</key>
-      <value>Елітний воїн ближнього бою, ефективний проти більшості цілей. Може використовувати димові шашки.</value>
+      <value>Elitnyj voïn blyžnjoğo boju, efektyvnyj proty biljšosti cilej. Može vykorystovuvaty dymovi šašky.</value>
       <plurals />
       <comment>Unit description: Ninja</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Description Kawainishi Baika</key>
-      <value>Вибуховий літак-камікадзе, який врізається у ворожі цілі. Перед тараном коротко використовує кулемети.</value>
+      <value>Vybuxovyj litak-kamikadze, jakyj vrizajetjsja u voroži cili. Pered taranom korotko vykorystovuje kulemety.</value>
       <plurals />
       <comment>Unit description: Kawainishi Baika</comment>
     </GameLocalizationEntry>

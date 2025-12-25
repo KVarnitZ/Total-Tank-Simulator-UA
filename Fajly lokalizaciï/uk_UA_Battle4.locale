@@ -4,52 +4,52 @@
   <entries>
     <GameLocalizationEntry>
       <key>Out of ammo</key>
-      <value>Немає боєприпасів</value>
+      <value>Nemaje bojeprypasiv</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fuel level low</key>
-      <value>Мало палива</value>
+      <value>Malo palyva</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Out of fuel</key>
-      <value>Немає палива</value>
+      <value>Nemaje palyva</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>On fire</key>
-      <value>У вогні</value>
+      <value>U voğni</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Paralyzed</key>
-      <value>Паралізований</value>
+      <value>Paralizovanyj</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Zoom In</key>
-      <value>Наблизити</value>
+      <value>Nablyzyty</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Zoom Out</key>
-      <value>Віддалити</value>
+      <value>Viddalyty</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Drowning!</key>
-      <value>Тоне!</value>
+      <value>Tone!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PRODUCTION QUEUE</key>
-      <value>ЧЕРГА СТВОРЕННЯ</value>
+      <value>ČERĞA STVORENNJA</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Enter as crew</key>
-      <value>Увійти як екіпаж</value>
+      <value>Uvijty jak ekipaž</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -59,27 +59,27 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>There are empty spawners</key>
-      <value>Деякі створювачі пусті</value>
+      <value>Dejaki stvorjuvači pusti</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SeenBy</key>
-      <value>Переглянули:</value>
+      <value>Pereğljanuly:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>bombed</key>
-      <value>скинув бомбу на</value>
+      <value>skynuv bombu na</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>x times!</key>
-      <value>x рази!</value>
+      <value>x razy!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>TIED</key>
-      <value>НІЧИЯ</value>
+      <value>NIČYJA</value>
       <plurals />
     </GameLocalizationEntry>
   </entries>
