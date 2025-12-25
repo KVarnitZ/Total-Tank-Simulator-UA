@@ -5,125 +5,125 @@
     <GameLocalizationEntry>
       <key>Fantastic</key>
       <context>options.video_quality</context>
-      <value>Дуже висока</value>
+      <value>Duže vysoka</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Windowed</key>
       <context>options.fullscreen_mode</context>
-      <value>У вікні</value>
+      <value>U vikni</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Potato</key>
       <context>options.video_quality</context>
-      <value>Жахлива</value>
+      <value>Žaxlyva</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fast</key>
       <context>options.video_quality</context>
-      <value>Погана</value>
+      <value>Poğana</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Simple</key>
       <context>options.video_quality</context>
-      <value>Проста</value>
+      <value>Prosta</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Good</key>
       <context>options.video_quality</context>
-      <value>Середня</value>
+      <value>Serednja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Beautiful</key>
       <context>options.video_quality</context>
-      <value>Висока</value>
+      <value>Vysoka</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fantastic</key>
       <context>options.cpu_quality</context>
-      <value>Дуже висока</value>
+      <value>Duže vysoka</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Potato</key>
       <context>options.cpu_quality</context>
-      <value>Жахлива</value>
+      <value>Žaxlyva</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fast</key>
       <context>options.cpu_quality</context>
-      <value>Погана</value>
+      <value>Poğana</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Simple</key>
       <context>options.cpu_quality</context>
-      <value>Проста</value>
+      <value>Prosta</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Good</key>
       <context>options.cpu_quality</context>
-      <value>Середня</value>
+      <value>Serednja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Beautiful</key>
       <context>options.cpu_quality</context>
-      <value>Висока</value>
+      <value>Vysoka</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Resolution</key>
-      <value>Роздільна здатність</value>
+      <value>Rozdiljna zdatnistj</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fullscreen</key>
-      <value>Режим екрану</value>
+      <value>Režym ekranu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fullscreen</key>
       <context>options.fullscreen_mode</context>
-      <value>Повний екран</value>
+      <value>Povnyj ekran</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fullscreen (exclusive)</key>
       <context>options.fullscreen_mode</context>
-      <value>Повний екран (спеціальний)</value>
+      <value>Povnyj ekran (specialjnyj)</value>
       <ignored />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Maximized Window</key>
       <context>options.fullscreen_mode</context>
-      <value>Віконний (без рамки)</value>
+      <value>Vikonnyj (bez ramky)</value>
       <ignored />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Binding [{0}] will conflict with binding [{1}].
 Are you sure you want to do it?</key>
-      <value>Клавіша [{0}] буде конфліктувати з [{1}].
-Продовжити?</value>
+      <value>Klaviša [{0}] bude konfliktuvaty z [{1}].
+Prodovžyty?</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GPU settings above the defaults</key>
       <context>options</context>
-      <value>Налаштування ГП вище стандартних</value>
+      <value>Nalaštuvannja ĞP vyŝe standartnyx</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>CPU settings above the defaults</key>
       <context>options</context>
-      <value>Налаштування ЦП вище стандартних</value>
+      <value>Nalaštuvannja CP vyŝe standartnyx</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>None</key>
@@ -134,97 +134,97 @@ Are you sure you want to do it?</key>
     <GameLocalizationEntry>
       <key>English (US)</key>
       <context>options.languageName</context>
-      <value>Англійська</value>
+      <value>Anğlijsjka</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>English (UK)</key>
       <context>options.languageName</context>
-      <value>Англійська британська</value>
+      <value>Anğlijsjka brytansjka</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Polish</key>
       <context>options.languageName</context>
-      <value>Польска</value>
+      <value>Poljska</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Russian</key>
       <context>options.languageName</context>
-      <value>Російська</value>
+      <value>Rosijsjka</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>German</key>
       <context>options.languageName</context>
-      <value>Німецька</value>
+      <value>Nimecjka</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>French</key>
       <context>options.languageName</context>
-      <value>Французька</value>
+      <value>Francuzjka</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Italian</key>
       <context>options.languageName</context>
-      <value>Італьянська</value>
+      <value>Italjjansjka</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Spanish</key>
       <context>options.languageName</context>
-      <value>Іспанська</value>
+      <value>Ispansjka</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Portuguese</key>
       <context>options.languageName</context>
-      <value>Португальська</value>
+      <value>Portuğaljsjka</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Japanese</key>
       <context>options.languageName</context>
-      <value>Японська</value>
+      <value>Japonsjka</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Korean</key>
       <context>options.languageName</context>
-      <value>Корейська</value>
+      <value>Korejsjka</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Chinese (simplified)</key>
       <context>options.languageName</context>
-      <value>Китайська спрощена</value>
+      <value>Kytajsjka sproŝena</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Chinese (traditional)</key>
       <context>options.languageName</context>
-      <value>Китайська традиційна</value>
+      <value>Kytajsjka tradycijna</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Ukrainian</key>
       <context>options.languageName</context>
-      <value>Українська</value>
+      <value>Ukraïnsjka</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Skip cinematic intro in game</key>
-      <value>Пропускати відео вступ у грі</value>
+      <value>Propuskaty video vstup u ğri</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Skip cinematic intro in campaign</key>
-      <value>Пропускати відео вступ у кампанії</value>
+      <value>Propuskaty video vstup u kampaniï</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Hide function buttons hints</key>
-      <value>Приховати підказки для кнопок функцій</value>
+      <value>Pryxovaty pidkazky dlja knopok funkcij</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Legacy camera</key>
-      <value>Згладжування камери</value>
+      <value>Zğladžuvannja kamery</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>A restart is required to apply some video settings.</key>
-      <value>Потрібен перезапуск для застосування налаштувань графіки.</value>
+      <value>Potriben perezapusk dlja zastosuvannja nalaštuvanj ğrafiky.</value>
       <contex>options.messagebox.text</contex>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Video settings</key>
-      <value>Налаштування зображення</value>
+      <value>Nalaštuvannja zobražennja</value>
       <contex>options.messagebox.title</contex>
     </GameLocalizationEntry>
   </entries>

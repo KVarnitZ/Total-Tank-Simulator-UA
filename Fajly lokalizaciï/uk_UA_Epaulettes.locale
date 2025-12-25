@@ -5,119 +5,119 @@
     <GameLocalizationEntry>
       <key>First Lieutenant</key>
       <context>epaulette.name</context>
-      <value>Старший лейтенант</value>
+      <value>Staršyj lejtenant</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Captain</key>
       <context>epaulette.name</context>
-      <value>Капітан</value>
+      <value>Kapitan</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Major</key>
       <context>epaulette.name</context>
-      <value>Майор</value>
+      <value>Major</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Lieutenant colonel</key>
       <context>epaulette.name</context>
-      <value>Підполковник</value>
+      <value>Pidpolkovnyk</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Colonel</key>
       <context>epaulette.name</context>
-      <value>Полковник</value>
+      <value>Polkovnyk</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Brigadier general</key>
       <context>epaulette.name</context>
-      <value>Бригадний генерал</value>
+      <value>Bryğadnyj ğeneral</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Major General</key>
       <context>epaulette.name</context>
-      <value>Генерал-майор</value>
+      <value>Ğeneral-major</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Lieutenant General</key>
       <context>epaulette.name</context>
-      <value>Генерал-лейтенант</value>
+      <value>Ğeneral-lejtenant</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>General</key>
       <context>epaulette.name</context>
-      <value>Генерал</value>
+      <value>Ğeneral</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Field Marshal</key>
       <context>epaulette.name</context>
-      <value>Фельдмаршал</value>
+      <value>Feljdmaršal</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>General of the Armies</key>
       <context>epaulette.name</context>
-      <value>Генерал армії</value>
+      <value>Ğeneral armiï</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sub-lieutenant</key>
       <context>epaulette.name</context>
-      <value>Хорунжий</value>
+      <value>Xorunžyj</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Marshal of the branch</key>
       <context>epaulette.name</context>
-      <value>Маршал роду військ</value>
+      <value>Maršal rodu vijsjk</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Chief Marshal of the branch</key>
       <context>epaulette.name</context>
-      <value>Головний маршал роду військ</value>
+      <value>Ğolovnyj maršal rodu vijsjk</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Generalissimus</key>
       <context>epaulette.name</context>
-      <value>Генералісимус</value>
+      <value>Ğeneralisymus</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Lieutenant</key>
       <context>epaulette.name</context>
-      <value>Лейтенант</value>
+      <value>Lejtenant</value>
       <plurals />
       <comment>Epaulette</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Second Lieutenant</key>
       <context>epaulette.name</context>
-      <value>Молодший лейтенант</value>
+      <value>Molodšyj lejtenant</value>
       <plurals />
     </GameLocalizationEntry>
   </entries>

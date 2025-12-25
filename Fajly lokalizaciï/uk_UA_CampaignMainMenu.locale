@@ -5,1288 +5,1288 @@
     <GameLocalizationEntry>
       <key>FINAL: {0}</key>
       <context>campaign.ui.final_mission</context>
-      <value>ФІНАЛ: {0}</value>
+      <value>FINAL: {0}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Not enough research points</key>
-      <value>Не вистачає очків дослідження</value>
+      <value>Ne vystačaje očkiv doslidžennja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Tech tree</key>
-      <value>Древо технологій</value>
+      <value>Drevo texnoloğij</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>French Tech Tree</key>
       <context>factions.techtree_title</context>
-      <value>Французьке древо технологій</value>
+      <value>Francuzjke drevo texnoloğij</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Polish Tech Tree</key>
       <context>factions.techtree_title</context>
-      <value>Польське древо технологій</value>
+      <value>Poljsjke drevo texnoloğij</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>British Tech Tree</key>
       <context>factions.techtree_title</context>
-      <value>Британське древо технологій</value>
+      <value>Brytansjke drevo texnoloğij</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>German Tech Tree</key>
       <context>factions.techtree_title</context>
-      <value>Німецьке древо технологій</value>
+      <value>Nimecjke drevo texnoloğij</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Soviet Tech Tree</key>
       <context>factions.techtree_title</context>
-      <value>Радянське древо технологій</value>
+      <value>Radjansjke drevo texnoloğij</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>American Tech Tree</key>
       <context>factions.techtree_title</context>
-      <value>Американське древо технологій</value>
+      <value>Amerykansjke drevo texnoloğij</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Officers</key>
-      <value>Офіцери</value>
+      <value>Oficery</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Map</key>
-      <value>Мапа</value>
+      <value>Mapa</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UPGRADE</key>
-      <value>ПОКРАЩ.</value>
+      <value>POKRAŜ.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>VEHICLES</key>
-      <value>ТРАНСПОРТ</value>
+      <value>TRANSPORT</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SELECTED</key>
-      <value>ВИБРАНО</value>
+      <value>VYBRANO</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BUY OUT</key>
-      <value>ВИКУПИТИ</value>
+      <value>VYKUPYTY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>RECRUIT</key>
-      <value>НАЙНЯТИ</value>
+      <value>NAJNJATY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>YOUR OFFICERS</key>
-      <value>ВАШІ ОФІЦЕРИ</value>
+      <value>VAŠI OFICERY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>RECRUIT MORE OFFICERS</key>
-      <value>НАЙНЯТИ БІЛЬШЕ ОФІЦЕРІВ</value>
+      <value>NAJNJATY BILJŠE OFICERIV</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>locked</key>
-      <value>заблоковано</value>
+      <value>zablokovano</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>AIR</key>
-      <value>ПОВІТРЯ</value>
+      <value>POVITRJA</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>infantry</key>
-      <value>піхота</value>
+      <value>pixota</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GROUND</key>
-      <value>ЗЕМЛЯ</value>
+      <value>ZEMLJA</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>MAX SPEED:</key>
-      <value>МАКС. ШВИДКІСТЬ:</value>
+      <value>MAKS. ŠVYDKISTJ:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Prize:</key>
-      <value>Приз:</value>
+      <value>Pryz:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Reject</key>
-      <value>Відмовитись</value>
+      <value>Vidmovytysj</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Restrictions:</key>
-      <value>Обмеження:</value>
+      <value>Obmežennja:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mission not yet available</key>
-      <value>Місія ще не доступна</value>
+      <value>Misija ŝe ne dostupna</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>CASH LIMIT:</key>
-      <value>ЛІМІТ КОШТІВ:</value>
+      <value>LIMIT KOŠTIV:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Enemies:</key>
-      <value>Вороги:</value>
+      <value>Voroğy:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DEFEAT</key>
-      <value>ПОРАЗКА</value>
+      <value>PORAZKA</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>LOAD PROFILE</key>
-      <value>ЗАВАНТАЖИТИ ПРОФІЛЬ</value>
+      <value>ZAVANTAŽYTY PROFILJ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>CHOOSE PROFILE TO LOAD</key>
-      <value>ОБЕРІТЬ ПРОФІЛЬ ДЛЯ ЗАВАНТАЖЕННЯ</value>
+      <value>OBERITJ PROFILJ DLJA ZAVANTAŽENNJA</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{0} ACT {1}</key>
-      <value>{0} АКТ {1}</value>
+      <value>{0} AKT {1}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>reward</key>
-      <value>нагорода</value>
+      <value>nağoroda</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>spent</key>
-      <value>витрачено</value>
+      <value>vytračeno</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>outcome</key>
-      <value>результат</value>
+      <value>rezuljtat</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Research points:</key>
-      <value>Очки дослідження:</value>
+      <value>Očky doslidžennja:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>OK</key>
-      <value>ОК</value>
+      <value>OK</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Promotion</key>
-      <value>Підвищення</value>
+      <value>Pidvyŝennja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>VERSUS</key>
-      <value>ПРОТИ</value>
+      <value>PROTY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>RETRY</key>
-      <value>ПОВТОРИТИ</value>
+      <value>POVTORYTY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>now playing:</key>
-      <value>зараз грає:</value>
+      <value>zaraz ğraje:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>LOCKED</key>
-      <value>ЗАБЛОКОВ.</value>
+      <value>ZABLOKOV.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>RESET ACT</key>
-      <value>СКИНУТИ АКТ</value>
+      <value>SKYNUTY AKT</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Act {0}</key>
-      <value>Акт {0}</value>
+      <value>Akt {0}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unit class</key>
-      <value>Клас одиниці</value>
+      <value>Klas odynyci</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>AVAILABLE IN ACT {0}</key>
-      <value>ДОСТУПНО В АКТІ {0}</value>
+      <value>DOSTUPNO V AKTI {0}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UNLOCK</key>
-      <value>РОЗБЛОКУВАТИ</value>
+      <value>ROZBLOKUVATY</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Deathmatch</key>
-      <value>Бій на смерть</value>
+      <value>Bij na smertj</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kill the VIP</key>
-      <value>Знищте особливу ціль</value>
+      <value>Znyŝte osoblyvu cilj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Bonus damage</key>
-      <value>Додаткова шкода</value>
+      <value>Dodatkova škoda</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unknown mission</key>
-      <value>Невідома місія</value>
+      <value>Nevidoma misija</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Our intelligence has not yet found out what awaits us during this battle. Play more missions to find out.</key>
-      <value>У нашої розвідки недостатньо інформації про ворожі підрозділи. Пройдіть більше місій, щоб дізнатися більше.</value>
+      <value>U našoï rozvidky nedostatnjo informaciï pro voroži pidrozdily. Projditj biljše misij, ŝob diznatysja biljše.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Start battle to see the outcome</key>
-      <value>Почніть битву, щоби побачити результат</value>
+      <value>Počnitj bytvu, ŝoby pobačyty rezuljtat</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>This is a defensive act. The goal is to win final missions. However, the more missions you win, the better. You can skip and reject missions (other than final), but this will count as lost battle. However, you will not spend your money on units.</key>
-      <value>Головною метою є перемога в місіях або фінальній місії. Однак чим більше місій ви виграєте, тим краще. Ви можете відхилити нефінальні місії, які автоматично будуть вважатися програними. Однак тоді вам не прийдеться витрачати кошти на відхилені місії.</value>
+      <value>Ğolovnoju metoju je peremoğa v misijax abo finaljnij misiï. Odnak čym biljše misij vy vyğrajete, tym kraŝe. Vy možete vidxylyty nefinaljni misiï, jaki avtomatyčno budutj vvažatysja proğranymy. Odnak todi vam ne pryjdetjsja vytračaty košty na vidxyleni misiï.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{0} final battle won: {1} victory</key>
-      <value>{0} перемог у фінальній битві: {1} перемога</value>
+      <value>{0} peremoğ u finaljnij bytvi: {1} peremoğa</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{0} final battle + {1} other battles won: {2} victory</key>
-      <value>{0} фінальна битва + {1} інших битв: {2} перемога</value>
+      <value>{0} finaljna bytva + {1} inšyx bytv: {2} peremoğa</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Final battle</key>
-      <value>Фінальна битва</value>
+      <value>Finaljna bytva</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Current research points</key>
-      <value>Очки дослідження</value>
+      <value>Očky doslidžennja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You can spend research points on unlocking new units in the tech tree. You gain research points for winning battles.</key>
-      <value>Ви можете витратити очки досліджень на розблокування нових одиниць у технологічному древі. Очки досліджень отримуються за перемоги в боях.</value>
+      <value>Vy možete vytratyty očky doslidženj na rozblokuvannja novyx odynycj u texnoloğičnomu drevi. Očky doslidženj otrymujutjsja za peremoğy v bojax.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Current money</key>
-      <value>Кошти</value>
+      <value>Košty</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You can spend money on deploying units and buying officers. You gain money for winning battles.</key>
-      <value>Ви можете витрачати кошти на розгортання одиниць та наймання офіцерів. Кошти отримуються за перемоги в боях.</value>
+      <value>Vy možete vytračaty košty na rozğortannja odynycj ta najmannja oficeriv. Košty otrymujutjsja za peremoğy v bojax.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mission difficulty</key>
-      <value>Складність місії</value>
+      <value>Skladnistj misiï</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The more skulls, the harder mission is.</key>
-      <value>Чим більше черепів, тим складніше місія.</value>
+      <value>Čym biljše čerepiv, tym skladniše misija.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Money limit</key>
-      <value>Ліміт коштів</value>
+      <value>Limit koštiv</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Maximum amount of cash, you can spend during deployment phase in the mission.</key>
-      <value>Максимальна сума коштів, яку ви можете витратити під час фази розгортання в місії.</value>
+      <value>Maksymaljna suma koštiv, jaku vy možete vytratyty pid čas fazy rozğortannja v misiï.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Research points reward</key>
-      <value>Нагорода в очках дослідження</value>
+      <value>Nağoroda v očkax doslidžennja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Amount of research points, you get for winning the mission.</key>
-      <value>Кількість дослідницьких очок за виконання місії.</value>
+      <value>Kiljkistj doslidnycjkyx očok za vykonannja misiï.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Money reward</key>
-      <value>Нагорода в коштах</value>
+      <value>Nağoroda v koštax</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Amount of money, you get for winning the mission.</key>
-      <value>Кількість коштів за виконання місії</value>
+      <value>Kiljkistj koštiv za vykonannja misiï</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unit health points</key>
-      <value>Очки здоров'я одиниці</value>
+      <value>Očky zdorov'ja odynyci</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unit armour</key>
-      <value>Броня одиниці</value>
+      <value>Bronja odynyci</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rounds Per Minute</key>
-      <value>Пострілів у хвилину</value>
+      <value>Postriliv u xvylynu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>How fast the weapon shoot per minute bullets from a single magazine.</key>
-      <value>Скільки пострілів у хвилину зброя вистрілює</value>
+      <value>Skiljky postriliv u xvylynu zbroja vystriljuje</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Weapon damage</key>
-      <value>Шкода зброї</value>
+      <value>Škoda zbroï</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The amount of damage, each shot will take from HP.</key>
-      <value>Кількість ОЗ, яке віднімає постріл</value>
+      <value>Kiljkistj OZ, jake vidnimaje postril</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Reload time in seconds</key>
-      <value>Час перезарядки в секундах</value>
+      <value>Čas perezarjadky v sekundax</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Time between reloading subsequent magazines.</key>
-      <value>Час для перезарядки між пострілами</value>
+      <value>Čas dlja perezarjadky miž postrilamy</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Special tanks</key>
-      <value>Спеціальні танки</value>
+      <value>Specialjni tanky</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Upg.</key>
-      <value>Покращ.</value>
+      <value>Pokraŝ.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Tanks</key>
-      <value>Танки</value>
+      <value>Tanky</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Damage Bonus</key>
-      <value>Бонусна шкода</value>
+      <value>Bonusna škoda</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Bonus</key>
-      <value>Бонус</value>
+      <value>Bonus</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The officer gives periodically bonus to the nearby units.</key>
-      <value>Офіцер періодично дає бонус найближчим дружнім одиницям.</value>
+      <value>Oficer periodyčno daje bonus najblyžčym družnim odynycjam.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The bonus increases nearby friendly units damage.</key>
-      <value>Бонус збільшує шкоду, завдану дружніми одиницями.</value>
+      <value>Bonus zbiljšuje škodu, zavdanu družnimy odynycjamy.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Damage Reduce Bonus</key>
-      <value>Бонус поглинання шкоди</value>
+      <value>Bonus poğlynannja škody</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The bonus reduces received damage of nearby friendly units.</key>
-      <value>Бонус зменшує шкоду, яку вороги завдають найближчим дружнім одиницям.</value>
+      <value>Bonus zmenšuje škodu, jaku voroğy zavdajutj najblyžčym družnim odynycjam.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>RPM Bonus</key>
-      <value>Бонус швидкострільності</value>
+      <value>Bonus švydkostriljnosti</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The bonus increases RPM of nearby friendly units.</key>
-      <value>Бонус підвищує швидкострільність найближчих дружніх одиниць.</value>
+      <value>Bonus pidvyŝuje švydkostriljnistj najblyžčyx družnix odynycj.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Empty officer slot</key>
-      <value>У комірці немає оціцерів</value>
+      <value>U komirci nemaje ociceriv</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You have to unlock the vehicle first in tech tree.</key>
-      <value>Потрібно розблокувати цей транспорт у древі технологій.</value>
+      <value>Potribno rozblokuvaty cej transport u drevi texnoloğij.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>NO VEHICLE</key>
-      <value>НЕМАЄ ТРАНСПОРТУ</value>
+      <value>NEMAJE TRANSPORTU</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Officer is held captive, that means you can not deploy him during the battle until you buy out him.</key>
-      <value>Офіцер перебуває у полоні. Це означає, що його не можна використовувати у боях, поки ви його не викупите.</value>
+      <value>Oficer perebuvaje u poloni. Ce označaje, ŝo joğo ne možna vykorystovuvaty u bojax, poky vy joğo ne vykupyte.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Victory!</key>
-      <value>Перемога!</value>
+      <value>Peremoğa!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Protect VIP</key>
-      <value>Захистити особливу ціль</value>
+      <value>Zaxystyty osoblyvu cilj</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Reject the mission</key>
-      <value>Відмовитись від місії</value>
+      <value>Vidmovytysj vid misiï</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You can reject the mission, this will automatically mark the battle as lost, but you will keep your money and research points.</key>
-      <value>Відмова від місії автоматично позначить битву як програну. Ваші кошти та очки досліджень залишаться без змін.</value>
+      <value>Vidmova vid misiï avtomatyčno poznačytj bytvu jak proğranu. Vaši košty ta očky doslidženj zalyšatjsja bez zmin.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Go to next act</key>
-      <value>Перейти до наступного акту</value>
+      <value>Perejty do nastupnoğo aktu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{0} victory</key>
-      <value>{0} перемога</value>
+      <value>{0} peremoğa</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>This is an offensive act. The less battles you start, the better. However, you have to win missions. If you fail at some point, you can repeat the mission or choose another path. Though remember, each started battle counts.</key>
-      <value>Це наступальна операція. Мета полягає в тому, щоб дістатися до кінцевої місії та виконати її. Чим менше ходів, тим краще. Кожна виграна місія відкриває наступні, пов'язані з нею. Якщо ви провалили місію, ви можете спробувати ще раз, але це все одно вважатиметься використаним ходом.</value>
+      <value>Ce nastupaljna operacija. Meta poljağaje v tomu, ŝob distatysja do kincevoï misiï ta vykonaty ïï. Čym menše xodiv, tym kraŝe. Kožna vyğrana misija vidkryvaje nastupni, pov'jazani z neju. Jakŝo vy provalyly misiju, vy možete sprobuvaty ŝe raz, ale ce vse odno vvažatymetjsja vykorystanym xodom.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{0} battles started: {1} victory</key>
-      <value>{0} битв розпочато: {1} перемога</value>
+      <value>{0} bytv rozpočato: {1} peremoğa</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Played battle</key>
-      <value>Зіграна битва</value>
+      <value>Ziğrana bytva</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mission attempted and failed</key>
-      <value>Почата та провалена місія</value>
+      <value>Počata ta provalena misija</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You are going to reset campaign state to act {0}? All progress until the beginning of the act {0} will be lost.</key>
-      <value>Ви бажаєте скинути кампанію до {0} акту? Весь прогрес після початку {0} акту буде втрачено.</value>
+      <value>Vy bažajete skynuty kampaniju do {0} aktu? Vesj proğres pislja počatku {0} aktu bude vtračeno.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Enemy secret weapons</key>
-      <value>Секретна зброя ворога</value>
+      <value>Sekretna zbroja voroğa</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Lost battle</key>
-      <value>Битва програна</value>
+      <value>Bytva proğrana</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Won battle</key>
-      <value>Битва виграна</value>
+      <value>Bytva vyğrana</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mission completed</key>
-      <value>Місія виконана</value>
+      <value>Misija vykonana</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Not enough money</key>
-      <value>Недостатньо коштів</value>
+      <value>Nedostatnjo koštiv</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unlock {0} {1}</key>
       <context>campaign.command</context>
-      <value>Відкрити {0} {1}</value>
+      <value>Vidkryty {0} {1}</value>
       <plurals />
       <comment>text on a button to unlock unit in techtree (command)</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BUY OUT ({0} {1})</key>
-      <value>ВИКУПИТИ ({0} {1})</value>
+      <value>VYKUPYTY ({0} {1})</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>RECRUIT ({0} {1})</key>
-      <value>НАЙНЯТИ ({0} {1})</value>
+      <value>NAJNJATY ({0} {1})</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mission not yet available.</key>
-      <value>Місія ще не розблокована.</value>
+      <value>Misija ŝe ne rozblokovana.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You have already maximum number of alive officers.</key>
-      <value>Ви вже найняли максимальну кількість офіцерів.</value>
+      <value>Vy vže najnjaly maksymaljnu kiljkistj oficeriv.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mission attempted and failed.</key>
-      <value>Почата та провалена місія.</value>
+      <value>Počata ta provalena misija.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Enemy secret weapons.</key>
-      <value>Секретна зброя ворога.</value>
+      <value>Sekretna zbroja voroğa.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PASSENGER SEATS:</key>
-      <value>ПАСАЖИРСЬКІ МІСЦЯ:</value>
+      <value>PASAŽYRSJKI MISCJA:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Go to next act</key>
       <context>campaign.action</context>
-      <value>Перейти до наступного акту</value>
+      <value>Perejty do nastupnoğo aktu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Finish Campaign</key>
       <context>campaign.action</context>
-      <value>Завершити кампанію</value>
+      <value>Zaveršyty kampaniju</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Exit</key>
       <context>campaign.action</context>
-      <value>Вийти</value>
+      <value>Vyjty</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>INVENTORY</key>
-      <value>ІНВЕНТАР</value>
+      <value>INVENTAR</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Crew {0}</key>
-      <value>Екіпаж {0}</value>
+      <value>Ekipaž {0}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Passengers {0}</key>
-      <value>Пасажирів: {0}</value>
+      <value>Pasažyriv: {0}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unit class: {0}</key>
-      <value>Клас одиниці: {0}</value>
+      <value>Klas odynyci: {0}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>HEALTH POINTS: {0}</key>
-      <value>ОЧКИ ЗДОРОВ'Я: {0}</value>
+      <value>OČKY ZDOROV'JA: {0}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>MAXIMUM SPEED: {0} KM/H</key>
-      <value>МАКСИМАЛЬНА ШВИДКІСТЬ: {0} КМ/Г</value>
+      <value>MAKSYMALJNA ŠVYDKISTJ: {0} KM/Ğ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>VEHICLE CAPACITY: {0}</key>
-      <value>ЕКІПАЖ ТА ПАСАЖИРИ: {0}</value>
+      <value>EKIPAŽ TA PASAŽYRY: {0}</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{0} km/h</key>
-      <value>{0} км/г</value>
+      <value>{0} km/ğ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>INCREASED DAMAGE TO:</key>
-      <value>ПІДВИЩЕНА ШКОДА ПРОТИ:</value>
+      <value>PIDVYŜENA ŠKODA PROTY:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>NEUTRAL DAMAGE TO:</key>
-      <value>ЗВИЧАЙНА ШКОДА ПРОТИ:</value>
+      <value>ZVYČAJNA ŠKODA PROTY:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DECREASED DAMAGE TO:</key>
-      <value>ЗНИЖЕНА ШКОДА ПРОТИ:</value>
+      <value>ZNYŽENA ŠKODA PROTY:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>INCREASED RESISTANCE TO:</key>
-      <value>ПІДВИЩЕНИЙ СУПРОТИВ ПРОТИ:</value>
+      <value>PIDVYŜENYJ SUPROTYV PROTY:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>NEUTRAL RESISTANCE TO:</key>
-      <value>ЗВИЧАЙНИЙ СУПРОТИВ ПРОТИ:</value>
+      <value>ZVYČAJNYJ SUPROTYV PROTY:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DECREASED RESISTANCE TO:</key>
-      <value>ЗНИЖЕНИЙ СУПРОТИВ ПРОТИ:</value>
+      <value>ZNYŽENYJ SUPROTYV PROTY:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SHOTS PER MINUTE</key>
-      <value>ПОСТРІЛІВ У ХВИЛИНУ</value>
+      <value>POSTRILIV U XVYLYNU</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DAMAGE</key>
-      <value>ШКОДА</value>
+      <value>ŠKODA</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>RELOAD TIME</key>
-      <value>ЧАС ПЕРЕЗАРЯДКИ</value>
+      <value>ČAS PEREZARJADKY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>RADIUS</key>
-      <value>РАДІУС</value>
+      <value>RADIUS</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>RANGE</key>
-      <value>ДАЛЬНІСТЬ</value>
+      <value>DALJNISTJ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>MAX MINES COUNT</key>
-      <value>МАКС. КІЛЬКІСТЬ МІН</value>
+      <value>MAKS. KILJKISTJ MIN</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ROCKET CAPACITY</key>
-      <value>МІСТКІСТЬ РАКЕТ</value>
+      <value>MISTKISTJ RAKET</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PLAY DUCKS ABILITY</key>
-      <value>ТОПМАЧТОВЕ БОМБОМЕТАННЯ</value>
+      <value>TOPMAČTOVE BOMBOMETANNJA</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GRAND SLAM</key>
-      <value>ТОТАЛЬНИЙ РОЗГРОМ</value>
+      <value>TOTALJNYJ ROZĞROM</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>IMMOBILIZE TIME</key>
-      <value>ЧАС ЗНЕРУХОМЛЕННЯ</value>
+      <value>ČAS ZNERUXOMLENNJA</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>how many rounds from a single magazine can the weapon shoot per minute</key>
-      <value>Кількість пострілів у хвилину</value>
+      <value>Kiljkistj postriliv u xvylynu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>amount of damage each shot causes</key>
-      <value>Шкода, заподіяна кожним пострілом.</value>
+      <value>Škoda, zapodijana kožnym postrilom.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>time it takes to reload one magazine</key>
-      <value>Час, необхідний для однієї перезарядки</value>
+      <value>Čas, neobxidnyj dlja odnijeï perezarjadky</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Nothing</key>
-      <value>Нічого</value>
+      <value>Ničoğo</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>amount of damage given during self destruction</key>
-      <value>Шкода, яку завдає самознищення</value>
+      <value>Škoda, jaku zavdaje samoznyŝennja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>explosion radius</key>
-      <value>радіус вибуху</value>
+      <value>radius vybuxu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>mine explosion radius</key>
-      <value>радіус вибуху міни</value>
+      <value>radius vybuxu miny</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>weapon range</key>
-      <value>дальність зброї</value>
+      <value>daljnistj zbroï</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ABORDAGE</key>
-      <value>АБОРДАЖ</value>
+      <value>ABORDAŽ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ABORDAGE TIME</key>
-      <value>ЧАС АБОРДАЖУ</value>
+      <value>ČAS ABORDAŽU</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Pirate tank task is to capture enemy unit</key>
-      <value>Піратський танк призначений для захоплення ворожих одиниць.</value>
+      <value>Piratsjkyj tank pryznačenyj dlja zaxoplennja vorožyx odynycj.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>After successful capture, pirate self-destruct</key>
-      <value>Пірат самознищується після успішного захоплення.</value>
+      <value>Pirat samoznyŝujetjsja pislja uspišnoğo zaxoplennja.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>If pirate is destroyed while capturing, caught unit gets released</key>
-      <value>Якщо пірата знищать під час спроби захоплення, ворожа одиниця звільниться.</value>
+      <value>Jakŝo pirata znyŝatj pid čas sproby zaxoplennja, voroža odynycja zviljnytjsja.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Enemy unit hit by its hook gets paralyzed and can be released only when someone else destroys pirate tank</key>
-      <value>Військова одиниця, в яку попав абордажний гак, паралізується. Вона може звільнитися лише після знищення пірата, який її захопив.</value>
+      <value>Vijsjkova odynycja, v jaku popav abordažnyj ğak, paralizujetjsja. Vona može zviljnytysja lyše pislja znyŝennja pirata, jakyj ïï zaxopyv.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Crew of the captured unit jumps out of it</key>
-      <value>Після успішного захоплення ворожий екіпаж збіжить.</value>
+      <value>Pislja uspišnoğo zaxoplennja vorožyj ekipaž zbižytj.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>number of units pirate tank can capture</key>
-      <value>Кількість одиниць, які може захопити піратський танк.</value>
+      <value>Kiljkistj odynycj, jaki može zaxopyty piratsjkyj tank.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>time required to capture enemy unit</key>
-      <value>Час, необхідний для захоплення ворожої одиниці.</value>
+      <value>Čas, neobxidnyj dlja zaxoplennja vorožoï odynyci.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>all crew slots are fullfiled when spawned</key>
-      <value>Коли одиниця створюється, весь її екіпаж поповнено.</value>
+      <value>Koly odynycja stvorjujetjsja, vesj ïï ekipaž popovneno.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>when entering the vehicle, AI by default takes empty crew seats</key>
-      <value>Союзні солдати спочатку заповнять усі порожні місця в екіпажі.</value>
+      <value>Sojuzni soldaty spočatku zapovnjatj usi porožni miscja v ekipaži.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>passengers are not part of the crew - they can neither operate vehicles nor use its weapons</key>
-      <value>Пасажири не є частиною екіпажу - вони не можуть керувати транспортом та використовувати його зброю.</value>
+      <value>Pasažyry ne je častynoju ekipažu - vony ne možutj keruvaty transportom ta vykorystovuvaty joğo zbroju.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>infantry might be carried by most of the units</key>
-      <value>Піхоту можна перевозити на більшості наземних транспортних засобах.</value>
+      <value>Pixotu možna perevozyty na biljšosti nazemnyx transportnyx zasobax.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>health points denotes unit health</key>
-      <value>Очки здоров'я одиниці</value>
+      <value>Očky zdorov'ja odynyci</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>the more health points, the longer unit lifetime</key>
-      <value>Чим більше очок здоров'я, тим більше шкоди може витримати одиниця.</value>
+      <value>Čym biljše očok zdorov'ja, tym biljše škody može vytrymaty odynycja.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>armour must be taken down in order to begin dealing damage to health points</key>
-      <value>Пошкодження спочатку зменшує очки броні. Коли броня відсутня, зменшуються очки здоров'я.</value>
+      <value>Poškodžennja spočatku zmenšuje očky broni. Koly bronja vidsutnja, zmenšujutjsja očky zdorov'ja.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>when unit lose its armour, it gets immobilized for a moment</key>
-      <value>Коли одиниця втрачає всю броню, вона на короткий час знерухомлюється.</value>
+      <value>Koly odynycja vtračaje vsju bronju, vona na korotkyj čas zneruxomljujetjsja.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>health points and armour may be restored in factory repair point or by recover vehicle on the battlefield</key>
-      <value>Очки здоров'я та броні можна відновити в заводській ремонтній майстерні, за допомогою найближчого ремонтного транспорту або в режимі від першої особи, натиснувши кнопку ремонту.</value>
+      <value>Očky zdorov'ja ta broni možna vidnovyty v zavodsjkij remontnij majsterni, za dopomoğoju najblyžčoğo remontnoğo transportu abo v režymi vid peršoï osoby, natysnuvšy knopku remontu.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>maximum speed the unit can achieve</key>
-      <value>Максимальна швидкість одиниці.</value>
+      <value>Maksymaljna švydkistj odynyci.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>B-29 Atomic is spawned by dedicated airfield</key>
-      <value>Атомний бомбардувальник B-29 виробляється на окремій авіабазі.</value>
+      <value>Atomnyj bombarduvaljnyk B-29 vyrobljajetjsja na okremij aviabazi.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Atomic bomb may be armed only in the air</key>
-      <value>Атомну бомбу можна активувати тільки в повітрі.</value>
+      <value>Atomnu bombu možna aktyvuvaty tiljky v povitri.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Airfield may be captured by enemy, who gains access to atomic bomb in the result</key>
-      <value>Якщо ворог захопить авіабазу, він почне створювати ворожі атомні бомбардувальники.</value>
+      <value>Jakŝo voroğ zaxopytj aviabazu, vin počne stvorjuvaty voroži atomni bombarduvaljnyky.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>If your B-29 is shot down, another one will take off from airfield. Beware though, the bomb arming time will be reset</key>
-      <value>Якщо B-29 буде збитий, на авіабазі з'явиться інший. Активацію бомби доведеться починати спочатку.</value>
+      <value>Jakŝo B-29 bude zbytyj, na aviabazi z'javytjsja inšyj. Aktyvaciju bomby dovedetjsja počynaty spočatku.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>amount of damage caused every second</key>
-      <value>Кількість шкоди в секунду</value>
+      <value>Kiljkistj škody v sekundu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>time the fire burns on unit set on fire</key>
-      <value>Час горіння одиниці.</value>
+      <value>Čas ğorinnja odynyci.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>number of shots per minute</key>
-      <value>Кількість пострілів у хвилину</value>
+      <value>Kiljkistj postriliv u xvylynu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>damage dealt by single explosive</key>
-      <value>Шкода, заподіяна одним снарядом</value>
+      <value>Škoda, zapodijana odnym snarjadom</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>damage dealt by explosive submunitions</key>
-      <value>Шкода, заподіяна додатковими касетними снарядами.</value>
+      <value>Škoda, zapodijana dodatkovymy kasetnymy snarjadamy.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>maximum amount of mines spawned at the same time - only when one explodes, the next one is spawned</key>
-      <value>Коли буде досягнуто обмеження на створення мін, нові міни будуть створюватися тільки тоді, коли одна з існуючих вибухне.</value>
+      <value>Koly bude dosjağnuto obmežennja na stvorennja min, novi miny budutj stvorjuvatysja tiljky todi, koly odna z isnujučyx vybuxne.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>damage dealt by single mine</key>
-      <value>Шкода, заподіяна однією міною.</value>
+      <value>Škoda, zapodijana odnijeju minoju.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>damage dealt by single rocket</key>
-      <value>Шкода, заподіяна однією ракетою.</value>
+      <value>Škoda, zapodijana odnijeju raketoju.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>number of rockets the unit is equipped with</key>
-      <value>Кількість ракет, якими оснащена одиниця.</value>
+      <value>Kiljkistj raket, jakymy osnaŝena odynycja.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>radius covered by smoke</key>
-      <value>Радіус, охоплений димом.</value>
+      <value>Radius, oxoplenyj dymom.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>maximum bounce count</key>
-      <value>Максимальна кількість відскоків</value>
+      <value>Maksymaljna kiljkistj vidskokiv</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DAMAGE PER SECOND</key>
-      <value>ШКОДА В СЕКУНДУ</value>
+      <value>ŠKODA V SEKUNDU</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BURNING TIME</key>
-      <value>ЧАС ГОРІННЯ</value>
+      <value>ČAS ĞORINNJA</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DUCKS AND DRAKES</key>
-      <value>ПУСКАННЯ КАЧОК</value>
+      <value>PUSKANNJA KAČOK</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>single bounce damage</key>
-      <value>Пошкодження від одного відскоку бомби</value>
+      <value>Poškodžennja vid odnoğo vidskoku bomby</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>after bomb drop, it must be rearmed on the airfield</key>
-      <value>Після скидання бомби, потрібно переозброїтись на авіабазі.</value>
+      <value>Pislja skydannja bomby, potribno pereozbroïtysj na aviabazi.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>time enemy unit is immobilized</key>
-      <value>Час знерухомлення ворожої одиниці.</value>
+      <value>Čas zneruxomlennja vorožoï odynyci.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>impulse reload time</key>
-      <value>час перезарядки імпульсу</value>
+      <value>čas perezarjadky impuljsu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ARM TIME</key>
-      <value>ЧАС ЗАРЯДКИ</value>
+      <value>ČAS ZARJADKY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>time unit requires to arm nuclear weapon</key>
-      <value>час для приведення ядерної зброї в бойову готовність</value>
+      <value>čas dlja pryvedennja jadernoï zbroï v bojovu ğotovnistj</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>amount of damage decreases as distance to the source increases</key>
-      <value>Чим далі ціль імпульса, тим менше шкода.</value>
+      <value>Čym dali cilj impuljsa, tym menše škoda.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>impulse operating radius</key>
-      <value>Радіус дії імпульсу</value>
+      <value>Radius diï impuljsu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Flame deals damage over time, burning torched units for a few seconds. Fire spreads widely on the earth or sets on fire single unit.</key>
       <context>tech_tree.details_text</context>
-      <value>Вогнемет може підпалити землю або ворожі одиниці. Підпалені вороги будуть отримувати пошкодження.</value>
+      <value>Voğnemet može pidpalyty zemlju abo voroži odynyci. Pidpaleni voroğy budutj otrymuvaty poškodžennja.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Explodes ending up dead but deals powerful damage to units around</key>
       <context>tech_tree.details_text</context>
-      <value>Завдає шкоди ближнім одиницям саморуйнівним вибухом.</value>
+      <value>Zavdaje škody blyžnim odynycjam samorujnivnym vybuxom.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Spawns self-propelled tracked mines</key>
       <context>tech_tree.details_text</context>
-      <value>Створює самохідні міни голіафи</value>
+      <value>Stvorjuje samoxidni miny ğoliafy</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>During the explosion, the main projectile ejects several smaller ones, significantly increasing the radius and damage of a single shot</key>
       <context>tech_tree.details_text</context>
-      <value>Коли снаряд вибухає, він викидає кілька менших снарядів. Це значно збільшує радіус ураження та шкоди.</value>
+      <value>Koly snarjad vybuxaje, vin vykydaje kiljka menšyx snarjadiv. Ce značno zbiljšuje radius uražennja ta škody.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Far stronger than standard cannon in terms of damage yet equipped with less ammunition</key>
       <context>tech_tree.details_text</context>
-      <value>Завдає набагато більше шкоди, ніж стандартна гармата, однак вона оснащена меншою кількістю боєприпасів.</value>
+      <value>Zavdaje nabağato biljše škody, niž standartna ğarmata, odnak vona osnaŝena menšoju kiljkistju bojeprypasiv.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Releases smoke that covers field of view of units. Smoke must be placed before enemy unit, not on it</key>
       <context>tech_tree.details_text</context>
-      <value>Випускає дим, який затуляє поле зору одиниці. Для ефективності димові снаряди повинні вистрілюватися перед ворогом, а не в нього.</value>
+      <value>Vypuskaje dym, jakyj zatuljaje pole zoru odynyci. Dlja efektyvnosti dymovi snarjady povynni vystriljuvatysja pered voroğom, a ne v njoğo.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The largest air missile in history - does not explode immediately, but deals damage bouncing off the ground</key>
       <context>tech_tree.details_text</context>
-      <value>Найбільша бомба в історії. Кілька разів відскакує від землі. Завдає шкоди з кожним відскоком.</value>
+      <value>Najbiljša bomba v istoriï. Kiljka raziv vidskakuje vid zemli. Zavdaje škody z kožnym vidskokom.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Powerful electromagnetic ray that jams flight instruments of airplanes, paralyzing them for a few seconds</key>
       <context>tech_tree.details_text</context>
-      <value>Потужний електромагнітний промінь, який заглушає прилади літака, паралізуючи його на кілька секунд.</value>
+      <value>Potužnyj elektromağnitnyj prominj, jakyj zağlušaje prylady litaka, paralizujučy joğo na kiljka sekund.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Creates a powerful shockwave that repels and damages enemy units</key>
       <context>tech_tree.details_text</context>
-      <value>Створює потужну ударну хвилю, яка відштовхує і пошкоджує ворожі одиниці.</value>
+      <value>Stvorjuje potužnu udarnu xvylju, jaka vidštovxuje i poškodžuje voroži odynyci.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Instantly kills enemy soldiers</key>
-      <value>Миттєво вбиває ворожих солдатів</value>
+      <value>Myttjevo vbyvaje vorožyx soldativ</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Must be used at a very close range</key>
-      <value>Потрібно використовувати на дуже близькій відстані</value>
+      <value>Potribno vykorystovuvaty na duže blyzjkij vidstani</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Cannot pierce armor of units other than infantry</key>
-      <value>Може пробивати лише броню піхоти</value>
+      <value>Može probyvaty lyše bronju pixoty</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>reload duration</key>
-      <value>тривалість перезарядки</value>
+      <value>tryvalistj perezarjadky</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>the time required for a full repair of an allied unit</key>
-      <value>час, необхідний для повного ремонту союзної одиниці</value>
+      <value>čas, neobxidnyj dlja povnoğo remontu sojuznoï odynyci</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>REPAIR TIME</key>
-      <value>ЧАС РЕМОНТУ</value>
+      <value>ČAS REMONTU</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>repair tool range</key>
-      <value>дальність ремонтних інструментів</value>
+      <value>daljnistj remontnyx instrumentiv</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Repairs allied units</key>
-      <value>Ремонтує союзні одиниці</value>
+      <value>Remontuje sojuzni odynyci</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Does not deal any damage</key>
-      <value>Не завдає жодної шкоди</value>
+      <value>Ne zavdaje žodnoï škody</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Used by infantry units to heal themselves</key>
-      <value>Використовується піхотними одиницями для самолікування</value>
+      <value>Vykorystovujetjsja pixotnymy odynycjamy dlja samolikuvannja</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Restores full health and full armor</key>
-      <value>Відновлює все здоров'я та броню</value>
+      <value>Vidnovljuje vse zdorov'ja ta bronju</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Works immediately</key>
-      <value>Працює негайно</value>
+      <value>Pracjuje neğajno</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The officer gives periodically bonus to the friendly nearby units.</key>
-      <value>Кожні кілька секунд офіцер накладає бонус на сусідні дружні одиниці.</value>
+      <value>Kožni kiljka sekund oficer nakladaje bonus na susidni družni odynyci.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Damage</key>
       <context>campaign.bonus_short_name</context>
-      <value>Шкода</value>
+      <value>Škoda</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Damage reduce</key>
       <context>campaign.bonus_short_name</context>
-      <value>Зменшення шкоди</value>
+      <value>Zmenšennja škody</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>RPM</key>
       <context>campaign.bonus_short_name</context>
-      <value>Шкидкострільність</value>
+      <value>Škydkostriljnistj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The bonus increases inflicted damage.</key>
       <context>campaign.bonus_short_description</context>
-      <value>Збільшує завдану шкоду.</value>
+      <value>Zbiljšuje zavdanu škodu.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The bonus reduces received damage</key>
       <context>campaign.bonus_short_description</context>
-      <value>Зменшує отриману шкоду.</value>
+      <value>Zmenšuje otrymanu škodu.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The bonus increases RPM</key>
       <context>campaign.bonus_short_description</context>
-      <value>Підвищує шкидкострільність.</value>
+      <value>Pidvyŝuje škydkostriljnistj.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Win in max {0} moves</key>
       <context>campaign</context>
-      <value>Перемогти максимум за {0} ходів</value>
+      <value>Peremoğty maksymum za {0} xodiv</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{0} missions left</key>
       <context>campaign</context>
-      <value>Залишилось місій: {0}</value>
+      <value>Zalyšylosj misij: {0}</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Win key missions + {0} extra</key>
       <context>campaign</context>
-      <value>Переможіть у ключових місіях + {0} додаткових</value>
+      <value>Peremožitj u ključovyx misijax + {0} dodatkovyx</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Win key missions only</key>
       <context>campaign</context>
-      <value>Переможіть тільки у ключових місіях</value>
+      <value>Peremožitj tiljky u ključovyx misijax</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{0} key missions + {1} extra left</key>
       <context>campaign</context>
-      <value>Залишилось місій: {0} ключових + {1} додаткових</value>
+      <value>Zalyšylosj misij: {0} ključovyx + {1} dodatkovyx</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{0} key missions left</key>
       <context>campaign</context>
-      <value>Залишилось {0} ключових місій</value>
+      <value>Zalyšylosj {0} ključovyx misij</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Not achievable</key>
-      <value>Недосяжне</value>
+      <value>Nedosjažne</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Applicants</key>
-      <value>Кандидати</value>
+      <value>Kandydaty</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Buy out</key>
-      <value>Викупити</value>
+      <value>Vykupyty</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Dismiss</key>
-      <value>Звільнити</value>
+      <value>Zviljnyty</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Cadre</key>
-      <value>Офіцери</value>
+      <value>Oficery</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The officer can have multiple vehicles, but during the battle he has only the chosen one.</key>
-      <value>Офіцер може мати кілька транспортних засобів, але під час бою він має тільки обраний.</value>
+      <value>Oficer može maty kiljka transportnyx zasobiv, ale pid čas boju vin maje tiljky obranyj.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You have to unlock the vehicle in the tech tree first.</key>
-      <value>Спочатку потрібно розблокувати транспортний засіб у древі технологій.</value>
+      <value>Spočatku potribno rozblokuvaty transportnyj zasib u drevi texnoloğij.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You have to buy the vehicle to use one.</key>
-      <value>Спочатку ви маєте купити цей транспорт.</value>
+      <value>Spočatku vy majete kupyty cej transport.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You can select any bought vehicle before mission.</key>
-      <value>Ви можете вибрати будь-який придбаний транспорт перед початком місії.</value>
+      <value>Vy možete vybraty budj-jakyj prydbanyj transport pered počatkom misiï.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Information</key>
-      <value>Інформація</value>
+      <value>Informacija</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>campaign.max.level</key>
-      <value>МАКС.</value>
+      <value>MAKS.</value>
       <comment>text shown on a button to indicate player has max level of the bonus</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SKIP CUTSCENE</key>
-      <value>Пропустити катсцену</value>
+      <value>Propustyty katscenu</value>
       <comment>in the campaign, during the dialogue cutscene</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Estimated number of enemy units</key>
-      <value>Очікувана кількість ворожих одиниць</value>
+      <value>Očikuvana kiljkistj vorožyx odynycj</value>
       <comment>A tooltip shown over an icon denoting how difficult is the mission in campaign</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Replay cutscene</key>
-      <value>Повторити катсцену</value>
+      <value>Povtoryty katscenu</value>
       <comment>in the campaign, about the dialogue cutscene</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ACT {0}</key>
-      <value>АКТ {0}</value>
+      <value>AKT {0}</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Offensive</key>
       <context>campaign.act_type</context>
-      <value>Наступ</value>
+      <value>Nastup</value>
       <comment>in term Offensive Act</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Defensive</key>
       <context>campaign.act_type</context>
-      <value>Захист</value>
+      <value>Zaxyst</value>
       <comment>in term Defensive Act</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DEPLOYMENT COST</key>
-      <value>ВАРТІСТЬ РОЗМІЩЕННЯ</value>
+      <value>VARTISTJ ROZMIŜENNJA</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>For officer use only</key>
-      <value>Тільки для офіцерів</value>
+      <value>Tiljky dlja oficeriv</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Only the officers can use this vehicle. After unlocking it in the tech tree, it is available for purchase in the 'Officers' tab for each of your officers separately.</key>
-      <value>Цим транспортним засобом можуть користуватися тільки офіцери. Після розблокування в древі технологій його можна придбати в розділі «Офіцери» окремо для кожного з ваших офіцерів.</value>
+      <value>Cym transportnym zasobom možutj korystuvatysja tiljky oficery. Pislja rozblokuvannja v drevi texnoloğij joğo možna prydbaty v rozdili «Oficery» okremo dlja kožnoğo z vašyx oficeriv.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
-      <key>Перейдіть на вкладку «Офіцери»</key>
+      <key>Perejditj na vkladku «Oficery»</key>
       <value></value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Reject mission</key>
       <context>campaign.messagebox.title</context>
-      <value>Відмовитись від місії</value>
+      <value>Vidmovytysj vid misiï</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Are you sure you want to reject the mission? You will keep all your funds, but it will count as a lost battle.</key>
       <context>campaign.messagebox.text</context>
-      <value>Ви впевнені, що хочете відмовитися від місії? Ви збережете всі свої кошти, але це буде вважатися програною битвою.</value>
+      <value>Vy vpevneni, ŝo xočete vidmovytysja vid misiï? Vy zberežete vsi svoï košty, ale ce bude vvažatysja proğranoju bytvoju.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>This is defensive act. During each phase you try to defend from invading forces, while retreating.</key>
-      <value>Це оборонна операція. Під час кожної фази ви намагаєтеся захиститися від наступаючих, відступаючи.</value>
+      <value>Ce oboronna operacija. Pid čas kožnoï fazy vy namağajetesja zaxystytysja vid nastupajučyx, vidstupajučy.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>This is offensive act. You start here. Your mission is to finish it in the least moves possible.</key>
-      <value>Це наступальна операція. Ви починаєте тут. Ваша мета — закінчити операцію за якомога меншу кількість ходів.</value>
+      <value>Ce nastupaljna operacija. Vy počynajete tut. Vaša meta — zakinčyty operaciju za jakomoğa menšu kiljkistj xodiv.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Final phase</key>
-      <value>Фінальна фаза</value>
+      <value>Finaljna faza</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Final mission</key>
-      <value>Фінальна місія</value>
+      <value>Finaljna misija</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>This is the final mission. Winning it in specified time wins the act.</key>
-      <value>Це фінальна місія. Ви повинні дійти до неї за певну кількість ходів і виконати її, щоб виграти весь акт.</value>
+      <value>Ce finaljna misija. Vy povynni dijty do neï za pevnu kiljkistj xodiv i vykonaty ïï, ŝob vyğraty vesj akt.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>This is the final missions. You can loose or skip other missions, but this missions you have to win.</key>
-      <value>Це фінальні місії. Ви повинні виконати їх усі, щоб виграти весь акт.</value>
+      <value>Ce finaljni misiï. Vy povynni vykonaty ïx usi, ŝob vyğraty vesj akt.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Phase {0}</key>
-      <value>Фаза {0}</value>
+      <value>Faza {0}</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>This phase can be fought or skipped</key>
-      <value>Цю фазу можна пройти або пропустити.</value>
+      <value>Cju fazu možna projty abo propustyty.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Effective against most targets</key>
       <context>tech_tree.details_text</context>
-      <value>Ефективний проти більшості цілей</value>
+      <value>Efektyvnyj proty biljšosti cilej</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Japanese Tech Tree</key>
       <context>factions.techtree_title</context>
-      <value>Японське древо технологій</value>
+      <value>Japonsjke drevo texnoloğij</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Throws a smoke bomb, creating an area that obscures the field of view of units aiming through.</key>
       <context>tech_tree.details_text</context>
-      <value>Кидає димову шашку, створюючи область, яка затуляє огляд для цілющихся одиниць.</value>
+      <value>Kydaje dymovu šašku, stvorjuučy oblastj, jaka zatuljaje oğljad dlja ciljuŝyxsja odynycj.</value>
     </GameLocalizationEntry>
   </entries>
 </GameLocalization>

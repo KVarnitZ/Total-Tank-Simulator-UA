@@ -1,26 +1,26 @@
 # Total Tank Simulator Ukrainian Localization
-Українізатор TTS, який повноцінно додає мову як окрему (перекладено з англійської та польської). Також шрифт адаптований під українську.
+Ukraïnizator TTS, jakyj povnocinno dodaje movu jak okremu (perekladeno z anğlijsjkoï ta poljsjkoï). Takož šryft adaptovanyj pid ukraïnsjku.
 
-У цього українізатора є дві версії, це [кирилична](https://github.com/KVarnitZ/Total-Tank-Simulator-UA/tree/main) стандартна та [латинська](https://github.com/KVarnitZ/Total-Tank-Simulator-UA/tree/latyn) за [ДСТУ 9112:2021](https://uk.wikipedia.org/wiki/%D0%94%D0%A1%D0%A2%D0%A3_9112:2021).
-# Про переклад
-Я переклав цю гру, бо просто хочу пограти в неї українською. Розробники анонсували другу частину, тож я хочу, щоби перед виходом, можна було пограти в першу частину українською. Локалізація зроблена таким чином, що розробник зможе її додати в гру використавши ctrl+c та ctrl+v.
+U cjoğo ukraïnizatora je dvi versiï, ce [kyrylyčna](https://github.com/KVarnitZ/Total-Tank-Simulator-UA/tree/main) standartna ta [latynsjka](https://github.com/KVarnitZ/Total-Tank-Simulator-UA/tree/latyn) za [DSTU 9112:2021](https://uk.wikipedia.org/wiki/%D0%94%D0%A1%D0%A2%D0%A3_9112:2021).
+# Pro pereklad
+Ja pereklav cju ğru, bo prosto xoču poğraty v neï ukraïnsjkoju. Rozrobnyky anonsuvaly druğu častynu, tož ja xoču, ŝoby pered vyxodom, možna bulo poğraty v peršu častynu ukraïnsjkoju. Lokalizacija zroblena takym čynom, ŝo rozrobnyk zmože ïï dodaty v ğru vykorystavšy ctrl+c ta ctrl+v.
 
 ![Contribution guidelines for this project](/TTS2.png)
 ![Contribution guidelines for this project](/TTS3.png)
 ![Contribution guidelines for this project](/TTS4.png)
 ![Contribution guidelines for this project](/TTS5.png)
-# Як завантажити
-Усе НЕЙМОВІРНО ПРОСТО!
-1. Вантажите мій [останній](https://github.com/KVarnitZ/Total-Tank-Simulator-UA/releases/latest/download/TTS_UA.zip) випуск.
-2. Відкриваєте локальні файли гри та закидуєте туди ```TotalTankSim_Data``` з заміною (замінюються тільки технічні файли).
-3. Змінюєте мову в налаштуваннях на українську.
-4. Гарно так тріпетесь!
-# Опис технічних файлів
+# Jak zavantažyty
+Use NEJMOVIRNO PROSTO!
+1. Vantažyte mij [ostannij](https://github.com/KVarnitZ/Total-Tank-Simulator-UA/releases/latest/download/TTS_UA.zip) vypusk.
+2. Vidkryvajete lokaljni fajly ğry ta zakydujete tudy ```TotalTankSim_Data``` z zaminoju (zaminjuutjsja tiljky texnični fajly).
+3. Zminjujete movu v nalaštuvannjax na ukraïnsjku.
+4. Ğarno tak tripetesj!
+# Opys texničnyx fajliv
 ## resources.assets
-- Усередині файлу доданий ассет uk_UA - MonoBehaviour - Path ID/22140, який встановлює переміну 170 українській локалізації (бо найбільша в китайської, 160);
-- Змінений шрифт, додані деякі літери та загалом адаптовано під українську мову.
+- Useredyni fajlu dodanyj asset uk_UA - MonoBehaviour - Path ID/22140, jakyj vstanovljuje pereminu 170 ukraïnsjkij lokalizaciï (bo najbiljša v kytajsjkoï, 160);
+- Zminenyj šryft, dodani dejaki litery ta zağalom adaptovano pid ukraïnsjku movu.
 ## Totallytank.TMPro.dll
-- Додана змінна в GameLocale uk_UA = 170, яка якраз таки береться самою локалізацією;
-- Додане значення в GameLocaleExtensions української мови як ще однієї мови гри.
+- Dodana zminna v GameLocale uk_UA = 170, jaka jakraz taky beretjsja samoju lokalizacijeju;
+- Dodane značennja v GameLocaleExtensions ukraïnsjkoï movy jak ŝe odnijeï movy ğry.
 
 ![Contribution guidelines for this project](/TTS.png)

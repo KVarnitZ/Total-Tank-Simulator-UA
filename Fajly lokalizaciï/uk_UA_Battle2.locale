@@ -4,13 +4,13 @@
   <entries>
     <GameLocalizationEntry>
       <key>Project Pegasus</key>
-      <value>Проєкт «Пегас»</value>
+      <value>Projekt «Peğas»</value>
       <plurals />
       <comment>name of unit, usa clasified weapon </comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>FrenchNest</key>
-      <value>Французьке гніздо</value>
+      <value>Francuzjke ğnizdo</value>
       <plurals />
       <comment>name of unit, it is a machinegun placed inside a shelter looking like a bird nest </comment>
     </GameLocalizationEntry>
@@ -40,7 +40,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mine Field</key>
-      <value>Мінне поле</value>
+      <value>Minne pole</value>
       <plurals />
       <comment>name of unit, field filled with mines</comment>
     </GameLocalizationEntry>
@@ -52,43 +52,43 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Special Air Service</key>
-      <value>Спеціальна Авіаційна Служба</value>
+      <value>Specialjna Aviacijna Služba</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SAS</key>
-      <value>САС</value>
+      <value>SAS</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>French Foreign Legion</key>
-      <value>Французький Іноземний Легіон</value>
+      <value>Francuzjkyj Inozemnyj Leğion</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>FFL</key>
-      <value>ФІЛ</value>
+      <value>FIL</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Paratrooper</key>
-      <value>Десантник</value>
+      <value>Desantnyk</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Silent Unseen</key>
-      <value>Тихотемні</value>
+      <value>Tyxotemni</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Goliath Mine</key>
-      <value>Міна «Голіаф»</value>
+      <value>Mina «Ğoliaf»</value>
       <plurals />
       <comment>name of german unit, mine  </comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Universal Carrier</key>
-      <value>Універсальний транспортер</value>
+      <value>Universaljnyj transporter</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -111,43 +111,43 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Antonov A-40</key>
-      <value>Антонов А-40</value>
+      <value>Antonov A-40</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Su-76</key>
-      <value>СУ-76</value>
+      <value>SU-76</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SU100</key>
-      <value>СУ-100</value>
+      <value>SU-100</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GAZ-67</key>
-      <value>ГАЗ-67</value>
+      <value>ĞAZ-67</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>T-28</key>
-      <value>Т-28</value>
+      <value>T-28</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>T-34-85</key>
-      <value>Т-34-85</value>
+      <value>T-34-85</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>T-35</key>
-      <value>Т-35</value>
+      <value>T-35</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -159,43 +159,43 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SU-85</key>
-      <value>СУ-85</value>
+      <value>SU-85</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Katyusha multiple rocket launcher</key>
-      <value>Катюша</value>
+      <value>Katjuša</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>45mm AT M-42</key>
-      <value>AT M-42 45-мм</value>
+      <value>AT M-42 45-mm</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>76mm ZIS-2</key>
-      <value>ЗІС-2 76-мм</value>
+      <value>ZIS-2 76-mm</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>100 mm field gun M1944 (BS-3)</key>
-      <value>100-мм польова гармата M1944 (БС-3)</value>
+      <value>100-mm poljova ğarmata M1944 (BS-3)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>122 mm howitzer M1938 (M-30)</key>
-      <value>122-мм гаубиця M1938 (М-30)</value>
+      <value>122-mm ğaubycja M1938 (M-30)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>M1939 85mm</key>
-      <value>M1939 85-мм</value>
+      <value>M1939 85-mm</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -207,19 +207,19 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Su-14</key>
-      <value>Су-14</value>
+      <value>Su-14</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>LA-7</key>
-      <value>ЛА-7</value>
+      <value>LA-7</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Tupolev Tu-2</key>
-      <value>Туполєв Ту-2</value>
+      <value>Tupoljev Tu-2</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -267,7 +267,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>8.8 cm Pak 43</key>
-      <value>Pak 43 8,8-см</value>
+      <value>Pak 43 8,8-sm</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -279,7 +279,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>8.8cm Flak</key>
-      <value>Flak 8,8-см</value>
+      <value>Flak 8,8-sm</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -351,7 +351,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Heavy Tank T29</key>
-      <value>Важкий танк T29</value>
+      <value>Važkyj tank T29</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -363,7 +363,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>M103 Heavy Tank</key>
-      <value>Mil 103 Важкий</value>
+      <value>Mil 103 Važkyj</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -453,13 +453,13 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>105 mm M101A1 howitzer</key>
-      <value>M101A1 гаубиця 105-мм</value>
+      <value>M101A1 ğaubycja 105-mm</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>3 inch Gun M5</key>
-      <value>3-дюймова гармата M5</value>
+      <value>3-djujmova ğarmata M5</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -471,7 +471,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Bofors 40mm</key>
-      <value>Bofors 40-мм</value>
+      <value>Bofors 40-mm</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -495,7 +495,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>M32 Tank Recovery Vehicle</key>
-      <value>Танкова ремонтна машина M32</value>
+      <value>Tankova remontna mašyna M32</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -507,7 +507,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>T-20 Komsomolets</key>
-      <value>T-20 Комсомолець</value>
+      <value>T-20 Komsomolecj</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -663,19 +663,19 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Anti-air platform</key>
-      <value>Зенітна платформа</value>
+      <value>Zenitna platforma</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>AA platform</key>
-      <value>Зен. платформа</value>
+      <value>Zen. platforma</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Wall</key>
-      <value>Стіна</value>
+      <value>Stina</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -777,7 +777,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Disrupt Radar</key>
-      <value>Радар Tesla</value>
+      <value>Radar Tesla</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -789,7 +789,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Light Tank MK VI</key>
-      <value>Легкий танк MK VI</value>
+      <value>Leğkyj tank MK VI</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -849,7 +849,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Tupolev Ant-20</key>
-      <value>Туполєв АНТ-20</value>
+      <value>Tupoljev ANT-20</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -873,13 +873,13 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Land mine</key>
-      <value>Наземна міна</value>
+      <value>Nazemna mina</value>
       <plurals />
       <comment>mine that is placed in the ground </comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mine</key>
-      <value>Міна</value>
+      <value>Mina</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -890,27 +890,27 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>AA gun</key>
-      <value>Зенітка</value>
+      <value>Zenitka</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Cluster bomb</key>
-      <value>Касетна бомба</value>
+      <value>Kasetna bomba</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Pirate hook</key>
-      <value>Піратський гак</value>
+      <value>Piratsjkyj ğak</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Atomic Bomb</key>
-      <value>Атомна бомба</value>
+      <value>Atomna bomba</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mine spawner</key>
-      <value>Створювач мін</value>
+      <value>Stvorjuvač min</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -920,42 +920,42 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Luger</key>
-      <value>Люгер</value>
+      <value>Ljuğer</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Knife</key>
-      <value>Ніж</value>
+      <value>Niž</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Stielhandgrenade</key>
-      <value>Ручна граната M24</value>
+      <value>Ručna ğranata M24</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Medic Kit</key>
-      <value>Аптечка</value>
+      <value>Aptečka</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Molotov</key>
-      <value>Молотов</value>
+      <value>Molotov</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SVT40</key>
-      <value>СВТ-40</value>
+      <value>SVT-40</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>NagantM1895</key>
-      <value>Наган M1895</value>
+      <value>Nağan M1895</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>NR 40</key>
-      <value>НР-40</value>
+      <value>NR-40</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1000,7 +1000,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Force Weapon</key>
-      <value>Силова зброя</value>
+      <value>Sylova zbroja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1010,12 +1010,12 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kukri</key>
-      <value>Кукрі</value>
+      <value>Kukri</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mills Bomb</key>
-      <value>Граната Мілса</value>
+      <value>Ğranata Milsa</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1025,7 +1025,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Panzerfaust</key>
-      <value>Панцерфауст</value>
+      <value>Pancerfaust</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1035,22 +1035,22 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Throwing Knife</key>
-      <value>Метальний ніж</value>
+      <value>Metaljnyj niž</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>AS44</key>
-      <value>АС-44</value>
+      <value>AS-44</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>M1 Bazooka</key>
-      <value>M1 Базука</value>
+      <value>M1 Bazuka</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sticky Bomb</key>
-      <value>Липка граната</value>
+      <value>Lypka ğranata</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1060,22 +1060,22 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Cahuchat</key>
-      <value>Кулемет Шоша</value>
+      <value>Kulemet Šoša</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Browning</key>
-      <value>Браунінг</value>
+      <value>Brauninğ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Thompson</key>
-      <value>Томпсон</value>
+      <value>Tompson</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Blyskawica</key>
-      <value>Блискавиця</value>
+      <value>Blyskavycja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1085,7 +1085,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sten</key>
-      <value>Стен</value>
+      <value>Sten</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1115,12 +1115,12 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mosin Nagant</key>
-      <value>Мосіна-Нагана</value>
+      <value>Mosina-Nağana</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>TokarevTT</key>
-      <value>ТТ</value>
+      <value>TT</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1146,12 +1146,12 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PTR D41</key>
-      <value>ПТРД-41</value>
+      <value>PTRD-41</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Winchester</key>
-      <value>Вінчестер</value>
+      <value>Vinčester</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1167,12 +1167,12 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ROKS</key>
-      <value>РОКС</value>
+      <value>ROKS</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>M2 Flame</key>
-      <value>Вогнемет M2</value>
+      <value>Voğnemet M2</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1182,52 +1182,52 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PPSh</key>
-      <value>ППШ</value>
+      <value>PPŠ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kamikaze</key>
-      <value>Камікадзе</value>
+      <value>Kamikadze</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Saber</key>
-      <value>Шабля</value>
+      <value>Šablja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rocket launcher</key>
-      <value>Гранатомет</value>
+      <value>Ğranatomet</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Artillery cannon</key>
-      <value>Артилерійська гармата</value>
+      <value>Artylerijsjka ğarmata</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Smoke</key>
-      <value>Дим</value>
+      <value>Dym</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fire Art Cannon</key>
-      <value>Запалювальна арт. гармата</value>
+      <value>Zapaljuvaljna art. ğarmata</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>M Art Cannon</key>
-      <value>Рухома арт. гармата</value>
+      <value>Ruxoma art. ğarmata</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Bomb</key>
-      <value>Бомба</value>
+      <value>Bomba</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Little cannon</key>
-      <value>Маленька гармата</value>
+      <value>Malenjka ğarmata</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1238,7 +1238,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Chauchat</key>
-      <value>Кулемет Шоша</value>
+      <value>Kulemet Šoša</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -1477,24 +1477,24 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 97</key>
-      <value>Тип 97</value>
+      <value>Typ 97</value>
       <comment>Grenade weapon</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Shuriken</key>
-      <value>Шюрикен</value>
+      <value>Šjuryken</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Katana</key>
-      <value>Катана</value>
+      <value>Katana</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Artifact Katana</key>
-      <value>Мурамаса</value>
+      <value>Muramasa</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sumida M.2593</key>
-      <value>Sumida M.2593 (Тип 91)</value>
+      <value>Sumida M.2593 (Typ 91)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -1506,19 +1506,19 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>120mm AA Gun (Type 10)</key>
-      <value>Зенітка 120-мм (Тип 10)</value>
+      <value>Zenitka 120-mm (Typ 10)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 10</key>
-      <value>Тип 10</value>
+      <value>Typ 10</value>
       <plurals />
       <comment>short name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 3 Ka-Chi</key>
-      <value>Ka-Chi (Тип 3)</value>
+      <value>Ka-Chi (Typ 3)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -1530,55 +1530,55 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>75mm Field Gun (Type 90)</key>
-      <value>75-мм польова гармата (Тип 90)</value>
+      <value>75-mm poljova ğarmata (Typ 90)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 90</key>
-      <value>Тип 90</value>
+      <value>Typ 90</value>
       <plurals />
       <comment>short name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 93 (long)</key>
-      <value>Бронемашина (Тип 93)</value>
+      <value>Bronemašyna (Typ 93)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 93</key>
-      <value>Тип 93</value>
+      <value>Typ 93</value>
       <plurals />
       <comment>short name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 94 IJA Truck</key>
-      <value>Легкий японський танк (Тип 94)</value>
+      <value>Leğkyj japonsjkyj tank (Typ 94)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 94</key>
-      <value>Японський ЛТ</value>
+      <value>Japonsjkyj LT</value>
       <plurals />
       <comment>short name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>25mm AA Gun (Type 96)</key>
-      <value>Зенітка 25-мм (Тип 96)</value>
+      <value>Zenitka 25-mm (Typ 96)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 96</key>
-      <value>Тип 96</value>
+      <value>Typ 96</value>
       <plurals />
       <comment>short name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 98 Ke-Ni</key>
-      <value>Ke-Ni (Тип 98)</value>
+      <value>Ke-Ni (Typ 98)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -1590,19 +1590,19 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 95 Heavy Tank</key>
-      <value>Важкий танк (Тип 95)</value>
+      <value>Važkyj tank (Typ 95)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 95</key>
-      <value>Тип 95</value>
+      <value>Typ 95</value>
       <plurals />
       <comment>short name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Ninja</key>
-      <value>Ніндзя</value>
+      <value>Nindzja</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -1740,19 +1740,19 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 94 tankette long</key>
-      <value>Танкетка тип 94</value>
+      <value>Tanketka typ 94</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 94 tankette</key>
-      <value>Тип 94</value>
+      <value>Typ 94</value>
       <plurals />
       <comment>short name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Ho-Ro 4</key>
-      <value>Ho-Ro (Тип 4)</value>
+      <value>Ho-Ro (Typ 4)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -1764,19 +1764,19 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 91 heavy long</key>
-      <value>Важкий танк (Тип 91)</value>
+      <value>Važkyj tank (Typ 91)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 91 heavy</key>
-      <value>Тип 91</value>
+      <value>Typ 91</value>
       <plurals />
       <comment>short name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Ha-Go long</key>
-      <value>Ha-Go (Тип 95)</value>
+      <value>Ha-Go (Typ 95)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -1788,25 +1788,25 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 94 long with 10</key>
-      <value>Легкий японський танк (Тип 94) з зеніткою 120-мм (Тип 10)</value>
+      <value>Leğkyj japonsjkyj tank (Typ 94) z zenitkoju 120-mm (Typ 10)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 94 with 10</key>
-      <value>Легкий танк тип 10</value>
+      <value>Leğkyj tank typ 10</value>
       <plurals />
       <comment>short name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 94 long with 96</key>
-      <value>Легкий японський танк (Тип 94) з зеніткою 25-мм (Тип 96)</value>
+      <value>Leğkyj japonsjkyj tank (Typ 94) z zenitkoju 25-mm (Typ 96)</value>
       <plurals />
       <comment>name of unit, do not translate</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Type 94 with 96</key>
-      <value>Легкий танк тип 96</value>
+      <value>Leğkyj tank typ 96</value>
       <plurals />
       <comment>short name of unit, do not translate</comment>
     </GameLocalizationEntry>
@@ -1848,23 +1848,23 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Weapon_Type99_LMG</key>
-      <value>Тип 99</value>
+      <value>Typ 99</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Weapon_Type99_Rifle</key>
-      <value>Тип 99</value>
+      <value>Typ 99</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Weapon_Type100_Flamethrower</key>
-      <value>Тип 93</value>
+      <value>Typ 93</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Weapon_Type100_SMG</key>
-      <value>Тип 100</value>
+      <value>Typ 100</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Weapon_Type97_Sniper</key>
-      <value>Тип 97</value>
+      <value>Typ 97</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Weapon_Nambu</key>

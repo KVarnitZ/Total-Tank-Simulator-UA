@@ -5,317 +5,317 @@
     <GameLocalizationEntry>
       <key>Building Armour</key>
       <context>game.armour_type</context>
-      <value>Броня будівлі</value>
+      <value>Bronja budivli</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Car Armour</key>
       <context>game.armour_type</context>
-      <value>Броня транспорту</value>
+      <value>Bronja transportu</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>No Armour</key>
       <context>game.armour_type</context>
-      <value>Без броні</value>
+      <value>Bez broni</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Heavy Armour</key>
       <context>game.armour_type</context>
-      <value>Важка броня</value>
+      <value>Važka bronja</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Light Armour</key>
       <context>game.armour_type</context>
-      <value>Легка броня</value>
+      <value>Leğka bronja</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Medium Armour</key>
       <context>game.armour_type</context>
-      <value>Середня броня</value>
+      <value>Serednja bronja</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Standard Armour</key>
       <context>game.armour_type</context>
-      <value>Стандартна броня</value>
+      <value>Standartna bronja</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>TD Armour</key>
       <context>game.armour_type</context>
-      <value>Броня ВТ</value>
+      <value>Bronja VT</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Anti Air Weapon</key>
       <context>game.damage_type</context>
-      <value>Зенітна зброя</value>
+      <value>Zenitna zbroja</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Anti Infantry Weapon</key>
       <context>game.damage_type</context>
-      <value>Протипіхотна зброя</value>
+      <value>Protypixotna zbroja</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Artillery Weapon</key>
       <context>game.damage_type</context>
-      <value>Артилерійська зброя</value>
+      <value>Artylerijsjka zbroja</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Blade</key>
       <context>game.damage_type</context>
-      <value>Клинок</value>
+      <value>Klynok</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Bomb</key>
       <context>game.damage_type</context>
-      <value>Бомба</value>
+      <value>Bomba</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Explosive</key>
       <context>game.damage_type</context>
-      <value>Вибухівка</value>
+      <value>Vybuxivka</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Flame</key>
       <context>game.damage_type</context>
-      <value>Вогонь</value>
+      <value>Voğonj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Force Field</key>
       <context>game.damage_type</context>
-      <value>Силове поле</value>
+      <value>Sylove pole</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Heavy Weapon</key>
       <context>game.damage_type</context>
-      <value>Важка зброя</value>
+      <value>Važka zbroja</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Light Weapon</key>
       <context>game.damage_type</context>
-      <value>Легка зброя</value>
+      <value>Leğka zbroja</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Medium Weapon</key>
       <context>game.damage_type</context>
-      <value>Середня зброя</value>
+      <value>Serednja zbroja</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>TD Weapon</key>
       <context>game.damage_type</context>
-      <value>Зброя ВТ</value>
+      <value>Zbroja VT</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Infantry Weapon</key>
       <context>game.damage_type</context>
-      <value>Піхотна зброя</value>
+      <value>Pixotna zbroja</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Standard</key>
       <context>game.damage_type</context>
-      <value>Звичайна</value>
+      <value>Zvyčajna</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rocket</key>
       <context>game.damage_type</context>
-      <value>Ракетна</value>
+      <value>Raketna</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Bomber Weapon</key>
       <context>game.damage_type</context>
-      <value>Зброя бомбард.</value>
+      <value>Zbroja bombard.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Machinegun</key>
       <context>game.damage_type</context>
-      <value>Кулемет</value>
+      <value>Kulemet</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Capturing</key>
       <context>game.unitstate</context>
-      <value>Захоплює</value>
+      <value>Zaxopljuje</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Immobilized</key>
       <context>game.unitstate</context>
-      <value>Знерухомлений</value>
+      <value>Zneruxomlenyj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Drowning</key>
       <context>game.unitstate</context>
-      <value>Тоне</value>
+      <value>Tone</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Burning</key>
       <context>game.unitstate</context>
-      <value>Горить</value>
+      <value>Ğorytj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Paralysed</key>
       <context>game.unitstate</context>
-      <value>Паралізований</value>
+      <value>Paralizovanyj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Being repaired</key>
       <context>game.unitstate</context>
-      <value>Ремонтується</value>
+      <value>Remontujetjsja</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Pirating</key>
       <context>game.unitstate</context>
-      <value>Абордаж</value>
+      <value>Abordaž</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Atomic bomb</key>
       <context>game.unitstate</context>
-      <value>Атомна бомба</value>
+      <value>Atomna bomba</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{0}s</key>
-      <value>{0} сек.</value>
+      <value>{0} sek.</value>
       <comment>s for seconds</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>{0}m</key>
-      <value>{0} хв.</value>
+      <value>{0} xv.</value>
       <comment>m for meters</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You can't spawn more units</key>
-      <value>Ви не можете розташувати більше одиниць</value>
+      <value>Vy ne možete roztašuvaty biljše odynycj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Toggle units counturs</key>
-      <value>Перемикає відображення контурів одиниць</value>
+      <value>Peremykaje vidobražennja konturiv odynycj</value>
       <comment>tooltip on a button to toggle unit contours</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Toggle filter view</key>
-      <value>Перемикає фільтри</value>
+      <value>Peremykaje filjtry</value>
       <comment>tooltip on a button to toggle filters</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Show movement directions</key>
-      <value>Показує напрямок руху</value>
+      <value>Pokazuje naprjamok ruxu</value>
       <comment>tooltip on a button to show units movement arrows</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Show explosive shells indicators</key>
-      <value>Показує індикатор снарядів</value>
+      <value>Pokazuje indykator snarjadiv</value>
       <comment>tooltip on a button to show unit bullet (explosives) indicators</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>HP bars</key>
-      <value>Шкала здоров'я</value>
+      <value>Škala zdorov'ja</value>
       <comment>tooltip on a button to toggle health bars mode</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Don't draw health bars</key>
-      <value>Приховує шкалу здоров'я</value>
+      <value>Pryxovuje škalu zdorov'ja</value>
       <comment>tooltip on a button to disable drawing health bars</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Draw health bars for damaged units</key>
-      <value>Показує шкалу здоров'я пошкоджених одиниць</value>
+      <value>Pokazuje škalu zdorov'ja poškodženyx odynycj</value>
       <comment>tooltip on a button to draw health bars only for damaged units</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Always draw health bars</key>
-      <value>Показує шкали здоров'я всіх одиниць</value>
+      <value>Pokazuje škaly zdorov'ja vsix odynycj</value>
       <comment>tooltip on a button to always draw unit health bars</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Filters</key>
-      <value>Фільтри</value>
+      <value>Filjtry</value>
       <comment>tooltip on a button to toggle filters view</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Normal view</key>
-      <value>Звичайний режим</value>
+      <value>Zvyčajnyj režym</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unit groups view</key>
-      <value>Режим групи одиниць</value>
+      <value>Režym ğrupy odynycj</value>
       <comment>tooltip on a button to switch to unit groups view</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Military front lines view</key>
-      <value>Режим лінії фронту</value>
+      <value>Režym liniï frontu</value>
       <comment>tooltip on a button to show military front lines</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Toggle slow motion</key>
-      <value>Режим сповільненого руху</value>
+      <value>Režym spoviljnenoğo ruxu</value>
       <comment>tooltip on a button to toggle slow motion</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Press {0} to switch camera mode</key>
-      <value>Натисніть {0} для перемикання режиму камери</value>
+      <value>Natysnitj {0} dlja peremykannja režymu kamery</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Toggle camera modes</key>
-      <value>Перемкнути режим камери</value>
+      <value>Peremknuty režym kamery</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Slow motion: on</key>
-      <value>Сповільнений рух: увімк.</value>
+      <value>Spoviljnenyj rux: uvimk.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Slow motion: off</key>
-      <value>Сповільнений рух: вимк.</value>
+      <value>Spoviljnenyj rux: vymk.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unit contours: on</key>
-      <value>Контури одиниць: увімк.</value>
+      <value>Kontury odynycj: uvimk.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Unit contours: off</key>
-      <value>Контури одиниць: вимк.</value>
+      <value>Kontury odynycj: vymk.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Explosive shells indicators: on</key>
-      <value>Індикатори снарядів: увімк.</value>
+      <value>Indykatory snarjadiv: uvimk.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Explosive shells indicators: off</key>
-      <value>Індикатори снарядів: вимк.</value>
+      <value>Indykatory snarjadiv: vymk.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Target arrows: on</key>
-      <value>Індикатори прицілювання: увімк.</value>
+      <value>Indykatory pryciljuvannja: uvimk.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Target arrows: off</key>
-      <value>Індикатори прицілювання: вимк.</value>
+      <value>Indykatory pryciljuvannja: vymk.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Health bars: hidden</key>
-      <value>Шкали здоров'я: приховані</value>
+      <value>Škaly zdorov'ja: pryxovani</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Health bars: hidden if full</key>
-      <value>Шкали здоров'я: показувати для пошкоджених</value>
+      <value>Škaly zdorov'ja: pokazuvaty dlja poškodženyx</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Health bars: always shown</key>
-      <value>Шкали здоров'я: завжди показувати</value>
+      <value>Škaly zdorov'ja: zavždy pokazuvaty</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Filtered view: unit groups</key>
-      <value>Фільтр: групи одиниць</value>
+      <value>Filjtr: ğrupy odynycj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Filtered view: military front lines</key>
-      <value>Фільтр: лінія фронту</value>
+      <value>Filjtr: linija frontu</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Comparing {0} against other enemy units</key>
-      <value>Порівняння {0} та інших ворожих одиниць</value>
+      <value>Porivnjannja {0} ta inšyx vorožyx odynycj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Press {0} to unpause</key>
-      <value>Натисніть {0} аби продовжити</value>
+      <value>Natysnitj {0} aby prodovžyty</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Hold any key to skip</key>
-      <value>Утримуйте будь-яку клавішу аби пропустити</value>
+      <value>Utrymujte budj-jaku klavišu aby propustyty</value>
     </GameLocalizationEntry>
   </entries>
 </GameLocalization>

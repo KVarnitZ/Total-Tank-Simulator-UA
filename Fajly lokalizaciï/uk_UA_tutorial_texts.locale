@@ -5,589 +5,589 @@
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.Target.StartTheGame</key>
       <context>tutorial.texts</context>
-      <value>Почати гру</value>
+      <value>Počaty ğru</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.Target.ControlAnUnit</key>
       <context>tutorial.texts</context>
-      <value>Керувати артилерійською одиницею</value>
+      <value>Keruvaty artylerijsjkoju odynyceju</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.Target.FireTheCannon</key>
       <context>tutorial.texts</context>
-      <value>Зробити постріл з гармати</value>
+      <value>Zrobyty postril z ğarmaty</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.Target.EnterMapMode</key>
       <context>tutorial.texts</context>
-      <value>Вхід в артилерійський режим</value>
+      <value>Vxid v artylerijsjkyj režym</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.Target.ControlFireArtillery</key>
       <context>tutorial.texts</context>
-      <value>Керувати вогневою артилерією</value>
+      <value>Keruvaty voğnevoju artylerijeju</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.Target.ControlClusterArtillery</key>
       <context>tutorial.texts</context>
-      <value>Керувати касетною артилерією</value>
+      <value>Keruvaty kasetnoju artylerijeju</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.Target.ControlRocketArtillery</key>
       <context>tutorial.texts</context>
-      <value>Керувати реактивною артилерією</value>
+      <value>Keruvaty reaktyvnoju artylerijeju</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.Target.ControlSmokeArtillery</key>
       <context>tutorial.texts</context>
-      <value>Керувати димовою артилерією</value>
+      <value>Keruvaty dymovoju artylerijeju</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.State.ForThisTutorial</key>
       <context>tutorial.texts</context>
-      <value>Для цього навчання ми пропонуємо початковий бойовий набір з деякими вже розгорнутими одиницями.</value>
+      <value>Dlja cjoğo navčannja my proponujemo počatkovyj bojovyj nabir z dejakymy vže rozğornutymy odynycjamy.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.State.StartTheGame</key>
       <context>tutorial.texts</context>
-      <value>Почніть гру, коли ви будете готові.</value>
+      <value>Počnitj ğru, koly vy budete ğotovi.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.State.ManyTypes</key>
       <context>tutorial.texts</context>
-      <value>У грі є багато типів далекобійної артилерії, але більшість елементів управління у них спільні.</value>
+      <value>U ğri je bağato typiv dalekobijnoï artyleriï, ale biljšistj elementiv upravlinnja u nyx spiljni.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.State.InclinationAngle</key>
       <context>tutorial.texts</context>
-      <value>Артилерійська Оболонка містить додаткову інформацію, яка може допомогти при стрільбі на великі відстані. Однією з них є &lt;b&gt;кут нахилу&lt;/b&gt; гармати.</value>
+      <value>Artylerijsjka Obolonka mistytj dodatkovu informaciju, jaka može dopomoğty pry striljbi na velyki vidstani. Odnijeju z nyx je &lt;b&gt;kut naxylu&lt;/b&gt; ğarmaty.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.State.TheCameraWillFollow</key>
       <context>tutorial.texts</context>
-      <value>Після пострілу камера буде стежити за снарядом, допоки він не впаде на землю.</value>
+      <value>Pislja postrilu kamera bude stežyty za snarjadom, dopoky vin ne vpade na zemlju.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.State.DeltaAngles</key>
       <context>tutorial.texts</context>
-      <value>Це кут повороту/підйому гармати після останнього пострілу.</value>
+      <value>Ce kut povorotu/pidjomu ğarmaty pislja ostannjoğo postrilu.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.State.MapMode</key>
       <context>tutorial.texts</context>
-      <value>Другий спосіб прицілювання — використовувати &lt;b&gt;Режим Артилерії&lt;/b&gt;. Його можна увімкнути, натиснувши клавішу &lt;b&gt;M&lt;/b&gt;.</value>
+      <value>Druğyj sposib pryciljuvannja — vykorystovuvaty &lt;b&gt;Režym Artyleriï&lt;/b&gt;. Joğo možna uvimknuty, natysnuvšy klavišu &lt;b&gt;M&lt;/b&gt;.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.State.SwitchToOtherTypes</key>
       <context>tutorial.texts</context>
-      <value>Перейдіть до інших типів артилерії за допомогою клавіші &lt;b&gt;TAB&lt;/b&gt; або режиму вільного польоту.</value>
+      <value>Perejditj do inšyx typiv artyleriï za dopomoğoju klaviši &lt;b&gt;TAB&lt;/b&gt; abo režymu viljnoğo poljotu.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.Target.StartTheGame</key>
       <context>tutorial.texts</context>
-      <value>Почати гру</value>
+      <value>Počaty ğru</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.Target.ControlAnUnit</key>
       <context>tutorial.texts</context>
-      <value>Керувати одиницею</value>
+      <value>Keruvaty odynyceju</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.Target.SwitchTheWeapon</key>
       <context>tutorial.texts</context>
-      <value>Змінити зброю</value>
+      <value>Zminyty zbroju</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.Target.EnterSniperMode</key>
       <context>tutorial.texts</context>
-      <value>Увійти в снайперський режим</value>
+      <value>Uvijty v snajpersjkyj režym</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.Target.ShootTheCannon</key>
       <context>tutorial.texts</context>
-      <value>Вистрелити з гармати</value>
+      <value>Vystrelyty z ğarmaty</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.Target.HitSomething</key>
       <context>tutorial.texts</context>
-      <value>Влучити у щось</value>
+      <value>Vlučyty u ŝosj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.Target.ExitTheVehicle</key>
       <context>tutorial.texts</context>
-      <value>Залишити транспорт</value>
+      <value>Zalyšyty transport</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.Target.Jump</key>
       <context>tutorial.texts</context>
-      <value>Стрибнути</value>
+      <value>Strybnuty</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.Target.Crouch</key>
       <context>tutorial.texts</context>
-      <value>Присідки</value>
+      <value>Prysidky</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.Target.Crawl</key>
       <context>tutorial.texts</context>
-      <value>Повзти</value>
+      <value>Povzty</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.Target.ThrowGrenade</key>
       <context>tutorial.texts</context>
-      <value>Кинути гранату</value>
+      <value>Kynuty ğranatu</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.Target.UseKnife</key>
       <context>tutorial.texts</context>
-      <value>Використати ніж</value>
+      <value>Vykorystaty niž</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.State.ForThisTutorial</key>
       <context>tutorial.texts</context>
-      <value>Для цього навчання ми пропонуємо початковий бойовий набір з деякими вже розгорнутими одиницями.</value>
+      <value>Dlja cjoğo navčannja my proponujemo počatkovyj bojovyj nabir z dejakymy vže rozğornutymy odynycjamy.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.State.StartTheGame</key>
       <context>tutorial.texts</context>
-      <value>Почніть гру, коли ви будете готові.</value>
+      <value>Počnitj ğru, koly vy budete ğotovi.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.State.YouCanControl</key>
       <context>tutorial.texts</context>
-      <value>Окрім спостереження за боєм, ви також можете самостійно керувати одиницями. Для цього натисніть клавішу &lt;b&gt;Ctrl&lt;/b&gt;, вибравши одиницю, або клацніть &lt;b&gt;ПКМ&lt;/b&gt; в режимі вільного плавання.</value>
+      <value>Okrim sposterežennja za bojem, vy takož možete samostijno keruvaty odynycjamy. Dlja cjoğo natysnitj klavišu &lt;b&gt;Ctrl&lt;/b&gt;, vybravšy odynycju, abo klacnitj &lt;b&gt;PKM&lt;/b&gt; v režymi viljnoğo plavannja.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.State.NameHealthArmor</key>
       <context>tutorial.texts</context>
-      <value>Тут ви можете побачити назву контрольованої одиниці, її здоров'я та значення броні.</value>
+      <value>Tut vy možete pobačyty nazvu kontroljovanoï odynyci, ïï zdorov'ja ta značennja broni.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.State.MiniMap</key>
       <context>tutorial.texts</context>
-      <value>У правому верхньому куті екрану знаходиться міні-мапа, яка показує положення ближніх одиниць.</value>
+      <value>U pravomu verxnjomu kuti ekranu znaxodytjsja mini-mapa, jaka pokazuje položennja blyžnix odynycj.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.State.CurrentWeapon</key>
       <context>tutorial.texts</context>
-      <value>У правому нижньому куті показується поточна зброя. Використовуйте клавіші &lt;b&gt;Q&lt;/b&gt;/&lt;b&gt;E&lt;/b&gt; для перемикання між зброєю.</value>
+      <value>U pravomu nyžnjomu kuti pokazujetjsja potočna zbroja. Vykorystovujte klaviši &lt;b&gt;Q&lt;/b&gt;/&lt;b&gt;E&lt;/b&gt; dlja peremykannja miž zbrojeju.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.State.YouControlMovement</key>
       <context>tutorial.texts</context>
-      <value>Коли біля зброї є &lt;b&gt;значок керма&lt;/b&gt;, ви контролюєте рух транспортного засобу. В іншому випадку керування транспортним засобом бере на себе ШІ.</value>
+      <value>Koly bilja zbroï je &lt;b&gt;značok kerma&lt;/b&gt;, vy kontroljujete rux transportnoğo zasobu. V inšomu vypadku keruvannja transportnym zasobom bere na sebe ŠI.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.State.ScopeAndFire</key>
       <context>tutorial.texts</context>
-      <value>Ви можете увійти в режим прицілу, натиснувши &lt;b&gt;Shift&lt;/b&gt;. Для пострілу натисність &lt;b&gt;ЛКМ&lt;/b&gt;.</value>
+      <value>Vy možete uvijty v režym prycilu, natysnuvšy &lt;b&gt;Shift&lt;/b&gt;. Dlja postrilu natysnistj &lt;b&gt;LKM&lt;/b&gt;.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.State.ExitTheVehicle</key>
       <context>tutorial.texts</context>
-      <value>Ви можете вийти з керованого транспортного засобу, натиснувши клавішу &lt;b&gt;Пробіл&lt;/b&gt;. Більшість одиниць у грі мають екіпажі.</value>
+      <value>Vy možete vyjty z kerovanoğo transportnoğo zasobu, natysnuvšy klavišu &lt;b&gt;Probil&lt;/b&gt;. Biljšistj odynycj u ğri majutj ekipaži.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.State.InfantryControls</key>
       <context>tutorial.texts</context>
-      <value>Стрибайте, натискаючи &lt;b&gt;Пробіл&lt;/b&gt;. Крадіться, натискаючи &lt;b&gt;C&lt;/b&gt;. Повзіть, натискаючи &lt;b&gt;X&lt;/b&gt;.</value>
+      <value>Strybajte, natyskajučy &lt;b&gt;Probil&lt;/b&gt;. Kraditjsja, natyskajučy &lt;b&gt;C&lt;/b&gt;. Povzitj, natyskajučy &lt;b&gt;X&lt;/b&gt;.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ControlTutorialScenario.State.InfantryAttack</key>
       <context>tutorial.texts</context>
-      <value>Кидайте гранату, натиснувши &lt;b&gt;G&lt;/b&gt;. Використовуйте ніж, натиснувши &lt;b&gt;F&lt;/b&gt;.</value>
+      <value>Kydajte ğranatu, natysnuvšy &lt;b&gt;G&lt;/b&gt;. Vykorystovujte niž, natysnuvšy &lt;b&gt;F&lt;/b&gt;.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.BattleArena</key>
       <context>tutorial.texts</context>
-      <value>Це бойова арена.</value>
+      <value>Ce bojova arena.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.SidesOfTheConflict</key>
       <context>tutorial.texts</context>
-      <value>У цьому режимі гри є дві сторони конфлікту.</value>
+      <value>U cjomu režymi ğry je dvi storony konfliktu.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.EachSideHas</key>
       <context>tutorial.texts</context>
-      <value>Кожна сторона має свою зону появи.</value>
+      <value>Kožna storona maje svoju zonu pojavy.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.SelectASide</key>
       <context>tutorial.texts</context>
-      <value>У будь-який момент під час розгортання ви можете вибрати сторону, на якій хочете з'явитися, &lt;b&gt;клацнувши&lt;/b&gt; на зоні появи або назві нації.</value>
+      <value>U budj-jakyj moment pid čas rozğortannja vy možete vybraty storonu, na jakij xočete z'javytysja, &lt;b&gt;klacnuvšy&lt;/b&gt; na zoni pojavy abo nazvi naciï.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.SelectAnUnit</key>
       <context>tutorial.texts</context>
-      <value>Кожна нація має унікальний набір одиниць.</value>
+      <value>Kožna nacija maje unikaljnyj nabir odynycj.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.SpawnAnUnit</key>
       <context>tutorial.texts</context>
-      <value>Ви можете створити вибрану одиницю всередині зони створення.</value>
+      <value>Vy možete stvoryty vybranu odynycju vseredyni zony stvorennja.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.POI1</key>
       <context>tutorial.texts</context>
-      <value>На кожній мапі позначені різні точки інтересу, які відмічені рухомими червоними стрілками.</value>
+      <value>Na kožnij mapi poznačeni rizni točky interesu, jaki vidmičeni ruxomymy červonymy strilkamy.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.POI2</key>
       <context>tutorial.texts</context>
-      <value>ШІ буде намагатися взяти під контроль ці точки під час бою. Ви можете використовувати цю інформацію, щоб відповідно розміщувати свої одиниці.</value>
+      <value>ŠI bude namağatysja vzjaty pid kontrolj ci točky pid čas boju. Vy možete vykorystovuvaty cju informaciju, ŝob vidpovidno rozmiŝuvaty svoï odynyci.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.ClearButtons</key>
       <context>tutorial.texts</context>
-      <value>За допомогою цих кнопок ви можете прибрати всі одиниці або одиниці вибраної сторони.</value>
+      <value>Za dopomoğoju cyx knopok vy možete prybraty vsi odynyci abo odynyci vybranoï storony.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.NeutralUnits</key>
       <context>tutorial.texts</context>
-      <value>За допомогою цієї кнопки ви можете створити нейтральні одиниці без екіпажу — перша команда, яка їх захопить, отримає перевагу.</value>
+      <value>Za dopomoğoju cijeï knopky vy možete stvoryty nejtraljni odynyci bez ekipažu — perša komanda, jaka ïx zaxopytj, otrymaje perevağu.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.RotateCamera</key>
       <context>tutorial.texts</context>
-      <value>Ви можете переміщати та нахиляти камеру за допомогою &lt;b&gt;ПКМ&lt;/b&gt;.</value>
+      <value>Vy možete peremiŝaty ta naxyljaty kameru za dopomoğoju &lt;b&gt;PKM&lt;/b&gt;.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.MoveCamera</key>
       <context>tutorial.texts</context>
-      <value>Ви також можете переміщати камеру за допомогою &lt;b&gt;W/A/S/D&lt;/b&gt; та &lt;b&gt;Q/E&lt;/b&gt; клавішами.</value>
+      <value>Vy takož možete peremiŝaty kameru za dopomoğoju &lt;b&gt;W/A/S/D&lt;/b&gt; ta &lt;b&gt;Q/E&lt;/b&gt; klavišamy.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.UnitCategories</key>
       <context>tutorial.texts</context>
-      <value>Існує набагато більше типів одиниць, окрім танків — вони згруповані за категоріями нижче.</value>
+      <value>Isnuje nabağato biljše typiv odynycj, okrim tankiv — vony zğrupovani za kateğorijamy nyžče.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.Queue1</key>
       <context>tutorial.texts</context>
-      <value>Тут ви можете додати одиниці в чергу створення.</value>
+      <value>Tut vy možete dodaty odynyci v čerğu stvorennja.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.Queue2</key>
       <context>tutorial.texts</context>
-      <value>Черга є циклічною. Вона не закінчиться, доки не буде знищено створювач.</value>
+      <value>Čerğa je cykličnoju. Vona ne zakinčytjsja, doky ne bude znyŝeno stvorjuvač.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.Planes</key>
       <context>tutorial.texts</context>
-      <value>Літаючі одиниці з'являються в повітрі.</value>
+      <value>Litajuči odynyci z'javljajutjsja v povitri.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.Spawners</key>
       <context>tutorial.texts</context>
-      <value>Фабрики, казарми та авіабази — це спеціальні одиниці, які можуть створювати інші одиниці.</value>
+      <value>Fabryky, kazarmy ta aviabazy — ce specialjni odynyci, jaki možutj stvorjuvaty inši odynyci.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.YouCanRotate</key>
       <context>tutorial.texts</context>
-      <value>Ви можете обертати створену одиницю за допомогою клавіш &lt;b&gt;&lt;&lt;/b&gt;/&lt;b&gt;&gt;&lt;/b&gt; keys (&lt;b&gt;кома&lt;/b&gt; та &lt;b&gt;крапка&lt;/b&gt; на клавіатурі).</value>
+      <value>Vy možete obertaty stvorenu odynycju za dopomoğoju klaviš &lt;b&gt;&lt;&lt;/b&gt;/&lt;b&gt;&gt;&lt;/b&gt; keys (&lt;b&gt;koma&lt;/b&gt; ta &lt;b&gt;krapka&lt;/b&gt; na klaviaturi).</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.Target.SelectASide</key>
       <context>tutorial.texts</context>
-      <value>Оберіть сторону</value>
+      <value>Oberitj storonu</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.Target.SelectAnUnit</key>
       <context>tutorial.texts</context>
-      <value>Оберіть одиницю</value>
+      <value>Oberitj odynycju</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.Target.SpawnAnUnit</key>
       <context>tutorial.texts</context>
-      <value>Створіть одиницю</value>
+      <value>Stvoritj odynycju</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.Target.SpawnGermans</key>
       <context>tutorial.texts</context>
-      <value>Створіть 10 німецьких одиниць</value>
+      <value>Stvoritj 10 nimecjkyx odynycj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.Target.SpawnSoviets</key>
       <context>tutorial.texts</context>
-      <value>Створіть 10 радянських одиниць</value>
+      <value>Stvoritj 10 radjansjkyx odynycj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.Target.PlaceInfantry</key>
       <context>tutorial.texts</context>
-      <value>Розставте піхоту</value>
+      <value>Rozstavte pixotu</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.Target.PlaceAPlane</key>
       <context>tutorial.texts</context>
-      <value>Розмістіть літак</value>
+      <value>Rozmistitj litak</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.Target.PlaceASpawner</key>
       <context>tutorial.texts</context>
-      <value>Поставте фабрику, авіабазу або казарму</value>
+      <value>Postavte fabryku, aviabazu abo kazarmu</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.Target.PlaceNeutral</key>
       <context>tutorial.texts</context>
-      <value>Розмістіть нейтральні одиниці</value>
+      <value>Rozmistitj nejtraljni odynyci</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.Target.RotateCamera</key>
       <context>tutorial.texts</context>
-      <value>Поверніть камеру</value>
+      <value>Povernitj kameru</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.Target.MoveCamera</key>
       <context>tutorial.texts</context>
-      <value>Рухайте камеру</value>
+      <value>Ruxajte kameru</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.ForThisTutorial</key>
       <context>tutorial.texts</context>
-      <value>Для цього навчання ми пропонуємо початковий бойовий набір з деякими вже розгорнутими одиницями.</value>
+      <value>Dlja cjoğo navčannja my proponujemo počatkovyj bojovyj nabir z dejakymy vže rozğornutymy odynycjamy.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.StartTheGame</key>
       <context>tutorial.texts</context>
-      <value>Почніть гру, коли ви будете готові.</value>
+      <value>Počnitj ğru, koly vy budete ğotovi.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.MissionObjective</key>
       <context>tutorial.texts</context>
-      <value>Ось завдання на поточну місію.</value>
+      <value>Osj zavdannja na potočnu misiju.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.TeamBars</key>
       <context>tutorial.texts</context>
-      <value>Ці смуги відображають суму значень здоров'я та броні всіх юнітів кожної команди. Коли смуга команди досягає нуля, вона програє.</value>
+      <value>Ci smuğy vidobražajutj sumu značenj zdorov'ja ta broni vsix junitiv kožnoï komandy. Koly smuğa komandy dosjağaje nulja, vona proğraje.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.ObserveAnUnit</key>
       <context>tutorial.texts</context>
-      <value>Ви можете прикріпити камеру до одиниці, навівши на неї курсор та натиснувши &lt;b&gt;ЛКМ&lt;/b&gt;.</value>
+      <value>Vy možete prykripyty kameru do odynyci, navivšy na neï kursor ta natysnuvšy &lt;b&gt;LKM&lt;/b&gt;.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.SwitchTheUnit</key>
       <context>tutorial.texts</context>
-      <value>Ви можете слідкувати за конкретними одиницями та перемикати камеру між ними, натискаючи TAB.</value>
+      <value>Vy možete slidkuvaty za konkretnymy odynycjamy ta peremykaty kameru miž nymy, natyskajučy TAB.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.Zoom</key>
       <context>tutorial.texts</context>
-      <value>Ви можете наблизити камеру за допомогою &lt;b&gt;коліщатка миші&lt;/b&gt;.</value>
+      <value>Vy možete nablyzyty kameru za dopomoğoju &lt;b&gt;koliŝatka myši&lt;/b&gt;.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.CameraModes</key>
       <context>tutorial.texts</context>
-      <value>Є 3 режими камери: тактичний, стратегічний і кінематографічний. Ви можете перемикатися між ними за допомогою клавіші &lt;b&gt;Backspace&lt;/b&gt;. У тактичному режимі рух камери прив'язаний до миші.</value>
+      <value>Je 3 režymy kamery: taktyčnyj, strateğičnyj i kinematoğrafičnyj. Vy možete peremykatysja miž nymy za dopomoğoju klaviši &lt;b&gt;Backspace&lt;/b&gt;. U taktyčnomu režymi rux kamery pryv'jazanyj do myši.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.StrategicCamera</key>
       <context>tutorial.texts</context>
-      <value>У стратегічному режимі курсор миші видно, а камера працює аналогічно до фази розгортання.</value>
+      <value>U strateğičnomu režymi kursor myši vydno, a kamera pracjuje analoğično do fazy rozğortannja.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.CinematicCamera</key>
       <context>tutorial.texts</context>
-      <value>У кінематографічному режимі більшість елементів Оболочки не показуються.</value>
+      <value>U kinematoğrafičnomu režymi biljšistj elementiv Oboločky ne pokazujutjsja.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.Target.StartTheGame</key>
       <context>tutorial.texts</context>
-      <value>Почати гру</value>
+      <value>Počaty ğru</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.Target.PointTheCamera</key>
       <context>tutorial.texts</context>
-      <value>Наведіть камеру на одиницю</value>
+      <value>Naveditj kameru na odynycju</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.Target.ObserveAnUnit</key>
       <context>tutorial.texts</context>
-      <value>Спостерігайте за одиницею</value>
+      <value>Sposteriğajte za odynyceju</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.Target.SwitchTheUnit</key>
       <context>tutorial.texts</context>
-      <value>Переключіть одиницю</value>
+      <value>Pereključitj odynycju</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.Target.ZoomTheView</key>
       <context>tutorial.texts</context>
-      <value>Наблизьте вид</value>
+      <value>Nablyzjte vyd</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.Target.ChangeCameraStrategic</key>
       <context>tutorial.texts</context>
-      <value>Змініть режим камери на стратегічний</value>
+      <value>Zminitj režym kamery na strateğičnyj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.Target.ChangeCameraCinematic</key>
       <context>tutorial.texts</context>
-      <value>Змініть режим камери на кінематографічний</value>
+      <value>Zminitj režym kamery na kinematoğrafičnyj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.Target.ChangeCameraTactical</key>
       <context>tutorial.texts</context>
-      <value>Змініть режим камери на тактичний</value>
+      <value>Zminitj režym kamery na taktyčnyj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.UnitStrengthOverlay</key>
       <context>tutorial.texts</context>
-      <value>Щоб допомогти вам вибрати правильну одиницю, ви можете скористатися шаром сили одиниць.</value>
+      <value>Ŝob dopomoğty vam vybraty pravyljnu odynycju, vy možete skorystatysja šarom syly odynycj.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.UnitStrengthOverlay2</key>
       <context>tutorial.texts</context>
-      <value>Також одиниці забарвлюються відповідно до їхньої сили відносно вибраної одиниці: зелені одиниці є (приблизно) слабшими, червоні — сильнішими.</value>
+      <value>Takož odynyci zabarvljuutjsja vidpovidno do ïxnjoï syly vidnosno vybranoï odynyci: zeleni odynyci je (pryblyzno) slabšymy, červoni — syljnišymy.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.UnitStrengthOverlay3</key>
       <context>tutorial.texts</context>
-      <value>Враховується тип броні та зброї кожної одиниці, а також її здоров'я та очки броні.</value>
+      <value>Vraxovujetjsja typ broni ta zbroï kožnoï odynyci, a takož ïï zdorov'ja ta očky broni.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeploymentTutorialScenario.State.UnitStrengthOverlay4</key>
       <context>tutorial.texts</context>
-      <value>Ви можете отримати більш детальну інформацію, навівши курсор на одиницю. Вибрані та вказані одиниці будуть безпосередньо порівняні між собою.</value>
+      <value>Vy možete otrymaty biljš detaljnu informaciju, navivšy kursor na odynycju. Vybrani ta vkazani odynyci budutj bezposerednjo porivnjani miž soboju.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.HUDFunctions</key>
       <context>tutorial.texts</context>
-      <value>Різні функції Оболонки можна вмикати та вимикати за потреби.</value>
+      <value>Rizni funkciï Obolonky možna vmykaty ta vymykaty za potreby.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.UnitContours</key>
       <context>tutorial.texts</context>
-      <value>Тут можна ввімкнути або вимкнути відображення контурів одиниць.</value>
+      <value>Tut možna vvimknuty abo vymknuty vidobražennja konturiv odynycj.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.MovementArrows</key>
       <context>tutorial.texts</context>
-      <value>Це дозволяє відображати стрілки, що вказують напрямок руху одиниць (стрільби, у випадку артилерії).</value>
+      <value>Ce dozvoljaje vidobražaty strilky, ŝo vkazujutj naprjamok ruxu odynycj (striljby, u vypadku artyleriï).</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.BulletIndicators</key>
       <context>tutorial.texts</context>
-      <value>За допомогою цієї кнопки ви можете ввімкнути або вимкнути відображення підсвітку снарядів. Кожен артилерійський снаряд, граната або бомба будуть позначені колом. Це може бути корисно, коли ви дивитеся гру здалеку.</value>
+      <value>Za dopomoğoju cijeï knopky vy možete vvimknuty abo vymknuty vidobražennja pidsvitku snarjadiv. Kožen artylerijsjkyj snarjad, ğranata abo bomba budutj poznačeni kolom. Ce može buty korysno, koly vy dyvytesja ğru zdaleku.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.HPBars</key>
       <context>tutorial.texts</context>
-      <value>Тут ви можете змінити спосіб відображення смуг здоров'я - доступно 3 режими. Перший режим - смуги не відображаються взагалі. У другому режимі смуга здоров'я відображається, якщо одиниця пошкоджена - це режим за замовчуванням. У третьому режимі смуги завжди видимі.</value>
+      <value>Tut vy možete zminyty sposib vidobražennja smuğ zdorov'ja - dostupno 3 režymy. Peršyj režym - smuğy ne vidobražajutjsja vzağali. U druğomu režymi smuğa zdorov'ja vidobražajetjsja, jakŝo odynycja poškodžena - ce režym za zamovčuvannjam. U tretjomu režymi smuğy zavždy vydymi.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.Filters</key>
       <context>tutorial.texts</context>
-      <value>Ось ще один інструмент, який допоможе вам побачити, що відбувається. Карта забарвлюється кольорами, показуючи, хто контролює більшу територію.</value>
+      <value>Osj ŝe odyn instrument, jakyj dopomože vam pobačyty, ŝo vidbuvajetjsja. Karta zabarvljujetjsja koljoramy, pokazujučy, xto kontroljuje biljšu terytoriju.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.SlowMotion</key>
       <context>tutorial.texts</context>
-      <value>Ця кнопка вмикає сповільнення часу.</value>
+      <value>Cja knopka vmykaje spoviljnennja času.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.Target.SelectAnUnit</key>
       <context>tutorial.texts</context>
-      <value>Обрати одиницю</value>
+      <value>Obraty odynycju</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.SelectAnUnit</key>
       <context>tutorial.texts</context>
-      <value>Ви можете вибрати одиницю, клацнувши на ній лівою кнопкою миші.</value>
+      <value>Vy možete vybraty odynycju, klacnuvšy na nij livoju knopkoju myši.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.State.UnitInfoBox</key>
       <context>tutorial.texts</context>
-      <value>У цьому вікні відображається різноманітна інформація про вибрану одиницю.</value>
+      <value>U cjomu vikni vidobražajetjsja riznomanitna informacija pro vybranu odynycju.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.Target.PressTab</key>
       <context>tutorial.texts</context>
-      <value>Натисніть TAB</value>
+      <value>Natysnitj TAB</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BattleTutorialScenario.Target.PressTabTwice</key>
       <context>tutorial.texts</context>
-      <value>Натисніть TAB ще раз</value>
+      <value>Natysnitj TAB ŝe raz</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ARTILLERY TUTORIAL FINISHED</key>
       <context>tutorial</context>
-      <value>НАВЧАННЯ АРТИЛЕРІЇ ЗАКІНЧЕНО</value>
+      <value>NAVČANNJA ARTYLERIÏ ZAKINČENO</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Go to main menu</key>
       <context>tutorial.button</context>
-      <value>До меню</value>
+      <value>Do menju</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Watch the game</key>
       <context>tutorial.button</context>
-      <value>Дивитися гру</value>
+      <value>Dyvytysja ğru</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BATTLE TUTORIAL FINISHED</key>
       <context>tutorial</context>
-      <value>БОЙОВЕ НАВЧАННЯ ЗАКІНЧЕНО</value>
+      <value>BOJOVE NAVČANNJA ZAKINČENO</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>CONTROL TUTORIAL FINISHED</key>
       <context>tutorial</context>
-      <value>НАВЧАННЯ КЕРУВАННЮ ЗАКІНЧЕНО</value>
+      <value>NAVČANNJA KERUVANNJU ZAKINČENO</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Back to game</key>
       <context>tutorial.button</context>
-      <value>До гри</value>
+      <value>Do ğry</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DEPLOYMENT TUTORIAL FINISHED</key>
       <context>tutorial</context>
-      <value>НАВЧАННЯ РОЗМІЩЕННЮ ЗАКІНЧЕНО</value>
+      <value>NAVČANNJA ROZMIŜENNJU ZAKINČENO</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>OFFICER TUTORIAL FINISHED</key>
       <context>tutorial</context>
-      <value>ОФІЦЕРСЬКЕ НАВЧАННЯ ЗАКІНЧЕНО</value>
+      <value>OFICERSJKE NAVČANNJA ZAKINČENO</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DRAW</key>
-      <value>НІЧИЯ</value>
+      <value>NIČYJA</value>
       <comment>draw/tie</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Click to skip</key>
-      <value>Натисніть для продовження</value>
+      <value>Natysnitj dlja prodovžennja</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>The game is paused</key>
-      <value>Гра на паузі</value>
+      <value>Ğra na pauzi</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Damage is disabled</key>
-      <value>Шкоду відключено</value>
+      <value>Škodu vidključeno</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.State.FireArtillery</key>
       <context>tutorial.texts</context>
-      <value>Це вогнева артилерія. Вибух снаряда підпалить уражені одиниці.</value>
+      <value>Ce voğneva artylerija. Vybux snarjada pidpalytj uraženi odynyci.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.State.ClusterArtillery</key>
       <context>tutorial.texts</context>
-      <value>Це касетна артилерія. При вибуху снаряд випускає менші бомби.</value>
+      <value>Ce kasetna artylerija. Pry vybuxu snarjad vypuskaje menši bomby.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.State.DisableControl</key>
       <context>tutorial.texts</context>
-      <value>Щоби змінити одиницю, ви маєти вийти з режиму керування одиницею, натиснувши Ctrl або Esc.</value>
+      <value>Ŝoby zminyty odynycju, vy majety vyjty z režymu keruvannja odynyceju, natysnuvšy Ctrl abo Esc.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ArtilleryTutorialScenario.Target.DisableControl</key>
       <context>tutorial.texts</context>
-      <value>Вийти з режиму керування одиницею</value>
+      <value>Vyjty z režymu keruvannja odynyceju</value>
     </GameLocalizationEntry>
   </entries>
 </GameLocalization>

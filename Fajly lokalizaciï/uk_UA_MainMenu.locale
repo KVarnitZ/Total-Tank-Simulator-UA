@@ -4,438 +4,438 @@
   <entries>
     <GameLocalizationEntry>
       <key>Continue</key>
-      <value>Продовжити</value>
+      <value>Prodovžyty</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Cancel</key>
-      <value>Відмінити</value>
+      <value>Vidminyty</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Exit</key>
-      <value>Вийти</value>
+      <value>Vyjty</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>VIP MISSION CREATOR</key>
-      <value>ТВОРЕЦЬ ОСОБЛИВИХ МІСІЙ</value>
+      <value>TVORECJ OSOBLYVYX MISIJ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Easy</key>
-      <value>Легко</value>
+      <value>Leğko</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Start</key>
-      <value>Почати</value>
+      <value>Počaty</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Back</key>
-      <value>Назад</value>
+      <value>Nazad</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>WAVE MISSION CREATOR</key>
-      <value>ТВОРЕЦЬ МІСІЙ З ХВИЛЯМИ</value>
+      <value>TVORECJ MISIJ Z XVYLJAMY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>new game</key>
-      <value>нова гра</value>
+      <value>nova ğra</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Options</key>
-      <value>Параметри</value>
+      <value>Parametry</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Reset bindings</key>
-      <value>Відновити призначення клавіш</value>
+      <value>Vidnovyty pryznačennja klaviš</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>LOAD</key>
-      <value>ЗАВАНТАЖИТИ</value>
+      <value>ZAVANTAŽYTY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SAVE</key>
-      <value>ЗБЕРЕГТИ</value>
+      <value>ZBEREĞTY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>profiles</key>
-      <value>профілі</value>
+      <value>profili</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>back</key>
-      <value>назад</value>
+      <value>nazad</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Credits</key>
-      <value>Титри</value>
+      <value>Tytry</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Shadow</key>
-      <value>Бій з Тінню</value>
+      <value>Bij z Tinnju</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Stats editor</key>
-      <value>Редактор характеристик</value>
+      <value>Redaktor xarakterystyk</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>FRANCE</key>
-      <value>ФРАНЦІЯ</value>
+      <value>FRANCIJA</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>continue</key>
-      <value>продовжити</value>
+      <value>prodovžyty</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Campaign</key>
-      <value>Кампанія</value>
+      <value>Kampanija</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>LOAD PRESET</key>
-      <value>ЗАВАНТАЖИТИ ШАБЛОНИ</value>
+      <value>ZAVANTAŽYTY ŠABLONY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>WINTER</key>
-      <value>ЗИМА</value>
+      <value>ZYMA</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SHOW ALL</key>
-      <value>УСІ</value>
+      <value>USI</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>OPTIONS</key>
-      <value>ПАРАМЕТРИ</value>
+      <value>PARAMETRY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PLAYERS:</key>
-      <value>ГРАВЦІ:</value>
+      <value>ĞRAVCI:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Section Name</key>
-      <value>Назва Розділу</value>
+      <value>Nazva Rozdilu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SOUND:</key>
-      <value>ЗВУК:</value>
+      <value>ZVUK:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>CONTROL:</key>
-      <value>КЕРУВАННЯ:</value>
+      <value>KERUVANNJA:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>LOCALIZATION:</key>
-      <value>МОВА:</value>
+      <value>MOVA:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GAMEPLAY:</key>
-      <value>ІГРОЛАД:</value>
+      <value>IĞROLAD:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>RANDOM MAP NAME</key>
-      <value>ВИПАДКОВА НАЗВА МАПИ</value>
+      <value>VYPADKOVA NAZVA MAPY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GRAPHICS:</key>
-      <value>ЗОБРАЖЕННЯ:</value>
+      <value>ZOBRAŽENNJA:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PICK RANDOM MAP</key>
-      <value>ОБРАТИ ВИПАДКОВУ МАПУ</value>
+      <value>OBRATY VYPADKOVU MAPU</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>MAPS:</key>
-      <value>МАПИ:</value>
+      <value>MAPY:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Music</key>
-      <value>Музика</value>
+      <value>Muzyka</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Random map name</key>
-      <value>Випадкова назва мапи</value>
+      <value>Vypadkova nazva mapy</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BINDING:</key>
-      <value>ПРИЗНАЧЕННЯ КЛАВІШ:</value>
+      <value>PRYZNAČENNJA KLAVIŠ:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>TIME &amp; FUNDS:</key>
-      <value>ЧАС ТА КОШТИ:</value>
+      <value>ČAS TA KOŠTY:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Language</key>
-      <value>Мова</value>
+      <value>Mova</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mouse sensitivity</key>
-      <value>Чутливість миші</value>
+      <value>Čutlyvistj myši</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Invert X axis</key>
-      <value>Інвертувати за віссю X</value>
+      <value>Invertuvaty za vissju X</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Invert Y axis</key>
-      <value>Інвертувати за віссю Y</value>
+      <value>Invertuvaty za vissju Y</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>random</key>
-      <value>випадково</value>
+      <value>vypadkovo</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Enemy (waves) slot:</key>
-      <value>Ворожа комірка (waves):</value>
+      <value>Voroža komirka (waves):</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Player slot:</key>
-      <value>Гравцева комірка:</value>
+      <value>Ğravceva komirka:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Effects</key>
-      <value>Ефекти</value>
+      <value>Efekty</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Volume</key>
-      <value>Гучність</value>
+      <value>Ğučnistj</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Voices</key>
-      <value>Голоси</value>
+      <value>Ğolosy</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>English</key>
-      <value>Англійська</value>
+      <value>Anğlijsjka</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>CAMPAIGN</key>
-      <value>КАМПАНІЯ</value>
+      <value>KAMPANIJA</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>NEW GAME</key>
-      <value>НОВА ГРА</value>
+      <value>NOVA ĞRA</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>CONTINUE</key>
-      <value>ПРОДОВЖИТИ</value>
+      <value>PRODOVŽYTY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SHADOW</key>
-      <value>БІЙ З ТІННЮ</value>
+      <value>BIJ Z TINNJU</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>EXIT</key>
-      <value>ВИХІД</value>
+      <value>VYXID</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>RESET BINDINGS</key>
-      <value>ВІДНОВИТИ ПРИЗНАЧЕННЯ КЛАВІШ</value>
+      <value>VIDNOVYTY PRYZNAČENNJA KLAVIŠ</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PROFILES</key>
-      <value>ПРОФІЛІ</value>
+      <value>PROFILI</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>START</key>
-      <value>ПОЧАТИ</value>
+      <value>POČATY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>STATS EDITOR</key>
-      <value>РЕДАКТОР ХАРАКТЕРИСТИК</value>
+      <value>REDAKTOR XARAKTERYSTYK</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BACK</key>
-      <value>НАЗАД</value>
+      <value>NAZAD</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Graphics</key>
-      <value>Зображення</value>
+      <value>Zobražennja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fantastic</key>
-      <value>Дуже висока</value>
+      <value>Duže vysoka</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Slow</key>
-      <value>Жахлива</value>
+      <value>Žaxlyva</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Normal</key>
-      <value>Середня</value>
+      <value>Serednja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Fast</key>
-      <value>Погана</value>
+      <value>Poğana</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Custom</key>
-      <value>Користувацький</value>
+      <value>Korystuvacjkyj</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Winter</key>
-      <value>Зима</value>
+      <value>Zyma</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Desert</key>
-      <value>Піски</value>
+      <value>Pisky</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Spring</key>
-      <value>Весна</value>
+      <value>Vesna</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Autumn</key>
-      <value>Осінь</value>
+      <value>Osinj</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sicily</key>
-      <value>Італія</value>
+      <value>Italija</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Japan</key>
-      <value>Азія</value>
+      <value>Azija</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Town</key>
-      <value>Місто</value>
+      <value>Misto</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Summer</key>
-      <value>Літо</value>
+      <value>Lito</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Random</key>
-      <value>Випадково</value>
+      <value>Vypadkovo</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Germany</key>
-      <value>Німеччина</value>
+      <value>Nimeččyna</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ACT</key>
-      <value>АКТ</value>
+      <value>AKT</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Act</key>
-      <value>Акт</value>
+      <value>Akt</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Are you sure?</key>
-      <value>Ви впевнені?</value>
+      <value>Vy vpevneni?</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>After your change, binding for X and for Y will be in conflict.
 Confirm to continue.</key>
-      <value>Призначення клавіш X та Y будуть конфліктувати.
-Підтвердіть, щоби продовжити.</value>
+      <value>Pryznačennja klaviš X ta Y budutj konfliktuvaty.
+Pidtverditj, ŝoby prodovžyty.</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GAME UPDATES</key>
-      <value>ОНОВЛЕННЯ ГРИ</value>
+      <value>ONOVLENNJA ĞRY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Check</key>
-      <value>Перевірити</value>
+      <value>Pereviryty</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PRESETS LIST:</key>
-      <value>СПИСОК ШАБЛОНІВ:</value>
+      <value>SPYSOK ŠABLONIV:</value>
       <plurals />
-      <comment>Заголовок над списком створених гравцем шаблонів розгортання (шаблонів одиниць на мапі)</comment>
+      <comment>Zağolovok nad spyskom stvorenyx ğravcem šabloniv rozğortannja (šabloniv odynycj na mapi)</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>During the first battle you deploy both factions, in each subsequent battle you play against the army which has won... and so on</key>
-      <value>Під час першої битви ви будете розгортати обидві фракції, а в наступній битися проти переможця тощо</value>
+      <value>Pid čas peršoï bytvy vy budete rozğortaty obydvi frakciï, a v nastupnij bytysja proty peremožcja toŝo</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Beat yourself and create the greatest army!</key>
-      <value>Переможіть себе ж, та створіть наймогутнішу армію!</value>
+      <value>Peremožitj sebe ž, ta stvoritj najmoğutnišu armiju!</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>In shadow mode you fight against your army from the previous battle in each subsequent battle</key>
-      <value>У режимі «Бій з Тінню» ви б'єтеся проти армії з минулої битви</value>
+      <value>U režymi «Bij z Tinnju» vy b'jetesja proty armiï z mynuloï bytvy</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>German Invasion</key>
-      <value>Німецьке Вторгнення</value>
+      <value>Nimecjke Vtorğnennja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -444,624 +444,624 @@ Confirm to continue.</key>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
-      <key>Складність:</key>
-      <value>Складність:</value>
+      <key>Skladnistj:</key>
+      <value>Skladnistj:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mode:</key>
-      <value>Режим:</value>
+      <value>Režym:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Blocked in Iron man Mode</key>
-      <value>Недоступно в режимі «Залізна воля»</value>
+      <value>Nedostupno v režymi «Zalizna volja»</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Your name:</key>
-      <value>Ваше ім'я:</value>
+      <value>Vaše im'ja:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>tutorial</key>
-      <value>навчання</value>
+      <value>navčannja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>EASY</key>
-      <value>ЛЕГКО</value>
+      <value>LEĞKO</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Medium</key>
-      <value>Середнє</value>
+      <value>Serednje</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Hard</key>
-      <value>Складно</value>
+      <value>Skladno</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>CHOOSE YOUR NATION</key>
-      <value>ОБЕРІТЬ ВАШУ НАЦІЮ</value>
+      <value>OBERITJ VAŠU NACIJU</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Golden Autumn</key>
-      <value>Золота осінь</value>
+      <value>Zolota osinj</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Flat map</key>
-      <value>Плоска мапа</value>
+      <value>Ploska mapa</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Wooded Island</key>
-      <value>Зелений острів</value>
+      <value>Zelenyj ostriv</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>September Island</key>
-      <value>Острів вересня</value>
+      <value>Ostriv veresnja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Forest Crossroads</key>
-      <value>Лісове перехрестя</value>
+      <value>Lisove perexrestja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Oblong Lake</key>
-      <value>Довгасте озеро</value>
+      <value>Dovğaste ozero</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Hidden Farmlands</key>
-      <value>Приховані ферми</value>
+      <value>Pryxovani fermy</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Blessed Village</key>
-      <value>Святе селище</value>
+      <value>Svjate selyŝe</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Forest Skirmish</key>
-      <value>Лісова бійка</value>
+      <value>Lisova bijka</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Quiet Valley</key>
-      <value>Затишна долина</value>
+      <value>Zatyšna dolyna</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Old Village</key>
-      <value>Старе селище</value>
+      <value>Stare selyŝe</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Little Islands</key>
-      <value>Острівці</value>
+      <value>Ostrivci</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Golden Shores</key>
-      <value>Золоті береги</value>
+      <value>Zoloti bereğy</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Autumnal Rivers</key>
-      <value>Осінні річки</value>
+      <value>Osinni ričky</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Autumn Leaves</key>
-      <value>Осіннє листя</value>
+      <value>Osinnje lystja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Autumn Equinox</key>
-      <value>Свято осені</value>
+      <value>Svjato oseni</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Vivid Autumn</key>
-      <value>Барвиста осінь</value>
+      <value>Barvysta osinj</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Autumn Landscape</key>
-      <value>Осінній краєвид</value>
+      <value>Osinnij krajevyd</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>September Pass</key>
-      <value>Вересенева стежка</value>
+      <value>Vereseneva stežka</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Desert Rock</key>
-      <value>Скеляста пустеля</value>
+      <value>Skeljasta pustelja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rocky Dunes</key>
-      <value>Кам'яні дюни</value>
+      <value>Kam'jani djuny</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sandy Crossroads</key>
-      <value>Перехрестя пісків</value>
+      <value>Perexrestja piskiv</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Desert Camps</key>
-      <value>Пустельні табори</value>
+      <value>Pusteljni tabory</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rocky Covers</key>
-      <value>Круглякові покрови</value>
+      <value>Kruğljakovi pokrovy</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Endless Dunes</key>
-      <value>Безмежні дюни</value>
+      <value>Bezmežni djuny</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Hot Lake</key>
-      <value>Гаряче озеро</value>
+      <value>Ğarjače ozero</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Desert Puzzle</key>
-      <value>Пустельний пазл</value>
+      <value>Pusteljnyj pazl</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Cactus Field</key>
-      <value>Кактусове поле</value>
+      <value>Kaktusove pole</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Nothern Settlement</key>
-      <value>Північне поселення</value>
+      <value>Pivnične poselennja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rocky Barrier</key>
-      <value>Скеляста перепона</value>
+      <value>Skeljasta perepona</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rocky Oasis</key>
-      <value>Кам'яний оазіс</value>
+      <value>Kam'janyj oazis</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Palm Shore</key>
-      <value>Пальмове узбережжя</value>
+      <value>Paljmove uzberežžja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Resting Lake</key>
-      <value>Сонне озеро</value>
+      <value>Sonne ozero</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Desert Randezvous</key>
-      <value>Побачення в пустелі</value>
+      <value>Pobačennja v pusteli</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Narrow Passage</key>
-      <value>Тіснина</value>
+      <value>Tisnyna</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sunny Island</key>
-      <value>Острів сонця</value>
+      <value>Ostriv soncja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Death Valley</key>
-      <value>Мертва долина</value>
+      <value>Mertva dolyna</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Ghost Town</key>
-      <value>Місто привид</value>
+      <value>Misto pryvyd</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Iffy Desert</key>
-      <value>Пустеля сумніву</value>
+      <value>Pustelja sumnivu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Urban Desert</key>
-      <value>Бетонна пустеля</value>
+      <value>Betonna pustelja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Scout Camp</key>
-      <value>Розвідницький табір</value>
+      <value>Rozvidnycjkyj tabir</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Narrow Gaps</key>
-      <value>Вузьки прогалини</value>
+      <value>Vuzjky proğalyny</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rocky Valley</key>
-      <value>Сад каменю</value>
+      <value>Sad kamenju</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Cold River</key>
-      <value>Крижана річка</value>
+      <value>Kryžana rička</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Frozen Paths</key>
-      <value>Зледенілі стежки</value>
+      <value>Zledenili stežky</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Winter Hills</key>
-      <value>Сніжні пагорби</value>
+      <value>Snižni pağorby</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Frosty Temple</key>
-      <value>Храм холоду</value>
+      <value>Xram xolodu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Frozen Farmlands</key>
-      <value>Крижані ниви</value>
+      <value>Kryžani nyvy</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Icy Rocks</key>
-      <value>Льодяні скелі</value>
+      <value>Ljodjani skeli</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Cold Forest</key>
-      <value>Студений ліс</value>
+      <value>Studenyj lis</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Chilly Plains</key>
-      <value>Рівнини холоду</value>
+      <value>Rivnyny xolodu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>River Fork</key>
-      <value>Річкова вилка</value>
+      <value>Ričkova vylka</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Winter Pass</key>
-      <value>Зимовий перевал</value>
+      <value>Zymovyj pereval</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Winter Westland</key>
-      <value>Західна зима</value>
+      <value>Zaxidna zyma</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Frosted Shores</key>
-      <value>Інеїсті береги</value>
+      <value>Ineïsti bereğy</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USA</key>
-      <value>США</value>
+      <value>SŠA</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Poland</key>
-      <value>Польща</value>
+      <value>Poljŝa</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UK</key>
-      <value>Великобританія</value>
+      <value>Velykobrytanija</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>France</key>
-      <value>Франція</value>
+      <value>Francija</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>FIRST BATTLE:</key>
-      <value>ПЕРША БИТВА:</value>
+      <value>PERŠA BYTVA:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Funds:</key>
-      <value>Кошти:</value>
+      <value>Košty:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PLAY MODE:</key>
-      <value>ІГРОВИЙ РЕЖИМ:</value>
+      <value>IĞROVYJ REŽYM:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Time &amp; Funds:</key>
-      <value>ЧАС ТА КОШТИ:</value>
+      <value>ČAS TA KOŠTY:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SANDBOX (VIP)</key>
-      <value>ПІСОЧНИЦЯ (ОСОБЛИВА ЦІЛЬ)</value>
+      <value>PISOČNYCJA (OSOBLYVA CILJ)</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SANDBOX (Wave)</key>
-      <value>ПІСОЧНИЦЯ (ХВИЛІ)</value>
+      <value>PISOČNYCJA (XVYLI)</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Start Battle</key>
-      <value>Почати Битву</value>
+      <value>Počaty Bytvu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Summary</key>
-      <value>Підсумок</value>
+      <value>Pidsumok</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Yes</key>
-      <value>Так</value>
+      <value>Tak</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Abort</key>
-      <value>Припинити</value>
+      <value>Prypynyty</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Delete</key>
-      <value>Видалити</value>
+      <value>Vydalyty</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Delete profile?</key>
-      <value>Видалити профіль?</value>
+      <value>Vydalyty profilj?</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SAVE</key>
-      <value>ЗБЕРЕГТИ</value>
+      <value>ZBEREĞTY</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>exit</key>
-      <value>вийти</value>
+      <value>vyjty</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>BINDINGS:</key>
-      <value>ПРИЗНАЧЕНІ КЛАВІШИ:</value>
+      <value>PRYZNAČENI KLAVIŠY:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>USSR</key>
-      <value>СРСР</value>
+      <value>SRSR</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sandbox</key>
-      <value>Пісочниця</value>
+      <value>Pisočnycja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DLC0 map 100</key>
-      <value>Пагорби кіпарису</value>
+      <value>Pağorby kiparysu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DLC0 map 101</key>
-      <value>Річки забуття</value>
+      <value>Ričky zabuttja</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DLC0 map 102</key>
-      <value>Пляж Салерно</value>
+      <value>Pljaž Salerno</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DLC0 map 103</key>
-      <value>Італьянські протоки</value>
+      <value>Italjjansjki protoky</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DLC0 map 104</key>
-      <value>Середземноморські виноградники</value>
+      <value>Seredzemnomorsjki vynoğradnyky</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Japan Map 1</key>
-      <value>Замок над рікою</value>
+      <value>Zamok nad rikoju</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Japan Map 2</key>
-      <value>Село спокою</value>
+      <value>Selo spokoju</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Japan Map 3</key>
-      <value>Озера та долини</value>
+      <value>Ozera ta dolyny</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Japan Map 4</key>
-      <value>Цвіт вишні</value>
+      <value>Cvit vyšni</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Check out our new game</key>
       <context>mainmenu</context>
-      <value>Оцініть нашу нову гру</value>
+      <value>Ocinitj našu novu ğru</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>All Available Mods</key>
       <context>mainmenu.workshop</context>
-      <value>Усі доступні модифікації</value>
+      <value>Usi dostupni modyfikaciï</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Active</key>
       <context>mainmenu.workshop</context>
-      <value>Активний</value>
+      <value>Aktyvnyj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Refresh mods</key>
       <context>mainmenu.workshop</context>
-      <value>Оновити модифікації</value>
+      <value>Onovyty modyfikaciï</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mod's details</key>
       <context>mainmenu.workshop</context>
-      <value>Деталі модифікації</value>
+      <value>Detali modyfikaciï</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SCENARIO LIST</key>
       <context>mainmenu.workshop</context>
-      <value>СПИСОК СЦЕНАРІЇВ</value>
+      <value>SPYSOK SCENARIÏV</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>new.scenario.pack</key>
       <context>mainmenu.workshop</context>
-      <value>Створити новий</value>
+      <value>Stvoryty novyj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mod name:</key>
       <context>mainmenu.workshop</context>
-      <value>Назва модифікації:</value>
+      <value>Nazva modyfikaciï:</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Upload To STEAM</key>
       <context>mainmenu.workshop</context>
-      <value>Завантажити до STEAM</value>
+      <value>Zavantažyty do STEAM</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Save and close</key>
       <context>mainmenu.workshop</context>
-      <value>Зберегти й закрити</value>
+      <value>Zbereğty j zakryty</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>MISSION LIST</key>
       <context>mainmenu.workshop</context>
-      <value>СПИСОК МІСІЙ</value>
+      <value>SPYSOK MISIJ</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>add.mission</key>
       <context>mainmenu.workshop</context>
-      <value>Додати</value>
+      <value>Dodaty</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>mod.author</key>
       <context>mainmenu.workshop</context>
-      <value>Творець</value>
+      <value>Tvorecj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>mod.version</key>
       <context>mainmenu.workshop</context>
-      <value>Версія</value>
+      <value>Versija</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>mod.update.latest</key>
       <context>mainmenu.workshop</context>
-      <value>Оновити до останньої</value>
+      <value>Onovyty do ostannjoï</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>scenario.create</key>
       <context>mainmenu.workshop</context>
-      <value>СТВОРИТИ СЦЕНАРІЙ</value>
+      <value>STVORYTY SCENARIJ</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>scenario.play</key>
       <context>mainmenu.workshop</context>
-      <value>ГРАТИ СЦЕНАРІЇ</value>
+      <value>ĞRATY SCENARIÏ</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Edit</key>
       <context>mainmenu.workshop</context>
-      <value>Редагувати</value>
+      <value>Redağuvaty</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Play</key>
       <context>mainmenu.workshop</context>
-      <value>Грати</value>
+      <value>Ğraty</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>mod.name.column</key>
       <context>mainmenu.workshop</context>
-      <value>Назва</value>
+      <value>Nazva</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Manage mods</key>
       <context>mainmenu.workshop</context>
-      <value>Модифікації</value>
+      <value>Modyfikaciï</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Edit scenarios</key>
       <context>mainmenu.workshop</context>
-      <value>Сценарії</value>
+      <value>Scenariï</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Edit units</key>
       <context>mainmenu.workshop</context>
-      <value>Одиниці</value>
+      <value>Odynyci</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>UNIT PACKS</key>
       <context>mainmenu.workshop</context>
-      <value>НАБОРИ ОДИНИЦЬ</value>
+      <value>NABORY ODYNYCJ</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>unitpack.create</key>
       <context>mainmenu.workshop</context>
-      <value>Створити новий</value>
+      <value>Stvoryty novyj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>unitpack.create.popup</key>
       <context>mainmenu.workshop</context>
-      <value>Створити набір одиниць</value>
+      <value>Stvoryty nabir odynycj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>unitpack.create.popup.name</key>
       <context>mainmenu.workshop</context>
-      <value>Назва набору одиниць</value>
+      <value>Nazva naboru odynycj</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>scenario.create.popup</key>
       <context>mainmenu.workshop</context>
-      <value>Створити новий набір сценаріїв</value>
+      <value>Stvoryty novyj nabir scenariïv</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>scenario.create.popup.name</key>
       <context>mainmenu.workshop</context>
-      <value>Назва набору сценаріїв</value>
+      <value>Nazva naboru scenariïv</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>mod.description</key>
       <context>mainmenu.workshop</context>
-      <value>Опис</value>
+      <value>Opys</value>
     </GameLocalizationEntry>
   </entries>
 </GameLocalization>

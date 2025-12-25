@@ -5,7 +5,7 @@
     <GameLocalizationEntry>
       <key>TD</key>
       <context>shortUnitTypeName</context>
-      <value>ВТ</value>
+      <value>VT</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -23,253 +23,253 @@
     <GameLocalizationEntry>
       <key>Bear</key>
       <context>unitTypeName</context>
-      <value>Ведмідь</value>
+      <value>Vedmidj</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Infantry</key>
       <context>unitTypeName</context>
-      <value>Піхота</value>
+      <value>Pixota</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Infantry</key>
       <context>shortUnitTypeName</context>
-      <value>Піхота</value>
+      <value>Pixota</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Dog</key>
       <context>unitTypeName</context>
-      <value>Собака</value>
+      <value>Sobaka</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Recovery vehicle</key>
       <context>unitTypeName</context>
-      <value>Ремонтна машина</value>
+      <value>Remontna mašyna</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Recovery vehicle</key>
       <context>shortUnitTypeName</context>
-      <value>Ремонтник</value>
+      <value>Remontnyk</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Minefield</key>
       <context>shortUnitTypeName</context>
-      <value>Мінне поле</value>
+      <value>Minne pole</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Officer {0}</key>
       <context>unitTypeNames.officer.adj</context>
-      <value>Офіцерськ. {0}</value>
+      <value>Oficersjk. {0}</value>
       <comment>As adjective, for example `officer light tank`</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Upg. {0}</key>
       <context>unitTypeNames.upgraded</context>
-      <value>Покращ. {0}</value>
+      <value>Pokraŝ. {0}</value>
       <comment>`upgraded` as adjective, for example `upgraded light tank`</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>inf</key>
-      <value>неск.</value>
+      <value>nesk.</value>
       <plurals />
       <comment>as infinity</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Wave mission</key>
       <context>game.mission_type</context>
-      <value>Місія з хвилями</value>
+      <value>Misija z xvyljamy</value>
       <comment>Mission type, player is attacked by multiple waves of enemies</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kill VIPs</key>
       <context>game.mission_type</context>
-      <value>Знищити особливі цілі</value>
+      <value>Znyŝyty osoblyvi cili</value>
       <comment>Mission type, the goal is to kill few special units - VIPs</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Protect VIPs</key>
       <context>game.mission_type</context>
-      <value>Захистити особливі цілі</value>
+      <value>Zaxystyty osoblyvi cili</value>
       <comment>Mission type, the goal is to protect special units - VIPs. When any of them is killed, player loses game</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Team Deathmatch</key>
       <context>game.mission_type</context>
-      <value>Командна битва насмерть</value>
+      <value>Komandna bytva nasmertj</value>
       <comment>Mission type</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>At least one VIP must survive to win the battle!</key>
       <context>game.mission_type_description</context>
-      <value>Ви переможете, якщо хоча би одна особлива ціль вціліє!</value>
+      <value>Vy peremožete, jakŝo xoča by odna osoblyva cilj vcilije!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kill all the VIPs to win the battle!</key>
       <context>game.mission_type_description</context>
-      <value>Знищте всі особливі цілі ворога, щоби перемогти!</value>
+      <value>Znyŝte vsi osoblyvi cili voroğa, ŝoby peremoğty!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Survive all waves to win the battle! You can only see enemy wave number 1 now!</key>
       <context>game.mission_type_description</context>
-      <value>Переживіть усі хвилі для перемоги! Зараз ви бачити лише першу хвилю ворогів!</value>
+      <value>Perežyvitj usi xvyli dlja peremoğy! Zaraz vy bačyty lyše peršu xvylju voroğiv!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>In this battle deploy both factions. In the next battle you will fight against the winner army.</key>
       <context>game.mission_type_description</context>
-      <value>У цій битві ви розміщаєте обидві фракції. У наступній битві ви будете битися з переможцем.</value>
+      <value>U cij bytvi vy rozmiŝajete obydvi frakciï. U nastupnij bytvi vy budete bytysja z peremožcem.</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>You can now see the winner army from the previous battle. This time it is your enemy. Deploy an army that will beat the opponent to win the game!</key>
       <context>game.mission_type_description</context>
-      <value>Перед вами армія переможця з минулої битви. Тепер це ваш ворог. Розташуйте війська, щоби перемогти свого суперника!</value>
+      <value>Pered vamy armija peremožcja z mynuloï bytvy. Teper ce vaš voroğ. Roztašujte vijsjka, ŝoby peremoğty svoğo supernyka!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Kill all the enemy to win the battle!</key>
       <context>game.mission_type_description</context>
-      <value>Знищте всіх ворогів для перемоги!</value>
+      <value>Znyŝte vsix voroğiv dlja peremoğy!</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Shadow</key>
       <context>game.mission_type</context>
-      <value>Бій з тінню</value>
+      <value>Bij z tinnju</value>
       <comment>Mission type, where player fights against his previous units</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Shadow fight</key>
       <context>game.mission_type</context>
-      <value>Бій з тінню</value>
+      <value>Bij z tinnju</value>
       <comment>Mission type, where player fights against his previous units</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sandbox</key>
       <context>game.mission_type</context>
-      <value>Пісочниця</value>
+      <value>Pisočnycja</value>
       <comment>Mission type, where player deploys both sides of conflict</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Health points: {0}</key>
-      <value>Очки здоров'я: {0}</value>
+      <value>Očky zdorov'ja: {0}</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Armour points: {0}</key>
-      <value>Очки броні: {0}</value>
+      <value>Očky broni: {0}</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Air</key>
       <context>game.units_category</context>
-      <value>Повітряні</value>
+      <value>Povitrjani</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Anti Air</key>
       <context>game.units_category</context>
-      <value>Зенітні</value>
+      <value>Zenitni</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Artillery</key>
       <context>game.units_category</context>
-      <value>Артилерія</value>
+      <value>Artylerija</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>AT &amp; TD</key>
       <context>game.units_category</context>
-      <value>ПТ та ВТ</value>
+      <value>PT ta VT</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Bases</key>
       <context>game.units_category</context>
-      <value>Бази</value>
+      <value>Bazy</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Default</key>
       <context>game.units_category</context>
-      <value>За замовчуванням</value>
+      <value>Za zamovčuvannjam</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Dev tools</key>
       <context>game.units_category</context>
-      <value>Інтрументи розробника</value>
+      <value>Intrumenty rozrobnyka</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Infantry</key>
       <context>game.units_category</context>
-      <value>Піхота</value>
+      <value>Pixota</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Officers</key>
       <context>game.units_category</context>
-      <value>Офіцери</value>
+      <value>Oficery</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Rocket</key>
       <context>game.units_category</context>
-      <value>Ракетні</value>
+      <value>Raketni</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Classified</key>
       <context>game.units_category</context>
-      <value>Засекречні</value>
+      <value>Zasekrečni</value>
       <comment>in context: Classified information</comment>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Mobile Artillery</key>
       <context>game.units_category</context>
-      <value>Самохідна артилерія</value>
+      <value>Samoxidna artylerija</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Special tanks</key>
       <context>game.units_category</context>
-      <value>Спеціальні танки</value>
+      <value>Specialjni tanky</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Support</key>
       <context>game.units_category</context>
-      <value>Підтримка</value>
+      <value>Pidtrymka</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Tanks</key>
       <context>game.units_category</context>
-      <value>Танки</value>
+      <value>Tanky</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>V.I.P.</key>
       <context>game.units_category</context>
-      <value>Особливі</value>
+      <value>Osoblyvi</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Wunderwaffe</key>
       <context>game.units_category</context>
-      <value>Вундерваффе</value>
+      <value>Vundervaffe</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Cannot switch to the enemy team</key>
-      <value>Неможна перейти до ворожої команди</value>
+      <value>Nemožna perejty do vorožoï komandy</value>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Game paused</key>
-      <value>Гра на паузі</value>
+      <value>Ğra na pauzi</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Time: </key>
-      <value>Час:</value>
+      <value>Čas:</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Deploy ally units</key>
       <context>game.ui</context>
-      <value>Розташуйте союзні одиниці</value>
+      <value>Roztašujte sojuzni odynyci</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Deploy enemy units</key>
       <context>game.ui</context>
-      <value>Розташуйте ворожі одиниці</value>
+      <value>Roztašujte voroži odynyci</value>
       <plurals />
     </GameLocalizationEntry>
   </entries>

@@ -4,7 +4,7 @@
   <entries>
     <GameLocalizationEntry>
       <key>Debug</key>
-      <value>Шахрайство</value>
+      <value>Šaxrajstvo</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -19,7 +19,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>CheatWin</key>
-      <value>Шахрайська перемога</value>
+      <value>Šaxrajsjka peremoğa</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -34,7 +34,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Quote</key>
-      <value>Апостроф</value>
+      <value>Apostrof</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -55,7 +55,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>CheatLose</key>
-      <value>Шахрайська поразка</value>
+      <value>Šaxrajsjka porazka</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -70,7 +70,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Backslash</key>
-      <value>Зв. скісна риска</value>
+      <value>Zv. skisna ryska</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -91,7 +91,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DebugSwitchNextHeatMap</key>
-      <value>Шахрайське перекл. наст. мапи</value>
+      <value>Šaxrajsjke perekl. nast. mapy</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -107,7 +107,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DebugSpawnAllUnits</key>
-      <value>Шахрайська активація створювачів</value>
+      <value>Šaxrajsjka aktyvacija stvorjuvačiv</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -122,7 +122,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DebugClearAllSpawns</key>
-      <value>Шахрайське очищення створювачів</value>
+      <value>Šaxrajsjke očyŝennja stvorjuvačiv</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -138,7 +138,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>NextPhaseDebug</key>
-      <value>Шахрайський пропуск фази</value>
+      <value>Šaxrajsjkyj propusk fazy</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -153,7 +153,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Space</key>
-      <value>Пробіл</value>
+      <value>Probil</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -174,7 +174,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DebugToggleShowCovers</key>
-      <value>Шахрайський показ поверхні</value>
+      <value>Šaxrajsjkyj pokaz poverxni</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -190,7 +190,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Period</key>
-      <value>Крапка</value>
+      <value>Krapka</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -211,7 +211,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DebugToggleShowPOI</key>
-      <value>Шахрайський показ т. інт.</value>
+      <value>Šaxrajsjkyj pokaz t. int.</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -226,7 +226,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Slash</key>
-      <value>Скісна риска</value>
+      <value>Skisna ryska</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -247,7 +247,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DebugToggleFoliage</key>
-      <value>Шахрайський показ листя</value>
+      <value>Šaxrajsjkyj pokaz lystja</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -262,7 +262,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DebugSelectPOI</key>
-      <value>Шахрайський вибір т. інт.</value>
+      <value>Šaxrajsjkyj vybir t. int.</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -277,7 +277,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Semicolon</key>
-      <value>Крапка з комою</value>
+      <value>Krapka z komoju</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -298,7 +298,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DebugSavePOI</key>
-      <value>Шахрайське збереження т. інт.</value>
+      <value>Šaxrajsjke zberežennja t. int.</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -313,7 +313,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DebugToggleCameraSettingsPanel</key>
-      <value>Відкрити шахрайські налаштування камери</value>
+      <value>Vidkryty šaxrajsjki nalaštuvannja kamery</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -328,7 +328,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ToggleProfiler</key>
-      <value>Перемкнути профіль</value>
+      <value>Peremknuty profilj</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -363,7 +363,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Infantry</key>
-      <value>Піхота</value>
+      <value>Pixota</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -378,7 +378,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Jump</key>
-      <value>Стрибати</value>
+      <value>Strybaty</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -393,7 +393,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Sprint</key>
-      <value>Бігти</value>
+      <value>Biğty</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -408,7 +408,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Crouch</key>
-      <value>Крастися</value>
+      <value>Krastysja</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -423,7 +423,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Crawl</key>
-      <value>Повзти</value>
+      <value>Povzty</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -438,7 +438,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>toggleCameras</key>
-      <value>Перемикання камери</value>
+      <value>Peremykannja kamery</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -453,7 +453,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Equals</key>
-      <value>Дорівнює</value>
+      <value>Dorivnjuje</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -474,7 +474,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>zoomUp</key>
-      <value>Наблизити</value>
+      <value>Nablyzyty</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -489,7 +489,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>zoomDown</key>
-      <value>Віддалити</value>
+      <value>Viddalyty</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -504,7 +504,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>changeFireMode</key>
-      <value>Змінити режим стрільби</value>
+      <value>Zminyty režym striljby</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -519,7 +519,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>holdBreath</key>
-      <value>Затримати дихання</value>
+      <value>Zatrymaty dyxannja</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -534,7 +534,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>throwThrowable</key>
-      <value>Кинути гранату/ніж</value>
+      <value>Kynuty ğranatu/niž</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -549,7 +549,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>meleeAttack</key>
-      <value>Ближня атака</value>
+      <value>Blyžnja ataka</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -564,7 +564,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SandboxGeneral</key>
-      <value>Пісочниця, загальне</value>
+      <value>Pisočnycja, zağaljne</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -579,7 +579,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>KillEnemy</key>
-      <value>Убити ворога</value>
+      <value>Ubyty voroğa</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -594,7 +594,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ToggleFullscreen</key>
-      <value>Повний екран</value>
+      <value>Povnyj ekran</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -609,7 +609,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>LockCursor</key>
-      <value>Фіксація курсору</value>
+      <value>Fiksacija kursoru</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -624,7 +624,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SaveScreenshot</key>
-      <value>Зберегти знімок</value>
+      <value>Zbereğty znimok</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -639,7 +639,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ToggleModifiedSpeed</key>
-      <value>Перемкнути швидкість</value>
+      <value>Peremknuty švydkistj</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -654,7 +654,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>TogglePause</key>
-      <value>Пауза</value>
+      <value>Pauza</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -669,7 +669,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SpeedUpGameplay</key>
-      <value>Пришвидшити час</value>
+      <value>Pryšvydšyty čas</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -684,7 +684,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SlowDownGameplay</key>
-      <value>Сповільнити час</value>
+      <value>Spoviljnyty čas</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -699,7 +699,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SwitchNextUnit</key>
-      <value>Наступна одиниця</value>
+      <value>Nastupna odynycja</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -714,7 +714,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SwitchPrevUnit</key>
-      <value>Минула одиниця</value>
+      <value>Mynula odynycja</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -729,7 +729,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SwitchNextWeapon</key>
-      <value>Наступна зброя</value>
+      <value>Nastupna zbroja</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -744,7 +744,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SwitchPrevWeapon</key>
-      <value>Минула зброя</value>
+      <value>Mynula zbroja</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -759,7 +759,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SwitchZoomLean</key>
-      <value>Змінити вид</value>
+      <value>Zminyty vyd</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -774,7 +774,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SwitchFreeLookCursor</key>
-      <value>Звільнити вказівник</value>
+      <value>Zviljnyty vkazivnyk</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -789,7 +789,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ResetCurrentCamera</key>
-      <value>Скинути камеру</value>
+      <value>Skynuty kameru</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -804,7 +804,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SwitchZoom</key>
-      <value>Перемкнути масштаб</value>
+      <value>Peremknuty masštab</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -819,7 +819,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SwitchMapMode</key>
-      <value>Режим мапи</value>
+      <value>Režym mapy</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -834,7 +834,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SwitchMapZoom</key>
-      <value>Mасштаб мапи</value>
+      <value>Masštab mapy</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -849,7 +849,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ToggleUnitControlKey</key>
-      <value>Керувати одиницею</value>
+      <value>Keruvaty odynyceju</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -864,7 +864,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>FireKey</key>
-      <value>Стрільба</value>
+      <value>Striljba</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -879,7 +879,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ForceReloadKey</key>
-      <value>Прим. перезарядка</value>
+      <value>Prym. perezarjadka</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -894,7 +894,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Capture</key>
-      <value>Захопити</value>
+      <value>Zaxopyty</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -909,7 +909,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>MarkSelection</key>
-      <value>Відмітити вибір</value>
+      <value>Vidmityty vybir</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -924,7 +924,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SwitchSelection</key>
-      <value>Змінити вибір</value>
+      <value>Zminyty vybir</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -939,7 +939,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SwitchSelectionEngage</key>
-      <value>Змінити вибір та керувати</value>
+      <value>Zminyty vybir ta keruvaty</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -954,7 +954,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Repair/Use MedKit</key>
-      <value>Полагодити/Лікуватися</value>
+      <value>Polağodyty/Likuvatysja</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -969,7 +969,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Action</key>
-      <value>Дія</value>
+      <value>Dija</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -984,7 +984,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SecondaryAction</key>
-      <value>Додаткова дія</value>
+      <value>Dodatkova dija</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -999,7 +999,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>None</key>
-      <value>НІЧОГО</value>
+      <value>NIČOĞO</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1014,7 +1014,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Name Not Set</key>
-      <value>Ім'я не задано</value>
+      <value>Im'ja ne zadano</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1029,7 +1029,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Damage Ability</key>
-      <value>Завдана шкода</value>
+      <value>Zavdana škoda</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1044,7 +1044,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ScreenshotMapBackground</key>
-      <value>Знімок тла мапи</value>
+      <value>Znimok tla mapy</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1059,7 +1059,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Interface</key>
-      <value>Інтерфейс</value>
+      <value>Interfejs</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1074,7 +1074,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Help</key>
-      <value>Допомога</value>
+      <value>Dopomoğa</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1089,7 +1089,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ToggleHUD</key>
-      <value>Увімкнути Оболочку</value>
+      <value>Uvimknuty Oboločku</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1104,7 +1104,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ToggleActionArrows</key>
-      <value>Показати стрілки дії</value>
+      <value>Pokazaty strilky diï</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1119,7 +1119,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ToggleMemberArrows</key>
-      <value>Показати стілки групи</value>
+      <value>Pokazaty stilky ğrupy</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1134,7 +1134,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Overview</key>
-      <value>Огляд</value>
+      <value>Oğljad</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1149,7 +1149,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SpawningPhase</key>
-      <value>Фаза створення</value>
+      <value>Faza stvorennja</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1164,7 +1164,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SpawnRotateLeft</key>
-      <value>Повернути створення ліворуч</value>
+      <value>Povernuty stvorennja livoruč</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1179,7 +1179,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Comma</key>
-      <value>Кома</value>
+      <value>Koma</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1200,7 +1200,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SpawnRotateRight</key>
-      <value>Повернути створення праворуч</value>
+      <value>Povernuty stvorennja pravoruč</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1215,7 +1215,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>DeleteUnits</key>
-      <value>Видалити одиниць</value>
+      <value>Vydalyty odynycj</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1230,7 +1230,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SpawnInMatrix</key>
-      <value>Матриця створення</value>
+      <value>Matrycja stvorennja</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1245,7 +1245,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SpawnInLine</key>
-      <value>Лінія створення</value>
+      <value>Linija stvorennja</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1260,7 +1260,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>PlayPhase</key>
-      <value>Ігрова фаза</value>
+      <value>Iğrova faza</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1275,7 +1275,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>SuperPower</key>
-      <value>Суперсила</value>
+      <value>Supersyla</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1290,7 +1290,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Transport</key>
-      <value>Транспорт</value>
+      <value>Transport</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1305,7 +1305,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>ToggleBailoutHopIn</key>
-      <value>Завантажити/Розвантажити</value>
+      <value>Zavantažyty/Rozvantažyty</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
@@ -1320,7 +1320,7 @@
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>GetOut</key>
-      <value>Вийти</value>
+      <value>Vyjty</value>
       <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 
   at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;afe9b17b31a74a2f8f78c8f4da1384db&gt;:0 

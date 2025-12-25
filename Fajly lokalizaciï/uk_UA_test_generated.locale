@@ -4,81 +4,81 @@
   <entries>
     <GameLocalizationEntry>
       <key>Select</key>
-      <value>Вибрати</value>
+      <value>Vybraty</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Select object</key>
-      <value>Вибрати об'єкт</value>
+      <value>Vybraty ob'jekt</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Placeholder
 </key>
-      <value>Змінна
+      <value>Zminna
 </value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Element</key>
-      <value>Елемент</value>
+      <value>Element</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Retry mission</key>
-      <value>Переграти місію</value>
+      <value>Pereğraty misiju</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>all your units are dead</key>
-      <value>усі ваші одиниці померли</value>
+      <value>usi vaši odynyci pomerly</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Next mission</key>
-      <value>Наступна місія</value>
+      <value>Nastupna misija</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>next mission</key>
-      <value>наступна місія</value>
+      <value>nastupna misija</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>20 allies vs 30 enemies
 phase 1 of 2: reducing enemy influence</key>
-      <value>20 союзників vs 30 ворогів
-фаза 1 з 2: зменшення ворожого впливу</value>
+      <value>20 sojuznykiv vs 30 voroğiv
+faza 1 z 2: zmenšennja vorožoğo vplyvu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>65s</key>
-      <value>65с</value>
+      <value>65s</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>20 allies vs 30 enemies</key>
-      <value>20 союзників проти 30 ворогів</value>
+      <value>20 sojuznykiv proty 30 voroğiv</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Manage enemy waves</key>
-      <value>Редагувати ворожі хвилі</value>
+      <value>Redağuvaty voroži xvyli</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Show help</key>
-      <value>Показати допомогу</value>
+      <value>Pokazaty dopomoğu</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Save deployment</key>
-      <value>Зберегти розгортку</value>
+      <value>Zbereğty rozğortku</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Undo all changes in deployment</key>
-      <value>Відкатити усі зміни в розгортуванні</value>
+      <value>Vidkatyty usi zminy v rozğortuvanni</value>
       <plurals />
     </GameLocalizationEntry>
     <GameLocalizationEntry>
@@ -88,7 +88,7 @@ phase 1 of 2: reducing enemy influence</key>
     </GameLocalizationEntry>
     <GameLocalizationEntry>
       <key>Switch to testing</key>
-      <value>Повернутися до тестування</value>
+      <value>Povernutysja do testuvannja</value>
       <plurals />
     </GameLocalizationEntry>
   </entries>
