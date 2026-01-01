@@ -1,0 +1,1647 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>Offensive act</key>
+      <value>Nastup</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Defensive act</key>
+      <value>Oborona</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Darkest Hour</key>
+      <context>campaign.act_title</context>
+      <value>Temni časy</value>
+      <plurals />
+      <comment>UK act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>After losing the Battle of Britain, the British are trying to take London back from the Nazi hands.</key>
+      <context>campaign.act_description</context>
+      <value>Pislja porazky v bytvi za Brytaniju, brytanci namağajutjsja vidbyty London u nacystsjkyx vijsjk.</value>
+      <plurals />
+      <comment>UK act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>North Africa's defense strategy</key>
+      <context>campaign.act_title</context>
+      <value>Pivničnoafrykansjka strateğija oborony</value>
+      <plurals />
+      <comment>UK act II</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The repulsion of German offensive in North Africa ends with a heroic defence of Tobruk and El Alamein.</key>
+      <context>campaign.act_description</context>
+      <value>Vidbyttja nimecjkoğo nastupu v Pivničnij Afryci zakinčujetjsja ğeroïčnoju oboronoju Tobruka ta Elj-Alamejna.</value>
+      <plurals />
+      <comment>UK act II</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Broken Tehran</key>
+      <context>campaign.act_title</context>
+      <value>Zrujnovanyj Teğeran</value>
+      <plurals />
+      <comment>UK act III</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unsuccessful diplomatic talks lead to a conflict over demarcating the border in Iran.</key>
+      <context>campaign.act_description</context>
+      <value>Nevdali dyplomatyčni pereğovory pryzvodjatj do konfliktu ŝodo vyznačennja kordonu na terytoriï Iranu.</value>
+      <plurals />
+      <comment>UK act III</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Operation Unthinkable</key>
+      <context>campaign.act_title</context>
+      <value>Operacija «Nemyslyma»</value>
+      <plurals />
+      <comment>UK act IV</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Winston Churchill declares war on the communists to free allies in Eastern Europe.</key>
+      <context>campaign.act_description</context>
+      <value>Vinston Čerčylj oğološuje vijnu komunistam, ŝob zviljnyty sojuznykiv u Sxidnij Jevropi.</value>
+      <plurals />
+      <comment>UK act IV</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dyle Plan</key>
+      <context>campaign.act_title</context>
+      <value>Plan «Dilj»</value>
+      <plurals />
+      <comment>France act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Germans launch their aggression against France through "low countries" and thus they bypass the Maginot Line. The French try to stop the offensive on the Dyle River.</key>
+      <context>campaign.act_description</context>
+      <value>Nimci rozpočynajutj nastup na Franciju čerez Niderlandy, obxodjačy liniju Mažyno. Francuzy namağajutjsja zupynyty nastup na ričci Dilj.</value>
+      <plurals />
+      <comment>France act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Plan East</key>
+      <context>campaign.act_title</context>
+      <value>Plan «Sxid»</value>
+      <plurals />
+      <comment>France act II</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The French army is regrouping its forces and starting a war against the German occupation.</key>
+      <context>campaign.act_description</context>
+      <value>Francuzjka armija pereğrupovuje svoï syly i počynaje vijnu proty nimecjkoï okupaciï.</value>
+      <plurals />
+      <comment>France act II</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Desert Fox's offensive</key>
+      <context>campaign.act_title</context>
+      <value>Nastup Pusteljnoğo Lysa</value>
+      <plurals />
+      <comment>Germany act V</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Erwin Rommel is attacking the British army in North Africa.</key>
+      <context>campaign.act_description</context>
+      <value>Ervin Romelj atakuje brytansjku armiju v Pivničnij Afryci.</value>
+      <plurals />
+      <comment>Germany act V</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Case White</key>
+      <context>campaign.act_title</context>
+      <value>Operacija «Vajs»</value>
+      <plurals />
+      <comment>Germany act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>German invasion of Poland begins WWII.</key>
+      <context>campaign.act_description</context>
+      <value>Nimecjke vtorğnennja u Poljŝu počynaje Druğu Svitovu Vijnu.</value>
+      <plurals />
+      <comment>Germany act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Operation Barbarossa</key>
+      <context>campaign.act_title</context>
+      <value>Operacija «Barbarosa»</value>
+      <plurals />
+      <comment>Germany act IV</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The biggest military operation of all time.</key>
+      <context>campaign.act_description</context>
+      <value>Najbiljša vijsjkova operacija vsix časiv.</value>
+      <plurals />
+      <comment>Germany act IV</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Case Yellow</key>
+      <context>campaign.act_title</context>
+      <value>Plan «Geljb»</value>
+      <plurals />
+      <comment>Germany act II</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Blitzkrieg in France.</key>
+      <context>campaign.act_description</context>
+      <value>Blickryğ vo Franciï</value>
+      <plurals />
+      <comment>Germany act II</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Operation Winter Storm</key>
+      <context>campaign.act_title</context>
+      <value>Operacija «Vinterğeviter»</value>
+      <plurals />
+      <comment>Germany act VI</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The Soviets are grouping together at Stalingrad to make the last attempt to take Moscow back from German hands.</key>
+      <context>campaign.act_description</context>
+      <value>Radjansjki vijsjka ğrupujutjsja v Stalinğradi, ŝob zrobyty ostannju sprobu vidbyty Moskvu.</value>
+      <plurals />
+      <comment>Germany act VI</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Beyond Sea Lion</key>
+      <context>campaign.act_title</context>
+      <value>Operacija «Morsjkyj Lev»</value>
+      <plurals />
+      <comment>Germany act III</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>After capturing London, Germans must fight off the last counteroffensive from the British.</key>
+      <context>campaign.act_description</context>
+      <value>Pislja zaxoplennja Londona nimci povynni vidbyty ostannju kontrnastupaljnu operaciju brytanciv.</value>
+      <plurals />
+      <comment>Germany act III</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Invasion of Poland</key>
+      <context>campaign.act_title</context>
+      <value>Vtorğnennja do Poljŝi</value>
+      <plurals />
+      <comment>Poland act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The Poles are defending their territory against attack from Nazi Germany.</key>
+      <context>campaign.act_description</context>
+      <value>Poljaky zaxyŝajutj svoju terytoriju vid napadu nacystsjkoï Nimeččyny.</value>
+      <plurals />
+      <comment>Poland act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Plan West</key>
+      <context>campaign.act_title</context>
+      <value>Plan «Zaxid»</value>
+      <plurals />
+      <comment>Poland act II</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>After stopping the German offensive, the Poles move on to the counterattack.</key>
+      <context>campaign.act_description</context>
+      <value>Zupynyvšy nimecjkyj nastup, poljaky perexodjatj do kontrnastupu.</value>
+      <plurals />
+      <comment>Poland act II</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Great Patriotic War</key>
+      <context>campaign.act_title</context>
+      <value>Sxidnyj Front</value>
+      <plurals />
+      <comment>USSR act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The Red Army opposes the German invasion of the Soviet Union.</key>
+      <context>campaign.act_description</context>
+      <value>Červona armija protystoïtj nimecjkomu vtorğnennju v Radjansjkyj Sojuz.</value>
+      <plurals />
+      <comment>USSR act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Operation Little Saturn</key>
+      <context>campaign.act_title</context>
+      <value>Operacija «Malenjkyj Saturn»</value>
+      <plurals />
+      <comment>USSR act II</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The Soviets cut off a part of the German army near Stalingrad and proceed to the offensive towards Ukraine.</key>
+      <context>campaign.act_description</context>
+      <value>Radjansjki vijsjka vidrizaly častynu nimecjkoï armiï poblyzu Stalinğrada i perejšly v nastup na Ukraïnu.</value>
+      <plurals />
+      <comment>USSR act II</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Operation Westa</key>
+      <context>campaign.act_title</context>
+      <value>Operacija «Zaxid»</value>
+      <plurals />
+      <comment>USSR act III</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The Soviet Union doesn't accept the conditions set in Tehran to delineate the border in Iran.</key>
+      <context>campaign.act_description</context>
+      <value>Radjansjkyj Sojuz ne pryjmaje umovy, vysunuti v Teğerani ŝodo vyznačennja kordonu čerez terytoriju Iranu.</value>
+      <plurals />
+      <comment>USSR act III</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Vistula–Oder Offensive</key>
+      <context>campaign.act_title</context>
+      <value>Vislo-Odersjka operacija</value>
+      <plurals />
+      <comment>USSR act IV</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The Red Army is going west to liberate the countries of Eastern Europe from Nazism and to reach Berlin before the allies.</key>
+      <context>campaign.act_description</context>
+      <value>Červona armija ruxajetjsja na zaxid, ŝob zviljnyty kraïny Sxidnoï Jevropy vid nacyzmu i distatysja Berlina raniše za sojuznykiv.</value>
+      <plurals />
+      <comment>USSR act IV</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Treason of the West</key>
+      <context>campaign.act_title</context>
+      <value>Zrada Zaxodu</value>
+      <plurals />
+      <comment>USSR act V</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Western Bloc countries betray their ally and invade the Soviet Union.</key>
+      <context>campaign.act_description</context>
+      <value>Kraïny Zaxidnoğo bloku zradžujutj svoğo sojuznyka i vtorğajutjsja na terytoriju Radjansjkoğo Sojuzu.</value>
+      <plurals />
+      <comment>USSR act V</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Operation Torch</key>
+      <context>campaign.act_title</context>
+      <value>Operacija «Smoloskyp»</value>
+      <plurals />
+      <comment>USA act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>American troops are landing in North Africa.</key>
+      <context>campaign.act_description</context>
+      <value>Amerykansjki vijsjka vysadžujutjsja v Pivničnij Afryci.</value>
+      <plurals />
+      <comment>USA act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Battle of the Bulge</key>
+      <context>campaign.act_title</context>
+      <value>Bytva za Ardeny</value>
+      <plurals />
+      <comment>USA act II</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The last German assault during the war.</key>
+      <context>campaign.act_description</context>
+      <value>Ostannij nimecjkyj nastup pid čas vijny.</value>
+      <plurals />
+      <comment>USA act II</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Long wished deliverance</key>
+      <context>campaign.act_title</context>
+      <value>Dovğoočikuvane zviljnennja</value>
+      <plurals />
+      <comment>USA act III</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>American troops join Churchill in his war against communism.</key>
+      <context>campaign.act_description</context>
+      <value>Amerykansjki vijsjka pryjednujutjsja do Čerčylja u joğo vijni proty komunizmu.</value>
+      <plurals />
+      <comment>USA act III</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DLC Description</key>
+      <context>campaign.description</context>
+      <value>Italija - dodatkova universaljna frakcija. Maje dejaku nimecjku texniku, nepoğanu aviaciju, artyleriju ta zağalom serednju bojovu sylu.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DLC Campaign</key>
+      <context>campaign.name</context>
+      <value>Italijsjka kampanija</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>dlc0.act1</key>
+      <context>campaign.act_title</context>
+      <value>Operacija «Kompas»</value>
+      <plurals />
+      <comment>Italian act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>dlc0.act1</key>
+      <context>campaign.act_description</context>
+      <value>Italijsjka armija zaxyŝajetjsja vid brytansjkoï ataky v Pivničnij Afryci.</value>
+      <plurals />
+      <comment>Italian act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>dlc0.act2</key>
+      <context>campaign.act_title</context>
+      <value>Operacija «Xaski»</value>
+      <plurals />
+      <comment>Italian act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>dlc0.act2</key>
+      <context>campaign.act_description</context>
+      <value>Vytisnyvšy armiju Osi z Afryky, sojuznyky počynajutj vtorğnennja v Italiju.</value>
+      <plurals />
+      <comment>Italian act 2</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>dlc0.m1_1</key>
+      <context>campaign.mission_name</context>
+      <value>Sidi-Barani</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>dlc0.m1_2</key>
+      <context>campaign.mission_name</context>
+      <value>Bardija</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>dlc0.m1_3</key>
+      <context>campaign.mission_name</context>
+      <value>Tobruk</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>dlc0.m1_4</key>
+      <context>campaign.mission_name</context>
+      <value>Beda-Fom</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>dlc0.m2_1</key>
+      <context>campaign.mission_name</context>
+      <value>Palermo</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>dlc0.m2_2</key>
+      <context>campaign.mission_name</context>
+      <value>Mesina</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>dlc0.m2_3</key>
+      <context>campaign.mission_name</context>
+      <value>Redžo-Kalabrija</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>dlc0.m2_4</key>
+      <context>campaign.mission_name</context>
+      <value>Taranto</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>dlc0.m2_5</key>
+      <context>campaign.mission_name</context>
+      <value>Salerno</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Nottingham</key>
+      <context>campaign.mission_name</context>
+      <value>Notingem</value>
+      <plurals />
+      <comment>UK act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Oxford</key>
+      <context>campaign.mission_name</context>
+      <value>Oksford</value>
+      <plurals />
+      <comment>UK act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Colchester</key>
+      <context>campaign.mission_name</context>
+      <value>Kolčester</value>
+      <plurals />
+      <comment>UK act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Winchester</key>
+      <context>campaign.mission_name</context>
+      <value>Vinčester</value>
+      <plurals />
+      <comment>UK act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dover</key>
+      <context>campaign.mission_name</context>
+      <value>Duvr</value>
+      <plurals />
+      <comment>UK act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>El Agheilar</key>
+      <context>campaign.mission_name</context>
+      <value>Elj-Ağejla</value>
+      <plurals />
+      <comment>UK act 2 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Benghazi</key>
+      <context>campaign.mission_name</context>
+      <value>Benğazi</value>
+      <plurals />
+      <comment>UK act 2 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Gialo Oasis</key>
+      <context>campaign.mission_name</context>
+      <value>Džalo Oazis</value>
+      <plurals />
+      <comment>UK act 2 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tobruk</key>
+      <context>campaign.mission_name</context>
+      <value>Tobruk</value>
+      <plurals />
+      <comment>UK act 2 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Giarabub</key>
+      <context>campaign.mission_name</context>
+      <value>Džarabub</value>
+      <plurals />
+      <comment>UK act 2 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>El Alamein</key>
+      <context>campaign.mission_name</context>
+      <value>Elj-Alamejn</value>
+      <plurals />
+      <comment>UK act 2 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Teheran</key>
+      <context>campaign.mission_name</context>
+      <value>Teğeran</value>
+      <plurals />
+      <comment>UK act 3 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Arak</key>
+      <context>campaign.mission_name</context>
+      <value>Erak</value>
+      <plurals />
+      <comment>UK act 3 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ishafan</key>
+      <context>campaign.mission_name</context>
+      <value>Isfağan</value>
+      <plurals />
+      <comment>UK act 3 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Abadan</key>
+      <context>campaign.mission_name</context>
+      <value>Abadan</value>
+      <plurals />
+      <comment>UK act 3 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Szczecin</key>
+      <context>campaign.mission_name</context>
+      <value>Ŝecyn</value>
+      <plurals />
+      <comment>UK act 4 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bydgoszcz</key>
+      <context>campaign.mission_name</context>
+      <value>Bydğoŝ</value>
+      <plurals />
+      <comment>UK act 4 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Katowice</key>
+      <context>campaign.mission_name</context>
+      <value>Katovice</value>
+      <plurals />
+      <comment>UK act 4 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kielce</key>
+      <context>campaign.mission_name</context>
+      <value>Keljce</value>
+      <plurals />
+      <comment>UK act 4 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lublin</key>
+      <context>campaign.mission_name</context>
+      <value>Ljublin</value>
+      <plurals />
+      <comment>UK act 4 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Liege</key>
+      <context>campaign.mission_name</context>
+      <value>Ljjež</value>
+      <plurals />
+      <comment>France act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lille</key>
+      <context>campaign.mission_name</context>
+      <value>Lilj</value>
+      <plurals />
+      <comment>France act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Amiens</key>
+      <context>campaign.mission_name</context>
+      <value>Am'jen</value>
+      <plurals />
+      <comment>France act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Reims</key>
+      <context>campaign.mission_name</context>
+      <value>Rejms</value>
+      <plurals />
+      <comment>France act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Nancy</key>
+      <context>campaign.mission_name</context>
+      <value>Nansi</value>
+      <plurals />
+      <comment>France act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Paris</key>
+      <context>campaign.mission_name</context>
+      <value>Paryž</value>
+      <plurals />
+      <comment>France act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Gdansk</key>
+      <context>campaign.mission_name</context>
+      <value>Gdansjk</value>
+      <plurals />
+      <comment>Germany act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Poznan</key>
+      <context>campaign.mission_name</context>
+      <value>Poznanj</value>
+      <plurals />
+      <comment>Germany act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Torun</key>
+      <context>campaign.mission_name</context>
+      <value>Torunj</value>
+      <plurals />
+      <comment>Germany act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lodz</key>
+      <context>campaign.mission_name</context>
+      <value>Lodzj</value>
+      <plurals />
+      <comment>Germany act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Modlin</key>
+      <context>campaign.mission_name</context>
+      <value>Modlyn</value>
+      <plurals />
+      <comment>Germany act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lomza</key>
+      <context>campaign.mission_name</context>
+      <value>Lomža</value>
+      <plurals />
+      <comment>Germany act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rzew</key>
+      <context>campaign.mission_name</context>
+      <value>Ržev</value>
+      <plurals />
+      <comment>Germany act 4 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Briansk</key>
+      <context>campaign.mission_name</context>
+      <value>Brjansjk</value>
+      <plurals />
+      <comment>Germany act 4 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mozajsk</key>
+      <context>campaign.mission_name</context>
+      <value>Možajsjk</value>
+      <plurals />
+      <comment>Germany act 4 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Orzel</key>
+      <context>campaign.mission_name</context>
+      <value>Orel</value>
+      <plurals />
+      <comment>Germany act 4 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tula</key>
+      <context>campaign.mission_name</context>
+      <value>Tula</value>
+      <plurals />
+      <comment>Germany act 4 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Elista</key>
+      <context>campaign.mission_name</context>
+      <value>Elista</value>
+      <plurals />
+      <comment>Germany act 6 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Krasnodar</key>
+      <context>campaign.mission_name</context>
+      <value>Krasnodar</value>
+      <plurals />
+      <comment>Germany act 6 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rostov</key>
+      <context>campaign.mission_name</context>
+      <value>Rostov</value>
+      <plurals />
+      <comment>Germany act 6 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kharkov</key>
+      <context>campaign.mission_name</context>
+      <value>Xarkiv</value>
+      <plurals />
+      <comment>Germany act 6 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Brzesc</key>
+      <context>campaign.mission_name</context>
+      <value>Brest</value>
+      <plurals />
+      <comment>Poland act 2 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Wielun</key>
+      <context>campaign.mission_name</context>
+      <value>Veljunj</value>
+      <plurals />
+      <comment>Poland act 2 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mlawa</key>
+      <context>campaign.mission_name</context>
+      <value>Mlava</value>
+      <plurals />
+      <comment>Poland act 2 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Gniezno</key>
+      <context>campaign.mission_name</context>
+      <value>Ğnjezno</value>
+      <plurals />
+      <comment>Poland act 2 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Chojnice</key>
+      <context>campaign.mission_name</context>
+      <value>Xojnyci</value>
+      <plurals />
+      <comment>USSR act 4 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Safi</key>
+      <context>campaign.mission_name</context>
+      <value>Safi</value>
+      <plurals />
+      <comment>USA act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Casablanca</key>
+      <context>campaign.mission_name</context>
+      <value>Kasablanka</value>
+      <plurals />
+      <comment>USA act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Marrakesh</key>
+      <context>campaign.mission_name</context>
+      <value>Marakeš</value>
+      <plurals />
+      <comment>USA act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Oran</key>
+      <context>campaign.mission_name</context>
+      <value>Oran</value>
+      <plurals />
+      <comment>USA act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Biskra</key>
+      <context>campaign.mission_name</context>
+      <value>Biskra</value>
+      <plurals />
+      <comment>USA act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tunis</key>
+      <context>campaign.mission_name</context>
+      <value>Tunis</value>
+      <plurals />
+      <comment>USA act 1 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>St. Vith</key>
+      <context>campaign.mission_name</context>
+      <value>Sankt-Vit</value>
+      <plurals />
+      <comment>USA act 2 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Houffalize</key>
+      <context>campaign.mission_name</context>
+      <value>Ufaliz</value>
+      <plurals />
+      <comment>USA act 2 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bastogne</key>
+      <context>campaign.mission_name</context>
+      <value>Bastonj</value>
+      <plurals />
+      <comment>USA act 2 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Marche</key>
+      <context>campaign.mission_name</context>
+      <value>Marke</value>
+      <plurals />
+      <comment>USA act 2 mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Easy</key>
+      <context>campaign.difficulty_level</context>
+      <value>Leğko</value>
+      <plurals />
+      <comment />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hard</key>
+      <context>campaign.difficulty_level</context>
+      <value>Skladno</value>
+      <plurals />
+      <comment />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Normal</key>
+      <context>campaign.difficulty_level</context>
+      <value>Normaljno</value>
+      <plurals />
+      <comment />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Iron Man</key>
+      <context>campaign.save_mode</context>
+      <value>Zaliznyj dux</value>
+      <plurals />
+      <comment />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Normal</key>
+      <context>campaign.save_mode</context>
+      <value>Zvyčajnyj</value>
+      <plurals />
+      <comment />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>No saving in the middle of an act</key>
+      <context />
+      <value>Protjağom aktu ne možna zberiğatysja</value>
+      <plurals />
+      <comment />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Play this mission without infantry</key>
+      <context>campaign.mission_restriction</context>
+      <value>Projditj cju misiju bez pixoty</value>
+      <plurals />
+      <comment />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Play this mission without airplanes!</key>
+      <context>campaign.mission_restriction</context>
+      <value>Projditj cju misiju bez litakiv</value>
+      <plurals />
+      <comment />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Play this mission without tanks!</key>
+      <context>campaign.mission_restriction</context>
+      <value>Projditj cju misiju bez tankiv</value>
+      <plurals />
+      <comment />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Play this mission using only infantry</key>
+      <context>campaign.mission_restriction</context>
+      <value>Projditj cju misiju tiljky z pixotoju</value>
+      <plurals />
+      <comment />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Play this mission using only tanks</key>
+      <context>campaign.mission_restriction</context>
+      <value>Projditj cju misiju tiljky z tankamy</value>
+      <plurals />
+      <comment />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Brilliant</key>
+      <context>campaign.victory_type</context>
+      <value>Bezzaperečna</value>
+      <plurals />
+      <comment />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Major</key>
+      <context>campaign.victory_type</context>
+      <value>Značna</value>
+      <plurals />
+      <comment />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Minor</key>
+      <context>campaign.victory_type</context>
+      <value>Mala</value>
+      <plurals />
+      <comment />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>UK is an air-defensive faction. They are focused on air domination by producing strong fighter planes on less expensive airport.</key>
+      <context>campaign.description</context>
+      <value>Ob'jednane Korolivstvo — frakcija, ŝo specializujetjsja na povitrjanij oboroni ta dominuvanni v povitri. Ïxni vynyŝuvači potužni, a aviabazy koštujutj deševše.</value>
+      <plurals />
+      <comment>UK campaign</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>British</key>
+      <context>campaign.name</context>
+      <value>Brytanci</value>
+      <plurals />
+      <comment>UK campaign</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>France is a land-defensive faction. They are focused on military fortifications such as bunkers, pillboxes. They have cheaper and more powerful artillery and anti-tank cannons.</key>
+      <context>campaign.description</context>
+      <value>Francija — nazemna oboronna frakcija. Vony zoseredženi na vijsjkovyx ukriplennjax, takyx jak bunkery, doty, toŝo. Vony takož majutj deševšu potužnu artyleriju ta protytankovi ğarmaty.</value>
+      <plurals />
+      <comment>France campaign</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>French</key>
+      <context>campaign.name</context>
+      <value>Francija</value>
+      <plurals />
+      <comment>France campaign</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Germany is a land-offensive faction. They are focused on advanced tanks that are also more expensive.</key>
+      <context>campaign.description</context>
+      <value>Nimeččyna — nazemna nastupaljna frakcija. Vona zoseredžena na sučasnyx tankax, jaki takož je biljš doroğymy.</value>
+      <plurals />
+      <comment>Germany campaign</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>German</key>
+      <context>campaign.name</context>
+      <value>Nimeččyna</value>
+      <plurals />
+      <comment>Germany campaign</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Poland is a land-defensive faction. They focus on infantry, which is more powerful and numerous.</key>
+      <context>campaign.description</context>
+      <value>Poljŝa — nazemna oboronna frakcija. Vony zoseredžujutjsja na vykorystanni bağatjox potužnyx pixotnyx pidrozdiliv.</value>
+      <plurals />
+      <comment>Poland campaign</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Polish</key>
+      <context>campaign.name</context>
+      <value>Poljŝa</value>
+      <plurals />
+      <comment>Poland campaign</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Soviets are a land-offensive faction. Their strategy lies in mass production. They outnumber the enemy with cheaper but also less deadly tanks.</key>
+      <context>campaign.description</context>
+      <value>SRSR - nazemna nastupaljna frakcija. Ïxnja strateğija poljağaje u masovomu vyrobnyctvi. Vony perevažajutj voroğa kiljkistju deševšyx, xoča i slabšyx tankiv.</value>
+      <plurals />
+      <comment>USSR campaign</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>USSR</key>
+      <context>campaign.name</context>
+      <value>SRSR</value>
+      <plurals />
+      <comment>USSR campaign</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>US is an air-offensive faction. They are focused on heavy bombardment of the enemy. Airport is cheaper and more efficient, producing stronger bombers.</key>
+      <context>campaign.description</context>
+      <value>SŠA - povitrjana nastupaljna frakcija. Ïxni aviabazy deševši i vyrobljajutj biljše bombarduvaljnykiv.</value>
+      <plurals />
+      <comment>USA campaign</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>USA</key>
+      <context>campaign.name</context>
+      <value>SŠA</value>
+      <plurals />
+      <comment>USA campaign</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>UK</key>
+      <context>campaign.nation_name</context>
+      <value>Brytanija</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>France</key>
+      <context>campaign.nation_name</context>
+      <value>Francija</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Germany</key>
+      <context>campaign.nation_name</context>
+      <value>Nimci</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>USSR</key>
+      <context>campaign.nation_name</context>
+      <value>SRSR</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>USA</key>
+      <context>campaign.nation_name</context>
+      <value>SŠA</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Poland</key>
+      <context>campaign.nation_name</context>
+      <value>Poljŝa</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>nation.italy</key>
+      <context>campaign.nation_name</context>
+      <value>Italija</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>NO VEHICLE</key>
+      <context>campaign.officer</context>
+      <value>NEMAJE TRANSPORTU</value>
+      <plurals />
+      <comment>In campaign in officers pane, shown to denote the officer doesn't have any vehicle, that means he will go on foot.</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Second Lieutenant</key>
+      <context>epaulette.originalName</context>
+      <value>Second Lieutenant</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Civilian</key>
+      <context>epaulette.originalName</context>
+      <value>Civilian</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sous-Lieutenant</key>
+      <context>epaulette.originalName</context>
+      <value>Sous-Lieutenant</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lieutenant</key>
+      <context>epaulette.originalName</context>
+      <value>Lieutenant</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Capitaine</key>
+      <context>epaulette.originalName</context>
+      <value>Capitaine</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Commandant</key>
+      <context>epaulette.originalName</context>
+      <value>Commandant</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lieutenant Colonel</key>
+      <context>epaulette.originalName</context>
+      <value>Lieutenant Colonel</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Colonel</key>
+      <context>epaulette.originalName</context>
+      <value>Colonel</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Général de brigade</key>
+      <context>epaulette.originalName</context>
+      <value>Général de brigade</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Général de division</key>
+      <context>epaulette.originalName</context>
+      <value>Général de division</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Général de corps d_armée</key>
+      <context>epaulette.originalName</context>
+      <value>Général de corps d'armée</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Général d_armée</key>
+      <context>epaulette.originalName</context>
+      <value>Général d'armée</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Maréchal de France</key>
+      <context>epaulette.originalName</context>
+      <value>Maréchal de France</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Leutnant</key>
+      <context>epaulette.originalName</context>
+      <value>Leutnant</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>OberLeutnant</key>
+      <context>epaulette.originalName</context>
+      <value>OberLeutnant</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hauptmann</key>
+      <context>epaulette.originalName</context>
+      <value>Hauptmann</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Major</key>
+      <context>epaulette.originalName</context>
+      <value>Major</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Oberstleutnant</key>
+      <context>epaulette.originalName</context>
+      <value>Oberstleutnant</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Oberst</key>
+      <context>epaulette.originalName</context>
+      <value>Oberst</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>GeneralMajor</key>
+      <context>epaulette.originalName</context>
+      <value>GeneralMajor</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>GeneralLeutnant</key>
+      <context>epaulette.originalName</context>
+      <value>GeneralLeutnant</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>General der Waffengattung</key>
+      <context>epaulette.originalName</context>
+      <value>General der Waffengattung</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>GeneralOberst</key>
+      <context>epaulette.originalName</context>
+      <value>GeneralOberst</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>GeneralFeldMarschall</key>
+      <context>epaulette.originalName</context>
+      <value>GeneralFeldMarschall</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ReichMarschall</key>
+      <context>epaulette.originalName</context>
+      <value>ReichMarschall</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Chorąży</key>
+      <context>epaulette.originalName</context>
+      <value>Chorąży</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Podporucznik</key>
+      <context>epaulette.originalName</context>
+      <value>Podporucznik</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Porucznik</key>
+      <context>epaulette.originalName</context>
+      <value>Porucznik</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kapitan Rotmistrz</key>
+      <context>epaulette.originalName</context>
+      <value>Kapitan Rotmistrz</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Podpułkownik</key>
+      <context>epaulette.originalName</context>
+      <value>Podpułkownik</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Pułkownik</key>
+      <context>epaulette.originalName</context>
+      <value>Pułkownik</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Generał Brygady</key>
+      <context>epaulette.originalName</context>
+      <value>Generał Brygady</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Generał Dywizji</key>
+      <context>epaulette.originalName</context>
+      <value>Generał Dywizji</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Generał Broni</key>
+      <context>epaulette.originalName</context>
+      <value>Generał Broni</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Marszałek Polski</key>
+      <context>epaulette.originalName</context>
+      <value>Marszałek Polski</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mládshiy leytenánt</key>
+      <context>epaulette.originalName</context>
+      <value>Mládshiy leytenánt</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Leytenánt</key>
+      <context>epaulette.originalName</context>
+      <value>Leytenánt</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Stárshiy leytenánt</key>
+      <context>epaulette.originalName</context>
+      <value>Stárshiy leytenánt</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kapitán</key>
+      <context>epaulette.originalName</context>
+      <value>Kapitán</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mayór</key>
+      <context>epaulette.originalName</context>
+      <value>Mayór</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Podpolkóvnik</key>
+      <context>epaulette.originalName</context>
+      <value>Podpolkóvnik</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Polkóvnik</key>
+      <context>epaulette.originalName</context>
+      <value>Polkóvnik</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Generál-Mayór</key>
+      <context>epaulette.originalName</context>
+      <value>Generál-Mayór</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Generál-Leytenánt</key>
+      <context>epaulette.originalName</context>
+      <value>Generál-Leytenánt</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Generál-Polkóvnik</key>
+      <context>epaulette.originalName</context>
+      <value>Generál-Polkóvnik</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>General armii</key>
+      <context>epaulette.originalName</context>
+      <value>General armii</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Marshal roda voysk</key>
+      <context>epaulette.originalName</context>
+      <value>Marshal roda voysk</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Glavny marshal roda voysk</key>
+      <context>epaulette.originalName</context>
+      <value>Glavny marshal roda voysk</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Marshal Sovétskogo Soyuza</key>
+      <context>epaulette.originalName</context>
+      <value>Marshal Sovétskogo Soyuza</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Generalissimus Sovétskogo Soyuza</key>
+      <context>epaulette.originalName</context>
+      <value>Generalissimus Sovétskogo Soyuza</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Captain</key>
+      <context>epaulette.originalName</context>
+      <value>Captain</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Brigadier</key>
+      <context>epaulette.originalName</context>
+      <value>Brigadier</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Major-General</key>
+      <context>epaulette.originalName</context>
+      <value>Major-General</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lieutenant-General</key>
+      <context>epaulette.originalName</context>
+      <value>Lieutenant-General</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>General</key>
+      <context>epaulette.originalName</context>
+      <value>General</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Field Marshal</key>
+      <context>epaulette.originalName</context>
+      <value>Field Marshal</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>First Lieutenant</key>
+      <context>epaulette.originalName</context>
+      <value>First Lieutenant</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Brigadier General</key>
+      <context>epaulette.originalName</context>
+      <value>Brigadier General</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Major General</key>
+      <context>epaulette.originalName</context>
+      <value>Major General</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lieutenant General</key>
+      <context>epaulette.originalName</context>
+      <value>Lieutenant General</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>General of the Army</key>
+      <context>epaulette.originalName</context>
+      <value>General of the Army</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>General of the Armies</key>
+      <context>epaulette.originalName</context>
+      <value>General of the Armies</value>
+      <ignored />
+      <plurals />
+      <comment>Epaulette (Do not translate)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>nation.japan</key>
+      <context>campaign.nation_name</context>
+      <value>Japonija</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Japan Description</key>
+      <context>campaign.description</context>
+      <value>Japonija — nazemna nastupaljna frakcija. Vona zoseredžujetjsja na potužnij i vytryvalij pixoti. Takož vona zdatna zdyvuvaty voroğiv specialjnymy povitrjanymy pidrozdilamy.</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>japan.act1</key>
+      <context>campaign.act_title</context>
+      <value>Bytva za Saxalin</value>
+      <plurals />
+      <comment>Japanese act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>japan.act1</key>
+      <context>campaign.act_description</context>
+      <value>Radjansjki vijsjka vtorğlysja v pivdennu častynu ostrova Saxalin i namağalysja pidğotuvatysja do vtorğnennja na ostriv Xokajdo.</value>
+      <plurals />
+      <comment>Japanese act I</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>japan.m1_1</key>
+      <context>campaign.mission_name</context>
+      <value>Linija Karafuto</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>japan.m1_2</key>
+      <context>campaign.mission_name</context>
+      <value>Toro</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>japan.m1_3</key>
+      <context>campaign.mission_name</context>
+      <value>Kuryljsjki ostrovy</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>japan.m1_4</key>
+      <context>campaign.mission_name</context>
+      <value>Maoka</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Jun-i</key>
+      <context>epaulette.originalName</context>
+      <value>Jun-i</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rikugun-shōi</key>
+      <context>epaulette.originalName</context>
+      <value>Rikugun-shōi</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rikugun-chūi</key>
+      <context>epaulette.originalName</context>
+      <value>Rikugun-chūi</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rikugun-tai-i</key>
+      <context>epaulette.originalName</context>
+      <value>Rikugun-tai-i</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rikugun-shōsa</key>
+      <context>epaulette.originalName</context>
+      <value>Rikugun-shōsa</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rikugun-chūsa</key>
+      <context>epaulette.originalName</context>
+      <value>Rikugun-chūsa</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rikugun-taisa</key>
+      <context>epaulette.originalName</context>
+      <value>Rikugun-taisa</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rikugun-shōshō</key>
+      <context>epaulette.originalName</context>
+      <value>Rikugun-shōshō</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rikugun-chūjō</key>
+      <context>epaulette.originalName</context>
+      <value>Rikugun-chūjō</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rikugun-taishō</key>
+      <context>epaulette.originalName</context>
+      <value>Rikugun-taishō</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rikugun-gensui</key>
+      <context>epaulette.originalName</context>
+      <value>Rikugun-gensui</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dai-gensui</key>
+      <context>epaulette.originalName</context>
+      <value>Dai-gensui</value>
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

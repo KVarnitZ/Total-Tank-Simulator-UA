@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>Fantastic</key>
+      <context>options.video_quality</context>
+      <value>Duže vysoka</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Windowed</key>
+      <context>options.fullscreen_mode</context>
+      <value>U vikni</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Potato</key>
+      <context>options.video_quality</context>
+      <value>Žaxlyva</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fast</key>
+      <context>options.video_quality</context>
+      <value>Poğana</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Simple</key>
+      <context>options.video_quality</context>
+      <value>Prosta</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Good</key>
+      <context>options.video_quality</context>
+      <value>Serednja</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Beautiful</key>
+      <context>options.video_quality</context>
+      <value>Vysoka</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fantastic</key>
+      <context>options.cpu_quality</context>
+      <value>Duže vysoka</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Potato</key>
+      <context>options.cpu_quality</context>
+      <value>Žaxlyva</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fast</key>
+      <context>options.cpu_quality</context>
+      <value>Poğana</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Simple</key>
+      <context>options.cpu_quality</context>
+      <value>Prosta</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Good</key>
+      <context>options.cpu_quality</context>
+      <value>Serednja</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Beautiful</key>
+      <context>options.cpu_quality</context>
+      <value>Vysoka</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Resolution</key>
+      <value>Rozdiljna zdatnistj</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fullscreen</key>
+      <value>Režym ekranu</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fullscreen</key>
+      <context>options.fullscreen_mode</context>
+      <value>Povnyj ekran</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fullscreen (exclusive)</key>
+      <context>options.fullscreen_mode</context>
+      <value>Povnyj ekran (specialjnyj)</value>
+      <ignored />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Maximized Window</key>
+      <context>options.fullscreen_mode</context>
+      <value>Vikonnyj (bez ramky)</value>
+      <ignored />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Binding [{0}] will conflict with binding [{1}].
+Are you sure you want to do it?</key>
+      <value>Klaviša [{0}] bude konfliktuvaty z [{1}].
+Prodovžyty?</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>GPU settings above the defaults</key>
+      <context>options</context>
+      <value>Nalaštuvannja ĞP vyŝe standartnyx</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CPU settings above the defaults</key>
+      <context>options</context>
+      <value>Nalaštuvannja CP vyŝe standartnyx</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>None</key>
+      <context>options.languageName</context>
+      <value>None</value>
+      <ignored />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>English (US)</key>
+      <context>options.languageName</context>
+      <value>Anğlijsjka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>English (UK)</key>
+      <context>options.languageName</context>
+      <value>Anğlijsjka brytansjka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Polish</key>
+      <context>options.languageName</context>
+      <value>Poljska</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Russian</key>
+      <context>options.languageName</context>
+      <value>Rosijsjka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>German</key>
+      <context>options.languageName</context>
+      <value>Nimecjka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>French</key>
+      <context>options.languageName</context>
+      <value>Francuzjka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Italian</key>
+      <context>options.languageName</context>
+      <value>Italjjansjka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Spanish</key>
+      <context>options.languageName</context>
+      <value>Ispansjka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Portuguese</key>
+      <context>options.languageName</context>
+      <value>Portuğaljsjka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Japanese</key>
+      <context>options.languageName</context>
+      <value>Japonsjka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Korean</key>
+      <context>options.languageName</context>
+      <value>Korejsjka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Chinese (simplified)</key>
+      <context>options.languageName</context>
+      <value>Kytajsjka sproŝena</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Chinese (traditional)</key>
+      <context>options.languageName</context>
+      <value>Kytajsjka tradycijna</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ukrainian</key>
+      <context>options.languageName</context>
+      <value>Ukraïnsjka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Skip cinematic intro in game</key>
+      <value>Propuskaty video vstup u ğri</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Skip cinematic intro in campaign</key>
+      <value>Propuskaty video vstup u kampaniï</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hide function buttons hints</key>
+      <value>Pryxovaty pidkazky dlja knopok funkcij</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Legacy camera</key>
+      <value>Zğladžuvannja kamery</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>A restart is required to apply some video settings.</key>
+      <value>Potriben perezapusk dlja zastosuvannja nalaštuvanj ğrafiky.</value>
+      <contex>options.messagebox.text</contex>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Video settings</key>
+      <value>Nalaštuvannja zobražennja</value>
+      <contex>options.messagebox.title</contex>
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

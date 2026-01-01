@@ -1,0 +1,414 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>match.win</key>
+      <context>mainmenu.highscore</context>
+      <value>PEREMOĞA</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>match.lost</key>
+      <context>mainmenu.highscore</context>
+      <value>PORAZKA</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>match.unit.count</key>
+      <context>mainmenu.highscore</context>
+      <value>ODYNYCJ: {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>profile.anonymous</key>
+      <context>mainmenu.highscore</context>
+      <value>Nenazvanyj</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.next</key>
+      <context>mainmenu.highscore</context>
+      <value>Nastupna bytva</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.start</key>
+      <context>mainmenu.highscore</context>
+      <value>Počaty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.retry</key>
+      <context>mainmenu.highscore</context>
+      <value>Povtoryty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.detailed</key>
+      <context>mainmenu.highscore</context>
+      <value>Detaljnyj zvit</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.exit</key>
+      <context>mainmenu.highscore</context>
+      <value>Vyjty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.saveexit</key>
+      <context>mainmenu.highscore</context>
+      <value>Zbereğty ta vyjty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.title.victory</key>
+      <context>mainmenu.highscore</context>
+      <value>PEREMOĞA</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.title.defeat</key>
+      <context>mainmenu.highscore</context>
+      <value>PORAZKA</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.title.gameover</key>
+      <context>mainmenu.highscore</context>
+      <value>ĞRU SKINČENO</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.title.surrender</key>
+      <context>mainmenu.highscore</context>
+      <value>ZDATYSJA? PODUMAJ!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.title.detailed</key>
+      <context>mainmenu.highscore</context>
+      <value>DETALJNYJ ZVIT</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.title.record</key>
+      <context>mainmenu.highscore</context>
+      <value>NOVYJ ZAPYS</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>unit.cost</key>
+      <context>mainmenu.highscore</context>
+      <value>{0} &lt;cash&gt;</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>menu.hide</key>
+      <context>mainmenu.highscore</context>
+      <value>Pryxovaty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>menu.show</key>
+      <context>mainmenu.highscore</context>
+      <value>Pokazaty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.yes</key>
+      <context>mainmenu.highscore</context>
+      <value>Tak</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>summary.button.no</key>
+      <context>mainmenu.highscore</context>
+      <value>Ni</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.summary.nameinput</key>
+      <value>Vkažistj svoje im'ja:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.summary.factionrandom</key>
+      <value>VAŠA NASTUPNA FRAKCIJA:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.summary.livesleft</key>
+      <value>ZALYŠYLOSJA ŽYTTIV:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.summary.ranks</key>
+      <value>REJTYNĞ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.battlewon</key>
+      <value>PEREMOŽNYX BYTV:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.enemy.killed</key>
+      <value>VBYTO VOROŽYX ODYNYCJ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.enemy.value</key>
+      <value>ZAĞALJNA KOŠTOVNISTJ VYNYŜENYX VOROĞIV:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.ally.spent</key>
+      <value>USJOĞO VYTRAČENO KOŠTIV:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.favourite</key>
+      <value>ULJUBLENYJ TYP ODYNYCI:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.highestrank</key>
+      <value>NAJVYŜYJ REJTYNĞ:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.general</key>
+      <value>Zağaljno:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.rankssummary</key>
+      <value>ZVIT PO REJTYNĞU:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.matchhistory</key>
+      <value>ISTORIJA MATČU:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.unitsbytype</key>
+      <value>ODYNYCI ZA TYPOM:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.rankbyfaction</key>
+      <value>NAJVYŜYJ RAXUNOK PO FRAKCIJAM:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.unitbytype.allydeployed</key>
+      <value>Odynycj rozğornuto</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.unitbytype.enemykilled</key>
+      <value>Voroğiv vynyŝeno</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.scoreboard</key>
+      <value>RAXUNOK</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.tab.battlewon</key>
+      <value>Peremožnyx bytv</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.tab.valuekilled</key>
+      <value>Zağaljna koštovnistj vynyŝenyx voroğiv</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.details</key>
+      <value>DETALI</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.title.advanced</key>
+      <value>POVNYJ ZVIT</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.mapplayed</key>
+      <value>MAPU ZIĞRANO:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.fundslimit</key>
+      <value>OBMEŽENNJA KOŠTIV:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>shadow.stats.ally.deployed</key>
+      <value>ZAĞALJNO ODYNYCJ ROZĞORNUTO:</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Random</key>
+      <context>factions.shortname</context>
+      <value>Vypadkovo</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Neutral</key>
+      <context>factions.shortname</context>
+      <value>Nejtraljni</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>UK</key>
+      <context>factions.shortname</context>
+      <value>Brytanija</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>France</key>
+      <context>factions.shortname</context>
+      <value>Francija</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Germany</key>
+      <context>factions.shortname</context>
+      <value>Nimeččyna</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Poland</key>
+      <context>factions.shortname</context>
+      <value>Poljŝa</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>USSR</key>
+      <context>factions.shortname</context>
+      <value>SRSR</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>USA</key>
+      <context>factions.shortname</context>
+      <value>SŠA</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Italy</key>
+      <context>factions.shortname</context>
+      <value>Italija</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Random</key>
+      <context>factions.fullname</context>
+      <value>Vypadkovo</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Neutral</key>
+      <context>factions.fullname</context>
+      <value>Nejtraljni</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Britain</key>
+      <context>factions.fullname</context>
+      <value>Velykobrytanija</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>France</key>
+      <context>factions.fullname</context>
+      <value>Francija</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Germany</key>
+      <context>factions.fullname</context>
+      <value>Nimeččyna</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Poland</key>
+      <context>factions.fullname</context>
+      <value>Poljŝa</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Soviet Union</key>
+      <context>factions.fullname</context>
+      <value>Radjansjkyj Sojuz</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>USA</key>
+      <context>factions.fullname</context>
+      <value>SŠA</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Italy</key>
+      <context>factions.fullname</context>
+      <value>Italija</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Italians {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Italjjanci peremoğly! {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>British {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Brytanci peremoğly! {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>French {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Francuzy peremoğly! {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Germans {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Nimci peremoğly! {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Polish {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Poljaky peremoğly! {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Soviets {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Radjanci peremoğly! {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Americans {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Amerykanci peremoğly! {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>No scores yet</key>
+      <value>Donyni očkiv nemaje</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>&lt;cash&gt; Enemies Killed</key>
+      <value>Vynyŝeno voroğiv: &lt;cash&gt;</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hide</key>
+      <value>Pryxovaty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Press a key</key>
+      <value>Natysnistj klavišu</value>
+      <comment>text shown when player is setting up key binding</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Reset keyboard bindings to defaults?</key>
+      <value>Vidnovyty pryznačennja klaviš do počatkovyx?</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>This mod contains content from DLCs {0} which are missing. Buy missing DLC and install them in order to use this mod.</key>
+      <value>This mod contains content from DLCs {0} which are missing. Buy missing DLC and install them in order to use this mod.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Buy DLC</key>
+      <value>Buy DLC</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>This mod contains content from DLCs {0} which are missing. Exit the game and install them in order to use this mod.</key>
+      <value>Cja modyfikacija maje vmist z vidsutnjoğo dopovnennja {0} . Vyjdistj z ğry ta vstanovistj dopovnennja, ŝoby vykorystovuvaty modyfikaciju.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mod {0} has dependency errors! Leave recommended actions or tweak them if you know what you are doing.</key>
+      <value>Modyfikacija {0} maje pomylky zaležnostej! Zalyšte rekomendovani diï abo zminitj ïx, jakŝo vy take rozumne.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fix dependencies</key>
+      <value>Vypravyty zaležnosti</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DLC dependency error</key>
+      <value>Pomylka zaležnostej dopovnennja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mod dependency error</key>
+      <value>Pomylka zaležnostej modyfikacij</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mod dependency error</key>
+      <value>Pomylka zaležnostej modyfikacij</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>join.discord</key>
+      <context>mainmenu</context>
+      <value>Dojednujtesj do našoğo Discord</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Scenarios</key>
+      <context />
+      <value>Scenariï</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Workshop</key>
+      <context />
+      <value>Majsternja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Japan</key>
+      <context>factions.fullname</context>
+      <value>Japonija</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Japanese {0}won</key>
+      <context>factions.victory_text</context>
+      <value>Japonci peremoğly! {0}</value>
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

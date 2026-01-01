@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>{0}: {1}</key>
+      <value>{0}: {1}</value>
+      <ignored />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>VEHICLE CAPACITY: {0}/{1}</key>
+      <value>MISTKISTJ TRANSPORTU: {0}/{1}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>New vehicle</key>
+      <context>campaign.officers</context>
+      <value>Novyj transport</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Do you want to buy {0} for the officer?</key>
+      <context>campaign.officers</context>
+      <value>Vy točno xočete kupyty dlja oficera: {0}?</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Officer recruitment</key>
+      <context>campaign.officers</context>
+      <value>Najnjaty oficera</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Do you want to recruit the officer for {0} &lt;cash&gt;?</key>
+      <context>campaign.officers</context>
+      <value>Vy xočete najnjaty oficera za {0} &lt;cash&gt;?</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Officer buyout</key>
+      <context>campaign.officers</context>
+      <value>Vykup oficera</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Do you want to buy out the capture officer for {0} &lt;cash&gt;?</key>
+      <context>campaign.officers</context>
+      <value>Vy xočete vykupyty zaxoplenoğo oficera za {0} &lt;cash&gt;?</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Officer dismiss</key>
+      <context>campaign.officers</context>
+      <value>Zviljnity oficera</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Do you want to dismiss the officer? He will lost his all bonuses and cars.</key>
+      <context>campaign.officers</context>
+      <value>Vy xočete zviljnyty oficera? Vin vtratytj usi bonusy ta transport.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You cannot dismiss captured officer!</key>
+      <value>Vy ne možete zviljnyty zaxoplenoğo oficera!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Defeat</key>
+      <value>Porazka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>In offensive act, the less battles you start, the better.</key>
+      <value>U nastupaljnyx operacijax nemaje sensu počynaty zajvi bytvy.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>In defensive act, the more battles you win, the better. Rejected missions count as lost ones.</key>
+      <value>V oboroni važlyva kiljkistj peremožnyx bytv. Vidxyleni misiï vvažajutjsja proğranymy.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Locked</key>
+      <value>Zablokovano</value>
+      <comment>In tech tree, it is locked vehicle and cannot be unlocked</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Empty slot</key>
+      <value>Porožnja komirka</value>
+      <comment>In officers panel, denotes no officer</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>On foot</key>
+      <context>campaign.officers</context>
+      <value>Pišky</value>
+      <comment>In officer panel, in a sentence: "officer goes on foot" (no vehicle)</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The officer currently goes on foot.</key>
+      <context>campaign.officers</context>
+      <value>Oficer peresuvajetjsja pišky.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The officer currently moves with {0}.</key>
+      <context>campaign.officers</context>
+      <value>Zasib peresuvannja oficeru: {0}.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Max level</key>
+      <value>Maks. rivenj</value>
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

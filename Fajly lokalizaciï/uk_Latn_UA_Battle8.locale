@@ -1,0 +1,814 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>Point of interest</key>
+      <value>Točka interesu</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Point of interest is a place which units fight for.</key>
+      <value>Odynyci b'jutjsja za točky interesu</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>unit state</key>
+      <value>stan odynyci</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>weapons</key>
+      <value>zbroja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Range</key>
+      <value>Daljnistj</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Survival time</key>
+      <value>Čas vyžyvannja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hold {0} to remove units</key>
+      <value>Utrymujte {0} dlja vydalennja odynycj</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You can't spawn on the enemy sides</key>
+      <value>Nemožna roztašovuvaty odynyci na storoni protyvnyka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You can't switch to the enemy side</key>
+      <value>Nemožna perejty na storonu protyvnyka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>action</key>
+      <value>dija</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fuel</key>
+      <context>game.unitstate</context>
+      <value>Palyvo</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Health points</key>
+      <context>game.unitstate</context>
+      <value>Očky zdorov'ja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Idle</key>
+      <context>game.ai_action</context>
+      <value>Bezdijaljnistj</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Servicing</key>
+      <context>game.unitstate</context>
+      <value>Obsluğovuvannja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bail out</key>
+      <context>game.ai_action</context>
+      <value>Vystrybnuty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Return to airport</key>
+      <context>game.ai_action</context>
+      <value>Povernutysja do aviabazy</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kamikaze attack</key>
+      <context>game.ai_action</context>
+      <value>Kamikadze ataka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Enter unit</key>
+      <context>game.ai_action</context>
+      <value>Poğruzytysja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Repair friendly unit</key>
+      <context>game.ai_action</context>
+      <value>Remontuvaty sojuznyka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Enter unit for transport</key>
+      <context>game.ai_action</context>
+      <value>Poğruzytysja dlja transportuvannja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Throw granade</key>
+      <context>game.ai_action</context>
+      <value>Kynuty ğranatu</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack</key>
+      <context>game.ai_action</context>
+      <value>Atakuvaty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack order</key>
+      <context>game.ai_action</context>
+      <value>Nakaz atakuvaty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Defend order</key>
+      <context>game.ai_action</context>
+      <value>Nakaz zaxyŝatysja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Take cover order</key>
+      <context>game.ai_action</context>
+      <value>Nakaz sxovatysja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drop atomic bomb</key>
+      <context>game.ai_action</context>
+      <value>Skynuty atomnu bombu</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack with ATR</key>
+      <context>game.ai_action</context>
+      <value>Atakuvaty z PTR</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flank</key>
+      <context>game.ai_action</context>
+      <value>Z flanğu</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Surround</key>
+      <context>game.ai_action</context>
+      <value>Otočyty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Run away</key>
+      <context>game.ai_action</context>
+      <value>Tikaty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Back off</key>
+      <context>game.ai_action</context>
+      <value>Vidstupaty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Find crew</key>
+      <context>game.ai_action</context>
+      <value>Znajty ekipaž</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Find recovery vehicle</key>
+      <context>game.ai_action</context>
+      <value>Znajty remontnyka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Find transport units</key>
+      <context>game.ai_action</context>
+      <value>Znajty transportnyk</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Capture spawner</key>
+      <context>game.ai_action</context>
+      <value>Zaxopyty stvorjuvač</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Chase target</key>
+      <context>game.ai_action</context>
+      <value>Peresliduvaty cilj</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Defend spawner</key>
+      <context>game.ai_action</context>
+      <value>Zaxyŝaty stvorjuvač</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Defend cover</key>
+      <context>game.ai_action</context>
+      <value>Zaxyŝaty ukryttja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack nest</key>
+      <context>game.ai_action</context>
+      <value>Atakuvaty ğnizdo</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack spawner</key>
+      <context>game.ai_action</context>
+      <value>Atakuvaty stvorjuvač</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Enter transport unit</key>
+      <context>game.ai_action</context>
+      <value>Poğruzytysja v transportnyk</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sneak out</key>
+      <context>game.ai_action</context>
+      <value>Vylizty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack ground units</key>
+      <context>game.ai_action</context>
+      <value>Atakuvaty nazemni odynyci</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Land on the enemy</key>
+      <context>game.ai_action</context>
+      <value>Posadka na vorožu ter.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Land on the ground</key>
+      <context>game.ai_action</context>
+      <value>Ekstrenna posadka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Follow friendly unit</key>
+      <context>game.ai_action</context>
+      <value>Sliduvaty za sojuznykom</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack from a hideout</key>
+      <context>game.ai_action</context>
+      <value>Atakuvaty z ukryttja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack with knife</key>
+      <context>game.ai_action</context>
+      <value>Atakuvaty z nožem</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sneak with knife</key>
+      <context>game.ai_action</context>
+      <value>Skrytno atakuvaty z nožem</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use medkit</key>
+      <context>game.ai_action</context>
+      <value>Vykorystaty aptečku</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Look for the enemy</key>
+      <context>game.ai_action</context>
+      <value>Šukaty voroğa</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move to the point of interest</key>
+      <context>game.ai_action</context>
+      <value>Ruxatysja do točky interesu</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move to the cover</key>
+      <context>game.ai_action</context>
+      <value>Ruxatysja v ukryttja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use panzerfaust</key>
+      <context>game.ai_action</context>
+      <value>Vykorystaty Panzerfaust</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack with sniper rifle</key>
+      <context>game.ai_action</context>
+      <value>Atakuvaty z snajperky</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use supply box</key>
+      <context>game.ai_action</context>
+      <value>Vykorystaty jaŝyk prypasiv</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Wait for the enemy</key>
+      <context>game.ai_action</context>
+      <value>Čekaty na voroğa</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use Molotov cocktail</key>
+      <context>game.ai_action</context>
+      <value>Vykorystaty molotov</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move towards enemy spawner</key>
+      <context>game.ai_action</context>
+      <value>Ruxatysja do voroğa</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Panic!</key>
+      <context>game.ai_action</context>
+      <value>Panika!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Capture enemy unit</key>
+      <context>game.ai_action</context>
+      <value>Zaxopyty vorožu odynycju</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use pistol</key>
+      <context>game.ai_action</context>
+      <value>Vykorystaty pistolet</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ramming</key>
+      <context>game.ai_action</context>
+      <value>Taranyty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ramming enemy tanks</key>
+      <context>game.ai_action</context>
+      <value>Taranyty voroži tanky</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Capture building</key>
+      <context>game.ai_action</context>
+      <value>Zaxopyty budivlju</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move forward</key>
+      <context>game.ai_action</context>
+      <value>Ruxatysja vpered</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move to the center of map</key>
+      <context>game.ai_action</context>
+      <value>Ruxatysja do centru mapy</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move to the hill</key>
+      <context>game.ai_action</context>
+      <value>Ruxatysja do pağorbu</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use rifle</key>
+      <context>game.ai_action</context>
+      <value>Vykorystaty ğvyntivku</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Run away from the group</key>
+      <context>game.ai_action</context>
+      <value>Tikaty vid ğrupy</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack target in the building</key>
+      <context>game.ai_action</context>
+      <value>Atakuvaty cilj u budivli</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use SMG</key>
+      <context>game.ai_action</context>
+      <value>Vykorystaty PK</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use smoke granade</key>
+      <context>game.ai_action</context>
+      <value>Vykorystaty dymovu ğranatu</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Snipe</key>
+      <context>game.ai_action</context>
+      <value>Tankovyj snajper</value>
+      <comment>Not as a sniper infantry - it is used on tanks, which stay in place and shoot from distnce. Similar to sniper with sniper rifle, but it is not sniper rifle</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Use sticky bomb</key>
+      <context>game.ai_action</context>
+      <value>Vykorystaty lypku ğranatu</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Throw knife</key>
+      <context>game.ai_action</context>
+      <value>Kynuty niž</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bail out driver</key>
+      <context>game.ai_action</context>
+      <value>Vykynuty vodija</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move to destination</key>
+      <context>game.ai_action</context>
+      <value>Ruxatysja do miscja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move to infantry</key>
+      <context>game.ai_action</context>
+      <value>Ruxatysja do pixoty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Land</key>
+      <context>game.ai_action</context>
+      <value>Posadka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Return to the airport</key>
+      <context>game.ai_action</context>
+      <value>Povernutysja do aviabazy</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Load passengers</key>
+      <context>game.ai_action</context>
+      <value>Zavantažyty pasažyriv</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Try keep distance</key>
+      <context>game.ai_action</context>
+      <value>Namağatysja trymaty dystanciju</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>(including crews)</key>
+      <value>(vključ. ekipažy)</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>HP/Armor: {0}/{1}</key>
+      <value>OZ/Bronja: {0}/{1}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>DMG/s: {0}/{1}</key>
+      <value>Škoda/sek: {0}/{1}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Return to base</key>
+      <value>Povernutysja do bazy</value>
+      <comment>Message shown when player is low on fuel in an airplane</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Refueling...</key>
+      <value>Zapravka...</value>
+      <comment>Message shown when player is refueling a plane at the airport</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Arming A-bomb...</key>
+      <value>Pidğotovka atomnoï bomby...</value>
+      <comment>Message shown when player is steering an atomic bomber and atomic bomb is arming</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>A-bomb ready...</key>
+      <value>Atomna bomba ğotova...</value>
+      <comment>Message shown when player is steering an atomic bomber and the atomic bomb is ready to drop</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>A-bomb dropped...</key>
+      <value>Atomna bomba skynuta...</value>
+      <comment>Message shown when player is steering an atomic bomber and the atomic bomb has been dropped already</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Return to 
+battle area!</key>
+      <value>Povernitjsja do
+zony bojovyx dij!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>On fire!</key>
+      <value>U voğni!</value>
+      <comment>A message shown when player is burning</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Paralyzed!</key>
+      <value>Paralizovanyj!</value>
+      <comment>A message shown when player is paralysed by tesla radar</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>BEING
+REPAIRED</key>
+      <value>TRYVAJE
+REMONT</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>REARMING</key>
+      <value>PEREZARJADKA</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Capturing</key>
+      <value>Zaxopljuje</value>
+      <comment>Shown when pirate tank is pirating another tank</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Potočna xvylja</key>
+      <value></value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>PROTECT VIPs</key>
+      <value>ZAXYŜAJTE OSOBLYVI CILI</value>
+      <comment>The goal of protect the vip mission</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>NO OBJECTIVES</key>
+      <value>NEMAJE CILI</value>
+      <comment>When playing sandbox there are no objectives</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Deploy Both Nations</key>
+      <value>Roztašuvannja obox nacij</value>
+      <comment>Header shown when player starts the first battle in shadow mode</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Battle #1</key>
+      <value>Bytva 1</value>
+      <comment>Header shown when player starts the first battle in shadow mode</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>REDRAW</key>
+      <value>NOVA SPROBA</value>
+      <comment>After nation rulette, player can redraw to change the nation.</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Climb ladder</key>
+      <context>hint</context>
+      <value>Lizty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Enter as passenger</key>
+      <value>Uvijty jak pasažyr</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>NO</key>
+      <value>NI</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>YES</key>
+      <value>TAK</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>last {0}</key>
+      <context>artillery</context>
+      <value>zal. {0}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Player</key>
+      <value>Ğravecj</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rearming...</key>
+      <value>Perezarjadka...</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>EXPLODED</key>
+      <value>VYBUX</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CRASHED</key>
+      <value>ZNYŜENO</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>No weapon</key>
+      <context>battle.ui</context>
+      <value>Nemaje zbroï</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Time {0}:{1}</key>
+      <context>game</context>
+      <value>Čas {0}:{1}</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SURRENDER</key>
+      <value>ZDATYSJA</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Surrender?</key>
+      <value>Zdatysja?</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Go back to menu?</key>
+      <value>Povernutysja do menju?</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Reset Mission?</key>
+      <value>Skynuty misiju?</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hover enemy unit to compare strength</key>
+      <value>Naveditjsja na odynycju voroğa dlja porivnjannja syly</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Choose unit to deploy to compare strength</key>
+      <value>Oberitj odynycju dlja porivnjannja syly</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Switch to previous weapon</key>
+      <value>Peremknutysja na mynulu zbroju</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Switch to next weapon</key>
+      <value>Peremknutysja na nastupnu zbroju</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Empty spawners</key>
+      <context>game.alert.emptyspawners</context>
+      <value>Pusti stvorjuvači</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>There are empty spawners, they will not produce anything.
+Click on a spawner to modify production queue.
+
+Are you sure you want to start the battle anyway?</key>
+      <context>game.alert.emptyspawners</context>
+      <value>Je porožni stvorjuvači, jaki ničoğo ne stvorjuutj.
+Natysnitj na stvorjuvač dlja vstanovlennja čerğy stvorennja.
+
+Vy vpevneni, ŝo vse odno xočete rozpočaty bytvu?</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Filter mode</key>
+      <value>Režym filjtra</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Health bar mode</key>
+      <value>Režym škaly zdorov'ja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tactical view</key>
+      <value>Taktyčnyj režym</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Cinematic view</key>
+      <value>Kinematoğrafičnyj režym</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Switch unit view</key>
+      <value>Zminyty režym vyğljadu odynyci</value>
+      <ignored />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Switch unit</key>
+      <value>Zminyty odynycju</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Toggle: , and .</key>
+      <value>Toggle: , and .</value>
+      <ignored />
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Engage: I, Change speed: [ and ]</key>
+      <value>Engage: I, Change speed: [ and ]</value>
+      <ignored />
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Engage: {0}, speed up: {1}, slow down: {2}</key>
+      <context>battle.left_buttons</context>
+      <value>Uvimknuty: {0}, pryšvydšennja: {1}, spoviljnennja: {2}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Toggle: {0}</key>
+      <context>battle.left_buttons</context>
+      <value>Peremkn.: {0}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Are you sure you want to clear all units?</key>
+      <value>Vy vpevneni, ŝo xočete vydalyty vsi odynyci?</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Are you sure you want to clear all units on the selected side?</key>
+      <value>Vy vpevneni, ŝo xočete vydalyty vsi odynyci vybranoï storony?</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Confirmation</key>
+      <value>Pidtverdyty</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Timeout! No time left to finish the battle.</key>
+      <context>game.winning_condition</context>
+      <value>Čas vyjšov! Ne vyjšlo zakinčyty bytvu.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>All enemy VIPs are dead!</key>
+      <context>game.winning_condition</context>
+      <value>Usi osoblyvi cili voroğa znyŝeni!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>All enemy units are dead!</key>
+      <context>game.winning_condition</context>
+      <value>Usi voroži odynyci znyŝeni!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>All your units are dead!</key>
+      <context>game.winning_condition</context>
+      <value>Usi vaši odynyci znyŝeni!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Your your VIPs are dead!</key>
+      <context>game.winning_condition</context>
+      <value>Usi vaši osoblyvi cili znyŝeni!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>All units are dead!</key>
+      <context>game.winning_condition</context>
+      <value>Usi vaši odynyci znyŝeni!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You have survived all waves!</key>
+      <context>game.winning_condition</context>
+      <value>Vy perežyly vsi xvyli!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You haven't survived any wave!</key>
+      <context>game.winning_condition</context>
+      <value>Vy ne perežyly ni odnijeï xvyli!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You have survived {0} out of {1} waves</key>
+      <context>game.winning_condition</context>
+      <value>Vy perežyly {0} z {1} xvylj</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Repair Tool</key>
+      <value>Remontnyj instrument</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Spawns vehicles.</key>
+      <value>Stvorjuje transport.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Garage</key>
+      <value>Ğaraž</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>No orders given yet</key>
+      <value>Nakazy ne viddani</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>No matching orders</key>
+      <value>Nemaje spivpadajučyx nakaziv</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drag to select units, 
+SHIFT to add to selection, Ctrl to subtract</key>
+      <value>Peretjağnitj, ŝoby vybraty odynyci 
+Natysnitj SHIFT, ŝoby dodaty do vybranyx, Ctrl ŝoby vidnjaty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Air to ground</key>
+      <value>Povitrja-zemlja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Artillery attack</key>
+      <value>Artylerijsjkyj obstril</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Attack</key>
+      <value>Ataka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Defend</key>
+      <value>Zaxyst</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flank left</key>
+      <value>Zajty zliva</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flank right</key>
+      <value>Zajty sprava</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Take cover</key>
+      <value>Sxovatysja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Give orders</key>
+      <value>Viddaty nakazy</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hold and defend position</key>
+      <value>Utrymuvaty ta oboronjaty pozyciju</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>No resolutions</key>
+      <value>Nemaje dozvoliv</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flank from the right and attack</key>
+      <value>Zajty sprava j atakuvaty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Move to target and attack</key>
+      <value>Ruxatysja do cili j atakuvaty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Prioritize selected units</key>
+      <value>Pryoritet obranym odynycjam</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flank from the left and attack</key>
+      <value>Zajty zliva j atakuvaty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hold and defend position in cover</key>
+      <value>Utrymuvaty ta zaxyŝaty pozyciju v ukrytti</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sniper tower</key>
+      <value>Snajpersjka veža</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tower with snipers and riflemen.</key>
+      <value>Veža zi snajperamy ta striljcjamy.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Smoke bomb</key>
+      <context>game.ai_action</context>
+      <value>Dym</value>
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

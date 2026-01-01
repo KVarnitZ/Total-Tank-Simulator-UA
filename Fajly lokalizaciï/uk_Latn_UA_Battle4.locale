@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>Out of ammo</key>
+      <value>Nemaje bojeprypasiv</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fuel level low</key>
+      <value>Malo palyva</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Out of fuel</key>
+      <value>Nemaje palyva</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>On fire</key>
+      <value>U voğni</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Paralyzed</key>
+      <value>Paralizovanyj</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Zoom In</key>
+      <value>Nablyzyty</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Zoom Out</key>
+      <value>Viddalyty</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drowning!</key>
+      <value>Tone!</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>PRODUCTION QUEUE</key>
+      <value>ČERĞA STVORENNJA</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Enter as crew</key>
+      <value>Uvijty jak ekipaž</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>by {0}</key>
+      <value>{0}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>There are empty spawners</key>
+      <value>Dejaki stvorjuvači pusti</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SeenBy</key>
+      <value>Pereğljanuly:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>bombed</key>
+      <value>skynuv bombu na</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>x times!</key>
+      <value>x razy!</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>TIED</key>
+      <value>NIČYJA</value>
+      <plurals />
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

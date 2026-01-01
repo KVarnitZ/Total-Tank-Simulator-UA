@@ -1,0 +1,2265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>Airport</key>
+      <value>Aviabaza</value>
+      <plurals />
+      <comment>noun, name of the unit</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Barracks</key>
+      <value>Kazarma</value>
+      <plurals />
+      <comment>noun, name of the unit</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Factory</key>
+      <value>Fabryka</value>
+      <plurals />
+      <comment>noun, name of the unit</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mines</key>
+      <value>Miny</value>
+      <plurals />
+      <comment>noun, name of the unit, small bombs that explode when you touch them </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Nest</key>
+      <value>Ğnizdo</value>
+      <plurals />
+      <comment>noun, name of the unit, it is a machinegun placed inside a shelter looking like a bird nest </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mattress</key>
+      <value>Mattress</value>
+      <ignored />
+      <comment>noun, name of the unit, do not translate, it is a british land rocket artillery </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Assault</key>
+      <value>Šturmovyk</value>
+      <plurals />
+      <comment>noun, name of the unit, it is a type of infantry carrying Assault riffle</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flamethrower</key>
+      <value>Voğnemetčyk</value>
+      <plurals />
+      <comment>noun, name of the unit, it is a type of infantry carrying Flame thrower</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rifleman</key>
+      <value>Strilecj</value>
+      <plurals />
+      <comment>noun, name of the unit, infantry soldier armed with a rifled long gun</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sniper</key>
+      <value>Snajper</value>
+      <plurals />
+      <comment>noun, name of the unit, infantry soldier armed with a sniper gun</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bunker</key>
+      <value>Bunker</value>
+      <plurals />
+      <comment>noun, name of the unit, building where you hide and protect yourself</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Vampire</key>
+      <value>Vampire</value>
+      <plurals />
+      <comment>noun, name of the unit, do not translate, it is a british plane - dive bomber</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hurricane</key>
+      <value>Hurricane</value>
+      <plurals />
+      <comment>noun, name of the unit, do not translate, it is a british plane - fighter</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Typhoon</key>
+      <value>Typhoon</value>
+      <plurals />
+      <comment>noun, name of the unit, do not translate, it is a british plane - dive bomber</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kangaroo</key>
+      <value>Kangaroo</value>
+      <plurals />
+      <comment>noun, name of the unit, do not translate, it is a british transport truck</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Pillbox</key>
+      <value>DOT</value>
+      <plurals />
+      <comment>noun, name of the unit, it is a small bunker </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dozer</key>
+      <value>Dozer</value>
+      <plurals />
+      <comment>noun, name of the unit, do not translate, it is a britishmine spawner </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Maginot line</key>
+      <value>Linija Mažyno</value>
+      <plurals />
+      <comment>noun, name of the unit, it is french line of concrete fortifications</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Anti Tank</key>
+      <value>PT-ğarmata</value>
+      <plurals />
+      <comment>noun, name of the unit, unit which have cannon that destroyes tanks</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>German Art</key>
+      <value>Nimecjka artylerija</value>
+      <plurals />
+      <comment>noun, name of the unit, it is generic german artillery</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Jeep</key>
+      <value>Jeep</value>
+      <plurals />
+      <comment>noun, name of the unit, do not translate, it is a jeep </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Officer</key>
+      <value>Oficer</value>
+      <plurals />
+      <comment>noun, name of the unit, person who has a position of authority in a hierarchical organization</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>AT dog</key>
+      <value>PT-sobaka</value>
+      <plurals />
+      <comment>noun, name of the unit, it is soviet kamikaze dor with a mine on his back, it explodes afret running into tank </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bear</key>
+      <value>Vedmidj</value>
+      <plurals />
+      <comment>noun, name of the unit, it is soviet bear with a cannon on his back </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Priest</key>
+      <value>Priest</value>
+      <plurals />
+      <comment>noun, name of the unit, do not translate, it is american artillery tank</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Wolverine</key>
+      <value>Wolverine</value>
+      <plurals />
+      <comment>noun, name of the unit, do not translate, it is american tank destroyer</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hellcat</key>
+      <value>Hellcat</value>
+      <plurals />
+      <comment>noun, name of the unit, do not translate, it is american tank destroyer</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lightning</key>
+      <value>Lightning</value>
+      <plurals />
+      <comment>noun, name of the unit, do not translate, it is american fighter plane</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Thunderbolt</key>
+      <value>Thunderbolt</value>
+      <plurals />
+      <comment>noun, name of the unit, do not translate, it is american dive bomber</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>wave </key>
+      <value>xvylja</value>
+      <plurals />
+      <comment>noun, there is type of a battle, where enemies appear in parts, one part of it is named wave. there are three waves in one battle, wave one, two and three</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You can't control the enemy unit</key>
+      <value>Vy ne možete keruvaty vorožymy odynycjamy</value>
+      <plurals />
+      <comment>it is a popup appearing, when player tries to control enemy unit informing that you arent able to do it</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unit Limit Reached</key>
+      <value>Dosjağnuta meža odynycj</value>
+      <plurals />
+      <comment>it is a popup informing about reaching limit of units that player is able to deploy </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Wave Creator</key>
+      <value>Redaktor xvylj</value>
+      <plurals />
+      <comment>no need to translate, this button is not visible in game</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Jet Fighter Bomber</key>
+      <value>Reaktyvnyj bombarduvaljnyk</value>
+      <plurals />
+      <comment>noun, type of unit, it is a type of plane which can fight with other planes, has jet engine and has bombs </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tank name</key>
+      <value>Nazva tanku</value>
+      <plurals />
+      <comment>it is an information, that there is placed tank name </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Neutral units</key>
+      <value>Nejtraljni odynyci</value>
+      <plurals />
+      <comment>it is a button name, it deployes units that are neutral, not related to any side of conflict </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kill the vip</key>
+      <value>Znyŝyty osoblyvu cilj</value>
+      <plurals />
+      <comment>it is a game objetive that player needs to fulfill, player needs to destroy tank or kill officer to win </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>The great war</key>
+      <value>Velyka vijna</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Enter tank</key>
+      <value>Vxid</value>
+      <plurals />
+      <comment>information abot action that will happen after pressing button </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>ALTITUDE:</key>
+      <value>VYSOTA:</value>
+      <plurals />
+      <comment>a sign informing about altitude plane is on </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SPEED:</key>
+      <value>ŠVYD.:</value>
+      <plurals />
+      <comment>a sign informing about speed that unit have </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>THRUST:</key>
+      <value>TJAĞA:</value>
+      <plurals />
+      <comment>a sign informing about thrust of plane</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Click M to enter Artillery Mode</key>
+      <value>Natysnitj M dlja vxodu v Artylerijsjkyj Režym</value>
+      <plurals />
+      <comment>a popup informing about way to enter mode of shooting in artillery </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Enter Artillery Mode</key>
+      <value>Uvijty v Artylerijsjkyj Režym</value>
+      <plurals />
+      <comment>a popup informing about way to enter mode of shooting in artillery </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CANNON</key>
+      <value>ĞARMATA</value>
+      <plurals />
+      <comment>noun, type of unit</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>PLANE</key>
+      <value>LITAK</value>
+      <plurals />
+      <comment>noun, type of unit</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>TACTICAL BOMBER</key>
+      <value>TAKTYČNYJ BOMBARDUVALJNYK</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Passenger:</key>
+      <value>Pasažyr:</value>
+      <plurals />
+      <comment>noun, type of unit placed inside a plane</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bail Out</key>
+      <value>Vystrybnuty</value>
+      <plurals />
+      <comment>an action, information about wat will happen when you press key </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CINEMATIC VIEW</key>
+      <value>KINEMATOĞRAFIČNYJ REŽYM</value>
+      <comment>type of view that looks like a player is watching a movie</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>TACTICAL VIEW</key>
+      <value>TAKTYČNYJ REŽYM</value>
+      <comment>type of view that presents limited amount of information</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>STRATEGIC VIEW</key>
+      <value>STRATEĞIČNYJ REŽYM</value>
+      <comment>type of view that presents as many information as possible</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Seen by:</key>
+      <value>Pereğljanuly:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>NEUTRAL UNITS</key>
+      <value>NEJTRALJNI ODYNYCI</value>
+      <plurals />
+      <comment>it is a button name, it deployes units that are neutral, not related to any side of conflict </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hop In</key>
+      <value>Zastrybnuty</value>
+      <plurals />
+      <comment>an action, information about wat will happen when you press key </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>WINNER</key>
+      <value>PEREMOŽECJ</value>
+      <plurals />
+      <comment>popup informing who the winnes is </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SOVIET UNION</key>
+      <value>RADJANSJKYJ SOJUZ</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SUMMARY</key>
+      <value>PIDSUMOK</value>
+      <plurals />
+      <comment>title of a screen where is placed summary of the battle </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>FUNDS SPENT</key>
+      <value>VYTRAČENO KOŠTIV</value>
+      <plurals />
+      <comment>title of the column where are summarised used funds </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>VICTORY</key>
+      <value>PEREMOĞA</value>
+      <plurals />
+      <comment>title of a screen if player wins </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Soviet Union</key>
+      <value>Radjansjkyj Sojuz</value>
+      <plurals />
+      <comment>name of a side of conflict, a state</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Britain</key>
+      <value>Velykobrytanija</value>
+      <plurals />
+      <comment>name of a side of conflict, a state</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>EXISTING PRESETS:</key>
+      <value>PREDVSTANOVLENNJA:</value>
+      <plurals />
+      <comment>title of a screen where player can find saved presets. Presets are deployed by player units and saved to use later.  </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>No sandbox presets</key>
+      <value>Nemaje predvstanovlenj pisočnyci</value>
+      <plurals />
+      <comment>information that there are no saved presets</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CHOOSE PRESET TO LOAD:</key>
+      <value>OBERITJ PREDVSTANOVLENNJA DLJA ZAVANTAŽENNJA:</value>
+      <plurals />
+      <comment>information that player needs to choose preset to load it </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SAVE PRESET</key>
+      <value>ZBEREĞTY PREDVSTANOVLENNJA</value>
+      <plurals />
+      <comment>name of a button that saves presets </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CHOOSE PRESET NAME:</key>
+      <value>OBERITJ NAZVU PREDVSTANOVLENNJA:</value>
+      <plurals />
+      <comment>a popup informing that player needs to name preset </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>PRESET NAME</key>
+      <value>NAZVA PREDVSTANOVLENNJA</value>
+      <plurals />
+      <comment>label showing where the player should put preset name </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SETTINGS</key>
+      <value>NALAŠTUVANNJA</value>
+      <plurals />
+      <comment>title of a screen with settings </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>RESET</key>
+      <value>SKYNUTY</value>
+      <plurals />
+      <comment>button to reset settings </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Acceleration:</key>
+      <value>Pryšvydšennja:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Acceleration</key>
+      <value>Pryšvydšennja</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Deceleration</key>
+      <value>Ğaljmuvannja</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Max speed</key>
+      <value>Maks. švydkistj</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fire tank</key>
+      <value>Voğnemetnyj tank</value>
+      <plurals />
+      <comment>unit type, it is a tank with Flamethrower instead of cannon </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Heavy</key>
+      <value>Važkyj</value>
+      <plurals />
+      <comment>adjective, used to desctibe tanks, heavy tanks have high value of armour and hp </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Super heavy</key>
+      <value>Nadvažkyj</value>
+      <plurals />
+      <comment>adjective, used to desctibe tanks, super heavy tanks have very high value of armour and hp </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Light tank</key>
+      <value>Leğkyj tank</value>
+      <plurals />
+      <comment>adjective, used to desctibe tanks, light tanks have the smallest armour and hp</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kamikaze tank</key>
+      <value>Tank-kamikadze</value>
+      <plurals />
+      <comment>name of tank that explodes when near the enemy </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Deploying now</key>
+      <value>Tryvaje rozğortannja</value>
+      <plurals />
+      <comment>popup showing which side of conflict is deploying units at the momment</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Short tooltip</key>
+      <value>Korotka pidkazka</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Anti-tank</key>
+      <value>Protytankove</value>
+      <plurals />
+      <comment>type of unit that is good in destroying tanks</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Cannon Artillery</key>
+      <value>Stvoljna artylerija</value>
+      <plurals />
+      <comment>type of unit, type of artillery </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Cluster Artillery</key>
+      <value>Kasetna artylerija</value>
+      <plurals />
+      <comment>type of unit, type of artillery that bomb after axploding ejects smaller explosive bomblets</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fire Artillery</key>
+      <value>Zapaljuvaljna artylerija</value>
+      <plurals />
+      <comment>type of unit, type of artillery that causes fire in a small region </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rocket Artillery</key>
+      <value>Reaktyvna artylerija</value>
+      <plurals />
+      <comment>type of unit, type of artillery that fires rockets</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Smoke Artillery</key>
+      <value>Dymova artylerija</value>
+      <plurals />
+      <comment>type of unit, type of artillery that fires missle causing smoke screen </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Art. tank</key>
+      <value>SAU</value>
+      <plurals />
+      <comment>type of unit, it is a tank with artillery on it </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Transport truck</key>
+      <value>Transportnyk</value>
+      <plurals />
+      <comment>type of unit, truck to transport people </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Repair tank</key>
+      <value>Repair tank</value>
+      <plurals />
+      <comment>type of unit, tank that repairs other tanks when damaged </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Machine Gun</key>
+      <value>Kulemet</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Armored car</key>
+      <value>Bronemašyna</value>
+      <plurals />
+      <comment>type of unit, car that have armour </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Soldier</key>
+      <value>Soldat</value>
+      <plurals />
+      <comment>type of unit </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fighter</key>
+      <value>Vynyŝuvač</value>
+      <plurals />
+      <comment>type of plane, it chases other planes to destoy them </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fighter bomber</key>
+      <value>Vynyŝuvač-bombarduvaljnyk</value>
+      <plurals />
+      <comment>type of unit, it is fighter that can also bomb buildings or sth</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dive bomber</key>
+      <value>Pikirujučyj bombarduvaljnyk</value>
+      <plurals />
+      <comment>type of unit, it is plane that dives to throw bomb on sth </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mobile AA</key>
+      <value>ZSU</value>
+      <plurals />
+      <comment>type of unit, mobile anti air weapon </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>AA Cannon</key>
+      <value>Zenitna ğarmata</value>
+      <plurals />
+      <comment>type of unit, cannon that destroyes aircraft - anti air cannon</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>AA Cannon</key>
+      <context>shortUnitTypeName</context>
+      <value>Zenitna ğarmata</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Anti Air Cannon</key>
+      <context>unitTypeName</context>
+      <value>Zenitna ğarmata</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>AA Gun</key>
+      <value>Zenitka</value>
+      <plurals />
+      <comment>type of unit, gun that destroyes aircraft - anti air gun</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Base</key>
+      <value>Baza</value>
+      <plurals />
+      <comment>type of unit, a building, something like airport, baracks or factory </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Transport plane</key>
+      <value>Transportnyj litak</value>
+      <plurals />
+      <comment>type of unit, type of plane to transport people </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Classified</key>
+      <value>Zasekrečeno</value>
+      <plurals />
+      <comment>type of units that are Classified, every nation has its own- units like die glocke for germany or project pegasus for usa </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tactical bomber</key>
+      <value>Taktyčnyj bombarduvaljnyk</value>
+      <plurals />
+      <comment>type of unit, it is plane that throws bombs on sth </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Pirate tank</key>
+      <value>Piratsjkyj tank</value>
+      <plurals />
+      <comment>type of unit, that can hijack enemy tank </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>H. TD</key>
+      <value>V. VT</value>
+      <plurals />
+      <comment>type of unit, Heavy Tank Destroyer</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rocket tank</key>
+      <value>Raketnyj tank</value>
+      <plurals />
+      <comment>type of unit, tank with rocket launcher on it </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Robot mine</key>
+      <value>Samoxidna mina</value>
+      <plurals />
+      <comment>type of unit, robotic mine that can ride under enemy units  </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>TrackedMineSpawner</key>
+      <value>Stvorjuvač samoxidnyx min</value>
+      <plurals />
+      <comment>type of unit, tank that can spawn mines </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Support</key>
+      <value>Pidtrymka</value>
+      <plurals />
+      <comment>category of units, units that can support other during the battle </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Jet fighter</key>
+      <value>Reaktyvnyj vynyŝuvač</value>
+      <plurals />
+      <comment>type of unit, type of plane that has jet engine</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>KILL ALL VIPs</key>
+      <value>ZNYŜTE VSI OSOBLYVI CILI</value>
+      <plurals />
+      <comment>it is a game objetive that player needs to fulfill, player needs to destroy tank or kill officer to win</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>MISSION OBJECTIVE:</key>
+      <value>CILJ MISIÏ:</value>
+      <plurals />
+      <comment>label showing where player can find current mission objective</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SURVIVE ALL WAVES</key>
+      <value>PEREŽYVITJ USI XVYLI</value>
+      <plurals />
+      <comment>it is a game objetive that player needs to fulfill, player needs to survive all incoming enemy waves </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>KILL THE ENEMY</key>
+      <value>ZNYŜTE VOROĞIV</value>
+      <plurals />
+      <comment>it is a game objetive that player needs to fulfill, player needs to destroy enemy </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Got hit!</key>
+      <value>U vas vlučyly!</value>
+      <plurals />
+      <comment>popup informing that player was hit by enemy </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>WASTED</key>
+      <value>USE PROPALO</value>
+      <plurals />
+      <comment>popup informing that the player died or was distroyed </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>AMERICANS</key>
+      <value>AMERYKANCI</value>
+      <plurals />
+      <comment>side of a conflict, people from america </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>WON</key>
+      <value>PEREMOĞLY</value>
+      <plurals />
+      <comment>label showing which side of a confilct won, e.g. americans won </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Funds used</key>
+      <value>Vytračeno koštiv</value>
+      <plurals />
+      <comment>number of funds used to deploy units </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Units used</key>
+      <value>Vykorystano odynycj</value>
+      <plurals />
+      <comment>number of units deployed </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Units damaged</key>
+      <value>Poškodženo odynycj</value>
+      <plurals />
+      <comment>number of units damaged </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Units destroyed</key>
+      <value>Znyŝeno odynycj</value>
+      <plurals />
+      <comment>number of units destroyed</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>LOST</key>
+      <value>PROĞRALY</value>
+      <plurals />
+      <comment>label showing which side of a confilct lost, e.g. americans lost </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Turn on Cinematic Camera</key>
+      <value>Uvijty v Kinematoğrafičnyj Režym</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.UI.NToggle.UpdateText () [0x00001] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NToggle.UpdateAsset () [0x000cd] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NToggle.OnValidate () [0x00001] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 </stacktrace>
+      <plurals />
+      <comment>player an turn on cinematic wiev by pressing key, this popup is informing how to do this</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Lock look direction</key>
+      <value>Zafiksuvaty naprjamok kamery</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.UI.NToggle.UpdateText () [0x00001] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NToggle.UpdateAsset () [0x000cd] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NToggle.OnValidate () [0x00001] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Auto lock input</key>
+      <value>Avtoblokuvannja</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.UI.NToggle.UpdateText () [0x00001] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NToggle.UpdateAsset () [0x000cd] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NToggle.OnValidate () [0x00001] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>next</key>
+      <value>nast.</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.UI.NButton.UpdateText () [0x00021] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NButton.UpdateAsset () [0x00160] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NButton.OnValidate () [0x00001] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Delete wave</key>
+      <value>Vydalyty xvylju</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.UI.NButton.UpdateText () [0x00021] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NButton.UpdateAsset () [0x00160] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NButton.OnValidate () [0x00001] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Add new wave</key>
+      <value>Dodaty xvylju</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.UI.NButton.UpdateText () [0x00021] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NButton.UpdateAsset () [0x00160] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NButton.OnValidate () [0x00001] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>prev</key>
+      <value>myn.</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.UI.NButton.UpdateText () [0x00021] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NButton.UpdateAsset () [0x00160] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NButton.OnValidate () [0x00001] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Clear selected slot</key>
+      <value>Očystyty vybranu storonu</value>
+      <plurals />
+      <comment>button that clears all units on a selected side of clonflict </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Clear all units</key>
+      <value>Očystyty vsi odynyci</value>
+      <plurals />
+      <comment>button that clear all deployed units, on both sides of the conflict </comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Next round</key>
+      <value>Nastupnyj raund</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.UI.NButton.UpdateText () [0x00021] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NButton.UpdateAsset () [0x00160] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 
+  at Totallytank.UI.NButton.OnValidate () [0x00001] in &lt;bbea1975805b4989a812287429d211aa&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Light tank</key>
+      <context>unitTypeName</context>
+      <value>Leğkyj tank</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00106] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Light tank</key>
+      <context>shortUnitTypeName</context>
+      <value>Leğkyj tank</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00102] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Medium tank</key>
+      <context>unitTypeName</context>
+      <value>Serednij tank</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00120] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Medium</key>
+      <context>shortUnitTypeName</context>
+      <value>Serednij</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x0011c] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Heavy tank</key>
+      <context>unitTypeName</context>
+      <value>Važkyj tank</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x0013a] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Heavy</key>
+      <context>shortUnitTypeName</context>
+      <value>Važkyj</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00136] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Artillery</key>
+      <context>unitTypeName</context>
+      <value>Artylerija</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00154] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Artillery</key>
+      <context>shortUnitTypeName</context>
+      <value>Artylerija</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00150] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Anti-tank</key>
+      <context>unitTypeName</context>
+      <value>Protytankove</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x0016e] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Anti-tank</key>
+      <context>shortUnitTypeName</context>
+      <value>Protytankove</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x0016a] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Heavy artillery</key>
+      <context>unitTypeName</context>
+      <value>Važka artylerija</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00188] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>H. art.</key>
+      <context>shortUnitTypeName</context>
+      <value>Važka art.</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00184] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Super heavy tank</key>
+      <context>unitTypeName</context>
+      <value>Nadvažkyj tank</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x001a2] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Super heavy</key>
+      <context>shortUnitTypeName</context>
+      <value>Nadvažkyj</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x0019e] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Heavy landmine</key>
+      <context>unitTypeName</context>
+      <value>Važka nazemna mina</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x001bc] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>H. Landmine</key>
+      <context>shortUnitTypeName</context>
+      <value>Važka naz. mina</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x001b8] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Robot mine</key>
+      <context>unitTypeName</context>
+      <value>Samoxidna mina</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x001d6] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Robot mine</key>
+      <context>shortUnitTypeName</context>
+      <value>Samoxidna mina</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x001d2] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rocket launcher truck</key>
+      <context>unitTypeName</context>
+      <value>Raketnyj transportnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x001f0] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rocket truck</key>
+      <context>shortUnitTypeName</context>
+      <value>Raketnyj transportnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x001ec] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Military base</key>
+      <context>unitTypeName</context>
+      <value>Vijsjkova baza</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x0020a] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Base</key>
+      <context>shortUnitTypeName</context>
+      <value>Baza</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00206] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Officer car</key>
+      <context>unitTypeName</context>
+      <value>Oficersjka mašyna</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00224] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Officer car</key>
+      <context>shortUnitTypeName</context>
+      <value>Oficersjka mašyna</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00220] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dive bomber</key>
+      <context>unitTypeName</context>
+      <value>Pikirujučyj bombarduvaljnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x0023e] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dive bomber</key>
+      <context>shortUnitTypeName</context>
+      <value>Pikiruvaljnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x0023a] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Anti-air gun</key>
+      <context>unitTypeName</context>
+      <value>Zenitna ğarmata</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00258] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>AA gun</key>
+      <context>shortUnitTypeName</context>
+      <value>Zenitna ğarmata</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00254] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mobile anti-air</key>
+      <context>unitTypeName</context>
+      <value>Zenitna samoxidna ustanovka</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00272] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mobile AA</key>
+      <context>shortUnitTypeName</context>
+      <value>ZSU</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x0026e] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bunker</key>
+      <context>unitTypeName</context>
+      <value>Bunker</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x0028c] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bunker</key>
+      <context>shortUnitTypeName</context>
+      <value>Bunker</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00288] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tank destroyer</key>
+      <context>unitTypeName</context>
+      <value>Vynyŝuvač tankiv</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x002a6] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ultra heavy tank</key>
+      <context>unitTypeName</context>
+      <value>Nadzvyčajno važkyj tank</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x002c0] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Ultra heavy</key>
+      <context>shortUnitTypeName</context>
+      <value>Nadzvyčajno važkyj</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x002bc] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fighter plane</key>
+      <context>unitTypeName</context>
+      <value>Vynyŝuvač</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x002da] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fighter</key>
+      <context>shortUnitTypeName</context>
+      <value>Vynyŝuvač</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x002d6] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Airport base</key>
+      <context>unitTypeName</context>
+      <value>Aviabaza</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x0030e] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Airport</key>
+      <context>shortUnitTypeName</context>
+      <value>Aviabaza</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x0030a] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rocket tank</key>
+      <context>unitTypeName</context>
+      <value>Raketnyj tank</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00328] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rocket tank</key>
+      <context>shortUnitTypeName</context>
+      <value>Raketnyj tank</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00324] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Heavy tank destroyer</key>
+      <context>unitTypeName</context>
+      <value>Važkyj vynyŝuvač tankiv</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00342] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>H. TD</key>
+      <context>shortUnitTypeName</context>
+      <value>V. VT</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x0033e] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Light fire tank</key>
+      <context>unitTypeName</context>
+      <value>Leğkyj voğnemetnyj tank</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x0035c] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fire tank</key>
+      <context>shortUnitTypeName</context>
+      <value>Voğnemetnyj tank</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00358] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Artillery tank</key>
+      <context>unitTypeName</context>
+      <value>Artyleryjsjkyj tank</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00376] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Art. tank</key>
+      <context>shortUnitTypeName</context>
+      <value>SAU</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00372] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bear</key>
+      <context>shortUnitTypeName</context>
+      <value>Vedmidj</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00554] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Jet fighter bomber</key>
+      <context>unitTypeName</context>
+      <value>Reaktyvnyj bombarduvaljnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00390] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Jet fighter Bomber</key>
+      <context>shortUnitTypeName</context>
+      <value>Reaktyvnyj bombarduvaljnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x0038c] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Armored car</key>
+      <context>unitTypeName</context>
+      <value>Bronemašyna</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00494] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Armored car</key>
+      <context>shortUnitTypeName</context>
+      <value>Bronemašyna</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x003a6] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fighter bomber</key>
+      <context>unitTypeName</context>
+      <value>Vynyŝuvač-bombarduvaljnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x003aa] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Fighter bomber</key>
+      <context>shortUnitTypeName</context>
+      <value>Vynyŝuvač-bombarduvaljnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x003c0] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rifleman</key>
+      <context>unitTypeName</context>
+      <value>Strilecj</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x003c4] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Soldier</key>
+      <context>shortUnitTypeName</context>
+      <value>Soldat</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00490] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Landmine</key>
+      <context>unitTypeName</context>
+      <value>Nazemna mina</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x000ec] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Landmine</key>
+      <context>shortUnitTypeName</context>
+      <value>Mina</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x000e8] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dog</key>
+      <context>shortUnitTypeName</context>
+      <value>Sobaka</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x0053d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Transport truck</key>
+      <context>unitTypeName</context>
+      <value>Transportnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00412] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Transport truck</key>
+      <context>shortUnitTypeName</context>
+      <value>Transportnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x0040e] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Transport plane</key>
+      <context>unitTypeName</context>
+      <value>Transportnyj litak</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x0047a] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Transport plane</key>
+      <context>shortUnitTypeName</context>
+      <value>Transportnyj litak</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00476] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Jet fighter plane</key>
+      <context>unitTypeName</context>
+      <value>Reaktyvnyj vynyŝuvač</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x002f4] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Jet fighter</key>
+      <context>shortUnitTypeName</context>
+      <value>Reaktyvnyj vynyŝuvač</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x002f0] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Exploding AA gun</key>
+      <context>unitTypeName</context>
+      <value>Fuğasna zenitna ğarmata</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x0042c] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Exploding AA gun</key>
+      <context>shortUnitTypeName</context>
+      <value>Fuğasna zenitka</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00428] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Exploding AA truck</key>
+      <context>unitTypeName</context>
+      <value>Fuğasnyj zenitnyj transportnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00446] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Exploding AA truck</key>
+      <context>shortUnitTypeName</context>
+      <value>Fuğasnyj zenitnyj transportnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x00442] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tactical bomber</key>
+      <context>unitTypeName</context>
+      <value>Taktyčnyj bombarduvaljnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00460] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Tactical bomber</key>
+      <context>shortUnitTypeName</context>
+      <value>Taktyčnyj bombarduvaljnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x0045c] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Convoy truck</key>
+      <context>unitTypeName</context>
+      <value>Konvojnyj transportnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x004c8] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Convoy</key>
+      <context>shortUnitTypeName</context>
+      <value>Konvojnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x004c4] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sandbags</key>
+      <context>unitTypeName</context>
+      <value>Mišky z piskom</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x003de] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Sandbags</key>
+      <context>shortUnitTypeName</context>
+      <value>Brustfer</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x003da] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flag</key>
+      <context>unitTypeName</context>
+      <value>Prapor</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x003f8] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flag</key>
+      <context>shortUnitTypeName</context>
+      <value>Prapor</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x003f4] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Repair tank</key>
+      <context>unitTypeName</context>
+      <value>Remontnyj tank</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x004df] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Repair tank</key>
+      <context>shortUnitTypeName</context>
+      <value>Remontnyk</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x004de] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kamikaze tank</key>
+      <context>unitTypeName</context>
+      <value>Tank-kamikadze</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x00524] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kamikaze tank</key>
+      <context>shortUnitTypeName</context>
+      <value>Tank-kamikadze</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x0050f] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Pirate tank</key>
+      <context>unitTypeName</context>
+      <value>Piratsjkyj tank</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x0053b] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Pirate tank</key>
+      <context>shortUnitTypeName</context>
+      <value>Piratsjkyj tank</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x004f8] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Mine spawner</key>
+      <context>unitTypeName</context>
+      <value>Stvorjuvač min</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x004f6] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>TrackedMineSpawner</key>
+      <context>shortUnitTypeName</context>
+      <value>Stvorjuvač samoxidnyx min</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetShortUnitTypeName (UnitType unitType) [0x0056b] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x0000d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Minefield</key>
+      <context>unitTypeName</context>
+      <value>Minne pole</value>
+      <stacktrace>  at Totallytank.Localization.LocalizationManager.S (System.String key, System.String context) [0x00007] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at SpawnableUnitInfoProxy._S (System.String key, System.String context, System.Object[] args) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at SpawnableUnitInfoProxy.GetUnitTypeName (UnitType unitType) [0x0050d] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitEnumTranslations () [0x00006] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.InitTranslations () [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnitRegistry.ManagerAwake () [0x000b1] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at Totallytank.ManagerBase`1[T].Awake () [0x0004a] in &lt;bd1592334c754eada385c5136ce543fe&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Artillery</key>
+      <value>Artylerija</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x0002e] in &lt;76fbf81a67184cf99bf1109933d50c03&gt;:0 
+  at Totallytank.UI.TooltipView+&lt;&gt;c__DisplayClass7_0.&lt;Start&gt;b__8 (TooltipDescription tooltip) [0x00001] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;e4bde2cea0b24c28ab952d526eb2c20f&gt;:0 
+  at UniRx.Operators.WhereObservable`1+Where[T].OnNext (T value) [0x00040] in &lt;e4bde2cea0b24c28ab952d526eb2c20f&gt;:0 
+  at UniRx.ObserverNode`1[T].OnNext (T value) [0x00001] in &lt;e4bde2cea0b24c28ab952d526eb2c20f&gt;:0 
+  at UniRx.ReactiveProperty`1[T].RaiseOnNext (T&amp; value) [0x0000b] in &lt;e4bde2cea0b24c28ab952d526eb2c20f&gt;:0 
+  at UniRx.ReactiveProperty`1[T].set_Value (T value) [0x0002f] in &lt;e4bde2cea0b24c28ab952d526eb2c20f&gt;:0 
+  at Totallytank.UI.TooltipManager+&lt;DelayedShow&gt;d__6.MoveNext () [0x00068] in &lt;2ca3d48bfa56487f87fb70079833352a&gt;:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (System.Collections.IEnumerator enumerator, System.IntPtr returnValueAddress) [0x00028] in &lt;b8732de5beec4a878f928152240b5dc1&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hold {0} to repair</key>
+      <value>Utrymujte {0} dlja remontu</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x0002e] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at UIImmobilizeRepairMessageTile.SetRepairing (System.Boolean repairing, System.Single repairProgress) [0x000b5] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at UIImmobilizeRepairMessageTile.Update () [0x0004b] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Press {0} to use medkit</key>
+      <value>Natysnitj {0} dlja samolikuvannja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You cannot shoot during self-repair</key>
+      <value>Vy ne možete striljaty protjağom remontuvannja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hold {0} to use repair kit</key>
+      <value>Utrymujte {0} dlja remontu</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Medkit ready in {0}s</key>
+      <value>Aptečka bude ğotova za {0} sek.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Repair kit ready in {0}s</key>
+      <value>Remnabir bude ğotovyj za {0} sek.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You are hurt, take cover!</key>
+      <value>Vy raneni, v ukryttja!</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>LOW HEALTH</key>
+      <value>MALO ZDOROV'JA</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Repairing</key>
+      <value>Remont</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x0002e] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at UIImmobilizeRepairMessageTile.SetRepairing (System.Boolean repairing, System.Single repairProgress) [0x0002b] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at UIImmobilizeRepairMessageTile.Update () [0x0004b] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>GERMANS</key>
+      <value>NIMCI</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at VictoryPanelBar.SetResult (VictoryPanelBar+Result result, System.String winner) [0x00084] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at VictoryPanelBar.OnWinning (PostGameStats obj) [0x00058] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at TrumpManager.InvokeWinningListeners () [0x00050] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at TrumpManager.ProclaimWinner (System.Nullable`1[T] forceWin) [0x00026] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at TrumpManager.TryProclaimWinner () [0x00037] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at TrumpManager.UpdateWinning () [0x0004b] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at TrumpManager.Update () [0x0008b] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>POLISH</key>
+      <value>POLJAKY</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at VictoryPanelBar.SetResult (VictoryPanelBar+Result result, System.String winner) [0x00084] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at VictoryPanelBar.OnWinning (PostGameStats obj) [0x00058] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at TrumpManager.InvokeWinningListeners () [0x00050] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at TrumpManager.ProclaimWinner (System.Nullable`1[T] forceWin) [0x00026] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at TrumpManager.TryProclaimWinner () [0x00037] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at TrumpManager.UpdateWinning () [0x0004b] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at TrumpManager.Update () [0x0008b] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Immobilized</key>
+      <value>Zneruxomlenyj</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at TMPro.TMP_Text.SetText (System.Object text, System.Object[] args) [0x0002e] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at TMPro.TMP_Text.ForceLocalization (System.Object text) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at TMPro.TextMeshProUGUI.Awake () [0x001e8] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at UnityEngine.GameObject.SetActive (UnityEngine.GameObject , System.Boolean ) [0x00000] in &lt;b8732de5beec4a878f928152240b5dc1&gt;:0 
+  at UIMessageCenterTile.Appear (UnityEngine.GameObject u) [0x00009] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at UITileAnimator.ShowTile (UnityEngine.GameObject unit) [0x00076] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at UITileAnimator.ShowTile (System.Boolean showTile, UnityEngine.GameObject unit) [0x00007] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at UIMessageCenter.UpdateImmobilizeTile (UnityEngine.GameObject unit, UITileAnimator animator) [0x00015] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at UITileAnimator.Animate (UnityEngine.GameObject unit) [0x00001] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at UIMessageCenter.UpdateTiles () [0x000b1] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at UIMessageCenter.OnDamage (DealtDamageAmount damageAmount) [0x00047] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at ManualSteeringManager.OnCurrentDamage (DealtDamageAmount damageAmount) [0x0000c] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at UnitDamageController.InvokeDamageListeners (DealtDamageAmount damageAmount) [0x00001] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at UnitDamageController.AddDamage (FiredDamageAmount damageAmount) [0x000a8] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at CannonProjectileController.ProcessHit (UnityEngine.GameObject g, FiredDamageAmount damageAmount) [0x00042] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at CannonProjectileController.AddDamage (UnityEngine.Vector3 position, UnityEngine.Collider collider, System.Boolean ricochet) [0x000ed] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at CannonProjectileController.OnBulletCollision (UnityEngine.Vector3 position, UnityEngine.Collider collider) [0x00027] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 
+  at ProjectileBase.OnCollisionEnter (UnityEngine.Collision collision) [0x000b6] in &lt;2577eb29fd434ee499cb5457aa68fb84&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>destroyed</key>
+      <value>znyŝuje</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at UIHitLogEntry._ (System.String key) [0x00001] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at UIHitLogEntry.SetEvent (UIHitLogEntry+UIEventLogEntry data) [0x00119] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at UIHitLogController.PushToTop (UIHitLogEntry+UIEventLogEntry evt) [0x000ac] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at UIHitLogController.OnHit (System.Collections.Generic.ICollection`1[T] hits) [0x00100] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at ManualSteeringManager.OnCurrentHit (System.Collections.Generic.ICollection`1[T] hits) [0x0000c] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at UnityEngine.DelegateExtensions.SafeInvoke[T0] (System.Action`1[T] instance, T0 arg0) [0x00009] in &lt;1ad94bea10974df0a0cd75e0dfb6129d&gt;:0 
+  at ProjectileFireController.InvokeHitListeners (System.Collections.Generic.List`1[T] damageAmounts) [0x00001] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at ProjectileBase.InvokeHitListeners (System.Collections.Generic.List`1[T] dealtDamage) [0x00001] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at CannonProjectileController.ProcessHit (UnityEngine.GameObject g, FiredDamageAmount damageAmount) [0x0004b] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at CannonProjectileController.AddDamage (UnityEngine.Vector3 position, UnityEngine.Collider collider, System.Boolean ricochet) [0x000ed] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at CannonProjectileController.OnBulletCollision (UnityEngine.Vector3 position, UnityEngine.Collider collider) [0x00027] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at ProjectileBase.OnCollisionEnter (UnityEngine.Collision collision) [0x000b6] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>hit</key>
+      <value>pidbyvaje</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at UIHitLogEntry._ (System.String key) [0x00001] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at UIHitLogEntry.SetEvent (UIHitLogEntry+UIEventLogEntry data) [0x00119] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at UIHitLogController.PushToTop (UIHitLogEntry+UIEventLogEntry evt) [0x000ac] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at UIHitLogController.OnHit (System.Collections.Generic.ICollection`1[T] hits) [0x00100] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at ManualSteeringManager.OnCurrentHit (System.Collections.Generic.ICollection`1[T] hits) [0x0000c] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at UnityEngine.DelegateExtensions.SafeInvoke[T0] (System.Action`1[T] instance, T0 arg0) [0x00009] in &lt;1ad94bea10974df0a0cd75e0dfb6129d&gt;:0 
+  at ProjectileFireController.InvokeHitListeners (System.Collections.Generic.List`1[T] damageAmounts) [0x00001] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at ProjectileBase.InvokeHitListeners (System.Collections.Generic.List`1[T] dealtDamage) [0x00001] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at CannonProjectileController.ProcessHit (UnityEngine.GameObject g, FiredDamageAmount damageAmount) [0x0004b] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at CannonProjectileController.AddDamage (UnityEngine.Vector3 position, UnityEngine.Collider collider, System.Boolean ricochet) [0x000ed] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at CannonProjectileController.OnBulletCollision (UnityEngine.Vector3 position, UnityEngine.Collider collider) [0x00027] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at ProjectileBase.OnCollisionEnter (UnityEngine.Collision collision) [0x000b6] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Machine gun</key>
+      <value>Kulemet</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at UIWeaponPositionListController.GetWeaponListItem (UnityEngine.GameObject unit) [0x00194] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at UIWeaponPositionListController.RefreshList (UnityEngine.GameObject unit) [0x00001] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at UIWeaponPositionListController.OnSteeringEnter (UnityEngine.GameObject unit, UnityEngine.GameObject subTarget) [0x00008] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at ManualSteeringManager.SetEngaged (System.Boolean engaged) [0x00238] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at ManualSteeringManager.EngageSteering () [0x0003e] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at ManualSteeringManager.ToggleEngageSteering () [0x0004c] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at SandboxInputController.DoToggleUnitControl () [0x0001a] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at SandboxInputController.UpdateGameKeys (GlobalInputSettings settings, System.Boolean&amp; quit) [0x003f9] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at SandboxInputController.UpdateKeys (GlobalInputSettings settings) [0x000be] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at GlobalInputManager.Update () [0x0007a] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at System.Object.Update (System.Object[] , System.Int32 ) [0x00000] in &lt;f2e6809acb14476a81f399aeb800f8f2&gt;:0 
+  at Noobz.UpdateManager+Entry.Update () [0x0002a] in &lt;5b99bd230d7e453dbd40dcadd267665b&gt;:0 
+  at Noobz.UpdateManager+EntryGroup.Update () [0x00005] in &lt;5b99bd230d7e453dbd40dcadd267665b&gt;:0 
+  at Noobz.UpdateManager.DoUpdate (System.Type updateGroupType) [0x00081] in &lt;5b99bd230d7e453dbd40dcadd267665b&gt;:0 
+  at Noobz.UpdateManager.Update () [0x00000] in &lt;5b99bd230d7e453dbd40dcadd267665b&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Turret cannon</key>
+      <value>Baštova ğarmata</value>
+      <stacktrace>  at Totallytank.Localization.GameLocalization.Translate (System.String key, System.Collections.Generic.Dictionary`2[TKey,TValue] pluralConditions, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager.Translate (System.String key, System.Object[] args, System.String originFileName) [0x00001] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at Totallytank.Localization.LocalizationManager._ (System.String key, System.Object[] args) [0x00017] in &lt;021e356f12f14749a373c0872844ca51&gt;:0 
+  at UIWeaponPositionListController.GetWeaponListItem (UnityEngine.GameObject unit) [0x00194] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at UIWeaponPositionListController.RefreshList (UnityEngine.GameObject unit) [0x00001] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at UIWeaponPositionListController.OnSteeringEnter (UnityEngine.GameObject unit, UnityEngine.GameObject subTarget) [0x00008] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at ManualSteeringManager.SetEngaged (System.Boolean engaged) [0x00238] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at ManualSteeringManager.EngageSteering () [0x0003e] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at ManualSteeringManager.ToggleEngageSteering () [0x0004c] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at SandboxInputController.DoToggleUnitControl () [0x0001a] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at SandboxInputController.UpdateGameKeys (GlobalInputSettings settings, System.Boolean&amp; quit) [0x003f9] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at SandboxInputController.UpdateKeys (GlobalInputSettings settings) [0x000be] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at GlobalInputManager.Update () [0x0007a] in &lt;d7b3e444ce2a4752b8a9d6a0dbfdef77&gt;:0 
+  at System.Object.Update (System.Object[] , System.Int32 ) [0x00000] in &lt;f2e6809acb14476a81f399aeb800f8f2&gt;:0 
+  at Noobz.UpdateManager+Entry.Update () [0x0002a] in &lt;5b99bd230d7e453dbd40dcadd267665b&gt;:0 
+  at Noobz.UpdateManager+EntryGroup.Update () [0x00005] in &lt;5b99bd230d7e453dbd40dcadd267665b&gt;:0 
+  at Noobz.UpdateManager.DoUpdate (System.Type updateGroupType) [0x00081] in &lt;5b99bd230d7e453dbd40dcadd267665b&gt;:0 
+  at Noobz.UpdateManager.Update () [0x00000] in &lt;5b99bd230d7e453dbd40dcadd267665b&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Special Kamikaze plane</key>
+      <context>unitTypeName</context>
+      <value>Specialjnyj litak-kamikadze</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Kamikaze plane</key>
+      <context>shortUnitTypeName</context>
+      <value>Litak-kamikadze</value>
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

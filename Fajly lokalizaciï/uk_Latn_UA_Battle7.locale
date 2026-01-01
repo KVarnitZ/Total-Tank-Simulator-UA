@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>Building Armour</key>
+      <context>game.armour_type</context>
+      <value>Bronja budivli</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Car Armour</key>
+      <context>game.armour_type</context>
+      <value>Bronja transportu</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>No Armour</key>
+      <context>game.armour_type</context>
+      <value>Bez broni</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Heavy Armour</key>
+      <context>game.armour_type</context>
+      <value>Važka bronja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Light Armour</key>
+      <context>game.armour_type</context>
+      <value>Leğka bronja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Medium Armour</key>
+      <context>game.armour_type</context>
+      <value>Serednja bronja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Standard Armour</key>
+      <context>game.armour_type</context>
+      <value>Standartna bronja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>TD Armour</key>
+      <context>game.armour_type</context>
+      <value>Bronja VT</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Anti Air Weapon</key>
+      <context>game.damage_type</context>
+      <value>Zenitna zbroja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Anti Infantry Weapon</key>
+      <context>game.damage_type</context>
+      <value>Protypixotna zbroja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Artillery Weapon</key>
+      <context>game.damage_type</context>
+      <value>Artylerijsjka zbroja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Blade</key>
+      <context>game.damage_type</context>
+      <value>Klynok</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bomb</key>
+      <context>game.damage_type</context>
+      <value>Bomba</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Explosive</key>
+      <context>game.damage_type</context>
+      <value>Vybuxivka</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Flame</key>
+      <context>game.damage_type</context>
+      <value>Voğonj</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Force Field</key>
+      <context>game.damage_type</context>
+      <value>Sylove pole</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Heavy Weapon</key>
+      <context>game.damage_type</context>
+      <value>Važka zbroja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Light Weapon</key>
+      <context>game.damage_type</context>
+      <value>Leğka zbroja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Medium Weapon</key>
+      <context>game.damage_type</context>
+      <value>Serednja zbroja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>TD Weapon</key>
+      <context>game.damage_type</context>
+      <value>Zbroja VT</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Infantry Weapon</key>
+      <context>game.damage_type</context>
+      <value>Pixotna zbroja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Standard</key>
+      <context>game.damage_type</context>
+      <value>Zvyčajna</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Rocket</key>
+      <context>game.damage_type</context>
+      <value>Raketna</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Bomber Weapon</key>
+      <context>game.damage_type</context>
+      <value>Zbroja bombard.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Machinegun</key>
+      <context>game.damage_type</context>
+      <value>Kulemet</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Capturing</key>
+      <context>game.unitstate</context>
+      <value>Zaxopljuje</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Immobilized</key>
+      <context>game.unitstate</context>
+      <value>Zneruxomlenyj</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Drowning</key>
+      <context>game.unitstate</context>
+      <value>Tone</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Burning</key>
+      <context>game.unitstate</context>
+      <value>Ğorytj</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Paralysed</key>
+      <context>game.unitstate</context>
+      <value>Paralizovanyj</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Being repaired</key>
+      <context>game.unitstate</context>
+      <value>Remontujetjsja</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Pirating</key>
+      <context>game.unitstate</context>
+      <value>Abordaž</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Atomic bomb</key>
+      <context>game.unitstate</context>
+      <value>Atomna bomba</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0}s</key>
+      <value>{0} sek.</value>
+      <comment>s for seconds</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0}m</key>
+      <value>{0} xv.</value>
+      <comment>m for meters</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>You can't spawn more units</key>
+      <value>Vy ne možete roztašuvaty biljše odynycj</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Toggle units counturs</key>
+      <value>Peremykaje vidobražennja konturiv odynycj</value>
+      <comment>tooltip on a button to toggle unit contours</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Toggle filter view</key>
+      <value>Peremykaje filjtry</value>
+      <comment>tooltip on a button to toggle filters</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Show movement directions</key>
+      <value>Pokazuje naprjamok ruxu</value>
+      <comment>tooltip on a button to show units movement arrows</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Show explosive shells indicators</key>
+      <value>Pokazuje indykator snarjadiv</value>
+      <comment>tooltip on a button to show unit bullet (explosives) indicators</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>HP bars</key>
+      <value>Škala zdorov'ja</value>
+      <comment>tooltip on a button to toggle health bars mode</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Don't draw health bars</key>
+      <value>Pryxovuje škalu zdorov'ja</value>
+      <comment>tooltip on a button to disable drawing health bars</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Draw health bars for damaged units</key>
+      <value>Pokazuje škalu zdorov'ja poškodženyx odynycj</value>
+      <comment>tooltip on a button to draw health bars only for damaged units</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Always draw health bars</key>
+      <value>Pokazuje škaly zdorov'ja vsix odynycj</value>
+      <comment>tooltip on a button to always draw unit health bars</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Filters</key>
+      <value>Filjtry</value>
+      <comment>tooltip on a button to toggle filters view</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Normal view</key>
+      <value>Zvyčajnyj režym</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unit groups view</key>
+      <value>Režym ğrupy odynycj</value>
+      <comment>tooltip on a button to switch to unit groups view</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Military front lines view</key>
+      <value>Režym liniï frontu</value>
+      <comment>tooltip on a button to show military front lines</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Toggle slow motion</key>
+      <value>Režym spoviljnenoğo ruxu</value>
+      <comment>tooltip on a button to toggle slow motion</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Press {0} to switch camera mode</key>
+      <value>Natysnitj {0} dlja peremykannja režymu kamery</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Toggle camera modes</key>
+      <value>Peremknuty režym kamery</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Slow motion: on</key>
+      <value>Spoviljnenyj rux: uvimk.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Slow motion: off</key>
+      <value>Spoviljnenyj rux: vymk.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unit contours: on</key>
+      <value>Kontury odynycj: uvimk.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unit contours: off</key>
+      <value>Kontury odynycj: vymk.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Explosive shells indicators: on</key>
+      <value>Indykatory snarjadiv: uvimk.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Explosive shells indicators: off</key>
+      <value>Indykatory snarjadiv: vymk.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Target arrows: on</key>
+      <value>Indykatory pryciljuvannja: uvimk.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Target arrows: off</key>
+      <value>Indykatory pryciljuvannja: vymk.</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Health bars: hidden</key>
+      <value>Škaly zdorov'ja: pryxovani</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Health bars: hidden if full</key>
+      <value>Škaly zdorov'ja: pokazuvaty dlja poškodženyx</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Health bars: always shown</key>
+      <value>Škaly zdorov'ja: zavždy pokazuvaty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Filtered view: unit groups</key>
+      <value>Filjtr: ğrupy odynycj</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Filtered view: military front lines</key>
+      <value>Filjtr: linija frontu</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Comparing {0} against other enemy units</key>
+      <value>Porivnjannja {0} ta inšyx vorožyx odynycj</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Press {0} to unpause</key>
+      <value>Natysnitj {0} aby prodovžyty</value>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hold any key to skip</key>
+      <value>Utrymujte budj-jaku klavišu aby propustyty</value>
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

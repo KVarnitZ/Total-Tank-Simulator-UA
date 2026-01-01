@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>F1</key>
+      <context>keybinding</context>
+      <value>F1</value>
+      <stacktrace>  at InputKeySetting._ (System.String s) [0x00001] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at InputKeySetting.GetKeyDisplayName () [0x0031a] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at InputKeySetting.GetKeyDisplayNameString () [0x00001] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000f9] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at BetterRx.CollectionBinding`1[T]..ctor (UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab, UnityEngine.Transform parent) [0x000f9] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at BetterRx.BindingExtensions.BindCollection[T] (UnityEngine.Transform parent, UniRx.IReadOnlyReactiveCollection`1[T] collection, Totallytank.UI.ListView`1[T] prefab) [0x00001] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at OptionsView.Awake () [0x000e0] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at UnityEngine.GameObject.SetActive (UnityEngine.GameObject , System.Boolean ) [0x00000] in &lt;2f14d49edc704940aee557642343f344&gt;:0 
+  at Totallytank.UI.EnsureAllAwoken.Awake () [0x0004f] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>F5</key>
+      <context>keybinding</context>
+      <value>F5</value>
+      <stacktrace>  at InputKeySetting._ (System.String s) [0x00001] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at InputKeySetting.GetKeyDisplayName () [0x0031a] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at InputKeySetting.GetKeyDisplayNameString () [0x00001] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000f9] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at BetterRx.CollectionBinding`1+&lt;&gt;c__DisplayClass7_0[T].&lt;.ctor&gt;b__3 (UniRx.Unit event) [0x00000] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.Subject`1[T].OnNext (T value) [0x00001] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ReactiveCollection`1[T].EndBatch () [0x00009] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at OptionsViewModel.CreateBindingKeys (System.Boolean showDebug) [0x00124] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ObserverNode`1[T].OnNext (T value) [0x00001] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ReactiveProperty`1[T].RaiseOnNext (T&amp; value) [0x0000b] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ReactiveProperty`1[T].set_Value (T value) [0x0002f] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at DebugInputController.UpdateKeys (GlobalInputSettings settings) [0x00016] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at GlobalInputManager.Update () [0x0007a] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at System.Object.Update (System.Object[] , System.Int32 ) [0x00000] in &lt;f2e6809acb14476a81f399aeb800f8f2&gt;:0 
+  at Noobz.UpdateManager+Entry.Update () [0x0002a] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 
+  at Noobz.UpdateManager+EntryGroup.Update () [0x00005] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 
+  at Noobz.UpdateManager.DoUpdate (System.Type updateGroupType) [0x00081] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 
+  at Noobz.UpdateManager.Update () [0x00000] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>F4</key>
+      <context>keybinding</context>
+      <value>F4</value>
+      <stacktrace>  at InputKeySetting._ (System.String s) [0x00001] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at InputKeySetting.GetKeyDisplayName () [0x0031a] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at InputKeySetting.GetKeyDisplayNameString () [0x00001] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000f9] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at BetterRx.CollectionBinding`1+&lt;&gt;c__DisplayClass7_0[T].&lt;.ctor&gt;b__3 (UniRx.Unit event) [0x00000] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.Subject`1[T].OnNext (T value) [0x00001] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ReactiveCollection`1[T].EndBatch () [0x00009] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at OptionsViewModel.CreateBindingKeys (System.Boolean showDebug) [0x00124] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ObserverNode`1[T].OnNext (T value) [0x00001] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ReactiveProperty`1[T].RaiseOnNext (T&amp; value) [0x0000b] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ReactiveProperty`1[T].set_Value (T value) [0x0002f] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at DebugInputController.UpdateKeys (GlobalInputSettings settings) [0x00016] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at GlobalInputManager.Update () [0x0007a] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at System.Object.Update (System.Object[] , System.Int32 ) [0x00000] in &lt;f2e6809acb14476a81f399aeb800f8f2&gt;:0 
+  at Noobz.UpdateManager+Entry.Update () [0x0002a] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 
+  at Noobz.UpdateManager+EntryGroup.Update () [0x00005] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 
+  at Noobz.UpdateManager.DoUpdate (System.Type updateGroupType) [0x00081] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 
+  at Noobz.UpdateManager.Update () [0x00000] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>F6</key>
+      <context>keybinding</context>
+      <value>F6</value>
+      <stacktrace>  at InputKeySetting._ (System.String s) [0x00001] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at InputKeySetting.GetKeyDisplayName () [0x0031a] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at InputKeySetting.GetKeyDisplayNameString () [0x00001] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000f9] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at BetterRx.CollectionBinding`1+&lt;&gt;c__DisplayClass7_0[T].&lt;.ctor&gt;b__3 (UniRx.Unit event) [0x00000] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.Subject`1[T].OnNext (T value) [0x00001] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ReactiveCollection`1[T].EndBatch () [0x00009] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at OptionsViewModel.CreateBindingKeys (System.Boolean showDebug) [0x00124] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ObserverNode`1[T].OnNext (T value) [0x00001] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ReactiveProperty`1[T].RaiseOnNext (T&amp; value) [0x0000b] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ReactiveProperty`1[T].set_Value (T value) [0x0002f] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at DebugInputController.UpdateKeys (GlobalInputSettings settings) [0x00016] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at GlobalInputManager.Update () [0x0007a] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at System.Object.Update (System.Object[] , System.Int32 ) [0x00000] in &lt;f2e6809acb14476a81f399aeb800f8f2&gt;:0 
+  at Noobz.UpdateManager+Entry.Update () [0x0002a] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 
+  at Noobz.UpdateManager+EntryGroup.Update () [0x00005] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 
+  at Noobz.UpdateManager.DoUpdate (System.Type updateGroupType) [0x00081] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 
+  at Noobz.UpdateManager.Update () [0x00000] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>F7</key>
+      <context>keybinding</context>
+      <value>F7</value>
+      <stacktrace>  at InputKeySetting._ (System.String s) [0x00001] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at InputKeySetting.GetKeyDisplayName () [0x0031a] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at InputKeySetting.GetKeyDisplayNameString () [0x00001] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at InputBindingView.OnBind (InputBindingViewModel vm) [0x000f9] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at Totallytank.UI.ListView`1[T].Bind (T t) [0x00033] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at BetterRx.CollectionBinding`1[T].UpdateView () [0x000f6] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at BetterRx.CollectionBinding`1+&lt;&gt;c__DisplayClass7_0[T].&lt;.ctor&gt;b__3 (UniRx.Unit event) [0x00000] in &lt;2cb092881a5147e9be93e470307f8309&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.Subject`1[T].OnNext (T value) [0x00001] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ReactiveCollection`1[T].EndBatch () [0x00009] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at OptionsViewModel.CreateBindingKeys (System.Boolean showDebug) [0x00124] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at UniRx.Observer+Subscribe`1[T].OnNext (T value) [0x0000f] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ObserverNode`1[T].OnNext (T value) [0x00001] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ReactiveProperty`1[T].RaiseOnNext (T&amp; value) [0x0000b] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at UniRx.ReactiveProperty`1[T].set_Value (T value) [0x0002f] in &lt;92b7fa22475d4e24baed502dd4312456&gt;:0 
+  at DebugInputController.UpdateKeys (GlobalInputSettings settings) [0x00016] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at GlobalInputManager.Update () [0x0007a] in &lt;f9fc3e8772f746be895bf41432282ba0&gt;:0 
+  at System.Object.Update (System.Object[] , System.Int32 ) [0x00000] in &lt;f2e6809acb14476a81f399aeb800f8f2&gt;:0 
+  at Noobz.UpdateManager+Entry.Update () [0x0002a] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 
+  at Noobz.UpdateManager+EntryGroup.Update () [0x00005] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 
+  at Noobz.UpdateManager.DoUpdate (System.Type updateGroupType) [0x00081] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 
+  at Noobz.UpdateManager.Update () [0x00000] in &lt;fad8c6450c3848c3abc153e0d13256a9&gt;:0 </stacktrace>
+      <plurals />
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>

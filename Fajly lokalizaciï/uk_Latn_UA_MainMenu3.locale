@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameLocalization xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <keyType>Default</keyType>
+  <entries>
+    <GameLocalizationEntry>
+      <key>No</key>
+      <value>Ni</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Play</key>
+      <value>Ğraty</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Begin act I</key>
+      <value>Počaty Akt I</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Apply</key>
+      <value>Pryminyty</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Quality</key>
+      <value>Jakistj</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>CPU Quality</key>
+      <value>CP jakistj</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Do you want to delete profile</key>
+      <value>Vy xočete vydalyty profilj?</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0}% more money</key>
+      <value>Na {0}% biljše koštiv</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0}% less money</key>
+      <value>Na {0}% menše koštiv</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>SCENARIOS:</key>
+      <value>SCENARIÏ:</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Artillery training</key>
+      <context>tutorial.scenario_name</context>
+      <value>Vyškil artylerystiv</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Battle - overview</key>
+      <context>tutorial.scenario_name</context>
+      <value>Oğljad bytvy</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Deployment</key>
+      <context>tutorial.scenario_name</context>
+      <value>Rozğortannja</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Officers</key>
+      <context>tutorial.scenario_name</context>
+      <value>Oficery</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Unit control</key>
+      <context>tutorial.scenario_name</context>
+      <value>Keruvannja odynycjamy</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Long village</key>
+      <value>Dovğe selo</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Brown hillock</key>
+      <value>Buryj ğorb</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>River war</key>
+      <value>Ričkova vijna</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hill sanctuary</key>
+      <value>Svjatylyŝe na pağorbi</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Twin hills</key>
+      <value>Pağorby-dvijnjata</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>British farm</key>
+      <value>Brytansjka ferma</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Dover coast</key>
+      <value>Uzberežžja Duvra</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Agricultural dream</key>
+      <value>Ağrarna mrija</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Frozen Fields</key>
+      <value>Merzli polja</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Hoarfrost plains</key>
+      <value>Pamorozj</value>
+      <plurals />
+      <comment>map name</comment>
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>{0}
+{1} - Act {2}</key>
+      <value>{0}
+{1} - Akt {2}</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Do you want to delete profile {0}?</key>
+      <value>Vydalyty profilj {0}?</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>Exit campaign</key>
+      <value>Vyjty z kampaniï</value>
+      <plurals />
+    </GameLocalizationEntry>
+    <GameLocalizationEntry>
+      <key>EXIT CAMPAIGN?</key>
+      <value>VYJTY Z KAMPANIÏ?</value>
+      <plurals />
+    </GameLocalizationEntry>
+  </entries>
+</GameLocalization>
