@@ -1,50 +1,182 @@
-name: "DSTU 9112:2021 Translit"
+name: DSTU 9112:2021 Transliteration
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
+    paths:
+      - 'Файли локалізації/uk_UA_Achievement.locale'
+      - 'Файли локалізації/uk_UA_Battle.locale'
+      - 'Файли локалізації/uk_UA_Battle2.locale'
+      - 'Файли локалізації/uk_UA_Battle3.locale'
+      - 'Файли локалізації/uk_UA_Battle4.locale'
+      - 'Файли локалізації/uk_UA_Battle5.locale'
+      - 'Файли локалізації/uk_UA_Battle6.locale'
+      - 'Файли локалізації/uk_UA_Battle7.locale'
+      - 'Файли локалізації/uk_UA_Battle8.locale'
+      - 'Файли локалізації/uk_UA_CampaignMainMenu.locale'
+      - 'Файли локалізації/uk_UA_DO_NOT_TRANSLATE.locale'
+      - 'Файли локалізації/uk_UA_Descriptions.locale'
+      - 'Файли локалізації/uk_UA_Epaulettes.locale'
+      - 'Файли локалізації/uk_UA_MainMenu.locale'
+      - 'Файли локалізації/uk_UA_MainMenu2.locale'
+      - 'Файли локалізації/uk_UA_MainMenu3.locale'
+      - 'Файли локалізації/uk_UA_MainMenu4.locale'
+      - 'Файли локалізації/uk_UA_UnitDescriptions.locale'
+      - 'Файли локалізації/uk_UA_campaign.locale'
+      - 'Файли локалізації/uk_UA_campaign2.locale'
+      - 'Файли локалізації/uk_UA_cutscenes.locale'
+      - 'Файли локалізації/uk_UA_keybinding.locale'
+      - 'Файли локалізації/uk_UA_keybinding_2.locale'
+      - 'Файли локалізації/uk_UA_keybinding_generated.locale'
+      - 'Файли локалізації/uk_UA_options.locale'
+      - 'Файли локалізації/uk_UA_test_generated.locale'
+      - 'Файли локалізації/uk_UA_tutorial_texts.locale'
 
 jobs:
   transliterate:
     runs-on: ubuntu-latest
     
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout code
+      - name: Checkout main branch
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Run Translit
+      - name: Setup dstu9112 transliterator
         run: |
-          chmod +x .github/bin/dstu9112
-          
-          echo "Processing file contents..."
-          find . -type f -not -path '*/.*' \
-          \( -name "*.csv" -o -name "*.xml" -o -name "*.txt" -o -name "*.lua" -o -name "*.md" -o -name "*.json" -o -name "*.locale" \) \
-          ! -name "dstu9112" | while read file; do
-            ./.github/bin/dstu9112 < "$file" > "${file}.tmp" && mv "${file}.tmp" "$file"
-          done
+          if [ ! -f ".github/bin/dstu9112" ]; then
+            echo "Pomylka: .github/bin/dstu9112 ne znajdeno!"
+            echo "Budj laska, dodajte fajl dstu9112 do dyrektoriï .github/bin/"
+            exit 1
+          fi
 
-          echo "Renaming files and directories..."
-          find . -depth -not -path '*/.*' ! -name "dstu9112" ! -name "." | while read path; do
-            dir=$(dirname "$path")
-            base=$(basename "$path")
-            
-            new_base=$(echo -n "$base" | ./.github/bin/dstu9112)
-            
-            if [ "$base" != "$new_base" ]; then
-              mv "$path" "$dir/$new_base"
-              echo "Renamed: $path -> $dir/$new_base"
+          chmod +x .github/bin/dstu9112
+
+          if ! .github/bin/dstu9112 --help 2>/dev/null && ! echo "test" | .github/bin/dstu9112 > /dev/null 2>&1; then
+            echo "Poperedžennja: dstu9112 mozhe pracjuvaty nepravyljno"
+          fi
+
+      - name: Checkout or create latyn branch
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+
+          MAIN_COMMIT=$(git rev-parse HEAD)
+          echo "MAIN_COMMIT=$MAIN_COMMIT" >> $GITHUB_ENV
+
+          if git ls-remote --heads origin latyn | grep -q latyn; then
+            echo "Ğilka latyn vže isnuje, onovljujemo..."
+            git fetch origin latyn:latyn
+          else
+            echo "Stvorjujemo latyn..."
+            git checkout -b latyn
+            git push -u origin latyn
+            git checkout main
+          fi
+
+      - name: Transliterate files
+        run: |
+          set -e
+
+          transliterate_file() {
+            local source_file="$1"
+            local dest_file="$2"
+
+            if [ ! -f "$source_file" ]; then
+              echo "Fajl ne isnuje: $source_file"
+              return
+            fi
+
+            echo "🔄 Transliteracija: $source_file -> $dest_file"
+
+            mkdir -p "$(dirname "$dest_file")"
+
+            local temp_file="${dest_file}.tmp"
+
+            if .github/bin/dstu9112 < "$source_file" > "$temp_file" 2>/dev/null; then
+              mv "$temp_file" "$dest_file"
+              echo "Uspišno: $dest_file"
+            else
+              echo "Pomylka transliteracii: $source_file"
+              rm -f "$temp_file"
+              return 1
+            fi
+          }
+
+          declare -A FILE_MAPPING=(
+            ["Файли локалізації/uk_UA_Achievement.locale"]="Fajly lokalizaciï/uk_Latn_UA_Achievement.locale"
+            ["Файли локалізації/uk_UA_Battle.locale"]="Fajly lokalizaciï/uk_Latn_UA_Battle.locale"
+            ["Файли локалізації/uk_UA_Battle2.locale"]="Fajly lokalizaciï/uk_Latn_UA_Battle2.locale"
+            ["Файли локалізації/uk_UA_Battle3.locale"]="Fajly lokalizaciï/uk_Latn_UA_Battle3.locale"
+            ["Файли локалізації/uk_UA_Battle4.locale"]="Fajly lokalizaciï/uk_Latn_UA_Battle4.locale"
+            ["Файли локалізації/uk_UA_Battle5.locale"]="Fajly lokalizaciï/uk_Latn_UA_Battle5.locale"
+            ["Файли локалізації/uk_UA_Battle6.locale"]="Fajly lokalizaciï/uk_Latn_UA_Battle6.locale"
+            ["Файли локалізації/uk_UA_Battle7.locale"]="Fajly lokalizaciï/uk_Latn_UA_Battle7.locale"
+            ["Файли локалізації/uk_UA_Battle8.locale"]="Fajly lokalizaciï/uk_Latn_UA_Battle8.locale"
+            ["Файли локалізації/uk_UA_CampaignMainMenu.locale"]="Fajly lokalizaciï/uk_Latn_UA_CampaignMainMenu.locale"
+            ["Файли локалізації/uk_UA_DO_NOT_TRANSLATE.locale"]="Fajly lokalizaciï/uk_Latn_UA_DO_NOT_TRANSLATE.locale"
+            ["Файли локалізації/uk_UA_Descriptions.locale"]="Fajly lokalizaciï/uk_Latn_UA_Descriptions.locale"
+            ["Файли локалізації/uk_UA_Epaulettes.locale"]="Fajly lokalizaciï/uk_Latn_UA_Epaulettes.locale"
+            ["Файли локалізації/uk_UA_MainMenu.locale"]="Fajly lokalizaciï/uk_Latn_UA_MainMenu.locale"
+            ["Файли локалізації/uk_UA_MainMenu2.locale"]="Fajly lokalizaciï/uk_Latn_UA_MainMenu2.locale"
+            ["Файли локалізації/uk_UA_MainMenu3.locale"]="Fajly lokalizaciï/uk_Latn_UA_MainMenu3.locale"
+            ["Файли локалізації/uk_UA_MainMenu4.locale"]="Fajly lokalizaciï/uk_Latn_UA_MainMenu4.locale"
+            ["Файли локалізації/uk_UA_UnitDescriptions.locale"]="Fajly lokalizaciï/uk_Latn_UA_UnitDescriptions.locale"
+            ["Файли локалізації/uk_UA_campaign.locale"]="Fajly lokalizaciï/uk_Latn_UA_campaign.locale"
+            ["Файли локалізації/uk_UA_campaign2.locale"]="Fajly lokalizaciï/uk_Latn_UA_campaign2.locale"
+            ["Файли локалізації/uk_UA_cutscenes.locale"]="Fajly lokalizaciï/uk_Latn_UA_cutscenes.locale"
+            ["Файли локалізації/uk_UA_keybinding.locale"]="Fajly lokalizaciï/uk_Latn_UA_keybinding.locale"
+            ["Файли локалізації/uk_UA_keybinding_2.locale"]="Fajly lokalizaciï/uk_Latn_UA_keybinding_2.locale"
+            ["Файли локалізації/uk_UA_keybinding_generated.locale"]="Fajly lokalizaciï/uk_Latn_UA_keybinding_generated.locale"
+            ["Файли локалізації/uk_UA_options.locale"]="Fajly lokalizaciï/uk_Latn_UA_options.locale"
+            ["Файли локалізації/uk_UA_test_generated.locale"]="Fajly lokalizaciï/uk_Latn_UA_test_generated.locale"
+            ["Файли локалізації/uk_UA_tutorial_texts.locale"]="Fajly lokalizaciï/uk_Latn_UA_tutorial_texts.locale"
+          )
+
+          git checkout latyn 2>/dev/null || git checkout -b latyn
+
+          echo "Kopijuvannja ta transliteracija fajliv..."
+          echo ""
+
+          for source_file in "${!FILE_MAPPING[@]}"; do
+            dest_file="${FILE_MAPPING[$source_file]}"
+
+            if git show "main:$source_file" > /dev/null 2>&1; then
+              temp_source="/tmp/source_$(basename "$source_file")"
+              git show "main:$source_file" > "$temp_source"
+
+              transliterate_file "$temp_source" "$dest_file" || true
+
+              rm -f "$temp_source"
+            else
+              echo "Fajl ne znajdeno v main: $source_file"
             fi
           done
 
-      - name: Commit to Latyn Branch
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "style: auto-transliteration (latyn) [skip ci]"
-          branch: latyn
-          create_branch: true
-          push_options: '--force'
+          echo ""
+          echo "Transliteraciju zaveršeno!"
+          
+      - name: Commit and push to latyn branch
+        run: |
+          git add -A
+
+          if git diff --staged --quiet; then
+            echo "Nemaje zmin dlja komitu"
+            exit 0
+          fi
+
+          MAIN_SHORT=$(git rev-parse --short $MAIN_COMMIT)
+          MAIN_MESSAGE=$(git log -1 --pretty=%B $MAIN_COMMIT)
+
+          git commit -m "Avtomatyčna transliteracija z main@${MAIN_SHORT}" \
+                     -m "Oryğinaljnyj komit: ${MAIN_MESSAGE}" \
+                     -m "" \
+                     -m "Transliterovano GitHub Actions"
+
+          echo "Vidpravka zmin do origin/latyn..."
+          git push origin latyn
+          
+          echo "Uspišno onovleno ğilku latyn!"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
