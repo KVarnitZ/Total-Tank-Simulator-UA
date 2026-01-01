@@ -5,6 +5,7 @@ on:
     branches:
       - main
     paths:
+      - 'README.md'
       - 'Файли локалізації/uk_UA_Achievement.locale'
       - 'Файли локалізації/uk_UA_Battle.locale'
       - 'Файли локалізації/uk_UA_Battle2.locale'
@@ -105,6 +106,7 @@ jobs:
           }
 
           declare -A FILE_MAPPING=(
+            ["README.md"]="README.md"
             ["Файли локалізації/uk_UA_Achievement.locale"]="Fajly lokalizaciï/uk_Latn_UA_Achievement.locale"
             ["Файли локалізації/uk_UA_Battle.locale"]="Fajly lokalizaciï/uk_Latn_UA_Battle.locale"
             ["Файли локалізації/uk_UA_Battle2.locale"]="Fajly lokalizaciï/uk_Latn_UA_Battle2.locale"
